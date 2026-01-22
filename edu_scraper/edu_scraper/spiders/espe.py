@@ -37,7 +37,7 @@ class EspeSpider(BaseUniversitySpider):
         # =========================
 
         item["career_name"] = self.clean_text(
-            response.css("h1::text").get()
+            response.css("i.fa::text").get()
         )
 
         item["faculty"] = self.clean_text(

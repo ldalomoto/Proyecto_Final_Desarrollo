@@ -1,33 +1,25 @@
 import scrapy
+from datetime import datetime
 from edu_scraper.items import CareerItem
 
 
 class BaseUniversitySpider(scrapy.Spider):
-    custom_settings = {
-        "DOWNLOAD_DELAY": 1,
-        "ROBOTSTXT_OBEY": True
-    }
-
-    university_name = ""
-    city = ""
-
-    def create_base_item(self, response):
-        """
-        Crea un item base con la información común a todas las universidades.
-        Los spiders específicos completan el resto.
-        """
-        item = CareerItem()
-
-        item["university"] = self.university_name
-        item["city"] = self.city
-        item["url"] = response.url
-
-        return item
+    university_name = None
+    university_type = None
+    university_contact = None
 
     def clean_text(self, text):
-        """
-        Normaliza texto: elimina saltos de línea, espacios múltiples, etc.
-        """
         if not text:
             return None
-        return " ".join(text.split())
+        return " ".join(text.split()).strip()
+
+    def create_base_item(self, response):
+        item = CareerItem()
+
+        item["university_name"] = self.university_name
+        item["career_url"] = response.url
+        item["data_collection_date"] = datetime.now().strftime("%Y-%m-%d")
+        item["university_type"] = self.university_type
+        item["university_contact"] = self.university_contact
+
+        return item

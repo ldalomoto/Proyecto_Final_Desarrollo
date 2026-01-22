@@ -1,0 +1,319 @@
+{
+    "universidad": null,
+    "carrera": "ECONOMÍA",
+    "pensum": "2020",
+    "materias": [
+        {
+            "codigo": "MATD115",
+            "nombre": "ÁLGEBRA LINEAL",
+            "creditos": 5,
+            "horas": 240,
+            "semestre": 1
+        },
+        {
+            "codigo": "MATD124",
+            "nombre": "CÁLCULO DIFERENCIAL",
+            "creditos": 4,
+            "horas": 192,
+            "semestre": 1
+        },
+        {
+            "codigo": "MATD133",
+            "nombre": "FUNDAMENTOS DE LA MATEMÁTICA",
+            "creditos": 3,
+            "horas": 144,
+            "semestre": 1
+        },
+        {
+            "codigo": "MATD141",
+            "nombre": "PENSAMIENTO CIENTÍFICO",
+            "creditos": 1,
+            "horas": 48,
+            "semestre": 1
+        },
+        {
+            "codigo": "ICOD151",
+            "nombre": "TECNOLOGÍAS DE LA INFORMACIÓN",
+            "creditos": 1,
+            "horas": 48,
+            "semestre": 1
+        },
+        {
+            "codigo": "CSHD111",
+            "nombre": "COMUNICACIÓN ORAL Y ESCRITA",
+            "creditos": 1,
+            "horas": 48,
+            "semestre": 1
+        },
+        {
+            "codigo": "MATD224",
+            "nombre": "CÁLCULO INTEGRAL",
+            "creditos": 4,
+            "horas": 192,
+            "semestre": 2
+        },
+        {
+            "codigo": "MATD234",
+            "nombre": "PROBABILIDAD Y ESTADÍSTICA",
+            "creditos": 4,
+            "horas": 192,
+            "semestre": 2
+        },
+        {
+            "codigo": "ECOD232",
+            "nombre": "CONTABILIDAD",
+            "creditos": 2,
+            "horas": 96,
+            "semestre": 2
+        },
+        {
+            "codigo": "ECOD244",
+            "nombre": "ELEMENTOS DE ECONOMÍA",
+            "creditos": 4,
+            "horas": 192,
+            "semestre": 2
+        },
+        {
+            "codigo": "CSHD211",
+            "nombre": "ANÁLISIS SOCIO ECONÓMICO Y POLÍTICO DEL ECUADOR",
+            "creditos": 1,
+            "horas": 48,
+            "semestre": 2
+        },
+        {
+            "codigo": "MATD314",
+            "nombre": "ECUACIONES DIFERENCIALES ORDINARIAS",
+            "creditos": 4,
+            "horas": 192,
+            "semestre": 3
+        },
+        {
+            "codigo": "ECOD324",
+            "nombre": "CÁLCULO EN VARIAS VARIABLES",
+            "creditos": 4,
+            "horas": 192,
+            "semestre": 3
+        },
+        {
+            "codigo": "ECOD332",
+            "nombre": "MUESTREO ASISTIDO POR COMPUTADOR",
+            "creditos": 2,
+            "horas": 96,
+            "semestre": 3
+        },
+        {
+            "codigo": "ECOD345",
+            "nombre": "MICROECONOMÍA I",
+            "creditos": 5,
+            "horas": 240,
+            "semestre": 3
+        },
+        {
+            "codigo": "ECOD415",
+            "nombre": "MACROECONOMÍA I",
+            "creditos": 5,
+            "horas": 240,
+            "semestre": 4
+        },
+        {
+            "codigo": "ECOD422",
+            "nombre": "HISTORIA DE LA TEORÍA ECONÓMICA",
+            "creditos": 2,
+            "horas": 96,
+            "semestre": 4
+        },
+        {
+            "codigo": "ECOD433",
+            "nombre": "ESTADÍSTICA MULTIVARIABLE",
+            "creditos": 3,
+            "horas": 144,
+            "semestre": 4
+        },
+        {
+            "codigo": "ECOD445",
+            "nombre": "MICROECONOMÍA II",
+            "creditos": 5,
+            "horas": 240,
+            "semestre": 4
+        },
+        {
+            "codigo": "ECOD515",
+            "nombre": "MACROECONOMÍA II",
+            "creditos": 5,
+            "horas": 240,
+            "semestre": 5
+        },
+        {
+            "codigo": "ECOD521",
+            "nombre": "HISTORIA ECONÓMICA ECUATORIANA",
+            "creditos": 1,
+            "horas": 48,
+            "semestre": 5
+        },
+        {
+            "codigo": "ECOD535",
+            "nombre": "ECONOMETRÍA I",
+            "creditos": 5,
+            "horas": 240,
+            "semestre": 5
+        },
+        {
+            "codigo": "ECOD543",
+            "nombre": "FINANZAS",
+            "creditos": 3,
+            "horas": 144,
+            "semestre": 5
+        },
+        {
+            "codigo": "ADMD511",
+            "nombre": "ORGANIZACIÓN GESTIONAL",
+            "creditos": 1,
+            "horas": 48,
+            "semestre": 5
+        },
+        {
+            "codigo": "ECOD613",
+            "nombre": "TEORÍA MONETARIA",
+            "creditos": 3,
+            "horas": 144,
+            "semestre": 6
+        },
+        {
+            "codigo": "ECOD623",
+            "nombre": "MERCADOTECNIA",
+            "creditos": 3,
+            "horas": 144,
+            "semestre": 6
+        },
+        {
+            "codigo": "ECOD635",
+            "nombre": "ECONOMETRÍA II",
+            "creditos": 5,
+            "horas": 240,
+            "semestre": 6
+        },
+        {
+            "codigo": "ECOD643",
+            "nombre": "INVESTIGACIÓN OPERATIVA",
+            "creditos": 3,
+            "horas": 144,
+            "semestre": 6
+        },
+        {
+            "codigo": "ADMD611",
+            "nombre": "GESTIÓN DE PROCESOS Y CALIDAD",
+            "creditos": 1,
+            "horas": 48,
+            "semestre": 6
+        },
+        {
+            "codigo": "ECOD713",
+            "nombre": "ECONOMÍA PÚBLICA",
+            "creditos": 3,
+            "horas": 144,
+            "semestre": 7
+        },
+        {
+            "codigo": "ECOD723",
+            "nombre": "TEORÍAS DEL DESARROLLO",
+            "creditos": 3,
+            "horas": 144,
+            "semestre": 7
+        },
+        {
+            "codigo": "ECOD735",
+            "nombre": "ECONOMETRÍA APLICADA",
+            "creditos": 5,
+            "horas": 240,
+            "semestre": 7
+        },
+        {
+            "codigo": "ECOD743",
+            "nombre": "TEORÍA DE JUEGOS",
+            "creditos": 3,
+            "horas": 144,
+            "semestre": 7
+        },
+        {
+            "codigo": "ADMD711",
+            "nombre": "INGENIERÍA FINANCIERA",
+            "creditos": 1,
+            "horas": 48,
+            "semestre": 7
+        },
+        {
+            "codigo": "ECOD814",
+            "nombre": "POLÍTICA ECONÓMICA",
+            "creditos": 4,
+            "horas": 192,
+            "semestre": 8
+        },
+        {
+            "codigo": "ECOD824",
+            "nombre": "ECONOMÍA INTERNACIONAL",
+            "creditos": 4,
+            "horas": 192,
+            "semestre": 8
+        },
+        {
+            "codigo": "ECOD834",
+            "nombre": "ECONOMÍA AMBIENTAL Y ECOLÓGICA",
+            "creditos": 4,
+            "horas": 192,
+            "semestre": 8
+        },
+        {
+            "codigo": "TITD101",
+            "nombre": "DISEÑO DE INTEGRACIÓN CURRICULAR/ PREPARACIÓN EXAMEN COMPLEXIVO",
+            "creditos": 1,
+            "horas": 48,
+            "semestre": 8
+        },
+        {
+            "codigo": "CSHD300",
+            "nombre": "ASIGNATURA DE ARTES Y HUMANIDADES",
+            "creditos": 1,
+            "horas": 48,
+            "semestre": 8
+        },
+        {
+            "codigo": "CSHD400",
+            "nombre": "ASIGNATURA DE ECONOMÍA Y SOCIEDAD",
+            "creditos": 1,
+            "horas": 48,
+            "semestre": 8
+        },
+        {
+            "codigo": "ECOD913",
+            "nombre": "FINANZAS INTERNACIONALES",
+            "creditos": 3,
+            "horas": 144,
+            "semestre": 9
+        },
+        {
+            "codigo": "PRLD105",
+            "nombre": "PRÁCTICAS LABORALES",
+            "creditos": 5,
+            "horas": 240,
+            "semestre": 9
+        },
+        {
+            "codigo": "PSCD202",
+            "nombre": "PRÁCTICAS DE SERVICIO COMUNITARIO",
+            "creditos": 2,
+            "horas": 96,
+            "semestre": 9
+        },
+        {
+            "codigo": "TITD201",
+            "nombre": "TRABAJO DE INTEGRACIÓN CURRICULAR/ EXAMEN DE CARÁCTER COMPLEXIVO",
+            "creditos": 5,
+            "horas": 240,
+            "semestre": 9
+        }
+    ],
+    "totales": {
+        "total_creditos": 135,
+        "total_horas": 6480
+    }
+}

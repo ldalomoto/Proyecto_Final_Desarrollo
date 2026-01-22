@@ -10,47 +10,53 @@ class EspolSpider(BaseUniversitySpider):
     ]
 
     university_name = "Escuela Superior Politécnica del Litoral"
-    city = "Guayaquil"
+    university_type = "Pública"
+    university_contact = "https://www.espol.edu.ec/es/contactos"
 
     def parse(self, response):
         career_links = response.css("a[href*='/carrera']::attr(href)").getall()
 
         for link in career_links:
-            yield response.follow(
-                link,
-                callback=self.parse_career
-            )
+            yield response.follow(link, callback=self.parse_career)
 
     def parse_career(self, response):
         item = self.create_base_item(response)
 
         # =========================
-        # DATOS PRINCIPALES
+        # IDENTIDAD
         # =========================
 
         item["career_name"] = self.clean_text(
             response.css("h1::text").get()
         )
 
-        item["faculty"] = self.clean_text(
+        item["faculty_name"] = self.clean_text(
             response.css(".field--name-field-facultad::text").get()
         )
 
         item["degree_title"] = self.clean_text(
-            response.xpath("/html/body/div[2]/div[2]/div[2]/div[1]/div/div[2]/text()").get()
+            response.xpath(
+                "//div[contains(text(),'Título')]/following-sibling::div/text()"
+            ).get()
         )
 
+        # =========================
+        # INFORMACIÓN GENERAL
+        # =========================
+
         item["description"] = self.clean_text(
-            " ".join(
-                response.css(".field--name-body p::text").getall()
-            )
+            " ".join(response.css(".field--name-body p::text").getall())
         )
+
+        item["locations"] = ["Guayaquil"]  # ESPOL es centralizada
+
+        item["cost"] = "Consultar universidad"
 
         # =========================
         # INFORMACIÓN ACADÉMICA
         # =========================
 
-        item["duration"] = self.clean_text(
+        item["semesters"] = self.clean_text(
             response.xpath(
                 "//div[contains(text(),'Duración')]/following-sibling::div/text()"
             ).get()
@@ -62,18 +68,8 @@ class EspolSpider(BaseUniversitySpider):
             ).get()
         )
 
-        # =========================
-        # FUTURAS EXTENSIONES
-        # =========================
-
-        item["mission"] = self.clean_text(
-            response.xpath(
-                "/html/body/div[2]/main/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[1]/div/div/p[2]/text()"
-            ).get()
-        )
-        item["vision"] = None
-        item["objectives"] = None
-        item["career_profile"] = None
-        item["study_plan_pdf"] = None
+        item["study_plan_pdf"] = response.css(
+            "a[href$='.pdf']::attr(href)"
+        ).get()
 
         yield item
