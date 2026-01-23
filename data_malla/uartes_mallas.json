@@ -1,0 +1,2779 @@
+[
+    {
+        "universidad": "Universidad de las Artes",
+        "carrera": "Licenciatura en Producción Musical y Sonora",
+        "career_url_ref": "https://www.uartes.edu.ec/sitio/download/malla-curricular-de-licenciatura-en-produccion-musical/?wpdmdl=9506&refresh=6972d80785fea1769134087",
+        "pensum": "Vigente",
+        "materias": [
+            {
+                "codigo": null,
+                "nombre": "Historia y Teoría de las Artes I",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Taller de Escritura Académica",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Lenguaje Musical I",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Introducción del Sonido y la Grabación",
+                "creditos": 3.0,
+                "horas": 144,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Matemáticas Aplicadas",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Instrumento Complementario",
+                "creditos": 1.0,
+                "horas": 48,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Instrumento Principal I",
+                "creditos": 1.0,
+                "horas": 48,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Historia y Teoría de las Artes II",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Electiva I: Problemas Contemporáneos de las Artes",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Lenguaje Musical II",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Estación de Audio Digital",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Acústica Musical",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Escucha Crítica para la Producción",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Instrumento Principal II",
+                "creditos": 1.0,
+                "horas": 48,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Política y Cultura en América Latina",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio de Arte y Tecnología",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Lenguaje Musical III",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Taller de Edición de Audio",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Técnica de Grabación I",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Taller de Electroacústica",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Instrumento Principal III",
+                "creditos": 1.0,
+                "horas": 48,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Estética y Filosofía de las Artes",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Historia de la Producción Musical en América Latina y el Ecuador",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Armonía I",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Acústica Arquitectónica",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Técnica de Grabación II",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Optativa en Otras Artes",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Instrumento Principal IV",
+                "creditos": 1.0,
+                "horas": 48,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Electiva II: Herramientas Profesionalizantes",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Síntesis y Creación Sonora",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Armonía II",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Mezcla",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Producción de Sonido para Radio, TV y Medios Digitales",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Introducción al Sonido en Vivo",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio en la Comunidad",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Producción Musical I",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Arreglos I",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Mezcla Avanzada y Postproducción",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Asignatura de Itinerario",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Investigación en la Producción Musical",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio Interdisciplinario",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Producción Musical II",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Arreglos II",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Técnicas de Composición",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Asignatura de Itinerario",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Asignatura de Itinerario",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Industria y Gestión Musical",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "Producción Musical III",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "Cátedra Libre",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "Asignatura de Itinerario",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "Proyecto de Titulación",
+                "creditos": 5.0,
+                "horas": 240,
+                "semestre": 8
+            }
+        ],
+        "totales": {
+            "total_creditos": 120.0,
+            "total_horas": 6096
+        }
+    },
+    {
+        "universidad": "Universidad de las Artes",
+        "carrera": "Licenciatura en Artes Musicales y Sonoras",
+        "career_url_ref": "https://www.uartes.edu.ec/sitio/download/malla-curricular-en-licenciatura-en-artes-musicales/?wpdmdl=9509&refresh=6972c448276911769129032",
+        "pensum": "Vigente",
+        "materias": [
+            {
+                "codigo": null,
+                "nombre": "Historia y Teoría de las Artes I",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Taller de Escritura Académica",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Lenguaje Musical I",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Armonía I",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Historia de las Músicas I",
+                "creditos": null,
+                "horas": 96,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Tecnología Musical I",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Práctica Individual y Colectiva",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Historia y Teoría de las Artes II",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Electiva I: Problemas Contemporáneos de las Artes",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Lenguaje Musical II",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Armonía II",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Historia de las Músicas II",
+                "creditos": null,
+                "horas": 96,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Tecnología Musical II",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Práctica Individual y Colectiva",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Política y Cultura en América Latina",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio de Arte y Tecnología",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Lenguaje Musical III",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Armonía III",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Historia de la Música Latinoamericana y del Ecuador",
+                "creditos": null,
+                "horas": 96,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Taller de Construcción de Instrumentos Ancestrales",
+                "creditos": null,
+                "horas": 96,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Práctica Individual y Colectiva",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Estética y Filosofía de las Artes",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Lenguaje Musical IV",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Armonía IV",
+                "creditos": null,
+                "horas": 96,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Fundamentos de Etnomusicología y Música Popular",
+                "creditos": null,
+                "horas": 96,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Optativa en Otras Artes",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Práctica Individual y Colectiva",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Electiva II: Herramientas Profesionalizantes",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Instrumento Complementario I (Piano/Guitarra Aplicada)",
+                "creditos": null,
+                "horas": 48,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Arreglos I",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Didáctica de la Música",
+                "creditos": null,
+                "horas": 96,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Asignatura de Itinerario I",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Práctica Individual y Colectiva",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio en la Comunidad",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Instrumento Complementario II (Piano/Guitarra Aplicada)",
+                "creditos": null,
+                "horas": 48,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Arreglos II",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Investigación Musical I",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Asignatura de Itinerario II",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Práctica Individual y Colectiva",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio Interdisciplinario",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Análisis Musical I",
+                "creditos": null,
+                "horas": 96,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Proyectos de Investigación",
+                "creditos": null,
+                "horas": 96,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Asignatura de Itinerarios III",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Práctica Individual y Colectiva",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Industria Musical, Gestión, Producción y Creación",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "Unidad de Integración Curricular",
+                "creditos": null,
+                "horas": 480,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "Análisis Musical II",
+                "creditos": null,
+                "horas": 96,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "Asignatura de Itinerarios IV",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "Prácticas Pre Profesionales",
+                "creditos": null,
+                "horas": 240,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Vínculo con la Comunidad",
+                "creditos": null,
+                "horas": 96,
+                "semestre": 5
+            }
+        ],
+        "totales": {
+            "total_creditos": null,
+            "total_horas": 6096
+        }
+    },
+    {
+        "universidad": "Universidad de las Artes",
+        "carrera": "Licenciatura en Educación Artística Intercultural",
+        "career_url_ref": "https://www.uartes.edu.ec/sitio/download/malla-curricular-en-educacion-artistica-intercultural/?wpdmdl=54554&refresh=6972d1e1b7c2d1769132513",
+        "pensum": "Vigente",
+        "materias": [
+            {
+                "codigo": null,
+                "nombre": "Historia y Teoría de las Artes I",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Taller de Escritura Académica",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Diseño de Estrategias y Pensamiento Pedagógico Crítico",
+                "creditos": 5,
+                "horas": 240,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Educación Artística",
+                "creditos": 4,
+                "horas": 192,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Fundamentos en Artes II / Análisis Crítico",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Historia y Teoría de las Artes II",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Pensamiento y Co-creación Curricular",
+                "creditos": 6,
+                "horas": 288,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Estrategias Creativas en Artes",
+                "creditos": 4,
+                "horas": 192,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Debates en Artes",
+                "creditos": 5,
+                "horas": 240,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio de Arte y Tecnología",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Estética y Filosofía de las Artes",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorios en la Comunidad Socioeducativa",
+                "creditos": 5,
+                "horas": 240,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Investigación Acción Participativa",
+                "creditos": 4,
+                "horas": 192,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Debates en Artes (Ciclo II)",
+                "creditos": 6,
+                "horas": 288,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Política y Cultura en América Latina",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Diagnóstico y Planificación Socioeducativos y Culturales",
+                "creditos": 5,
+                "horas": 240,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Consideraciones Etarias",
+                "creditos": 5,
+                "horas": 240,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Investigación en Artes",
+                "creditos": 5,
+                "horas": 240,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Electiva I",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Diseño y Gestión de Proyectos",
+                "creditos": 5,
+                "horas": 240,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Complementos Teórico-Prácticos",
+                "creditos": 4,
+                "horas": 192,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Didácticas en Artes",
+                "creditos": 5,
+                "horas": 240,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Electiva II",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Praxis y Co-creación en la Comunidad",
+                "creditos": 6,
+                "horas": 288,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Legislación Educativa",
+                "creditos": 4,
+                "horas": 192,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Didácticas desde las Artes",
+                "creditos": 5,
+                "horas": 240,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio Interdisciplinario",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Sistematización y Evaluación Socioeducativa",
+                "creditos": 6,
+                "horas": 288,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Taller de Titulación",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Mediación desde las Artes",
+                "creditos": 5,
+                "horas": 240,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Autoconocimiento e Intersubjetividades",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Comunidad Socioeducativa (Sistematización y Evaluación)",
+                "creditos": 5,
+                "horas": 240,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "Taller de Titulación (Final)",
+                "creditos": 6,
+                "horas": 288,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "Mediación desde las Artes (Final)",
+                "creditos": 5,
+                "horas": 240,
+                "semestre": 8
+            }
+        ],
+        "totales": {
+            "total_creditos": 135,
+            "total_horas": 6480
+        }
+    },
+    {
+        "universidad": "Universidad de las Artes",
+        "carrera": "Licenciatura en Literatura",
+        "career_url_ref": "https://www.uartes.edu.ec/sitio/download/20-07-malla-curricular-literatura/?wpdmdl=7519&refresh=6972bf66d29a21769127782",
+        "pensum": "Vigente",
+        "materias": [
+            {
+                "codigo": null,
+                "nombre": "Historia y Teoría de las Artes I",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Taller de Escritura Académica",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Teoría y Práctica Literaria: Narrativa",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Estudios de la Lengua en Castellano I",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Mirada de los Pueblos Originarios",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Literatura Ecuatoriana I",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Historia y Teoría de las Artes II",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Electiva Transversal I- Problemas Contemporáneos de las Artes",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Teoría y Práctica Literaria: Lírica",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Estudios de la Lengua en Castellano II",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Literatura Latinoamericana I",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Literatura Ecuatoriana II",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Política y Cultura en América Latina",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio de Arte y Tecnología",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Teoría y Práctica Literaria: Dramaturgia",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Introducción a la Actividad Editorial",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Literatura Latinoamericana II",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Literatura Ecuatoriana III",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Estética y Filosofía de las Artes",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Tendencias de la Teoría y Crítica Literarias",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Teoría y Práctica de la No Ficción",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Literatura Grecolatina y Otras",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Literatura Latinoamericana III",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Itinerario - Asignatura I",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Electiva Transversal II- Herramientas Profesionalizantes",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Historia de la Lectura y de las Plataformas del Libro",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Taller Inicial de Escritura Creativa: Poesía",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Literatura Medieval, del Renacimiento y del Barroco",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Literatura Latinoamericana IV",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Itinerario - Asignatura II",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio en la Comunidad",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Literatura y Nuevas Tecnologías",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Taller Inicial de Escritura Creativa: Narrativa",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Literatura Moderna y del Siglo XIX",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Historia de la Crítica Literaria Latinoamericana",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Itinerario - Asignatura III",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio Interdisciplinario",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Lingüística y Semiótica",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Taller de la No Ficción",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Literatura Contemporánea Española y de otros Países",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Taller de Elaboración de Proyecto para Trabajo de Titulación",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Itinerario - Asignatura IV",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Optativa Literatura",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "Seminarios de Refuerzo",
+                "creditos": null,
+                "horas": 144,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "Proyecto de Titulación Unidad de Integración Curricular",
+                "creditos": null,
+                "horas": 336,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "Itinerario - Asignatura V",
+                "creditos": null,
+                "horas": 120,
+                "semestre": 8
+            }
+        ],
+        "totales": {
+            "total_creditos": null,
+            "total_horas": 5760
+        }
+    },
+    {
+        "universidad": "Universidad de las Artes",
+        "carrera": "Licenciatura en Danza",
+        "career_url_ref": "https://www.uartes.edu.ec/sitio/download/malla-curricular-de-licenciatura-en-danza/?wpdmdl=9493&refresh=6972e37f53a5b1769137023",
+        "pensum": "Vigente",
+        "materias": [
+            {
+                "codigo": null,
+                "nombre": "Historia y Teoría de las Artes I",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Taller de Escritura Académica",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Anatomía y Kinesiología I",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Reflexionar la Danza I: ¿Qué puede un cuerpo?",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Improvisación: Conciencia e Imaginación I (*)",
+                "creditos": 1,
+                "horas": 48,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio: Percepción y Movimiento (*)",
+                "creditos": 2,
+                "horas": 96,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Prácticas del Cuerpo en Movimiento I (*)",
+                "creditos": 4,
+                "horas": 192,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Historia y Teoría de las Artes II",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Electivas I: Problemas Contemporáneos en las Artes",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Anatomía y Kinesiología II",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Reflexionar la Danza II: El Cuerpo y el Sentido",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Improvisación: Conciencia e Imaginación II (*)",
+                "creditos": 1,
+                "horas": 48,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio: Tiempo/Espacio (*)",
+                "creditos": 2,
+                "horas": 96,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Prácticas del Cuerpo en Movimiento II (*)",
+                "creditos": 4,
+                "horas": 192,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Política y Cultura en América Latina",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio de Arte y Tecnología",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Música para Danza",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Historia de la Danza: Genealogías",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Improvisación y Composición Instantánea (*)",
+                "creditos": 1,
+                "horas": 48,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio: Sitio Específico (*)",
+                "creditos": 2,
+                "horas": 96,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Prácticas del Cuerpo en Movimiento III (*)",
+                "creditos": 4,
+                "horas": 192,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Estética y Filosofía de las Artes",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio de Artes Escénicas",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Taller-Laboratorio: Voz para la Escena",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Historia de la Danza: Corrientes y Estéticas",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Improvisación y Contacto I (*)",
+                "creditos": 1,
+                "horas": 48,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio: Objetos, Texturas y Materialidades (*)",
+                "creditos": 2,
+                "horas": 96,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Prácticas del Cuerpo en Movimiento IV (*)",
+                "creditos": 4,
+                "horas": 192,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Electivas II: Herramientas Profesionalizantes",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Unidad de Descubrimiento",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Asignatura de Itinerario",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Recreación y Reconstrucción en Danza Ecuatoriana",
+                "creditos": 2.5,
+                "horas": 192,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Improvisación y Contacto II (*)",
+                "creditos": 1,
+                "horas": 48,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio: Cuerpo Sonoro (*)",
+                "creditos": 2,
+                "horas": 96,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Prácticas del Cuerpo en Movimiento V (*)",
+                "creditos": 4,
+                "horas": 192,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio en la Comunidad",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Asignatura de Itinerario",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Asignatura de Itinerario",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Seminario Etnocoreología",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Sistemas de Improvisación (*)",
+                "creditos": 1,
+                "horas": 48,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio: Dramaturgias del Movimiento (*)",
+                "creditos": 2,
+                "horas": 96,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Prácticas del Cuerpo en Movimiento VI (*)",
+                "creditos": 4,
+                "horas": 192,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio Interdisciplinario",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Asignatura de Itinerario",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Asignatura de Itinerario (*)",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio Etnocoreología (*)",
+                "creditos": 2,
+                "horas": 96,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Taller de Producción y Gestión en/para Artes Escénicas (*)",
+                "creditos": 2,
+                "horas": 96,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Taller de Investigación para/en Artes Escénicas",
+                "creditos": 2,
+                "horas": 96,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Prácticas del Cuerpo en Movimiento - Procesos Creación",
+                "creditos": 4,
+                "horas": 192,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Unidad de Integración Curricular",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "Taller de Escritura y Metodologías de la Investigación Escénica",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "Prácticas del Cuerpo en Movimiento - Acompañamiento UIC (*)",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 8
+            }
+        ],
+        "totales": {
+            "total_creditos": 124,
+            "total_horas": 6720
+        }
+    },
+    {
+        "universidad": "Universidad de las Artes",
+        "carrera": "Licenciatura en Creación Teatral",
+        "career_url_ref": "https://www.uartes.edu.ec/sitio/download/malla-curricular-de-licenciatura-en-creacion-teatral/?wpdmdl=9490&refresh=6972ca3c9f6431769130556",
+        "pensum": "Vigente",
+        "materias": [
+            {
+                "codigo": null,
+                "nombre": "HISTORIA Y TEORÍA DE LAS ARTES I",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "HISTORIA DEL TEATRO I",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "LABORATORIO DE CREACIÓN TEATRAL I",
+                "creditos": 3.0,
+                "horas": 144,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "ENTRENAMIENTO ACTORAL I",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "VOZ I",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "PSICOLOGÍA DEL APRENDIZAJE",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "TALLER DE ESCRITURA ACADÉMICA",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "HISTORIA Y TEORÍA DE LAS ARTES II",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "ELECTIVA I: PROBLEMAS CONTEMPORÁNEOS DE LAS ARTES",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "HISTORIA DEL TEATRO II",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "LABORATORIO DE CREACIÓN TEATRAL II",
+                "creditos": 3.0,
+                "horas": 44,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "ENTRENAMIENTO ACTORAL II",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "VOZ II",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "DANZA I: TÉCNICAS SOMÁTICAS/ESTUDIO DEL MOVIMIENTO",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "POLÍTICA Y CULTURA EN AMÉRICA LATINA",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "HISTORIA DEL TEATRO ECUATORIANO",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "GÉNEROS DRAMÁTICOS Y ANÁLISIS DE TEXTOS",
+                "creditos": 2.5,
+                "horas": 96,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "LABORATORIO DE CREACIÓN TEATRAL III",
+                "creditos": 3.0,
+                "horas": 44,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "ENTRENAMIENTO ACTORAL III",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "VOZ III",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "DANZA II: DANZA CONTEMPORÁNEA",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "ESTÉTICA Y FILOSOFÍA DE LAS ARTES",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "ELECTIVA II",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "FILOSOFÍA DEL TEATRO: TEATRO I",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "LABORATORIO DE CREACIÓN TEATRAL IV",
+                "creditos": 3.0,
+                "horas": 44,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "ENTRENAMIENTO ACTORAL IV",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "VOZ IV",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "TALLER DE ESCRITURA TEATRAL: DRAMATURGIA",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "LABORATORIO DE ARTE Y TECNOLOGÍA",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "CÁTEDRA DE HERRAMIENTAS PROFESIONALIZANTES",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "TEORÍAS Y PENSAMIENTOS I",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "DRAMATURGIA EXPERIMENTAL",
+                "creditos": 2.5,
+                "horas": 192,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "ASIGNATURA DE ITINERARIO 1",
+                "creditos": 4.0,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "ASIGNATURA DE ITINERARIO 2",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "LABORATORIO EN LA COMUNIDAD",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "CÁTEDRA DE LIBRE OPCIÓN I",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "TALLER DE CRÍTICA PARA LAS ARTES ESCÉNICAS",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "ASIGNATURA DE ITINERARIO 3",
+                "creditos": 4.0,
+                "horas": 192,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "ASIGNATURA DE ITINERARIO 4",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "ASIGNATURA DE ITINERARIO 5",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "UIC I: INVESTIGACIÓN EN/PARA LAS ARTES",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "LABORATORIO INTERDISCIPLINARIO",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "CÁTEDRA DE LIBRE OPCIÓN II",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "CORPOGRAFÍAS ORIGINARIAS ANDINAS, MONTUBIAS Y AFROECUATORIANAS",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "PRÁCTICAS DEL ESPECTADOR",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "ASIGNATURA DE ITINERARIO 6",
+                "creditos": 4.0,
+                "horas": 192,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "ASIGNATURA DE ITINERARIO 7",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "UIC II: TALLER DE ANTEPROYECTO",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "TALLER DE PRODUCCIÓN Y GESTIÓN EN/PARA LAS ARTES ESCÉNICAS",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "TALLER DE APOYO: ESCRITURA E INVESTIGACIÓN",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "ASIGNATURA DE ITINERARIO 8",
+                "creditos": 5.0,
+                "horas": 240,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "ASIGNATURA DE ITINERARIO 9",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "UIC III: TRABAJO DE TITULACIÓN",
+                "creditos": 5.0,
+                "horas": 240,
+                "semestre": 8
+            }
+        ],
+        "totales": {
+            "total_creditos": null,
+            "total_horas": 6528
+        }
+    },
+    {
+        "universidad": "Universidad de las Artes",
+        "carrera": "Licenciatura en Cine",
+        "career_url_ref": "https://www.uartes.edu.ec/sitio/download/uartes-malla-escuela-de-cine/?wpdmdl=39349&refresh=6972c5974ec651769129367",
+        "pensum": "Vigente",
+        "materias": [
+            {
+                "codigo": null,
+                "nombre": "Historia y Teoría de las Artes I",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Taller de Escritura Académica",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Historia del Cine I",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Taller de Diseño Multimedia",
+                "creditos": 1.25,
+                "horas": 72,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Flujos de Trabajo en el Cine Digital",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Análisis y Estética del Film",
+                "creditos": 1.5,
+                "horas": 72,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Historia y Teoría de las Artes II",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Optativa Transversal I: Problemas Contemporáneos de las Artes",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Guión I",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Historia del Cine II",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Teoría del Cine I",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Política y Cultura en América Latina",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio de Imagen y Tecnología",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Dirección Cinematográfica",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Optativa Interdisciplinaria I",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Dirección de Producción",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Estética y Filosofía de las Artes",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio de Arte Contemporáneo",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio de Montaje",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Optativa Interdisciplinaria II",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio Avanzado I",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Optativa Transversal II: Herramientas Profesionalizantes",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Cine Latinoamericano",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio de Sonido",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Cine Documental",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio Avanzado II",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio en la Comunidad",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Investigación en Cine",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Guión II",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Proyecto de Titulación",
+                "creditos": 3.0,
+                "horas": 144,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio Avanzado III",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio Interdisciplinario",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Cine Ecuatoriano",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio de Rodaje I",
+                "creditos": 7.5,
+                "horas": 360,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Taller de Desarrollo de Proyecto de Titulación",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Asignatura 1 de Itinerarios",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Asignatura 2 de Itinerarios",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Autores/Directores: Curso Monográfico",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "Optativa Interdisciplinaria III",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio de Rodaje II",
+                "creditos": 7.5,
+                "horas": 360,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "Actor, Director, Dramaturgia y Géneros",
+                "creditos": 3.0,
+                "horas": 144,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "Taller de Realización de Proyectos de Titulación Cinematográficos",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "Proyecto de Titulación",
+                "creditos": 6.0,
+                "horas": 288,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "Asignatura 3 de Itinerarios",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "Prácticas Preprofesionales",
+                "creditos": 7.0,
+                "horas": 336,
+                "semestre": null
+            },
+            {
+                "codigo": null,
+                "nombre": "Vinculación con la Sociedad",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": null
+            }
+        ],
+        "totales": {
+            "total_creditos": 128.75,
+            "total_horas": 6192
+        }
+    },
+    {
+        "universidad": "Universidad de las Artes",
+        "carrera": "Licenciatura en Artes Visuales",
+        "career_url_ref": "https://www.uartes.edu.ec/sitio/download/malla-curricular-de-licenciatura-en-artes-visuales/?wpdmdl=9485&refresh=6972c9cb15c0f1769130443",
+        "pensum": "Vigente",
+        "materias": [
+            {
+                "codigo": null,
+                "nombre": "Taller de Escritura",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Historia y Teoría de las Artes I",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Edición de Imagen Fija",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Fotografía Básica",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Dibujo Básico",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Artes Gráficas",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Electiva I: Problemas Contemporáneos en América Latina",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Historia y Teoría de las Artes II",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Edición de Imagen en Movimiento",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Escultura Básica",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Electiva EAV I",
+                "creditos": 2.0,
+                "horas": 96,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Pintura Básica",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 2
+            },
+            {
+                "codigo": null,
+                "nombre": "Política y Cultura de las Artes",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio de Arte y Tecnología",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Historia del Arte del Dibujo",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Introducción a la Retórica Visual",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Electiva EAV II",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Dibujo Avanzado",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 3
+            },
+            {
+                "codigo": null,
+                "nombre": "Estética y Filosofía de las Artes",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Arte Moderno Posterior a los 60s",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Cultura Ecuatoriana y Funciones Críticas",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Recursos Discursivos del Arte I",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Introducción a las Herramientas Tecnológicas",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Narrativas Audiovisuales",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 4
+            },
+            {
+                "codigo": null,
+                "nombre": "Electiva II: Herramientas Profesionalizantes",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Procesos Conceptuales Contemporáneos",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Perspectivas Modernas en el Ecuador",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Recursos Discursivos del Arte II",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Fotografía Avanzada I",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Luz, Color y Video",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 5
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio en la Comunidad",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Arte y Pensamiento en América Latina",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Dibujo: Investigación",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Procesos de Creación I",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Programación para las Prácticas Artísticas",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Electiva EAV III",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 6
+            },
+            {
+                "codigo": null,
+                "nombre": "Laboratorio Interdisciplinario",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Cultura Artística",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Procesos Artísticos",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Procesos de Creación II",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Electiva EAV IV",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Taller de Creación en Medios e Imagen Electrónica I",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 7
+            },
+            {
+                "codigo": null,
+                "nombre": "Electivas EAV",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "Debates en Prácticas Artísticas",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "Portafolio y Gestión",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "Diálogos, Proyectos y Pensamiento del Arte I",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "Electiva EAV IV",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "Taller de Creación en Medios e Imagen Electrónica I",
+                "creditos": 2.5,
+                "horas": 120,
+                "semestre": 8
+            },
+            {
+                "codigo": null,
+                "nombre": "VI Escrituras en Prácticas Artísticas",
+                "creditos": 3.0,
+                "horas": 144,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Unidad de Integración Curricular",
+                "creditos": 8.0,
+                "horas": 384,
+                "semestre": 1
+            },
+            {
+                "codigo": null,
+                "nombre": "Diálogos, Proyectos y Pensamiento del Arte II",
+                "creditos": 4.0,
+                "horas": 192,
+                "semestre": 1
+            }
+        ],
+        "totales": {
+            "total_creditos": null,
+            "total_horas": 6816
+        }
+    }
+]

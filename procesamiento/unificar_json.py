@@ -67,9 +67,9 @@ def merge_and_save(careers_data, subjects_data):
 
 # --- Ejecución ---
 try:
-    with open('data/udla_careers.json', 'r', encoding='utf-8') as f:
+    with open('../data/uartes_careers.json', 'r', encoding='utf-8') as f:
         careers = json.load(f)
-    with open('data_malla/udla_mallas.json', 'r', encoding='utf-8') as f:
+    with open('../data_malla/uartes_mallas.json', 'r', encoding='utf-8') as f:
         subjects = json.load(f)
 
     merge_and_save(careers, subjects)
