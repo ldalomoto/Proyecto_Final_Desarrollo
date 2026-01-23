@@ -6,7 +6,7 @@ import requests
 from pathlib import Path
 
 # 1. CONFIGURACIÓN
-API_KEY = "AIzaSyDy1yhkz_iiCp1mjAC79CQOfqsj91dawJ0" # Cambia esto por tu llave real
+API_KEY = "" # Cambia esto por tu llave real
 genai.configure(api_key=API_KEY)
 
 # Configuración de carpetas

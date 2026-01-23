@@ -4,7 +4,7 @@ import json
 import os
 
 # 1. CONFIGURACIÓN
-API_KEY = "AIzaSyBJCx-SJQCaLPwCPna2c5zY5z5jM53Gy_E"
+API_KEY = ""
 genai.configure(api_key=API_KEY)
 
 def extraer_texto_pdf(ruta_pdf):

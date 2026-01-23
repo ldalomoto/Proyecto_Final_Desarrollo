@@ -4,7 +4,7 @@ import os
 import PIL.Image  # Necesitarás instalar Pillow: pip install Pillow
 
 # 1. CONFIGURACIÓN
-API_KEY = "AIzaSyBJCx-SJQCaLPwCPna2c5zY5z5jM53Gy_E"
+API_KEY = ""
 genai.configure(api_key=API_KEY)
 
 def procesar_imagen_con_ia(ruta_imagen):
