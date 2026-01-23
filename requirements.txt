@@ -1,0 +1,15 @@
+scrapy
+itemadapter
+requests
+beautifulsoup4
+pdfplumber
+pandas
+urllib3
+numpy
+sentence-transformers
+nltk
+scikit-learn
+torch
+google-generativeai
+python-dotenv
+Pillow
