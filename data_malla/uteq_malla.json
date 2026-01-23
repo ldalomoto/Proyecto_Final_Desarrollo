@@ -1,0 +1,438 @@
+{
+    "universidad": "UTEQ",
+    "carrera": "AGROECOLOGÍA",
+    "pensum": null,
+    "materias": [
+        {
+            "codigo": null,
+            "nombre": "BOTÁNICA GENERAL Y SISTEMÁTICA",
+            "creditos": 2,
+            "horas": null,
+            "semestre": "I"
+        },
+        {
+            "codigo": null,
+            "nombre": "ECOLOGÍA GENERAL",
+            "creditos": 2,
+            "horas": null,
+            "semestre": "I"
+        },
+        {
+            "codigo": null,
+            "nombre": "FÍSICA I",
+            "creditos": 3,
+            "horas": null,
+            "semestre": "I"
+        },
+        {
+            "codigo": null,
+            "nombre": "LINGÜÍSTICA Y REDACCIÓN TÉCNICA",
+            "creditos": 2,
+            "horas": null,
+            "semestre": "I"
+        },
+        {
+            "codigo": null,
+            "nombre": "MATEMÁTICA I",
+            "creditos": 3,
+            "horas": null,
+            "semestre": "I"
+        },
+        {
+            "codigo": null,
+            "nombre": "QUÍMICA ANALÍTICA E INORGÁNICA",
+            "creditos": 3,
+            "horas": null,
+            "semestre": "I"
+        },
+        {
+            "codigo": null,
+            "nombre": "INGLÉS I",
+            "creditos": null,
+            "horas": null,
+            "semestre": "I"
+        },
+        {
+            "codigo": null,
+            "nombre": "AGROECOLOGÍA",
+            "creditos": 2,
+            "horas": null,
+            "semestre": "II"
+        },
+        {
+            "codigo": null,
+            "nombre": "FÍSICA II",
+            "creditos": 3,
+            "horas": null,
+            "semestre": "II"
+        },
+        {
+            "codigo": null,
+            "nombre": "LEGISLACIÓN AGRARIA",
+            "creditos": 2,
+            "horas": null,
+            "semestre": "II"
+        },
+        {
+            "codigo": null,
+            "nombre": "MATEMÁTICA II",
+            "creditos": 3,
+            "horas": null,
+            "semestre": "II"
+        },
+        {
+            "codigo": null,
+            "nombre": "METODOLOGÍA DE LA INVESTIGACIÓN CIENTÍFICA",
+            "creditos": 2,
+            "horas": null,
+            "semestre": "II"
+        },
+        {
+            "codigo": null,
+            "nombre": "QUÍMICA ORGÁNICA",
+            "creditos": 3,
+            "horas": null,
+            "semestre": "II"
+        },
+        {
+            "codigo": null,
+            "nombre": "INGLÉS II",
+            "creditos": null,
+            "horas": null,
+            "semestre": "II"
+        },
+        {
+            "codigo": null,
+            "nombre": "AGROBIODIVERSIDAD",
+            "creditos": 2,
+            "horas": null,
+            "semestre": "III"
+        },
+        {
+            "codigo": null,
+            "nombre": "ANTROPOLOGÍA RURAL",
+            "creditos": 2,
+            "horas": null,
+            "semestre": "III"
+        },
+        {
+            "codigo": null,
+            "nombre": "BIOESTADÍSTICA",
+            "creditos": 3,
+            "horas": null,
+            "semestre": "III"
+        },
+        {
+            "codigo": null,
+            "nombre": "BIOQUÍMICA",
+            "creditos": 3,
+            "horas": null,
+            "semestre": "III"
+        },
+        {
+            "codigo": null,
+            "nombre": "COMUNICACIÓN CIENTÍFICA",
+            "creditos": 2,
+            "horas": null,
+            "semestre": "III"
+        },
+        {
+            "codigo": null,
+            "nombre": "MICROBIOLOGÍA AGRÍCOLA",
+            "creditos": 3,
+            "horas": null,
+            "semestre": "III"
+        },
+        {
+            "codigo": null,
+            "nombre": "INGLÉS III",
+            "creditos": null,
+            "horas": null,
+            "semestre": "III"
+        },
+        {
+            "codigo": null,
+            "nombre": "ANÁLISIS Y DISEÑO DE EXPERIMENTOS",
+            "creditos": 3,
+            "horas": null,
+            "semestre": "IV"
+        },
+        {
+            "codigo": null,
+            "nombre": "BIOLOGÍA MOLECULAR",
+            "creditos": 3,
+            "horas": null,
+            "semestre": "IV"
+        },
+        {
+            "codigo": null,
+            "nombre": "CIENCIAS DEL SUELO",
+            "creditos": 2,
+            "horas": null,
+            "semestre": "IV"
+        },
+        {
+            "codigo": null,
+            "nombre": "ENTOMOLOGÍA AGRÍCOLA",
+            "creditos": 2,
+            "horas": null,
+            "semestre": "IV"
+        },
+        {
+            "codigo": null,
+            "nombre": "FITOPATOLOGÍA",
+            "creditos": 3,
+            "horas": null,
+            "semestre": "IV"
+        },
+        {
+            "codigo": null,
+            "nombre": "TOPOGRAFÍA Y SISTEMAS DE INFORMACIÓN GEOGRÁFICA",
+            "creditos": 2,
+            "horas": null,
+            "semestre": "IV"
+        },
+        {
+            "codigo": null,
+            "nombre": "INGLÉS IV",
+            "creditos": null,
+            "horas": null,
+            "semestre": "IV"
+        },
+        {
+            "codigo": null,
+            "nombre": "FISIOLOGÍA VEGETAL",
+            "creditos": 2,
+            "horas": null,
+            "semestre": "V"
+        },
+        {
+            "codigo": null,
+            "nombre": "AGROCLIMATOLOGÍA",
+            "creditos": 2,
+            "horas": null,
+            "semestre": "V"
+        },
+        {
+            "codigo": null,
+            "nombre": "GENÉTICA Y MEJORAMIENTO DE PLANTAS",
+            "creditos": 3,
+            "horas": null,
+            "semestre": "V"
+        },
+        {
+            "codigo": null,
+            "nombre": "NUTRICIÓN VEGETAL",
+            "creditos": 3,
+            "horas": null,
+            "semestre": "V"
+        },
+        {
+            "codigo": null,
+            "nombre": "MORFOFISIOLOGÍA ANIMAL",
+            "creditos": 2,
+            "horas": null,
+            "semestre": "V"
+        },
+        {
+            "codigo": null,
+            "nombre": "MANEJO DE AGENTES NOCIVOS",
+            "creditos": 3,
+            "horas": null,
+            "semestre": "V"
+        },
+        {
+            "codigo": null,
+            "nombre": "INGLÉS V",
+            "creditos": null,
+            "horas": null,
+            "semestre": "V"
+        },
+        {
+            "codigo": null,
+            "nombre": "PROTECCIÓN Y SANIDAD ANIMAL",
+            "creditos": 2,
+            "horas": null,
+            "semestre": "VI"
+        },
+        {
+            "codigo": null,
+            "nombre": "MANEJO DE CUENCAS HIDROGRÁFICAS",
+            "creditos": 3,
+            "horas": null,
+            "semestre": "VI"
+        },
+        {
+            "codigo": null,
+            "nombre": "SOCIOLOGÍA RURAL",
+            "creditos": 2,
+            "horas": null,
+            "semestre": "VI"
+        },
+        {
+            "codigo": null,
+            "nombre": "BIORREMEDACIÓN",
+            "creditos": 3,
+            "horas": null,
+            "semestre": "VI"
+        },
+        {
+            "codigo": null,
+            "nombre": "PRÁCTICAS PRE PROFESIONALES",
+            "creditos": 5,
+            "horas": null,
+            "semestre": "VI"
+        },
+        {
+            "codigo": null,
+            "nombre": "INGLÉS VI",
+            "creditos": null,
+            "horas": null,
+            "semestre": "VI"
+        },
+        {
+            "codigo": null,
+            "nombre": "MANEJO AGROECOLÓGICO DEL AGUA",
+            "creditos": 2,
+            "horas": null,
+            "semestre": "VII"
+        },
+        {
+            "codigo": null,
+            "nombre": "FITOTECNIA",
+            "creditos": 3,
+            "horas": null,
+            "semestre": "VII"
+        },
+        {
+            "codigo": null,
+            "nombre": "ECONOMÍA Y DESARROLLO",
+            "creditos": 2,
+            "horas": null,
+            "semestre": "VII"
+        },
+        {
+            "codigo": null,
+            "nombre": "BIOTECNOLOGÍA PARA LA AGRICULTURA SOSTENIBLE",
+            "creditos": 3,
+            "horas": null,
+            "semestre": "VII"
+        },
+        {
+            "codigo": null,
+            "nombre": "ENERGÍA EN LA AGRICULTURA",
+            "creditos": 3,
+            "horas": null,
+            "semestre": "VII"
+        },
+        {
+            "codigo": null,
+            "nombre": "NUTRICIÓN ANIMAL",
+            "creditos": 2,
+            "horas": null,
+            "semestre": "VII"
+        },
+        {
+            "codigo": null,
+            "nombre": "INGLÉS VII",
+            "creditos": null,
+            "horas": null,
+            "semestre": "VII"
+        },
+        {
+            "codigo": null,
+            "nombre": "SISTEMA DE PRODUCCIÓN AGRÍCOLA SOSTENIBLE",
+            "creditos": 3,
+            "horas": null,
+            "semestre": "VIII"
+        },
+        {
+            "codigo": null,
+            "nombre": "SISTEMA DE PRODUCCIÓN ANIMAL SOSTENIBLE",
+            "creditos": 3,
+            "horas": null,
+            "semestre": "VIII"
+        },
+        {
+            "codigo": null,
+            "nombre": "SEGURIDAD Y SOBERANÍA ALIMENTARIA",
+            "creditos": 2,
+            "horas": null,
+            "semestre": "VIII"
+        },
+        {
+            "codigo": null,
+            "nombre": "SISTEMAS AGROFORESTALES",
+            "creditos": 3,
+            "horas": null,
+            "semestre": "VIII"
+        },
+        {
+            "codigo": null,
+            "nombre": "EXTENSIONISMO AGRARIO",
+            "creditos": 2,
+            "horas": null,
+            "semestre": "VIII"
+        },
+        {
+            "codigo": null,
+            "nombre": "SERVICIO COMUNITARIO",
+            "creditos": 2,
+            "horas": null,
+            "semestre": "VIII"
+        },
+        {
+            "codigo": null,
+            "nombre": "INGLÉS VIII",
+            "creditos": null,
+            "horas": null,
+            "semestre": "VIII"
+        },
+        {
+            "codigo": null,
+            "nombre": "TALLER DE INVESTIGACIÓN",
+            "creditos": 3,
+            "horas": null,
+            "semestre": "IX"
+        },
+        {
+            "codigo": null,
+            "nombre": "GESTIÓN DE RESIDUOS AGROPECUARIOS",
+            "creditos": 3,
+            "horas": null,
+            "semestre": "IX"
+        },
+        {
+            "codigo": null,
+            "nombre": "COMERCIALIZACIÓN DE PRODUCTOS AGROPECUARIOS",
+            "creditos": 2,
+            "horas": null,
+            "semestre": "IX"
+        },
+        {
+            "codigo": null,
+            "nombre": "EVALUACIÓN DE IMPACTO AMBIENTAL",
+            "creditos": 2,
+            "horas": null,
+            "semestre": "IX"
+        },
+        {
+            "codigo": null,
+            "nombre": "TRABAJO DE INTEGRACIÓN CURRICULAR",
+            "creditos": 5,
+            "horas": null,
+            "semestre": "IX"
+        },
+        {
+            "codigo": null,
+            "nombre": "GOBERNANZA DEL AGUA",
+            "creditos": 2,
+            "horas": null,
+            "semestre": "IX"
+        }
+    ],
+    "totales": {
+        "total_creditos": null,
+        "total_horas": null
+    }
+}
