@@ -47,6 +47,7 @@ Flujo del Sistema
 
 Spiders personalizados recorren los portales oficiales de universidades como:
 
+```
 EPN
 
 Universidad de Cuenca
@@ -54,9 +55,10 @@ Universidad de Cuenca
 UDLA
 
 UIDE
-
+```
+```
 Salida: JSON con descripción, duración, modalidad y enlaces a mallas curriculares.
-
+```
 
 2. Procesamiento de Mallas Curriculares
 
@@ -68,21 +70,23 @@ Se extrae el texto
 
 Google Gemini estructura las materias en JSON
 
+```
 Salida: data_malla/
-
+```
 
 3. Preparación para IA
 
 Se unifica la información general con la malla curricular y se genera un texto narrativo por carrera:
 
+```
 Carrera: Ingeniería en Sistemas  
 Universidad: EPN  
 Descripción: ...  
 Materias: Programación, Bases de Datos, Redes...
-
-
+```
+```
 Salida: data_ia_ready/
-
+```
 
 4. Generación de Embeddings
 
@@ -90,42 +94,49 @@ Cada carrera se transforma en un vector numérico de 384 dimensiones, representa
 
 Archivo generado:
 
+```
 embeddings/career_embeddings.pkl
+```
 
 Buscador Semántico
 
 Permite consultas en lenguaje natural sin depender de palabras clave exactas.
 
+```
 Ejecución
 python procesamiento/search_careers.py
+```
 
 Ejemplo
 
 Entrada
-
+```
 Me gusta la tecnología y la seguridad de datos
-
+```
 
 Salida
-
+```
 CIBERSEGURIDAD | UDLA (89.4%)
 INGENIERÍA EN SEGURIDAD DE REDES | EPN (85.2%)
-
+```
 Instalación y Configuración
 
 Clonar el repositorio
 
 Crear entorno virtual:
 
+```
 python -m venv env
 source env/bin/activate
-
+```
 
 Instalar dependencias:
 
+```
 pip install scrapy sentence-transformers scikit-learn pdfplumber google-generativeai python-dotenv
-
+```
 
 Crear archivo .env:
-
+```
 GEMINI_API_KEY=tu_api_key_aqui
+```
