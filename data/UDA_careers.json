@@ -1,0 +1,722 @@
+[
+    {
+        "nombre_carrera": "Administración de Empresas",
+        "nombre_facultad": "",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "8 Ciclos (Deducido)",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/administracion-de-empresas (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/administracion-de-empresas",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Contabilidad y Auditoría",
+        "nombre_facultad": "",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "8 Ciclos (Deducido)",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/contabilidad-y-auditoria (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/contabilidad-y-auditoria",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Economía",
+        "nombre_facultad": "",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "Economista",
+        "numero_semestres": "8 Ciclos (Deducido)",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/economia (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/economia",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería en Ciencias de la Computación",
+        "nombre_facultad": "",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "8 Ciclos (Deducido)",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/ingenieria-ciencias-computacion (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/ingenieria-ciencias-computacion",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Marketing",
+        "nombre_facultad": "",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "8 Ciclos (Deducido)",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/marketing (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/marketing",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Tecnología Superior en Gestión Empresarial",
+        "nombre_facultad": "",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "Tecnólogo Superior en Gestión Empresarial",
+        "numero_semestres": "4 semestres",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/tecnologia-superior-en-gestion-empresarial (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/tecnologia-superior-en-gestion-empresarial",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Biología",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "8 Ciclos (Deducido)",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/biologia (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/biologia",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería Ambiental",
+        "nombre_facultad": "Ciencia y Tecnología",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "Ingeniería Ambiental",
+        "numero_semestres": "8 Ciclos (Deducido)",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/ingenieria-ambiental (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/ingenieria-ambiental",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería Automotriz",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "8 Ciclos (Deducido)",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/ingenieria-mecanica-automotriz (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/ingenieria-mecanica-automotriz",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería Civil",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "8 Ciclos (Deducido)",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/ingenieria-civil (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/ingenieria-civil",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería de Producción",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "8 Ciclos (Deducido)",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/ingenieria-de-la-produccion (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/ingenieria-de-la-produccion",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería Electrónica",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "8 Ciclos (Deducido)",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/ingenieria-electronica (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/ingenieria-electronica",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería en Alimentos",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "8 Ciclos (Deducido)",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/ingenieria-en-alimentos (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/ingenieria-en-alimentos",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería en Energías Alternativas",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "8 Ciclos (Deducido)",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/ingenieria-energias-alternativas (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/ingenieria-energias-alternativas",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería en Minas",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "Ingeniero en Minas",
+        "numero_semestres": "8 Ciclos (Deducido)",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/ingenieria-en-minas (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/ingenieria-en-minas",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Tecnología Superior en Agroecología",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "Tecnólogo Superior en Agroecología",
+        "numero_semestres": "4 semestres",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/tecnologia-superior-en-agroecologia (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/tecnologia-superior-en-agroecologia",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Tecnología Superior en Electricidad",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "2 a",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/tecnologia-superior-en-electricidad (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/tecnologia-superior-en-electricidad",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Tecnología Superior en Electrónica Automotriz",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "Tecnólogo Superior en Electrónica Automotriz",
+        "numero_semestres": "4 semestres",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/tecnologia-superior-en-electronica-automotriz (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/tecnologia-superior-en-electronica-automotriz",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Tecnología Superior en Logística en Almacenamiento y Distribución",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "5 Semestres",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/tecnologia-superior-logistica-almacenamiento-distribucion (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/tecnologia-superior-logistica-almacenamiento-distribucion",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Tecnología Superior en Procesamiento de Lácteos",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "Tecnólogo Superior en Procesamiento de Lácteos",
+        "numero_semestres": "4 semestres",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/tecnologia-superior-en-procesamiento-de-lacteos (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/tecnologia-superior-en-procesamiento-de-lacteos",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Estudios Internacionales",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "Licenciado en Estudios Internacionales",
+        "numero_semestres": "8 Ciclos (Deducido)",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/estudios-internacionales (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/estudios-internacionales",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Derecho",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "4 a",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/derecho (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/derecho",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Arquitectura",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "8 Ciclos (Deducido)",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/arquitectura (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/arquitectura",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Diseño de Interiores",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "8 Ciclos (Deducido)",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/diseno-de-interiores (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/diseno-de-interiores",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Diseño de Productos",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "8 Ciclos (Deducido)",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/diseno-de-productos (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/diseno-de-productos",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Diseño Gráfico",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "8 Ciclos (Deducido)",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/diseno-grafico (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/diseno-grafico",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Diseño Textil e Indumentaria",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "8 Ciclos (Deducido)",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/diseno-textil-e-indumentaria (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/diseno-textil-e-indumentaria",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Actuación con Nivel Equivalente a Tecnología Superior",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "Actor con nivel equivalente a Tecnólogo Superior",
+        "numero_semestres": "2 a",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/actuacion-con-nivel-equivalente-a-tecnologia-superior (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/actuacion-con-nivel-equivalente-a-tecnologia-superior",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Educación Inicial",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "8 Ciclos (Deducido)",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/educacion-inicial (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/educacion-inicial",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Turismo",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "Licenciado en Turismo",
+        "numero_semestres": "8 Ciclos (Deducido)",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/turismo (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/turismo",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Antropología",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "8 Ciclos (Deducido)",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/antropologia (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/antropologia",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Comunicación",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "LICENCIADO EN COMUNICACIÓN",
+        "numero_semestres": "8 Ciclos (Deducido)",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/comunicacion (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/comunicacion",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Educación Básica",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "8 Ciclos (Deducido)",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/educacion-basica (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/educacion-basica",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Educación Especial",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "8 Ciclos (Deducido)",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/educacion-especial (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "se caracteriza por la formación de un docente investigativo, crítico y reflexivo, capaz de realizar procesos metacognitivos sobre adecuadas prácticas pedagógicas en la educación especial y educación inclusiva, un profesional autónomo para tomar decisiones de su labor con responsabilidad. Al mismo tiempo, un docente con valores y actitudes empáticas y de respeto a las diferencias, un docente comprometido con el otro y sensible a las necesidades educativas de las personas con y sin discapacidad que contribuyan a su inclusión en distintos ámbitos de la sociedad. El perfil profesional se caracteriza por la formación de un docente investigativo, crítico y reflexivo, capaz de realizar procesos metacognitivos sobre adecuadas prácticas pedagógicas en la educación especial y educación inclusiva, un",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/educacion-especial",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Pedagogía de los Idiomas Nacionales y Extranjeros",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "Licenciado en pedagogía de los idiomas nacionales y extranjeros",
+        "numero_semestres": "8 Ciclos (Deducido)",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/pedagogia-idiomas-nacionales-extranjeros (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/pedagogia-idiomas-nacionales-extranjeros",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Tecnología Superior en Turismo Rural",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "Tecnólogo Superior en Turismo Rural",
+        "numero_semestres": "4 semestres",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/tecnologia-superior-en-turismo-rural (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/tecnologia-superior-en-turismo-rural",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Medicina",
+        "nombre_facultad": "",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "6 a",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/medicina (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/medicina",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Psicología Clínica",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "8 Ciclos (Deducido)",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/psicologia-clinica (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/psicologia-clinica",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Psicología Educativa",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "8 Ciclos (Deducido)",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/psicologia-educativa (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/psicologia-educativa",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    },
+    {
+        "nombre_carrera": "Psicología Organizacional",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad del Azuay",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "8 Ciclos (Deducido)",
+        "malla_url": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/psicologia-organizacional (Ver sección Plan de Estudios)",
+        "descripcion_carrera": "Perfil profesional",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada - Costo diferenciado)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uazuay.edu.ec/estudios-de-grado/carreras/psicologia-organizacional",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uazuay.edu.ec"
+    }
+]
