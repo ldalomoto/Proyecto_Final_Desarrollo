@@ -1,0 +1,488 @@
+[
+    {
+        "nombre_carrera": "Universidad en Línea en Ecuador",
+        "nombre_facultad": "Ciencias de la Salud",
+        "nombre_universidad": "Universidad ECOTEC",
+        "nombre_titulo": "Universitario o Maestría",
+        "numero_semestres": "No especificado",
+        "malla_url": "No encontrada",
+        "descripcion_carrera": "¡Estudia online y abre las puertas a un futuro lleno de oportunidades! Nuestra institución se destaca por brindar una educación de alto nivel académico que se adapta a tus necesidades y horarios, permitiéndote avanzar en tu carrera sin sacrificar tus compromisos personales y profesionales.",
+        "ubicacion_sedes": [
+            "Samborondón / Guayaquil"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada)",
+        "modalidad": "En línea",
+        "enlace_carrera": "https://online.ecotec.edu.ec/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@ecotec.edu.ec"
+    },
+    {
+        "nombre_carrera": "Admisiones",
+        "nombre_facultad": "Ciencias de la Salud",
+        "nombre_universidad": "Universidad ECOTEC",
+        "nombre_titulo": "de Bachiller refrendado",
+        "numero_semestres": "No especificado",
+        "malla_url": "No encontrada",
+        "descripcion_carrera": "Inscripciones Universidad ECOTEC | Admisiones y Requisitos Skip to main content Skip to footer Estudia en ECOTEC Admisiones Estudia en ECOTEC Admisiones Requisitos *Excepto Carrera de Medicina de la facultad de Ciencias de la Salud y Desarrollo Humano Requisitos de Ingreso Foto a color tamaño carné Cédula de identidad Actualizada / 1 copia a color Certificado de Votación de las últimas elecciones / 1 copia a color Título de Bachiller refrendado / 1 copia a color Ambos lados Acta de grado / 1 Copia a color Certificado de conducta / Aplica para graduados del año en curso Referencia Personal o La",
+        "ubicacion_sedes": [
+            "Samborondón / Guayaquil"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://ecotec.edu.ec/admisiones/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@ecotec.edu.ec"
+    },
+    {
+        "nombre_carrera": "Psicologia Clinica",
+        "nombre_facultad": "Ciencias de la Salud",
+        "nombre_universidad": "Universidad ECOTEC",
+        "nombre_titulo": "Licenciado",
+        "numero_semestres": "4 años",
+        "malla_url": "https://media.ecotec.edu.ec/docs/grado/mallas/ciencias-de-la-salud/Malla-Psicologia-Clinica-2025.pdf",
+        "descripcion_carrera": "Formar un profesional integral capaz de gestionar los desafíos de su profesión en el contexto nacional e internacional, abordando los procesos de: promoción, prevención, evaluación, diagnóstico, intervención y rehabilitación de la salud mental. Con un sólido dominio teórico y práctico, una visión humanista y responsabilidad social, que le permita fomentar la salud y bienestar individual, familiar y comunitario.",
+        "ubicacion_sedes": [
+            "Samborondón / Guayaquil"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://ecotec.edu.ec/facultad/ciencias-de-la-salud-y-desarrollo-humano/carrera/psicologia-clinica/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@ecotec.edu.ec"
+    },
+    {
+        "nombre_carrera": "Nutricion Y Dietetica",
+        "nombre_facultad": "Ciencias de la Salud",
+        "nombre_universidad": "Universidad ECOTEC",
+        "nombre_titulo": "Licenciado",
+        "numero_semestres": "4 años",
+        "malla_url": "https://media.ecotec.edu.ec/docs/grado/mallas/ciencias-de-la-salud/Malla-Nutricion-y-Dietetica-2025.pdf",
+        "descripcion_carrera": "Formar profesionales en Nutrición y Dietética con sólidos fundamentos científicos y principios éticos, capaces de diseñar e implementar programas y estrategias alimentarias que promuevan hábitos saludables, prevengan enfermedades y contribuyan al bienestar integral de individuos y comunidades.",
+        "ubicacion_sedes": [
+            "Samborondón / Guayaquil"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://ecotec.edu.ec/facultad/ciencias-de-la-salud-y-desarrollo-humano/carrera/nutricion-y-dietetica/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@ecotec.edu.ec"
+    },
+    {
+        "nombre_carrera": "Fisioterapia",
+        "nombre_facultad": "Ciencias de la Salud",
+        "nombre_universidad": "Universidad ECOTEC",
+        "nombre_titulo": "Licenciado",
+        "numero_semestres": "4 años",
+        "malla_url": "https://media.ecotec.edu.ec/docs/grado/mallas/ciencias-de-la-salud/Malla-Fisioterapia-2025.pdf",
+        "descripcion_carrera": "Formar profesionales integrales en Fisioterapia, capaces de gestionar procesos físicos, psicológicos, sociales, ambientales y de rehabilitación con dominio técnico, pensamiento crítico y uso de tecnología e investigación. El programa promueve el desempeño ético, responsable y humanista en contextos nacionales e internacionales.",
+        "ubicacion_sedes": [
+            "Samborondón / Guayaquil"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://ecotec.edu.ec/facultad/ciencias-de-la-salud-y-desarrollo-humano/carrera/fisioterapia/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@ecotec.edu.ec"
+    },
+    {
+        "nombre_carrera": "Enfermeria",
+        "nombre_facultad": "Ciencias de la Salud",
+        "nombre_universidad": "Universidad ECOTEC",
+        "nombre_titulo": "Licenciado",
+        "numero_semestres": "4 años",
+        "malla_url": "https://media.ecotec.edu.ec/docs/grado/mallas/ciencias-de-la-salud/ENFERMERIA-2025-CES.pdf",
+        "descripcion_carrera": "Formar profesionales integrales en el cuidado asistencial y del ciclo vital humano, basados en los fundamentos epistemológicos de la enfermería y en los procesos administrativos, educativos e investigativos. La carrera prepara enfermeros capaces de responder a las necesidades y problemas de salud de la población en entornos hospitalarios y comunitarios.",
+        "ubicacion_sedes": [
+            "Samborondón / Guayaquil"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://ecotec.edu.ec/facultad/ciencias-de-la-salud-y-desarrollo-humano/carrera/enfermeria/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@ecotec.edu.ec"
+    },
+    {
+        "nombre_carrera": "Medicina",
+        "nombre_facultad": "Ciencias de la Salud",
+        "nombre_universidad": "Universidad ECOTEC",
+        "nombre_titulo": "Médico",
+        "numero_semestres": "4 años",
+        "malla_url": "https://media.ecotec.edu.ec/docs/grado/mallas/ciencias-de-la-salud/Malla-Medicina-2025.pdf",
+        "descripcion_carrera": "Formar profesionales de la salud con sólida base científica, pensamiento crítico y ética, capaces de gestionar procesos médicos, aplicar métodos clínicos, epidemiológicos y de investigación, y promover la salud y el bienestar en diversos contextos. La carrera prepara a futuros médicos con visión humanista, responsabilidad social y vocación de servicio.",
+        "ubicacion_sedes": [
+            "Samborondón / Guayaquil"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://ecotec.edu.ec/facultad/ciencias-de-la-salud-y-desarrollo-humano/carrera/medicina/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@ecotec.edu.ec"
+    },
+    {
+        "nombre_carrera": "Universidad en Línea en Ecuador",
+        "nombre_facultad": "Ingenierías",
+        "nombre_universidad": "Universidad ECOTEC",
+        "nombre_titulo": "Universitario o Maestría",
+        "numero_semestres": "No especificado",
+        "malla_url": "No encontrada",
+        "descripcion_carrera": "¡Estudia online y abre las puertas a un futuro lleno de oportunidades! Nuestra institución se destaca por brindar una educación de alto nivel académico que se adapta a tus necesidades y horarios, permitiéndote avanzar en tu carrera sin sacrificar tus compromisos personales y profesionales.",
+        "ubicacion_sedes": [
+            "Samborondón / Guayaquil"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada)",
+        "modalidad": "En línea",
+        "enlace_carrera": "https://online.ecotec.edu.ec",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@ecotec.edu.ec"
+    },
+    {
+        "nombre_carrera": "Admisiones",
+        "nombre_facultad": "Ingenierías",
+        "nombre_universidad": "Universidad ECOTEC",
+        "nombre_titulo": "de Bachiller refrendado",
+        "numero_semestres": "No especificado",
+        "malla_url": "No encontrada",
+        "descripcion_carrera": "Inscripciones Universidad ECOTEC | Admisiones y Requisitos Skip to main content Skip to footer Estudia en ECOTEC Admisiones Estudia en ECOTEC Admisiones Requisitos *Excepto Carrera de Medicina de la facultad de Ciencias de la Salud y Desarrollo Humano Requisitos de Ingreso Foto a color tamaño carné Cédula de identidad Actualizada / 1 copia a color Certificado de Votación de las últimas elecciones / 1 copia a color Título de Bachiller refrendado / 1 copia a color Ambos lados Acta de grado / 1 Copia a color Certificado de conducta / Aplica para graduados del año en curso Referencia Personal o La",
+        "ubicacion_sedes": [
+            "Samborondón / Guayaquil"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://ecotec.edu.ec/grado/admisiones/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@ecotec.edu.ec"
+    },
+    {
+        "nombre_carrera": "Admisiones",
+        "nombre_facultad": "Ingenierías",
+        "nombre_universidad": "Universidad ECOTEC",
+        "nombre_titulo": "de Bachiller refrendado",
+        "numero_semestres": "No especificado",
+        "malla_url": "No encontrada",
+        "descripcion_carrera": "Inscripciones Universidad ECOTEC | Admisiones y Requisitos Skip to main content Skip to footer Estudia en ECOTEC Admisiones Estudia en ECOTEC Admisiones Requisitos *Excepto Carrera de Medicina de la facultad de Ciencias de la Salud y Desarrollo Humano Requisitos de Ingreso Foto a color tamaño carné Cédula de identidad Actualizada / 1 copia a color Certificado de Votación de las últimas elecciones / 1 copia a color Título de Bachiller refrendado / 1 copia a color Ambos lados Acta de grado / 1 Copia a color Certificado de conducta / Aplica para graduados del año en curso Referencia Personal o La",
+        "ubicacion_sedes": [
+            "Samborondón / Guayaquil"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://ecotec.edu.ec/desarrollo-profesional/admisiones/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@ecotec.edu.ec"
+    },
+    {
+        "nombre_carrera": "Inscripciones en Línea",
+        "nombre_facultad": "Ingenierías",
+        "nombre_universidad": "Universidad ECOTEC",
+        "nombre_titulo": "de bachiller Registro del título de bachiller para grado descargado en PDF de la plataforma del Ministerio de Educación o su equivalente y de tercer nivel para posgrado",
+        "numero_semestres": "No especificado",
+        "malla_url": "No encontrada",
+        "descripcion_carrera": "Registro del título de bachiller para grado descargado en PDF de la plataforma del Ministerio de Educación o su equivalente y de tercer nivel para posgrado, descargado en PDF de la plataforma de Senescyt.",
+        "ubicacion_sedes": [
+            "Samborondón / Guayaquil"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada)",
+        "modalidad": "En línea",
+        "enlace_carrera": "https://online.ecotec.edu.ec/admisiones/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@ecotec.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería en Mecatrónica",
+        "nombre_facultad": "Ingenierías",
+        "nombre_universidad": "Universidad ECOTEC",
+        "nombre_titulo": "INGENIERO",
+        "numero_semestres": "4 años",
+        "malla_url": "https://ecotec.edu.ec/content/uploads/2025/05/Malla-Mecatronica.pdf",
+        "descripcion_carrera": "Ingeniería en Mecatrónica | Universidad Tecnológica ECOTEC en Ecuador  Ingeniería en Mecatrónica     y Ciencias de la naturaleza Ingeniería en Mecatrónica  Descargar Malla  Proporciónanos tus datos para brindarte más información sobre nuestro programa de estudios. Nombre y apellido * Correo electrónico * Teléfono celular * Campus de interés * —Por favor, elige una opción— Samborondón Guayaquil La Costa Acepto recibir información de ECOTEC, sobre este y otros programas relevantes vía email/llamada/whatsApp/SMS. Descripción Título que otorga: INGENIERO/A EN MECATRÓNICA Número de Resolución: RPC-",
+        "ubicacion_sedes": [
+            "Samborondón / Guayaquil"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://ecotec.edu.ec/grado/grado-presencial/ingenierias/mecatronica/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@ecotec.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería Industrial",
+        "nombre_facultad": "Ingenierías",
+        "nombre_universidad": "Universidad ECOTEC",
+        "nombre_titulo": "INGENIERO INDUSTRIAL Número de Resolución",
+        "numero_semestres": "4 años",
+        "malla_url": "https://ecotec.edu.ec/content/uploads/2025/05/Malla-Ingenieria-Industrial.pdf",
+        "descripcion_carrera": "Ingeniería Industrial | Universidad Tecnológica ECOTEC en Ecuador  Ingeniería Industrial     y Ciencias de la naturaleza Ingeniería Industrial  Descargar Malla  Proporciónanos tus datos para brindarte más información sobre nuestro programa de estudios. Nombre y apellido * Correo electrónico * Teléfono celular * Campus de interés * —Por favor, elige una opción— Samborondón Guayaquil La Costa Acepto recibir información de ECOTEC, sobre este y otros programas relevantes vía email/llamada/whatsApp/SMS. Descripción Título que otorga: INGENIERO INDUSTRIAL Número de Resolución: RPC-SO-15-No.309-2020 ",
+        "ubicacion_sedes": [
+            "Samborondón / Guayaquil"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://ecotec.edu.ec/grado/grado-presencial/ingenierias/ingenieria-industrial/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@ecotec.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería Agrónoma",
+        "nombre_facultad": "Ingenierías",
+        "nombre_universidad": "Universidad ECOTEC",
+        "nombre_titulo": "INGENIERO AGRÓNOMO Número de Resolución",
+        "numero_semestres": "4 años",
+        "malla_url": "https://ecotec.edu.ec/content/uploads/2025/05/Malla-Agronomia.pdf",
+        "descripcion_carrera": "Ingeniería Agrónoma | Universidad Tecnológica ECOTEC en Ecuador  Ingeniería Agrónoma     y Ciencias de la naturaleza Ingeniería Agrónoma  Descargar Malla  Proporciónanos tus datos para brindarte más información sobre nuestro programa de estudios. Nombre y apellido * Correo electrónico * Teléfono celular * Campus de interés * —Por favor, elige una opción— Samborondón Guayaquil La Costa Acepto recibir información de ECOTEC, sobre este y otros programas relevantes vía email/llamada/whatsApp/SMS. Descripción Título que otorga: INGENIERO AGRÓNOMO Número de Resolución: RPC-SO-41-No.673-2018 Modalida",
+        "ubicacion_sedes": [
+            "Samborondón / Guayaquil"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://ecotec.edu.ec/grado/grado-presencial/ingenierias/ingenieria-agronoma/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@ecotec.edu.ec"
+    },
+    {
+        "nombre_carrera": "Sistemas Inteligentes",
+        "nombre_facultad": "Ingenierías",
+        "nombre_universidad": "Universidad ECOTEC",
+        "nombre_titulo": "INGENIERO",
+        "numero_semestres": "4 años",
+        "malla_url": "https://ecotec.edu.ec/content/uploads/2025/04/Malla-Sistemas-Inteligentes-2025.pdf",
+        "descripcion_carrera": "Sistemas Inteligentes | Universidad Tecnológica ECOTEC en Ecuador  Sistemas Inteligentes     y Ciencias de la naturaleza Sistemas Inteligentes  Descargar Malla  Proporciónanos tus datos para brindarte más información sobre nuestro programa de estudios. Nombre y apellido * Correo electrónico * Teléfono celular * Campus de interés * —Por favor, elige una opción— Samborondón Guayaquil La Costa Acepto recibir información de ECOTEC, sobre este y otros programas relevantes vía email/llamada/whatsApp/SMS. Descripción Título que otorga: INGENIERO/A EN SISTEMAS INTELIGENTES Número de Resolución: RPC-SO",
+        "ubicacion_sedes": [
+            "Samborondón / Guayaquil"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://ecotec.edu.ec/grado/grado-presencial/ingenierias/sistemas-inteligentes/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@ecotec.edu.ec"
+    },
+    {
+        "nombre_carrera": "Arquitectura",
+        "nombre_facultad": "Ingenierías",
+        "nombre_universidad": "Universidad ECOTEC",
+        "nombre_titulo": "ARQUITECTO Número de Resolución",
+        "numero_semestres": "4 años",
+        "malla_url": "https://ecotec.edu.ec/content/uploads/2025/05/Malla-Arquitectura.pdf",
+        "descripcion_carrera": "Arquitectura | Universidad Tecnológica ECOTEC en Ecuador  Arquitectura     y Ciencias de la naturaleza Arquitectura  Descargar Malla  Proporciónanos tus datos para brindarte más información sobre nuestro programa de estudios. Nombre y apellido * Correo electrónico * Teléfono celular * Campus de interés * —Por favor, elige una opción— Samborondón Guayaquil La Costa Acepto recibir información de ECOTEC, sobre este y otros programas relevantes vía email/llamada/whatsApp/SMS. Descripción Título que otorga: ARQUITECTO Número de Resolución: RPC-SO-50-No.837-2023 Modalidad de aprendizaje:  Tiempo de ",
+        "ubicacion_sedes": [
+            "Samborondón / Guayaquil"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://ecotec.edu.ec/grado/grado-presencial/ingenierias/arquitectura/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@ecotec.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería Civil",
+        "nombre_facultad": "Ingenierías",
+        "nombre_universidad": "Universidad ECOTEC",
+        "nombre_titulo": "INGENIERO",
+        "numero_semestres": "4 años",
+        "malla_url": "https://ecotec.edu.ec/content/uploads/2025/05/Malla-Ingenieria-Civil.pdf",
+        "descripcion_carrera": "Ingeniería Civil | Universidad Tecnológica ECOTEC en Ecuador  Ingeniería Civil     y Ciencias de la naturaleza Ingeniería Civil  Descargar Malla  Proporciónanos tus datos para brindarte más información sobre nuestro programa de estudios. Nombre y apellido * Correo electrónico * Teléfono celular * Campus de interés * —Por favor, elige una opción— Samborondón Guayaquil La Costa Acepto recibir información de ECOTEC, sobre este y otros programas relevantes vía email/llamada/whatsApp/SMS. Descripción Título que otorga: INGENIERO/A CIVIL Número de Resolución: RCP-SO-04-No.064-2024 Modalidad de apren",
+        "ubicacion_sedes": [
+            "Samborondón / Guayaquil"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://ecotec.edu.ec/grado/grado-presencial/ingenierias/ingenieria-civil/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@ecotec.edu.ec"
+    },
+    {
+        "nombre_carrera": "Medicina Veterinaria",
+        "nombre_facultad": "Ingenierías",
+        "nombre_universidad": "Universidad ECOTEC",
+        "nombre_titulo": "MÉDICO VETERINARIO Número de Resolución",
+        "numero_semestres": "5 años",
+        "malla_url": "https://ecotec.edu.ec/content/uploads/2025/05/Malla-Medicina-Veterinaria.pdf",
+        "descripcion_carrera": "Medicina Veterinaria | Universidad Tecnológica ECOTEC en Ecuador  Medicina Veterinaria     y Ciencias de la naturaleza Medicina Veterinaria  Descargar Malla  Proporciónanos tus datos para brindarte más información sobre nuestro programa de estudios. Nombre y apellido * Correo electrónico * Teléfono celular * Campus de interés * —Por favor, elige una opción— Samborondón Guayaquil La Costa Acepto recibir información de ECOTEC, sobre este y otros programas relevantes vía email/llamada/whatsApp/SMS. Descripción Título que otorga: MÉDICO VETERINARIO Número de Resolución: RCP-SO-07-No.110-2024 Modal",
+        "ubicacion_sedes": [
+            "Samborondón / Guayaquil"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://ecotec.edu.ec/grado/grado-presencial/ingenierias/veterinaria/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@ecotec.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería Ambiental",
+        "nombre_facultad": "Ingenierías",
+        "nombre_universidad": "Universidad ECOTEC",
+        "nombre_titulo": "INGENIERO AMBIENTAL Número de Resolución",
+        "numero_semestres": "4 años",
+        "malla_url": "https://ecotec.edu.ec/content/uploads/2025/05/Malla-Ingenieria-Ambiental-2025.pdf",
+        "descripcion_carrera": "Ingeniería Ambiental | Universidad Tecnológica ECOTEC en Ecuador  Ingeniería Ambiental     y Ciencias de la naturaleza Ingeniería Ambiental  Descargar Malla  Proporciónanos tus datos para brindarte más información sobre nuestro programa de estudios. Nombre y apellido * Correo electrónico * Teléfono celular * Campus de interés * —Por favor, elige una opción— Samborondón Guayaquil La Costa Acepto recibir información de ECOTEC, sobre este y otros programas relevantes vía email/llamada/whatsApp/SMS. Descripción Título que otorga: INGENIERO AMBIENTAL Número de Resolución: RPC-SO-09-No.133-2025 Moda",
+        "ubicacion_sedes": [
+            "Samborondón / Guayaquil"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://ecotec.edu.ec/grado/grado-presencial/ingenierias/ingenieria-ambiental/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@ecotec.edu.ec"
+    },
+    {
+        "nombre_carrera": "Tecnologías de la Información",
+        "nombre_facultad": "Ingenierías",
+        "nombre_universidad": "Universidad ECOTEC",
+        "nombre_titulo": "INGENIERO",
+        "numero_semestres": "4 años",
+        "malla_url": "https://ecotec.edu.ec/content/uploads/carreras/PDFCARRERAS/tecnologiasdelainformacion.pdf",
+        "descripcion_carrera": "Tecnologías de la Información | Universidad Tecnológica ECOTEC en Ecuador  Tecnologías de la Información     y Ciencias de la naturaleza Tecnologías de la Información  Descargar Malla  Proporciónanos tus datos para brindarte más información sobre nuestro programa de estudios. Nombre y apellido * Correo electrónico * Teléfono celular * Campus de interés * —Por favor, elige una opción— Samborondón Guayaquil La Costa Acepto recibir información de ECOTEC, sobre este y otros programas relevantes vía email/llamada/whatsApp/SMS. Descripción Título que otorga: INGENIERO/A EN TECNOLOGÍAS DE LA INFORMAC",
+        "ubicacion_sedes": [
+            "Samborondón / Guayaquil"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://ecotec.edu.ec/grado/grado-presencial/ingenierias/tecnologias-de-la-informacion/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@ecotec.edu.ec"
+    },
+    {
+        "nombre_carrera": "Derecho",
+        "nombre_facultad": "Derecho",
+        "nombre_universidad": "Universidad ECOTEC",
+        "nombre_titulo": "Abogado",
+        "numero_semestres": "4 años",
+        "malla_url": "https://media.ecotec.edu.ec/docs/grado/mallas/derecho-y-gobernabilidad/Malla-Derecho-2025.pdf",
+        "descripcion_carrera": "Formar profesionales del Derecho capaces de identificar y analizar situaciones jurídicas, investigar mediante herramientas tecnológicas y diseñar modelos de solución y desarrollo social basados en principios éticos y de justicia. El programa prepara a futuros abogados para asesorar, representar y administrar justicia en contextos nacionales e internacionales.",
+        "ubicacion_sedes": [
+            "Samborondón / Guayaquil"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://ecotec.edu.ec/facultad/derecho-y-gobernabilidad/carrera/derecho/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@ecotec.edu.ec"
+    },
+    {
+        "nombre_carrera": "Criminalistica",
+        "nombre_facultad": "Derecho",
+        "nombre_universidad": "Universidad ECOTEC",
+        "nombre_titulo": "Licenciado",
+        "numero_semestres": "4 años",
+        "malla_url": "https://media.ecotec.edu.ec/admin/files/docs/grado/mallas/derecho-y-gobernabilidad/Malla-Criminalistica-2025.pdf",
+        "descripcion_carrera": "Formar profesionales integrales capaces de investigar, analizar y verificar hechos delictivos mediante métodos científicos y técnicos. La carrera prepara expertos en criminalística con dominio de herramientas de investigación, uso de tecnologías informáticas, manejo adecuado de indicios y fortalecimiento ético, profesional y responsable en contextos nacionales e internacionales.",
+        "ubicacion_sedes": [
+            "Samborondón / Guayaquil"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://ecotec.edu.ec/facultad/derecho-y-gobernabilidad/carrera/criminalistica/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@ecotec.edu.ec"
+    },
+    {
+        "nombre_carrera": "Multimedia y Producción Audiovisual",
+        "nombre_facultad": "Marketing",
+        "nombre_universidad": "Universidad ECOTEC",
+        "nombre_titulo": "LICENCIADO",
+        "numero_semestres": "4 años",
+        "malla_url": "https://ecotec.edu.ec/content/uploads/2025/03/Malla-Multimedia-y-Produccion-Audiovisual-2025.pdf",
+        "descripcion_carrera": "Multimedia y Producción Audiovisual | Universidad Tecnológica ECOTEC en Ecuador  Multimedia y Producción Audiovisual    Comunicación, Humanidades y Creatividad Multimedia y Producción Audiovisual  Descargar Malla  Proporciónanos tus datos para brindarte más información sobre nuestro programa de estudios. Nombre y apellido * Correo electrónico * Teléfono celular * Campus de interés * —Por favor, elige una opción— Samborondón Guayaquil La Costa Acepto recibir información de ECOTEC, sobre este y otros programas relevantes vía email/llamada/whatsApp/SMS. Descripción Título que otorga: LICENCIADO/A",
+        "ubicacion_sedes": [
+            "Samborondón / Guayaquil"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://ecotec.edu.ec/grado/grado-presencial/marketing-y-comunicacion/multimedia-y-produccion-audiovisual/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@ecotec.edu.ec"
+    },
+    {
+        "nombre_carrera": "Psicologia",
+        "nombre_facultad": "Marketing",
+        "nombre_universidad": "Universidad ECOTEC",
+        "nombre_titulo": "LICENCIADO",
+        "numero_semestres": "4 años",
+        "malla_url": "https://ecotec.edu.ec/content/uploads/2025/03/Malla-Psicologia-2025.pdf",
+        "descripcion_carrera": "Psicología | Universidad Tecnológica ECOTEC en Ecuador     Comunicación, Humanidades y Creatividad Psicología  Descargar Malla  Proporciónanos tus datos para brindarte más información sobre nuestro programa de estudios. Nombre y apellido * Correo electrónico * Teléfono celular * Campus de interés * —Por favor, elige una opción— Samborondón Guayaquil La Costa Acepto recibir información de ECOTEC, sobre este y otros programas relevantes vía email/llamada/whatsApp/SMS. Descripción Título que otorga: LICENCIADO/A EN PSICOLOGÍA Número de Resolución: RPC-SO-15-No.309-2020 Modalidad de aprendizaje:  ",
+        "ubicacion_sedes": [
+            "Samborondón / Guayaquil"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://ecotec.edu.ec/grado/grado-presencial/marketing-y-comunicacion/psicologia/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@ecotec.edu.ec"
+    },
+    {
+        "nombre_carrera": "Marketing",
+        "nombre_facultad": "Marketing",
+        "nombre_universidad": "Universidad ECOTEC",
+        "nombre_titulo": "LICENCIADO",
+        "numero_semestres": "4 años",
+        "malla_url": "https://ecotec.edu.ec/content/uploads/2025/05/Malla-Marketing.pdf",
+        "descripcion_carrera": "Marketing | Universidad Tecnológica ECOTEC en Ecuador  Marketing    Comunicación, Humanidades y Creatividad Marketing  Descargar Malla  Proporciónanos tus datos para brindarte más información sobre nuestro programa de estudios. Nombre y apellido * Correo electrónico * Teléfono celular * Campus de interés * —Por favor, elige una opción— Samborondón Guayaquil La Costa Acepto recibir información de ECOTEC, sobre este y otros programas relevantes vía email/llamada/whatsApp/SMS. Descripción Título que otorga: LICENCIADO/A EN MARKETING Número de Resolución: RPC-SO-15-No.309-2020 Modalidad de aprendi",
+        "ubicacion_sedes": [
+            "Samborondón / Guayaquil"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://ecotec.edu.ec/grado/grado-presencial/marketing-y-comunicacion/marketing/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@ecotec.edu.ec"
+    },
+    {
+        "nombre_carrera": "Comunicación",
+        "nombre_facultad": "Marketing",
+        "nombre_universidad": "Universidad ECOTEC",
+        "nombre_titulo": "LICENCIADO",
+        "numero_semestres": "4 años",
+        "malla_url": "https://ecotec.edu.ec/content/uploads/2025/05/Malla-Comunicacion.pdf",
+        "descripcion_carrera": "Comunicación | Universidad Tecnológica ECOTEC en Ecuador  Comunicación    Comunicación, Humanidades y Creatividad Comunicación  Descargar Malla  Proporciónanos tus datos para brindarte más información sobre nuestro programa de estudios. Nombre y apellido * Correo electrónico * Teléfono celular * Campus de interés * —Por favor, elige una opción— Samborondón Guayaquil La Costa Acepto recibir información de ECOTEC, sobre este y otros programas relevantes vía email/llamada/whatsApp/SMS. Carrera acreditada Carrera acreditada Descripción Título que otorga: LICENCIADO/A EN COMUNICACIÓN Número de Reso",
+        "ubicacion_sedes": [
+            "Samborondón / Guayaquil"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://ecotec.edu.ec/grado/grado-presencial/marketing-y-comunicacion/comunicacion/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@ecotec.edu.ec"
+    },
+    {
+        "nombre_carrera": "Periodismo",
+        "nombre_facultad": "Marketing",
+        "nombre_universidad": "Universidad ECOTEC",
+        "nombre_titulo": "LICENCIADO",
+        "numero_semestres": "4 años",
+        "malla_url": "https://ecotec.edu.ec/content/uploads/2025/03/Malla-Periodismo-2025.pdf",
+        "descripcion_carrera": "Periodismo | Universidad Tecnológica ECOTEC en Ecuador  Periodismo    Comunicación, Humanidades y Creatividad Periodismo  Descargar Malla  Proporciónanos tus datos para brindarte más información sobre nuestro programa de estudios. Nombre y apellido * Correo electrónico * Teléfono celular * Campus de interés * —Por favor, elige una opción— Samborondón Guayaquil La Costa Acepto recibir información de ECOTEC, sobre este y otros programas relevantes vía email/llamada/whatsApp/SMS. Descripción Título que otorga: LICENCIADO/A EN PERIODISMO Número de Resolución: RPC-SO-15-No.309-2020 Modalidad de apr",
+        "ubicacion_sedes": [
+            "Samborondón / Guayaquil"
+        ],
+        "tipo_universidad": "Privada",
+        "costo": "Consultar (Privada)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://ecotec.edu.ec/grado/grado-presencial/marketing-y-comunicacion/periodismo/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@ecotec.edu.ec"
+    }
+]
