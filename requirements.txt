@@ -14,3 +14,11 @@ google-generativeai
 python-dotenv
 Pillow
 pdf2image
+huggingface_hub
+sentence-transformers
+torch
+install
+transformers
+torch
+accelerate
+sentencepiece
