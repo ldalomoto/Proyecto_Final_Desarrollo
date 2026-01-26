@@ -1,207 +1,176 @@
-import requests
-from bs4 import BeautifulSoup
+import time
 import json
 import os
 import re
 from datetime import datetime
-import urllib3
-
-# Configuración
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-    'Connection': 'keep-alive'
-}
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
+from bs4 import BeautifulSoup
 
 def clean_text(text):
     if not text: return ""
     return " ".join(text.strip().split())
 
-def scrape_utmach_v3():
-    print("--- Iniciando Scraping UTMACH V3 (Rastreador de Home) ---")
+def scrape_uce_total():
+    print("--- Iniciando Scraping UCE TOTAL (Sin filtro de enlaces / Validación de Contenido) ---")
     
     if not os.path.exists('data'):
         os.makedirs('data')
 
-    UNI_DATA = {
-        "nombre_universidad": "Universidad Técnica de Machala",
-        "siglas": "UTMACH",
-        "ubicacion": "Machala",
-        "tipo": "Pública",
-        "contacto": "comunicacion@utmachala.edu.ec",
-        "costo": "Gratuita (sujeta a Ley de Gratuidad)"
-    }
+    chrome_options = Options()
+    chrome_options.add_argument("--window-size=1280,720")
+    chrome_options.add_argument("--disable-gpu")
+    chrome_options.add_argument("--log-level=3")
 
-    base_url = "https://utmachala.edu.ec"
-    
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
+
+    # Lista de facultades
+    facultades = [
+        {"siglas": "FAU", "url": "https://www.uce.edu.ec/web/fau"},
+        {"siglas": "FCA", "url": "https://www.uce.edu.ec/web/fca"},
+        {"siglas": "FAG", "url": "https://www.uce.edu.ec/web/fag"},
+        {"siglas": "FCE", "url": "https://www.uce.edu.ec/web/fce"},
+        {"siglas": "FACSO", "url": "https://www.uce.edu.ec/web/facso"},
+        {"siglas": "FIL", "url": "https://www.uce.edu.ec/web/fil"},
+        {"siglas": "FING", "url": "https://www.uce.edu.ec/web/fing"},
+        {"siglas": "FCM", "url": "https://www.uce.edu.ec/web/fcm"},
+        {"siglas": "JURIS", "url": "https://www.uce.edu.ec/web/juris"},
+        {"siglas": "FIQ", "url": "https://www.uce.edu.ec/web/fiq"},
+        {"siglas": "ODONTO", "url": "https://www.uce.edu.ec/web/fo"},
+        {"siglas": "PSICO", "url": "https://www.uce.edu.ec/web/fps"}
+    ]
+
     careers_data = []
-    urls_visitadas = set()
+    
+    # Palabras que indican que NO es una carrera (para ahorrar tiempo)
+    skip_keywords = ["noticias", "eventos", "login", "document", "pdf", "jpg", "png", "mail", "transparencia", "rendicion", "horario"]
 
-    try:
-        print(f"🌍 Conectando a la página principal: {base_url}...")
-        response = requests.get(base_url, headers=headers, verify=False, timeout=30)
+    for fac in facultades:
+        print(f"\n🏛️ Explorando Facultad: {fac['siglas']}...")
         
-        if response.status_code != 200:
-            print(f"❌ Error crítico: La página devolvió código {response.status_code}")
-            return
-
-        soup = BeautifulSoup(response.text, 'html.parser')
-        
-        # Obtener TODOS los enlaces
-        links = soup.find_all('a', href=True)
-        print(f"   --> ¡Enlaces encontrados en la portada!: {len(links)}")
-
-        # Palabras clave para detectar carreras
-        keywords = [
-            'ingenieria', 'licenciatura', 'medicina', 'enfermeria', 'derecho', 
-            'economia', 'turismo', 'alimentos', 'agronomia', 'acuicultura', 
-            'civil', 'psicologia', 'educacion', 'comunicacion', 'marketing', 
-            'contabilidad', 'auditoria', 'trabajo-social', 'artes', 'plastica',
-            'pedagogia', 'veterinaria', 'biologia', 'quimica', 'sistemas', 'software'
-        ]
-
-        # Palabras para descartar basura
-        blacklist = [
-            'noticia', 'evento', 'posgrado', 'maestria', 'bienestar', 'investigacion', 
-            'biblioteca', 'aseguramiento', 'autoridades', 'directorio', 'transparencia',
-            'login', 'campus', 'radio', 'tv', 'admision'
-        ]
-
-        count_candidatas = 0
-
-        for link in links:
-            href = link['href']
-            full_url = href if href.startswith("http") else base_url + href
-            text_link = clean_text(link.text).lower()
-            url_lower = full_url.lower()
+        try:
+            driver.get(fac['url'])
+            time.sleep(5) # Dejar que carguen menús dinámicos
             
-            # --- FILTROS ---
-            # 1. Validar dominio
-            if "utmachala.edu.ec" not in url_lower: continue
-
-            # 2. Debe tener palabra clave en la URL o en el Texto
-            tiene_keyword_url = any(k in url_lower for k in keywords)
-            tiene_keyword_txt = any(k in text_link for k in keywords)
+            soup_index = BeautifulSoup(driver.page_source, 'html.parser')
+            all_links = soup_index.find_all('a', href=True)
             
-            # 3. No debe ser basura
-            es_basura = any(b in url_lower for b in blacklist)
-
-            if (tiene_keyword_url or (tiene_keyword_txt and len(text_link) > 5)) and not es_basura:
+            # FASE 1: RECOLECCIÓN MASIVA
+            candidates = set()
+            for link in all_links:
+                href = link['href']
                 
-                # Evitar duplicados y la home misma
-                if full_url not in urls_visitadas and full_url != base_url and full_url != base_url+"/":
-                    urls_visitadas.add(full_url)
-                    count_candidatas += 1
-                    print(f"   🔎 Analizando candidata ({count_candidatas}): {full_url}...")
+                # Normalizar URL
+                full_url = href if href.startswith("http") else "https://www.uce.edu.ec" + href
+                
+                # Debe ser interna de la UCE y de esta facultad
+                if "uce.edu.ec/web/" in full_url and fac['siglas'].lower() in full_url.lower():
+                    # No puede ser la home
+                    if full_url != fac['url']:
+                        # Filtro de basura obvia en la URL
+                        if not any(x in full_url.lower() for x in skip_keywords):
+                            candidates.add(full_url)
+            
+            print(f"   --> {len(candidates)} enlaces internos encontrados. Analizando contenido...")
 
-                    try:
-                        c_resp = requests.get(full_url, headers=headers, verify=False, timeout=20)
-                        c_soup = BeautifulSoup(c_resp.text, 'html.parser')
+            # FASE 2: VISITA Y VALIDACIÓN
+            for i, url in enumerate(candidates):
+                try:
+                    driver.get(url)
+                    # Espera corta, si es texto carga rápido
+                    time.sleep(1.5)
+                    
+                    c_soup = BeautifulSoup(driver.page_source, 'html.parser')
+                    body_text = c_soup.get_text(" ", strip=True)
+                    body_lower = body_text.lower()
 
+                    # --- EL FILTRO DE VERDAD (CONTENIDO) ---
+                    # Para ser carrera, debe tener al menos 2 evidencias académicas
+                    evidence = 0
+                    if "perfil" in body_lower and "egreso" in body_lower: evidence += 2 # Fuerte indicio
+                    if "malla" in body_lower: evidence += 1
+                    if "título" in body_lower and "otorga" in body_lower: evidence += 1
+                    if "campo" in body_lower and "laboral" in body_lower: evidence += 1
+                    if "semestres" in body_lower or "créditos" in body_lower: evidence += 1
+                    
+                    # Evitar falsos positivos (Autoridades, Historia)
+                    if "decano" in body_lower and len(body_text) < 1000: evidence -= 5
+                    if "misión" in body_lower and "visión" in body_lower and len(body_text) < 1000: evidence -= 5
+
+                    if evidence >= 2:
+                        # 1. NOMBRE REAL
+                        # Intentar sacar del H1, o buscar texto grande
+                        h1 = c_soup.find('h1') or c_soup.find('h2', class_='header-title')
+                        nombre_real = clean_text(h1.text) if h1 else ""
+                        
+                        # Si el H1 es genérico (Visor), buscar patrón "Carrera de X"
+                        if not nombre_real or "visor" in nombre_real.lower() or "bienvenido" in nombre_real.lower():
+                            # Buscar en el título de la pestaña del navegador
+                            nombre_real = driver.title.split('-')[0].strip()
+                        
                         # Limpieza
-                        for trash in c_soup.select('header, nav, footer, .sidebar, .widget, .elementor-location-header'): 
-                            trash.decompose()
+                        nombre_final = re.sub(r'Carrera de|Licenciatura en|Ingeniería en|Rediseño|Vigente|Inicio|Home', '', nombre_real, flags=re.I).strip()
                         
-                        body_text = c_soup.get_text(" ", strip=True)
+                        # Si después de limpiar queda vacío o es basura, saltar
+                        if len(nombre_final) < 4 or "facultad" in nombre_final.lower(): continue
 
-                        # VALIDACIÓN DE CONTENIDO: ¿Es realmente una carrera?
-                        # Debe tener palabras como "Título", "Malla", "Perfil", "Duración"
-                        es_carrera_real = False
-                        if "título" in body_text.lower() or "titulo" in body_text.lower(): es_carrera_real = True
-                        if "malla" in body_text.lower() and "perfil" in body_text.lower(): es_carrera_real = True
-                        
-                        if not es_carrera_real:
-                            # print("      🗑️ Descartada (Falta información clave)")
-                            continue
-
-                        # --- EXTRACCIÓN ---
-
-                        # 1. NOMBRE
-                        h1 = c_soup.find('h1')
-                        nombre_carrera = clean_text(h1.text) if h1 else ""
-                        
-                        if not nombre_carrera or "Facultad" in nombre_carrera:
-                            # Intentar sacarlo del título de la página
-                            nombre_carrera = c_soup.title.text.split('|')[0].replace("Carrera de", "").strip()
-
-                        # 2. FACULTAD
-                        facultad = "No especificada"
-                        # Buscar "Facultad de ..."
-                        match_fac = re.search(r'(Facultad de [A-Za-zÁÉÍÓÚáéíóúñÑ\s]+)', body_text)
-                        if match_fac:
-                            facultad = clean_text(match_fac.group(1))
-                        else:
-                            # Deducción por URL
-                            if "agro" in full_url: facultad = "Ciencias Agropecuarias"
-                            elif "salud" in full_url or "medicina" in full_url: facultad = "Ciencias Químicas y de la Salud"
-                            elif "civil" in full_url or "sistemas" in full_url: facultad = "Ingeniería Civil"
-                            elif "sociales" in full_url or "derecho" in full_url: facultad = "Ciencias Sociales"
-                            elif "empresarial" in full_url: facultad = "Ciencias Empresariales"
-
-                        # 3. TÍTULO
+                        # 2. TÍTULO
                         titulo = "No especificado"
-                        match_tit = re.search(r'(?:Título|Titulo|Otorga)[:\s]*([A-Za-zÁÉÍÓÚáéíóúñÑ\s\.]+)', body_text, re.IGNORECASE)
-                        if match_tit: titulo = clean_text(match_tit.group(1))
+                        mt = re.search(r'(?:Título|Titulo|Otorga)[:\s]*([A-Za-zÁÉÍÓÚáéíóúñÑ\s\.]+)', body_text, re.IGNORECASE)
+                        if mt: titulo = clean_text(mt.group(1))
 
-                        # 4. DURACIÓN
-                        semestres = "No especificado"
-                        match_sem = re.search(r'(\d+\s*(?:semestres|niveles|ciclos|periodos))', body_text, re.IGNORECASE)
-                        if match_sem: semestres = match_sem.group(1)
-
-                        # 5. MALLA
-                        malla = "No encontrada"
-                        for a_tag in c_soup.find_all('a', href=True):
-                            if a_tag['href'].lower().endswith('.pdf') and ("malla" in a_tag.text.lower() or "curricular" in a_tag.text.lower()):
-                                malla = a_tag['href']
+                        # 3. MALLA (PDF Estricto)
+                        malla_url = "No encontrada"
+                        pdfs = c_soup.find_all('a', href=re.compile(r'\.pdf$', re.I))
+                        for p in pdfs:
+                            if "malla" in p.text.lower() or "plan" in p.text.lower():
+                                malla_url = p['href']
+                                if not malla_url.startswith("http"): malla_url = "https://www.uce.edu.ec" + malla_url
                                 break
-                        if malla != "No encontrada" and not malla.startswith("http"):
-                            malla = base_url + malla
-
-                        # 6. DESCRIPCIÓN
-                        descripcion = ""
-                        # Buscar párrafos significativos
-                        paragraphs = c_soup.find_all('p')
-                        for p in paragraphs:
-                            txt = clean_text(p.text)
-                            if len(txt) > 200 and "cookies" not in txt.lower():
-                                descripcion = txt[:800]
+                        
+                        # 4. DESCRIPCIÓN
+                        desc = ""
+                        for p in c_soup.find_all('p'):
+                            if len(p.text) > 200:
+                                desc = clean_text(p.text)[:600]
                                 break
-                        if not descripcion: descripcion = body_text[:600]
 
+                        # GUARDAR
                         item = {
-                            "nombre_carrera": nombre_carrera,
-                            "nombre_facultad": facultad,
-                            "nombre_universidad": UNI_DATA["nombre_universidad"],
+                            "nombre_carrera": nombre_final,
+                            "nombre_facultad": fac['siglas'],
+                            "nombre_universidad": "Universidad Central del Ecuador",
                             "nombre_titulo": titulo,
-                            "numero_semestres": semestres,
-                            "malla_url": malla,
-                            "descripcion_carrera": descripcion,
-                            "ubicacion_sedes": [UNI_DATA["ubicacion"]],
-                            "tipo_universidad": UNI_DATA["tipo"],
-                            "costo": UNI_DATA["costo"],
-                            "modalidad": "Presencial", # UTMACH estándar
-                            "enlace_carrera": full_url,
-                            "fecha_recoleccion": datetime.now().strftime("%Y-%m-%d"),
-                            "contacto_universidad": UNI_DATA["contacto"]
+                            "malla_url": malla_url,
+                            "descripcion_carrera": desc,
+                            "ubicacion_sedes": ["Quito"],
+                            "tipo_universidad": "Pública",
+                            "enlace_carrera": url,
+                            "fecha_recoleccion": datetime.now().strftime("%Y-%m-%d")
                         }
-                        careers_data.append(item)
-                        print(f"      ✅ Guardado: {nombre_carrera}")
 
-                    except Exception as e:
-                        print(f"      ❌ Error interno: {e}")
+                        # Evitar duplicados exactos
+                        if not any(c['enlace_carrera'] == url for c in careers_data):
+                            careers_data.append(item)
+                            print(f"      ✅ ENCONTRADA: {nombre_final}")
 
-    except Exception as e:
-        print(f"Error general: {e}")
+                except Exception:
+                    pass
 
-    # Guardar
+        except Exception as e:
+            print(f"   ⚠️ Error en facultad {fac['siglas']}: {e}")
+
+    driver.quit()
+
     if careers_data:
-        file_path = os.path.join("data", "UTMACH_careers.json")
+        file_path = os.path.join("data", "UCE_careers_total.json")
         with open(file_path, 'w', encoding='utf-8') as f:
             json.dump(careers_data, f, ensure_ascii=False, indent=4)
-        print(f"\n💾 ÉXITO: {file_path} generado con {len(careers_data)} carreras.")
+        print(f"\n💾 RECOPILACIÓN EXITOSA: {len(careers_data)} carreras reales guardadas.")
     else:
-        print("⚠️ No se encontraron carreras. (Si esto falla, la web de UTMACH está bloqueando robots).")
+        print("⚠️ No se encontraron datos. La web puede ser una SPA muy compleja.")
 
 if __name__ == "__main__":
-    scrape_utmach_v3()
+    scrape_uce_total()
