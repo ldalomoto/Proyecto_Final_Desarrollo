@@ -52,3 +52,4 @@ asyncpg
 psycopg2-binary
 pgvector
 supabase
+redis
