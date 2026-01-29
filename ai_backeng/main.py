@@ -49,6 +49,7 @@ async def startup():
 async def reset_session(user_id: str):
     session_manager.delete(user_id)
     return {"status": "ok"}
+
 @app.post("/chat")
 async def chat(input: ChatInput):
     pool = await get_pool()
