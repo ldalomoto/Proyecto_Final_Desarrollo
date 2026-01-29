@@ -1,71 +1,108 @@
-import google.generativeai as genai
+import requests
 import json
 import re
 
-# Configura tu API KEY aquí o en variables de entorno
-# genai.configure(api_key="TU_API_KEY")
+OLLAMA_URL = "http://localhost:11434/api/generate"
+MODEL_NAME = "mistral:7b-instruct"
+
+
+def set_nested(data: dict, path: str, value):
+    """Setea valores en dicts anidados usando path tipo preferencias.ciudad"""
+    keys = path.split(".")
+    for k in keys[:-1]:
+        data = data.setdefault(k, {})
+    data[keys[-1]] = value
+
 
 def extract_profile_updates(user_message: str, current_profile: dict):
-    model = genai.GenerativeModel("gemini-2.0-flash")
-    
-    # NO le pasamos el perfil completo. Solo queremos extraer datos nuevos.
     prompt = f"""
-    Actúa como un extractor de entidades para un sistema de orientación vocacional.
-    
-    MENSAJE DEL USUARIO: "{user_message}"
-    
-    TU TAREA:
-    Analiza el mensaje y extrae SOLO la información nueva explícita en formato JSON.
-    
-    CAMPOS A BUSCAR:
-    - nombre: (str) Solo si el usuario se presenta.
-    - ciudad: (str) Ciudad de residencia.
-    - habilidades: (list) Habilidades técnicas o blandas (ej: "sé python", "liderazgo").
-    - intereses: (list) Temas que le gustan (ej: "inteligencia artificial", "mecánica").
-    - materias_fuertes: (list) Materias donde le va bien.
-    - materias_debiles: (list) Materias que no le gustan o le cuestan.
-    - has_career_intent: (bool) TRUE si el mensaje implica una preferencia vocacional, búsqueda de carrera o habilidad. FALSE si es solo saludo o charla casual.
-    
-    REGLAS:
-    1. Si no hay info para un campo, NO lo incluyas en el JSON.
-    2. Responde SOLO con el JSON válido, sin bloques de código ```json.
-    """
-    
-    try:
-        response = model.generate_content(prompt)
-        
-        # Limpieza robusta de JSON (a veces los modelos meten texto extra)
-        clean_text = response.text.strip()
-        # Eliminar posibles bloques de código markdown
-        clean_text = re.sub(r"```json|```", "", clean_text).strip()
-        
-        updates = json.loads(clean_text)
-        
-        # --- AQUÍ SUCEDE LA MAGIA EN PYTHON (Merge Seguro) ---
-        
-        # 1. Copiamos el perfil actual para no mutar el original por error
-        updated_profile = current_profile.copy()
-        
-        # 2. Actualizamos campos simples (sobre-escritura)
-        for field in ["nombre", "ciudad"]:
-            if field in updates and updates[field]:
-                updated_profile[field] = updates[field]
-                
-        # 3. Actualizamos listas (append sin duplicados)
-        list_fields = ["habilidades", "intereses", "materias_fuertes", "materias_debiles"]
-        for field in list_fields:
-            if field in updates and isinstance(updates[field], list):
-                # Aseguramos que exista la lista en el perfil original
-                if field not in updated_profile:
-                    updated_profile[field] = []
-                
-                # Agregamos solo lo que no existía (evita duplicados exactos)
-                current_set = set(updated_profile[field])
-                for item in updates[field]:
-                    if item not in current_set:
-                        updated_profile[field].append(item)
+Actúa como un extractor de entidades para un sistema de orientación vocacional.
 
-        # 4. Devolvemos el perfil completo + el flag de intención para el embedding
+MENSAJE DEL USUARIO: "{user_message}"
+
+Extrae SOLO información nueva explícita en JSON.
+
+CAMPOS POSIBLES:
+- nombre (str)
+- ciudad (str)
+- modalidad (str)
+- universidad_publica (bool True/False)
+- habilidades (list)
+- intereses (list)
+- materias_fuertes (list)
+- materias_debiles (list)
+- has_career_intent (bool)
+
+REGLAS:
+1. Si no hay info, NO incluyas el campo.
+2. Responde SOLO con JSON válido.
+"""
+
+    try:
+        response = requests.post(
+            OLLAMA_URL,
+            json={
+                "model": MODEL_NAME,
+                "prompt": prompt,
+                "stream": False,
+                "options": {
+                    "temperature": 0,
+                    "num_predict": 500
+                }
+            },
+            timeout=300
+        )
+
+        raw_text = response.json().get("response", "").strip()
+
+        print("====== OLLAMA RAW RESPONSE ======")
+        print(raw_text)
+        print("=================================")
+
+        raw_text = re.sub(r"```json|```", "", raw_text).strip()
+
+        raw_text = re.sub(r"\bTrue\b", "true", raw_text)
+        raw_text = re.sub(r"\bFalse\b", "false", raw_text)
+
+        updates = json.loads(raw_text)
+
+        # -------------------------
+        # MERGE + NORMALIZACIÓN
+        # -------------------------
+        updated_profile = json.loads(json.dumps(current_profile))  # deep copy segura
+
+        # 🔹 Campos simples
+        if "nombre" in updates:
+            updated_profile["nombre"] = updates["nombre"]
+
+        # 🔹 Ciudad → preferencias.ciudad
+        if "ciudad" in updates:
+            set_nested(updated_profile, "preferencias.ciudad", updates["ciudad"])
+
+        if "modalidad" in updates:
+            set_nested(updated_profile, "preferencias.modalidad", updates["modalidad"])
+
+        if "universidad_publica" in updates:
+            set_nested(updated_profile, "preferencias.universidad_publica", updates["universidad_publica"])
+
+        # 🔹 Listas (con mapping semántico)
+        LIST_MAP = {
+            "intereses": "intereses",
+            "habilidades": "habilidades_percibidas",
+            "materias_fuertes": "materias_fuertes",
+            "materias_debiles": "materias_debiles"
+        }
+
+        for src, dst in LIST_MAP.items():
+            if src in updates and isinstance(updates[src], list):
+                updated_profile.setdefault(dst, [])
+                current_set = set(updated_profile[dst])
+
+                for item in updates[src]:
+                    item = item.lower().strip()
+                    if item and item not in current_set:
+                        updated_profile[dst].append(item)
+
         return {
             "profile_data": updated_profile,
             "has_career_intent": updates.get("has_career_intent", False)
@@ -73,7 +110,6 @@ def extract_profile_updates(user_message: str, current_profile: dict):
 
     except Exception as e:
         print(f"Error en extractor: {e}")
-        # En caso de error, devolvemos el perfil sin cambios y false
         return {
             "profile_data": current_profile,
             "has_career_intent": False
