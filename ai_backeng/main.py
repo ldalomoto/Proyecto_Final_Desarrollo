@@ -15,7 +15,9 @@ class ChatInput(BaseModel):
     user_id: str  # Ahora identificamos al usuario
     message: str
 
-
+@app.on_event("startup")
+async def startup():
+    await init_db()
 @app.post("/chat")
 async def chat(input: ChatInput):
     pool = await get_pool()
@@ -63,3 +65,4 @@ async def chat(input: ChatInput):
     session_manager.save_profile(input.user_id, user_memory)
 
     return {"reply": reply}
+    
