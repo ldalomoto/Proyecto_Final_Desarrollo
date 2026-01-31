@@ -32,13 +32,26 @@ origins = [
     "https://unidream-git-main-francocriollos-projects.vercel.app",
 ]
 
+#app.add_middleware(
+#    CORSMiddleware,
+#    allow_origins=origins,
+#    allow_credentials=True,
+#    allow_methods=["*"],    # Permitir GET, POST, OPTIONS, etc.
+#    allow_headers=["*"],    # Permitir enviar JSON, Tokens, etc.
+#)
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=origins,
+    allow_origins=[
+        "http://localhost:5173",
+        "http://3.21.97.112:5173",
+        "https://unidream.vercel.app",
+    ],
     allow_credentials=True,
-    allow_methods=["*"],    # Permitir GET, POST, OPTIONS, etc.
-    allow_headers=["*"],    # Permitir enviar JSON, Tokens, etc.
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
+
 session_manager = SessionManager()
 
 class ChatInput(BaseModel):

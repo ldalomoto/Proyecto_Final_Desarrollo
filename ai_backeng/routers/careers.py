@@ -4,7 +4,10 @@ from ai_backeng.schemas.career import CareerResponse
 from ai_backeng.db.postgres import get_pool
 from uuid import UUID
 
-router = APIRouter(prefix="/careers", tags=["Careers"])
+router = APIRouter(
+    prefix="/careers",  # 👈 sin slash final
+    tags=["careers"]
+)
 
 @router.get("/", response_model=List[CareerResponse])
 async def get_careers(pool = Depends(get_pool)):
