@@ -7,7 +7,7 @@ class JsonArrayPipeline:
 
     def close_spider(self, spider):
         with open(
-            f"/home/david/Documentos/UCE/DESARROLLO/Proyecto_Final/Proyecto_Final_Desarrollo/data/{spider.name}_careers.json",
+            f"/home/david/Documentos/UCE/DESARROLLO/Proyecto_Final/Proyecto_Final_Desarrollo/Data_UniDream/data/{spider.name}_careers.json",
             "w",
             encoding="utf-8"
         ) as f:
