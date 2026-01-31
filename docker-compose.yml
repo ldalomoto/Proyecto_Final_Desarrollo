@@ -1,0 +1,48 @@
+version: "3.9"
+
+services:
+  postgres:
+    image: pgvector/pgvector:pg17
+    container_name: postgres
+    restart: always
+    environment:
+      POSTGRES_DB: unidream
+      POSTGRES_USER: unidream_user
+      POSTGRES_PASSWORD: strongpassword
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  redis:
+    image: redis:7
+    container_name: redis
+    ports:
+      - "6379:6379"
+
+  ollama:
+    image: ollama/ollama
+    container_name: ollama
+    volumes:
+      - ollama:/root/.ollama
+    ports:
+      - "11434:11434"
+
+  api:
+    build: .
+    container_name: fastapi
+    depends_on:
+      - postgres
+      - redis
+      - ollama
+    env_file:
+      - .env
+    ports:
+      - "80:8000"
+    volumes:
+      - ./ai_backeng:/app/ai_backeng
+    command: uvicorn ai_backeng.main:app --host 0.0.0.0 --port 8000 --reload
+
+volumes:
+  postgres_data:
+  ollama:

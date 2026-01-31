@@ -1,42 +1,58 @@
 import redis
 import json
 import os
-from datetime import datetime,timezone
+from datetime import datetime, timezone
+
 
 class SessionManager:
     def __init__(self):
-        # En AWS/Producción: usarás la URL de ElastiCache
-        self.redis = redis.from_url(
-            os.getenv("REDIS_URL", "redis://localhost:6379"), 
-            decode_responses=True
+        self.redis = redis.Redis(
+            host=os.getenv("REDIS_HOST", "redis"),
+            port=int(os.getenv("REDIS_PORT", 6379)),
+            db=int(os.getenv("REDIS_DB", 0)),
+            decode_responses=True,
+            socket_connect_timeout=5,
+            socket_timeout=5,
         )
-        self.ttl = 8600  # Aumentamos a 24 horas para que no te olvides del usuario tan rápido
+
+        # 24 horas
+        self.ttl = 60 * 60 * 24
+
+        # Test rápido de conexión (falla rápido si Redis no está)
+        try:
+            self.redis.ping()
+        except redis.exceptions.ConnectionError as e:
+            raise RuntimeError("No se pudo conectar a Redis") from e
 
     def get_profile(self, user_id: str):
         """Recupera la memoria del usuario. Si no existe, crea una nueva."""
-        data = self.redis.get(f"session:{user_id}")
+        data = self.redis.get(self._key(user_id))
         if data:
             return json.loads(data)
         return self._empty_profile()
-    
-    def delete(self, user_id):
-        self.redis.delete(f"session:{user_id}")
-
 
     def save_profile(self, user_id: str, profile: dict):
         """
         Sobreescribe la sesión con el perfil actualizado.
-        IMPORTANTE: El 'merge' de datos (no borrar lo anterior) 
-        debe hacerse en el extractor.py antes de llamar a esta función.
+        El merge debe hacerse antes.
         """
-        self.redis.setex(f"session:{user_id}", self.ttl, json.dumps(profile))
+        self.redis.setex(
+            self._key(user_id),
+            self.ttl,
+            json.dumps(profile, ensure_ascii=False)
+        )
 
+    def delete(self, user_id: str):
+        self.redis.delete(self._key(user_id))
+
+    def _key(self, user_id: str) -> str:
+        return f"session:{user_id}"
 
     def _now(self) -> str:
         return datetime.now(timezone.utc).isoformat()
 
-
     def _empty_profile(self):
+        now = self._now()
         return {
             "nombre": None,
             "intereses": [],
@@ -49,9 +65,10 @@ class SessionManager:
             "descripcion_libre": "",
             "user_embedding": None,
             "meta": {
-                "created_at": self._now(),
-                "last_seen_at": self._now(),
+                "created_at": now,
+                "last_seen_at": now,
                 "last_greeted_at": None,
                 "message_count": 0
             }
         }
+

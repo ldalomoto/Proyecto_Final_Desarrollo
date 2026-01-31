@@ -19,7 +19,7 @@ MODEL_NAME = "gemini-3-flash-preview"
 
 GENERATION_CONFIG = {
     "temperature": 0.4,
-    "max_output_tokens": 2000
+    "max_output_tokens": 1500
 }
 
 model = genai.GenerativeModel(
@@ -202,7 +202,13 @@ CARRERAS DISPONIBLES
         full_prompt,
         stream=True
     )
-
+    
     for chunk in stream:
+        print("#######################################################")
+        print(chunk)
+        print("#######################################################")
+
         if chunk.text:
-            yield chunk.text
+            yield chunk
+
+

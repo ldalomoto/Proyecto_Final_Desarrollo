@@ -23,9 +23,10 @@ app = FastAPI()
 # CONFIGURACIÓN CORS (EL PUENTE)
 # =========================
 origins = [
-    "http://localhost:5173",                 # Para cuando pruebas en tu PC
-    "https://unidream.vercel.app",           # Tu frontend en producción
-    "https://unidream-git-main-francocriollos-projects.vercel.app" # Preview deployments (opcional)
+    "http://localhost:5173",
+    "http://3.21.97.112:5173",   # 👈 ESTA ES LA CLAVE
+    "https://unidream.vercel.app",
+    "https://unidream-git-main-francocriollos-projects.vercel.app",
 ]
 
 app.add_middleware(
@@ -249,6 +250,7 @@ async def chat_stream(input: ChatInput):
 
         # 4️⃣ Marcamos fin de la transmisión
         yield "\n[END]\n"
+    
 
     return StreamingResponse(
         generator(),
