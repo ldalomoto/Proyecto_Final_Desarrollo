@@ -1,0 +1,776 @@
+[
+    {
+        "nombre_carrera": "Administracion De Empresas",
+        "nombre_facultad": "Facultad de Ciencias Económicas",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "da por Accreditation Council for Business Schools",
+        "numero_semestres": "8 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/administracion-de-empresas",
+        "descripcion_carrera": "Administración de Empresas - UCUENCA Administración de Empresas - UCUENCA Descripción Esta carrera forma profesionales con excelencia académica, conocimientos investigativos y visión social, en las áreas de: gestión empresarial, talento humano, finanzas, producción y marketing. \nLas y los profesionales aprenden a crear cuando administran eficientemente organizaciones y utilizan las tecnologías de la información, que integran ciencia, ética, sostenibilidad e inclusión cultural. Destacado chevron_left chevron_right El proceso de aprendizaje genera las capacidades necesarias para liderar empresas",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/administracion-de-empresas",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Administracion De Empresas Modalidad Dual",
+        "nombre_facultad": "Facultad de Ciencias Económicas",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "8 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/administracion-de-empresas-modalidad-dual",
+        "descripcion_carrera": "Administración de Empresas (Modalidad Dual) - UCUENCA Administración de Empresas (Modalidad Dual) - UCUENCA Descripción Esta carrera forma a profesionales capaces de dirigir organizaciones, gestionar la cadena de suministros, el talento humano y las herramientas de marketing, así como manejar información financiera al combinar el aprendizaje teórico con el práctico en empresas formadoras. Destacado chevron_left chevron_right La formación dual ofrece un proceso de aprendizaje dividido en práctica y teoría. Para ello, cuenta con una Entidad Receptora Formadora (ERF) en la que las y los estudiant",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/administracion-de-empresas-modalidad-dual",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Agronomia",
+        "nombre_facultad": "Universidad de Cuenca",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "10 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/agronomia",
+        "descripcion_carrera": "Agronomía - UCUENCA Agronomía - UCUENCA Descripción Esta carrera forma profesionales de  excelencia  con capacidad para desarrollar, y aplicar conocimientos que favorezcan el aprovechamiento, conservación y manejo de los agroecosistemas aportando el desarrollo de los sistemas agroproductivos del país y la región. Destacado chevron_left chevron_right El proceso de aprendizaje aborda la producción y protección de cultivos, biotecnología, desarrollo y emprendimiento rural, y transferencia de tecnología en agricultura, entre otros. Nuestros y nuestras estudiantes desarrollan sus conocimientos en l",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/agronomia",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Arquitectura",
+        "nombre_facultad": "Facultad de Arquitectura",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "10 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/arquitectura",
+        "descripcion_carrera": "Arquitectura - UCUENCA Arquitectura - UCUENCA Descripción Esta carrera trabaja en tres áreas principales: proyectación y construcción de edificaciones y espacios públicos; conservación del patrimonio cultural edificado; y ordenación urbanística de los asentamientos humanos. Abordamos estas áreas desde una perspectiva crítica, sistémica y sustentable. Destacado chevron_left chevron_right Promovemos el pensamiento crítico y contribuimos a una calidad de vida digna para los asentamientos humanos a través del diseño arquitectónico, urbano y del territorio, bajo los principios de sustentabilidad e ",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/arquitectura",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Artes Escenicas",
+        "nombre_facultad": "Facultad de Artes",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "9 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/artes-escenicas",
+        "descripcion_carrera": "Artes Escénicas - UCUENCA Artes Escénicas - UCUENCA Descripción Esta carrera forma profesionales con capacidades para  crear, interpretar y producir obras teatrales, musicales y de danza, para transmitir emociones y mensajes al público. También, busca  fomentar la creatividad, la expresión corporal, el trabajo en equipo, y brinda herramientas para que las y los estudiantes puedan desarrollar su talento y habilidades artísticas en el escenario. Destacado chevron_left chevron_right Formamos profesionales mediante la combinación de teoría y práctica escénica, donde el cuerpo se convierte en un lu",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/artes-escenicas",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Artes Musicales",
+        "nombre_facultad": "Facultad de Artes",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "9 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/artes-musicales",
+        "descripcion_carrera": "Artes Musicales - UCUENCA Artes Musicales - UCUENCA Descripción Esta carrera forma profesionales con capacidades para  crear, interpretar y producir obras musicales en diferentes géneros y estilos, como la música clásica, popular y contemporánea. También busca desarrollar habilidades técnicas y artísticas en áreas como la composición, el canto y el manejo de instrumentos musicales, con el fin de transmitir emociones y mensajes al público a través de la música. Destacado chevron_left chevron_right Nos enfocamos en el desarrollo de habilidades técnicas, pedagógicas, metodológicas e investigativa",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/artes-musicales",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Artes Visuales",
+        "nombre_facultad": "Facultad de Artes",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "9 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/artes-visuales",
+        "descripcion_carrera": "Artes Visuales - UCUENCA Artes Visuales - UCUENCA Descripción Esta carrera tiene como objetivo formar profesionales capaces de crear y producir obras artísticas enmarcadas en diversas técnicas y estilos como la pintura, escultura, fotografía, ilustración, nuevos medios y arte contemporáneo. Además, se busca fomentar la creatividad y el pensamiento crítico, proporcionando herramientas para que las y los estudiantes puedan desarrollar su talento al igual que habilidades artísticas en el ámbito visual. Destacado chevron_left chevron_right Fomentamos el aprendizaje creativo y el desarrollo educati",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/artes-visuales",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Bioquimica Y Farmacia",
+        "nombre_facultad": "Universidad de Cuenca",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "10 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/bioquimica-y-farmacia",
+        "descripcion_carrera": "Bioquímica y Farmacia - UCUENCA Bioquímica y Farmacia - UCUENCA Descripción Esta carrera combina el estudio de la bioquímica, el análisis biológico y la aplicación práctica de la farmacología. Las y los estudiantes aprenden sobre la composición de los seres vivos, el funcionamiento de los sistemas biológicos, la síntesis y el diseño de fármacos para tratar enfermedades. Esto les permite participar activamente en el equipo de salud del Sistema Nacional de Salud (SNS) y en la industria alimentaria. Destacados chevron_left chevron_right Los ambientes de aprendizaje están equipados con laboratorio",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/bioquimica-y-farmacia",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Cine",
+        "nombre_facultad": "Facultad de Artes",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "8 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/cine",
+        "descripcion_carrera": "Cine - UCUENCA Cine - UCUENCA Descripción Esta carrera forma profesionales capaces de explorar y expresar la creatividad a través de la imagen en movimiento.  Las y los estudiantes de Cine adquieren diversas habilidades desde la dirección, producción, fotografía, diseño de sonido hasta la escritura del guion y la edición final. Destacado chevron_left chevron_right Nuestra metodología fomenta la libertad de expresión, la creatividad, y la circulación de contenidos culturales. Formamos profesionales comprometidos con la interculturalidad, la igualdad de género y la soberanía audiovisual, capaces",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/cine",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Comunicacion",
+        "nombre_facultad": "Universidad de Cuenca",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "8 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/comunicacion",
+        "descripcion_carrera": "Comunicación - UCUENCA Comunicación - UCUENCA Descripción Forma profesionales con competencias comunicativas e investigativas para analizar, diseñar y evaluar políticas, estrategias y herramientas de comunicación interna y externa de una organización pública o privada que además cuente con una visión crítica, humanista e intercultural. También aplica conocimientos sobre las teorías de la comunicación, las relaciones públicas, la comunicación organizacional, la resolución de conflictos, la formación humanística en valores  para el manejo de las nuevas tecnologías de la información y la comunica",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/comunicacion",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Contabilidad Y Auditoria",
+        "nombre_facultad": "Facultad de Ciencias Económicas",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "da por la Accreditation Council for Business Schools",
+        "numero_semestres": "8 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/contabilidad-y-auditoria",
+        "descripcion_carrera": "Contabilidad y Auditoría - UCUENCA Contabilidad y Auditoría - UCUENCA Descripción Esta carrera forma profesionales capaces de manejar los registros contables, las finanzas, la tributación, el control y auditoría en una empresa. Destacado chevron_left chevron_right Nuestro proceso de formación se enfoca en la gestión de información contable, tributaria, financiera y de auditoría, así como en la evaluación del desempeño de empresas e instituciones públicas y privadas desde una perspectiva funcional, interpretativa y crítica.\nLa carrera cuenta con la acreditación internacional de alta calidad oto",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/contabilidad-y-auditoria",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Derecho",
+        "nombre_facultad": "Facultad de Jurisprudencia",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "9 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/derecho",
+        "descripcion_carrera": "Derecho - UCUENCA Derecho - UCUENCA Descripción Esta carrera forma profesionales con conocimientos en las áreas del derecho público, privado y social, capacitados para investigar, asesorar, mediar y litigar con elevado conocimiento  en la defensa de los derechos y la reivindicación de principios y valores  como la justicia, la libertad, la igualdad, la confraternidad, en miras a una convivencia pacífica en un ambiente de seguridad jurídica. Destacado chevron_left chevron_right El proceso de aprendizaje plantea las prácticas y la vinculación con la colectividad por medio del servicio de asesorí",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/derecho",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Diseno Grafico",
+        "nombre_facultad": "Universidad de Cuenca",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "9 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/diseno-grafico",
+        "descripcion_carrera": "Diseño Gráfico - UCUENCA Diseño Gráfico - UCUENCA Descripción Esta carrera forma profesionales con competencias para  crear y producir piezas gráficas y visuales con un alto impacto comunicativo. Busca desarrollar habilidades técnicas y creativas en áreas como la identidad visual, la comunicación visual y la producción gráfica, utilizando diferentes herramientas tecnológicas y softwares especializados. Destacado chevron_left chevron_right Formamos profesionales competentes en la generación de soluciones integrales de diseño, que van más allá de la comunicación visual. Nuestro enfoque holístico",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/diseno-grafico",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Economia",
+        "nombre_facultad": "Facultad de Ciencias Económicas",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "da por la Accreditation Council for Business Schools",
+        "numero_semestres": "8 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/economia",
+        "descripcion_carrera": "Economía - UCUENCA Economía - UCUENCA Descripción Esta carrera se enfoca en la toma de decisiones, el análisis de recursos y la comprensión del comportamiento humano en el ámbito económico. Las y los estudiantes aprenden cómo las sociedades asignan recursos limitados para satisfacer las necesidades y deseos ilimitados de sus miembros, mientras trazan estrategias para resolver problemas reales en un entorno en constante cambio. Destacado chevron_left chevron_right Durante la carrera de Economía, las y los estudiantes se adentran en diversos temas que van desde la microeconomía, donde estudian l",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/economia",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Educacion Basica",
+        "nombre_facultad": "Universidad de Cuenca",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "8 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/educacion-basica",
+        "descripcion_carrera": "Educación Básica - UCUENCA Educación Básica - UCUENCA Descripción Esta carrera forma profesionales en Educación General Básica (EGB) con habilidades para enseñar y guiar a las nuevas generaciones con una visión innovadora, creativa e inclusiva. Las y los estudiantes adquieren conocimientos en teorías pedagógicas, metodologías de enseñanza, desarrollo infantil, inclusión educativa y mucho más. Destacado chevron_left chevron_right Formamos profesionales de la Educación Básica (EB) en los grados de 2° a 7°, quienes contribuyen al desarrollo de una educación centrada en el estudiante y su proceso ",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/educacion-basica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Educacion Inicial",
+        "nombre_facultad": "Universidad de Cuenca",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "6 años",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/educacion-inicial",
+        "descripcion_carrera": "Educación Inicial - UCUENCA Educación Inicial - UCUENCA Descripción Esta carrera forma profesionales con habilidades cognitivas, psicopedagógicas, comunicativas, investigativas y artísticas capaces de  potenciar el desarrollo integral de niños y niñas de cero a seis años. Todo esto lo hacen bajo una sólida formación académica y una visión crítica, humanista e intercultural de la educación. Destacado chevron_left chevron_right Formamos profesionales capaces de promover eficazmente el desarrollo integral de niños y niñas de 0 a 6 años, mediante un enfoque de derechos en el marco de una educación",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/educacion-inicial",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Electricidad",
+        "nombre_facultad": "Universidad de Cuenca",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "10 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/electricidad",
+        "descripcion_carrera": "Electricidad - UCUENCA Electricidad - UCUENCA Descripción Esta carrera forma profesionales capaces de administrar y gestionar los campos de generación, transmisión, distribución y gestión de energía eléctrica. Las y los estudiantes estudian los ciencias fundamentales y aplicadas, energías renovables, automatización y eficiencia energética para desempeñarse en un mundo globalizado, donde la energía cumple un rol fundamental en el crecimiento y desarrollo planetario. Destacados chevron_left chevron_right El ambiente de aprendizaje incluye laboratorios del Departamento de Ingeniería Eléctrica, El",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/electricidad",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Enfermeria",
+        "nombre_facultad": "Facultad de Ciencias Médicas",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "9 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/enfermeria",
+        "descripcion_carrera": "Enfermería - UCUENCA Enfermería - UCUENCA Descripción Esta carrera forma profesionales comprometidos con la ciencia, la técnica y la ética, que utilizan el proceso de atención de enfermería para cuidar integralmente la salud de las personas en todas las etapas de la vida, También, desarrollan  conocimientos para brindar cuidados paliativos en función del perfil epidemiológico de pacientes. Destacado chevron_left chevron_right Durante su aprendizaje, las y los estudiantes abordan el proceso de salud-enfermedad del ser humano, considerando aspectos biológicos, sociales, económicos, culturales y ",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/enfermeria",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Estimulacion Temprana",
+        "nombre_facultad": "Universidad de Cuenca",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "8 años",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/estimulacion-temprana",
+        "descripcion_carrera": "Estimulación Temprana en Salud - UCUENCA Estimulación Temprana en Salud - UCUENCA Descripción Esta carrera forma profesionales capaces de promover el desarrollo físico, cognitivo, emocional y social de las niñas y niños, desde su gestación hasta los ocho años, a través de estrategias y técnicas de estimulación temprana, con un enfoque en la salud y el bienestar integral. Destacado chevron_left chevron_right El proceso de aprendizaje integra conocimientos del neurodesarrollo infantil para la atención de los niños y niñas de 0 a 8 años de edad con factores de riesgo, trastornos del neurodesarrol",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/estimulacion-temprana",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Fisioterapia",
+        "nombre_facultad": "Universidad de Cuenca",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "9 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/fisioterapia",
+        "descripcion_carrera": "Fisioterapia - UCUENCA Fisioterapia - UCUENCA Descripción Esta carrera forma profesionales capaces de integrar el equipo de salud y participar\nen actividades de promoción, prevención, recuperacion, habilitación y rehabilitación\nde disfunciones, deficiencias y discapacidades; realizar evaluación y análisis\nfuncional para elaborar y ejecutar diagnóstico fisioterapéutico, planes de tratamiento,\ne intervenciones comunitarias en el marco de la APS en todos los ciclos de vida, con\nel fin de mejorar o mantener la autonomía física del individuo en su entorno y así\nmejorar su calidad de vida. Destacado",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/fisioterapia",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Fonoaudiologia",
+        "nombre_facultad": "Universidad de Cuenca",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "9 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/fonoaudiologia",
+        "descripcion_carrera": "Fonoaudiología - UCUENCA Fonoaudiología - UCUENCA Descripción Esta carrera forma profesionales con conocimientos científicos, éticos y humanistas capaces de promover la salud comunicativa, prevenir, evaluar, diagnosticar e intervenir en los trastornos de la comunicación y deglución, preparados para realizar actividades de investigación y administración, empleando protocolos de atención y estrategias que respondan al perfil epidemiológico, utilizando herramientas acordes al avance de la ciencia y la tecnología, para mejorar la calidad de vida de las personas, con o sin discapacidad, mediante re",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/fonoaudiologia",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Gastronomia",
+        "nombre_facultad": "Universidad de Cuenca",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "8 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/gastronomia",
+        "descripcion_carrera": "Gastronomía - UCUENCA Gastronomía - UCUENCA Descripción Esta carrera forma profesionales con competencias para administrar establecimientos de alimentos y bebidas, que garanticen la elaboración de productos gastronómicos nutritivos, seguros, higiénicos y de calidad; competentes para la investigación, la recuperación del patrimonio gastronómico, la solución de problemas y la innovación del área deservicios de la restauración y hospitalidad. Destacado chevron_left chevron_right Nuestra carrera se enfoca en la relación del ser humano con la alimentación y la cultura alimentaria, desde una perspec",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/gastronomia",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Genero Y Desarrollo",
+        "nombre_facultad": "Universidad de Cuenca",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "9 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/genero-y-desarrollo",
+        "descripcion_carrera": "Género y Desarrollo - UCUENCA Género y Desarrollo - UCUENCA Descripción Esta carrera forma profesionales capaces de analizar, planificar y promover la inclusión del enfoque de género y equidad en programas, proyectos y políticas públicas. Los y las estudiantes pueden aportar al cambio social, cultural, político y económico de las desigualdades históricas en estricto respeto de los derechos humanos y con sustento teórico-práctico. Esta es la única carrera de pregrado en \"Género y Desarrollo\" en el país. Destacado chevron_left chevron_right Investigamos con perspectiva de género y feminista en c",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/genero-y-desarrollo",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Hospitalidad Y Hoteleria",
+        "nombre_facultad": "Universidad de Cuenca",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "8 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/hospitalidad-y-hoteleria",
+        "descripcion_carrera": "Hospitalidad y Hotelería - UCUENCA Hospitalidad y Hotelería - UCUENCA Descripción Esta carrera forma profesionales capaces de aplicar la gestión estratégica en las empresas de alojamiento, y otras vinculadas al sector de la hospitalidad, para transformar modelos de negocio y  proponer emprendimientos sostenibles, al aplicar procesos tecnológicos, protocolos de servicio al cliente, normas y sistemas de calidad, que satisfagan las necesidades de los diferentes actores vinculados al sector hotelero turístico nacional e internacional. Destacado chevron_left chevron_right Enseñamos los fundamentos ",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/hospitalidad-y-hoteleria",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Imagenologia Y Radiologia",
+        "nombre_facultad": "Universidad de Cuenca",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "9 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/imagenologia-y-radiologia",
+        "descripcion_carrera": "Imagenología y Radiología - UCUENCA Imagenología y Radiología - UCUENCA Descripción Esta carrera forma profesionales capaces de aplicar y validar los procesos de obtención de imágenes acorde a los avances de la ciencia y tecnología. Además, pueden aportar, en conjunto con el  equipo de salud, en procesos preventivos, de diagnóstico y tratamiento para contribuir al mejoramiento de la calidad de vida. Destacado chevron_left chevron_right Durante el proceso de aprendizaje, las y los estudiantes perfeccionan la aplicación de los procesos de adquisición por imágenes como: rayos x, tomografía comput",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/imagenologia-y-radiologia",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingenieria Ambiental",
+        "nombre_facultad": "Facultad de Ingeniería",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "10 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/ingenieria-ambiental",
+        "descripcion_carrera": "Ingeniería Ambiental - UCUENCA Ingeniería Ambiental - UCUENCA Descripción Esta carrera forma profesionales capaces de resolver los problemas ambientales generados por actividades humanas y productivas, que protejan los ecosistemas y mejoren la calidad de vida de la población. También, podrán reconocer, interpretar, diagnosticar y proponer soluciones integradas a impactos ambientales de acuerdo a las leyes medioambientales vigentes. Destacados chevron_left chevron_right Prepararamos a las y los estudiantes para crear soluciones sostenibles que protejan y mejoren la calidad del medio ambiente, r",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/ingenieria-ambiental",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingenieria Civil",
+        "nombre_facultad": "Facultad de Ingeniería",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "10 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/ingenieria-civil",
+        "descripcion_carrera": "Ingeniería Civil - UCUENCA Ingeniería Civil - UCUENCA Descripción Esta carrera forma a las y los profesionales con habilidades para diseñar, construir y mantener infraestructuras sostenibles, como edificios, carreteras, puentes y sistemas hidráulicos. También, que puedan aplicar conocimientos de matemáticas, física y tecnología para solucionar problemas y mejorar la calidad de vida de la sociedad. Destacados chevron_left chevron_right El ambiente de aprendizaje de la carrera transcurre en medio de laboratorios especializados en Física, Geotecnia y Materiales, Hidrofísica de suelos, Hidráulica ",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/ingenieria-civil",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingenieria Industrial",
+        "nombre_facultad": "Facultad de Ingeniería",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "10 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/ingenieria-industrial",
+        "descripcion_carrera": "Ingeniería Industrial - UCUENCA Ingeniería Industrial - UCUENCA Descripción El programa de Ingeniería Industrial de la Universidad de Cuenca forma profesionales altamente competentes para el diseño, control, gestión y mejora continua de sistemas de producción de bienes y/o servicios en las áreas de gestión de operaciones y manufactura, aseguramiento de la calidad, gestión de proyectos y seguridad industrial, con el objetivo de promover el desarrollo empresarial sostenible. Destacados chevron_left chevron_right Preparamos a estudiantes en las ciencias de ingeniería y en la administración de sis",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/ingenieria-industrial",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingenieria Quimica",
+        "nombre_facultad": "Facultad de Ingeniería",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "10 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/ingenieria-quimica",
+        "descripcion_carrera": "Ingeniería Química - UCUENCA Ingeniería Química - UCUENCA Descripción Esta carrera forma profesionales capaces de controlar procesos industriales que involucran cambios físicos, químicos y bioquímicos, para impulsar el desarrollo industrial del país de manera sostenible y eficiente. Además, pueden aportar a la transformación de materiales y energía, con calidad, seguridad y respeto el medio ambiente. Destacados chevron_left chevron_right Preparamos a los y las estudiantes para que comprendan los procesos en los que la materia experimenta un cambio de composición. Además, aprenden cómo se puede",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/ingenieria-quimica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Laboratorio Clinico",
+        "nombre_facultad": "Universidad de Cuenca",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "9 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/laboratorio-clinico",
+        "descripcion_carrera": "Laboratorio Clínico - UCUENCA Laboratorio Clínico - UCUENCA Descripción Esta carrera forma profesionales con capacidades para fundamentar, interpretar\ny aplicar los procesos, métodos y técnicas diagnósticas en muestras biológicas acorde\nal desarrollo de la ciencia y tecnología, al aplicar la bioética para emitir resultados\nvalidados y confiables a fin de contribuir con el personal de salud en procesos de\nprevención, pronóstico, diagnóstico, y control terapéutico de los problemas de salud a\nnivel local, regional y nacional enmarcados con el perfil epidemiológico. Destacado chevron_left chevron_",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/laboratorio-clinico",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Medicina",
+        "nombre_facultad": "Facultad de Ciencias Médicas",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "10 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/medicina",
+        "descripcion_carrera": "Medicina - UCUENCA Medicina - UCUENCA Descripción Esta carrera forma profesionales desde los paradigmas biomédicos y de la medicina social con un enfoque integral, mediante la estrategia de la atención primaria de salud para resolver los problemas prevalentes de salud con calidad científica, ética y humanismo, integrados a un equipo multidisciplinario, para cuidar la vida y recuperar la salud, promoviendo el aprendizaje significativo y el desarrollo de un pensamiento crítico, organizado, sistemático y comprometido con la transformación social Destacado chevron_left chevron_right Potenciamos la",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/medicina",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Medicina Veterinaria",
+        "nombre_facultad": "Facultad de Ciencias Médicas",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "10 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/medicina-veterinaria",
+        "descripcion_carrera": "Medicina Veterinaria - UCUENCA Medicina Veterinaria - UCUENCA Descripción Esta carrera forma profesionales con capacidades para prevenir, diagnosticar y tratar enfermedades en  animales, tanto de compañía como de producción. También se enfoca en promover la salud animal, el bienestar y la calidad de vida de los animales, así como proteger la salud pública al prevenir y controlar enfermedades zoonóticas. Destacado chevron_left chevron_right Nuestro ambiente de aprendizaje se enfoca en mejorar la salud animal y enseñar procedimientos clínicos, terapéuticos y de bienestar animal en centros de ate",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/medicina-veterinaria",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Mercadotecnia",
+        "nombre_facultad": "Universidad de Cuenca",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "da por la Accreditation Council for Business Schools",
+        "numero_semestres": "8 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/mercadotecnia",
+        "descripcion_carrera": "Mercadotecnia - UCUENCA Mercadotecnia - UCUENCA Descripción Esta carrera forma profesionales que identifican las necesidades del mercado, para crear productos al igual que servicios que las satisfagan y comunicarlos efectivamente a las y los consumidores a través de estrategias de marketing en el mundo real y virtual. Destacado chevron_left chevron_right Nuestro proceso de aprendizaje se enfoca en las interacciones entre el comportamiento del consumidor y los factores comerciales en el mercado. Esto conlleva a la transformación de empresas y sus productos desde una perspectiva de mercadotecnia",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/mercadotecnia",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Odontologia",
+        "nombre_facultad": "Universidad de Cuenca",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "10 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/odontologia",
+        "descripcion_carrera": "Odontología - UCUENCA Odontología - UCUENCA Descripción Esta carrera forma profesionales altamente capacitados para atender la salud bucal de la comunidad, que promueven la prevención, tratamiento y rehabilitación del sistema estomatognático. Los y las estudiantes aprenden a brindar atención integral  con base científica y tecnología actualizada. Destacado chevron_left chevron_right Los ambientes de aprendizaje incluyen laboratorios complementarios como el de preclínica, simulación, imagenología, prótesis dental y aulas virtuales debidamente equipadas.  Las y los estudiantes pueden desenvolver",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/odontologia",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Orientacion Familiar",
+        "nombre_facultad": "Universidad de Cuenca",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "9 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/orientacion-familiar",
+        "descripcion_carrera": "Orientación Familiar - UCUENCA Orientación Familiar - UCUENCA Descripción Esta carrera forma profesionales con competencias conceptuales y metodológicas para actuar en los diferentes ámbitos familiares, en los niveles de prevención/promoción, intervención, asesoría e investigación. Además, promueven y fortalecen la salud de los sistemas familiares, con el enfoque transversal de derechos, género e interculturalidad, sustentados en criterios éticos y de responsabilidad social. Destacado chevron_left chevron_right El proceso de aprendizaje genera capacidades para proponer intervenciones según las",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/orientacion-familiar",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Pedagogia De La Actividad Fisica Y Deporte",
+        "nombre_facultad": "Universidad de Cuenca",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "8 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/pedagogia-de-la-actividad-fisica-y-deporte",
+        "descripcion_carrera": "Pedagogía de la Actividad Física y Deporte - UCUENCA Pedagogía de la Actividad Física y Deporte - UCUENCA Descripción Esta carrera forma profesionales docentes capaces de liderar proyectos relacionados con la actividad física y el deporte en el sistema educativo, con una visión integral del ser humano y valores éticos, que fomenten estilos de vida saludables. Destacado chevron_left chevron_right Formamos docentes de Educación Física para Educación Inicial, Educación General Básica y Bachillerato, que garantizan el máximo aprovechamiento de las habilidades psicomotoras de sus estudiantes. Diseñ",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/pedagogia-de-la-actividad-fisica-y-deporte",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Pedagogia De Los Idiomas Nacionales Y Extranjeros",
+        "nombre_facultad": "Universidad de Cuenca",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "8 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/pedagogia-de-los-idiomas-nacionales-y-extranjeros",
+        "descripcion_carrera": "Pedagogía de los Idiomas Nacionales y Extranjeros - UCUENCA Pedagogía de los Idiomas Nacionales y Extranjeros - UCUENCA Descripción Esta carrera forma profesionales docentes en la enseñanza del inglés con un conocimiento profundo del idioma, así como, de las metodologías y estrategias más efectivas para enseñarlo. Las y los graduados de esta carrera son altamente demandados en el área y tienen la capacidad de transformar de manera positiva los procesos de enseñanza-aprendizaje del inglés en todos los niveles del sistema educativo. Destacado chevron_left chevron_right Nuestros docentes se espec",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/pedagogia-de-los-idiomas-nacionales-y-extranjeros",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Periodismo",
+        "nombre_facultad": "Universidad de Cuenca",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "8 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/periodismo",
+        "descripcion_carrera": "Periodismo - UCUENCA Periodismo - UCUENCA Descripción Esta carrera forma profesionales con habilidades de escritura, investigación y creación de contenido audiovisual, capaces de comunicar información veraz, relevante y de interés público a través de diversos medios y plataformas tradicionales o digitales. Destacado chevron_left chevron_right Los y las estudiantes aprenden teorías fundamentales de la comunicación y el periodismo, para aplicar aplicar estos conocimientos en la creación de productos y estrategias de comunicación en el Laboratorio de Narrativas Audiovisuales, que incluye la radio",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/periodismo",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Psicologia",
+        "nombre_facultad": "Facultad de Psicología",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "9 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/psicologia",
+        "descripcion_carrera": "Psicología - UCUENCA Psicología - UCUENCA Descripción Esta carrera forma profesionales capaces de evaluar, diagnosticar e intervenir en la conducta, emociones, pensamientos y relaciones interpersonales de las personas a lo largo de su ciclo vital. Además, aprenden sobre  las principales orientaciones y herramientas que utiliza la Psicología para actuar en diferentes contextos profesionales. Destacado chevron_left chevron_right Formamos profesionales capaces de resolver problemas relacionados con la exclusión social en distintos niveles de la sociedad, la familia como núcleo social, problemas e",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/psicologia",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Sociologia",
+        "nombre_facultad": "Universidad de Cuenca",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "8 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/sociologia",
+        "descripcion_carrera": "Sociología - UCUENCA Sociología - UCUENCA Descripción Esta carrera forma profesionales con competencias para estudiar científicamente la realidad social de manera integral y sistemática. Asimismo, les permite a las y los estudiantes entender las dinámicas sociales, políticas, económicas, culturales y socioambientales de la población, así como aportar con propuestas de transformación pertinentes al igual que con un enfoque territorial. Destacado chevron_left chevron_right Esta carrera forma profesionales con competencias para estudiar científicamente la realidad social de manera integral y sist",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/sociologia",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Telecomunicaciones",
+        "nombre_facultad": "Universidad de Cuenca",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "10 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/telecomunicaciones",
+        "descripcion_carrera": "Telecomunicaciones - UCUENCA Telecomunicaciones - UCUENCA Descripción Esta carrera forma profesionales con habilidades para resolver problemas en tecnologías de la información y comunicación, mediante el diseño y evaluación de modelos en sistemas y redes de telecomunicaciones, al utilizar herramientas metodológicas y ciencias básicas. Destacados chevron_left chevron_right Ofrecemos una sólida formación en ciencias básicas, integrando teoría y práctica en diversas áreas como comunicaciones digitales, redes de computadoras, comunicaciones por radio y redes de fibra óptica. Nos enfocamos en la fo",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/telecomunicaciones",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Trabajo Social",
+        "nombre_facultad": "Universidad de Cuenca",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "9 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/trabajo-social",
+        "descripcion_carrera": "Trabajo Social - UCUENCA Trabajo Social - UCUENCA Descripción Esta carrera forma profesionales capaces de planificar e intervenir en la realidad social de manera estratégica,al abordar procedimientos teóricos y metodológicos en áreas como salud, educación, promoción social, laboral y legal, con el objetivo de transformar la realidad de individuos, grupos y comunidades en distintos niveles territoriales, considerando la diversidad social y utilizando categorías de análisis como clase, género y etnia. Destacado chevron_left chevron_right El proceso de formación se enfoca en potenciar el reconoci",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/trabajo-social",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    },
+    {
+        "nombre_carrera": "Turismo",
+        "nombre_facultad": "Universidad de Cuenca",
+        "nombre_universidad": "Universidad de Cuenca",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "8 ciclos",
+        "malla_url": "https://www.ucuenca.edu.ec/carreras/turismo",
+        "descripcion_carrera": "Turismo - UCUENCA Turismo - UCUENCA Descripción Esta carrera forma profesionales capaces de aportar al desarrollo turístico sostenible mediante la planificación, gestión, creación y evaluación de iniciativas turísticas, que propendan al rescate de los saberes e identidades culturales con impacto en la dinamización de la economía, la generación de empleo y mejora en la calidad de vida. Destacado chevron_left chevron_right El proceso de aprendizaje incluye conocimientos en patrimonio y naturaleza que sean pertinentes a las necesidades del territorio, con el fin de contribuir a la creación de nue",
+        "ubicacion_sedes": [
+            "Cuenca"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.ucuenca.edu.ec/carreras/turismo",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admision@ucuenca.edu.ec"
+    }
+]

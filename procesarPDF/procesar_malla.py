@@ -3,9 +3,9 @@ import json
 import requests
 from pathlib import Path
 from dotenv import load_dotenv
+import re
 
-# Nueva librería recomendada
-from google import genai 
+import google.generativeai as genai
 from pdf2image import convert_from_path
 from PIL import Image
 import pytesseract
@@ -13,11 +13,9 @@ import pytesseract
 # =========================
 # 0. CONFIGURACIÓN DE RUTAS EXTERNAS
 # =========================
-# Indica a Python dónde están instalados los programas
-pytesseract.pytesseract.tesseract_cmd = r'C:\Archivos de programa\Tesseract-OCR\tesseract.exe'
-os.environ['TESSDATA_PREFIX'] = r'C:\Archivos de programa\Tesseract-OCR\tessdata'
-# Cambia esta ruta a donde hayas extraído Poppler
-PATH_POPPLER = r'C:\poppler-24.08.0\Library\bin' 
+pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+os.environ['TESSDATA_PREFIX'] = r'C:\Program Files\Tesseract-OCR\tessdata'
+PATH_POPPLER = r'C:\poppler-25.12.0\Library\bin'
 
 # =========================
 # 1. VARIABLES DE ENTORNO
@@ -28,8 +26,7 @@ API_KEY = os.getenv("GEMINI_API_KEY")
 if not API_KEY:
     raise ValueError("❌ No se encontró GEMINI_API_KEY en el archivo .env")
 
-# Nuevo cliente de Google GenAI
-client = genai.Client(api_key=API_KEY)
+genai.configure(api_key=API_KEY)
 
 # =========================
 # 2. RUTAS DEL PROYECTO
@@ -38,8 +35,11 @@ BASE_DIR = Path(__file__).resolve().parent
 ROOT_DIR = BASE_DIR.parent
 DATA_UNIDREAM = ROOT_DIR / "Data_UniDream"
 
+universidad = "uide"
+
 INPUT_JSON = DATA_UNIDREAM / "data" / "uide_careers.json"
 OUTPUT_DIR = DATA_UNIDREAM / "data_malla"
+
 TEMP_PDF_DIR = BASE_DIR / "temp_pdfs"
 TEMP_IMG_DIR = BASE_DIR / "temp_images"
 
@@ -50,10 +50,28 @@ TEMP_IMG_DIR.mkdir(parents=True, exist_ok=True)
 # =========================
 # 3. FUNCIONES
 # =========================
+
+def limpiar_texto(texto):
+    texto = re.sub(r'\s+', ' ', texto)
+    texto = texto.replace('|', ' ')
+    return texto.strip()
+
+def filtrar_lineas_materias(texto):
+    lineas = texto.split("\n")
+    posibles = []
+
+    for l in lineas:
+        l = l.strip()
+
+        if len(l) > 15 and any(char.isdigit() for char in l):
+            if any(p in l.lower() for p in ["sem", "cred", "hor", "mat", "adm", "ing", "cal"]):
+                posibles.append(l)
+
+    return "\n".join(posibles)
+
 def descargar_pdf(url, nombre):
     ruta = TEMP_PDF_DIR / nombre
     try:
-        # verify=True es mejor, pero si el sitio de la U falla, mantenlo en False
         r = requests.get(url, stream=True, timeout=30, verify=False)
         r.raise_for_status()
         with open(ruta, "wb") as f:
@@ -65,23 +83,25 @@ def descargar_pdf(url, nombre):
         return None
 
 def pdf_a_imagenes(ruta_pdf):
-    # Aquí usamos la ruta de Poppler
-    imagenes = convert_from_path(ruta_pdf, dpi=300, poppler_path=PATH_POPPLER)
+    imagenes = convert_from_path(ruta_pdf, dpi=500, poppler_path=PATH_POPPLER)
     rutas = []
+
     for i, img in enumerate(imagenes):
         ruta_img = TEMP_IMG_DIR / f"{ruta_pdf.stem}_p{i+1}.png"
         img.save(ruta_img, "PNG")
         rutas.append(ruta_img)
+
     return rutas
 
 def ocr_imagenes(rutas):
     texto_total = ""
     for i, ruta in enumerate(rutas):
-        try:
-            texto = pytesseract.image_to_string(Image.open(ruta), lang="spa", config="--psm 6")
-            texto_total += f"\n--- PÁGINA {i+1} ---\n{texto}"
-        except Exception as e:
-            print(f"❌ Error en OCR página {i+1}: {e}")
+        texto = pytesseract.image_to_string(
+            Image.open(ruta),
+            lang="spa",
+            config="--psm 4 -c preserve_interword_spaces=1"
+        )
+        texto_total += f"\n{texto}\n"
     return texto_total
 
 def extraer_texto_pdf(ruta_pdf):
@@ -89,17 +109,54 @@ def extraer_texto_pdf(ruta_pdf):
     return ocr_imagenes(rutas_img)
 
 def procesar_malla_con_ia(texto):
-    prompt = f"Analiza esta MALLA CURRICULAR y genera un JSON con: universidad, carrera, pensum, materias (codigo, nombre, creditos, semestre) y totales.\n\nTEXTO:\n{texto}"
-    
+    texto = limpiar_texto(texto)
+    texto = filtrar_lineas_materias(texto)
+
+    if len(texto) < 50:
+        return {"materias": []}
+
+    model = genai.GenerativeModel(
+        model_name="gemini-1.5-flash",
+        generation_config={
+            "response_mime_type": "application/json",
+            "temperature": 0.1
+        }
+    )
+
+    prompt = f"""
+Extrae materias universitarias desde estas filas OCR.
+
+Responde SOLO JSON válido.
+
+Formato EXACTO:
+
+{{
+ "materias":[
+   {{
+     "codigo": "string|null",
+     "nombre": "string|null",
+     "creditos": number|null",
+     "horas": number|null",
+     "semestre": number|null"
+   }}
+ ]
+}}
+
+FILAS:
+{texto}
+"""
+
     try:
-        response = client.models.generate_content(
-            model="gemini-2.0-flash", # Usando el modelo más actual
-            contents=prompt,
-            config={'response_mime_type': 'application/json'}
-        )
-        return json.loads(response.text)
+        response = model.generate_content(prompt)
+        datos = json.loads(response.text)
+
+        if "materias" not in datos or not isinstance(datos["materias"], list):
+            datos["materias"] = []
+
+        return datos
+
     except Exception as e:
-        return {"error": str(e)}
+        return {"error": str(e), "materias": []}
 
 def limpiar_temporales():
     for carpeta in [TEMP_PDF_DIR, TEMP_IMG_DIR]:
@@ -110,8 +167,10 @@ def limpiar_temporales():
 # 4. MAIN
 # =========================
 def main():
+    print("📂 Leyendo carreras desde:", INPUT_JSON)
+
     if not INPUT_JSON.exists():
-        print(f"❌ No existe {INPUT_JSON}")
+        print("❌ No existe uide_careers.json")
         return
 
     with open(INPUT_JSON, "r", encoding="utf-8") as f:
@@ -126,25 +185,37 @@ def main():
         if not url_pdf or url_pdf == "null":
             continue
 
-        print(f"📄 ({i}/{len(carreras)}) Procesando: {carrera}")
-        nombre_pdf = f"{carrera.replace(' ', '_')}.pdf"
+        print(f"\n📄 Procesando: {carrera}")
+
+        nombre_pdf = carrera.replace(" ", "_").replace("/", "-") + ".pdf"
         ruta_pdf = descargar_pdf(url_pdf, nombre_pdf)
 
-        if ruta_pdf:
-            texto = extraer_texto_pdf(ruta_pdf)
-            datos_ia = procesar_malla_con_ia(texto)
-            
-            resultado_final.append({
-                "universidad": datos_ia.get("universidad") or item.get("university_name"),
-                "carrera": carrera,
-                "materias": datos_ia.get("materias", []),
-                "totales": datos_ia.get("totales", {})
-            })
-            limpiar_temporales()
+        if not ruta_pdf:
+            continue
 
-    with open(OUTPUT_DIR / "uide_mallas.json", "w", encoding="utf-8") as f:
+        texto = extraer_texto_pdf(ruta_pdf)
+        datos_ia = procesar_malla_con_ia(texto)
+
+        resultado_final.append({
+            "universidad": item.get("university_name"),
+            "carrera": carrera,
+            "career_url_ref": item.get("career_url"),
+            "pensum": None,
+            "materias": datos_ia.get("materias", []),
+            "totales": {}
+        })
+
+        limpiar_temporales()
+
+    archivo_salida = OUTPUT_DIR / "uide_mallas.json"
+    with open(archivo_salida, "w", encoding="utf-8") as f:
         json.dump(resultado_final, f, indent=4, ensure_ascii=False)
-    print("\n✅ PROCESO FINALIZADO")
 
+    print("\n✅ PROCESO FINALIZADO")
+    print("📁 Archivo creado en:", archivo_salida)
+
+# =========================
+# 5. ENTRY POINT
+# =========================
 if __name__ == "__main__":
     main()
