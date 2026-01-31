@@ -22,7 +22,7 @@ async def get_careers(pool = Depends(get_pool)):
             c.modality,
             c.cost,
             c.career_url,
-            c.image_url,
+            NULL AS imagen,
             u.name AS university_name
         FROM careers c
         LEFT JOIN universities u ON c.university_id = u.id
@@ -38,7 +38,7 @@ async def get_careers(pool = Depends(get_pool)):
                 "id": r["id"],
                 "nombre": r["career_name"],
                 "area": r["faculty_name"],
-                "imagen": r["image_url"],
+                "imagen": r["imagen"],
                 "descripcion": r["description"],
                 "duracion": r["duration"],
                 "modalidad": r["modality"],
