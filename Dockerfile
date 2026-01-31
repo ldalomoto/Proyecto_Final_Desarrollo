@@ -21,7 +21,8 @@ RUN pip install -r requirements.txt
 
 # Copiamos el código
 COPY ai_backend ./ai_backend
-COPY .env .env
+#COMETNAMOS POR PARA CI CD
+# COPY .env .env
 
 # Exponemos el puerto
 EXPOSE 8000
