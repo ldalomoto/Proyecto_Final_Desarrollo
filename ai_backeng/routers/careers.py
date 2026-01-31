@@ -1,16 +1,20 @@
-from fastapi import APIRouter, Depends
+from fastapi import APIRouter, Depends, Query
 from typing import List
 from ai_backeng.schemas.career import CareerResponse
 from ai_backeng.db.postgres import get_pool
-from uuid import UUID
 
 router = APIRouter(
-    prefix="/careers",  # 👈 sin slash final
+    prefix="/careers",
     tags=["careers"]
 )
 
 @router.get("/", response_model=List[CareerResponse])
-async def get_careers(pool = Depends(get_pool)):
+async def get_careers(
+    page: int = Query(1, ge=1),
+    limit: int = Query(6, ge=1, le=20),
+    pool = Depends(get_pool)
+):
+    offset = (page - 1) * limit
 
     rows = await pool.fetch("""
         SELECT
@@ -26,7 +30,9 @@ async def get_careers(pool = Depends(get_pool)):
             u.name AS university_name
         FROM careers c
         LEFT JOIN universities u ON c.university_id = u.id
-    """)
+        ORDER BY c.career_name
+        LIMIT $1 OFFSET $2
+    """, limit, offset)
 
     careers = {}
 
