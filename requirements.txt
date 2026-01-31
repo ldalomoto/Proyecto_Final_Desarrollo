@@ -5,40 +5,16 @@ fastapi
 uvicorn
 
 # =========================
-# Environment
+# Environment & Data
 # =========================
 python-dotenv
-
-# =========================
-# HTTP / Scraping
-# =========================
-requests
-urllib3
-scrapy
-itemadapter
-beautifulsoup4
-unidecode
-
-# =========================
-# Data / Parsing
-# =========================
-pandas
 numpy
-pdfplumber
-pdf2image
-Pillow
 
 # =========================
-# NLP / ML / Embeddings
+# NLP / ML / Embeddings (PESADO)
 # =========================
-torch
+# Nota: Esto instalará torch, transformers y huggingface_hub automáticamente
 sentence-transformers
-transformers
-scikit-learn
-nltk
-sentencepiece
-accelerate
-huggingface_hub
 
 # =========================
 # AI APIs
@@ -49,7 +25,5 @@ google-generativeai
 # Database
 # =========================
 asyncpg
-psycopg2-binary
-pgvector
 supabase
 redis

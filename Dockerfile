@@ -21,11 +21,11 @@ RUN pip install -r requirements.txt
 
 # Copiamos el código
 COPY ai_backeng ./ai_backeng
-# COMETNAMOS POR PARA CI CD
-# COPY .env .env
+
+COPY .env .env
 
 # Exponemos el puerto
 EXPOSE 8000
 
 # Comando de arranque
-CMD ["uvicorn", "ai_backend.main:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["uvicorn", "ai_backeng.main:app", "--host", "0.0.0.0", "--port", "8000"]
