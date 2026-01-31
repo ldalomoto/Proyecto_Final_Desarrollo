@@ -33,3 +33,4 @@ async def get_pool() -> asyncpg.Pool:
     if _pool is None:
         raise RuntimeError("DB no inicializada. Llama init_db() primero.")
     return _pool
+
