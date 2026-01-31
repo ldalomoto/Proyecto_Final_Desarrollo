@@ -13,6 +13,9 @@ from ai_backeng.memory.tiempo import should_greet_user
 from fastapi.responses import StreamingResponse
 from ai_backeng.agent import run_agent_stream
 from ai_backeng.agent import build_user_embedding_text
+from fastapi import FastAPI
+from ai_backeng.db.postgres import init_db
+from ai_backeng.routers import careers
 
 def now():
     return datetime.now(timezone.utc)
@@ -46,10 +49,17 @@ class ChatInput(BaseModel):
 async def startup():
     await init_db()
 
+app.include_router(careers.router)
+
 @app.post("/reset-session")
 async def reset_session(user_id: str):
     session_manager.delete(user_id)
     return {"status": "ok"}
+
+
+
+
+
 
 @app.post("/chat")
 async def chat(input: ChatInput):
