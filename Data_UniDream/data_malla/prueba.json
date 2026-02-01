@@ -1,0 +1,634 @@
+[
+  {
+    "universidad": "Universidad Tecnológica ECOTEC",
+    "carrera": "Gestión de Talento Humano",
+    "career_url_ref": null,
+    "pensum": "2017",
+    "materias": [
+      { "nombre": "Habilidades Linguisticas", "semestre": 1 },
+      { "nombre": "Derecho Empresarial", "semestre": 1 },
+      { "nombre": "Fundamentos de Administración", "semestre": 1 },
+      { "nombre": "Contabilidad", "semestre": 1 },
+      { "nombre": "Fundamentos de Marketing", "semestre": 1 },
+      { "nombre": "Ética", "semestre": 2 },
+      { "nombre": "Metodologia de la Investigación", "semestre": 2 },
+      { "nombre": "Matemáticas Financieras", "semestre": 2 },
+      { "nombre": "Psicologia General", "semestre": 2 },
+      { "nombre": "Análisis Estadístico", "semestre": 2 },
+      { "nombre": "Desarrollo sostenible", "semestre": 3 },
+      { "nombre": "Derecho laboral e internacional", "semestre": 3 },
+      { "nombre": "Gestión por procesos", "semestre": 3 },
+      {
+        "nombre": "Bases Teóricas de la Gestión del Talento humano",
+        "semestre": 3
+      },
+      { "nombre": "Psicologia de la Personalidad", "semestre": 3 },
+      {
+        "nombre": "Realidad Nacional y Politica en el mundo actual",
+        "semestre": 4
+      },
+      { "nombre": "Administración de Prespuestos", "semestre": 4 },
+      { "nombre": "Comportamiento Organizacional", "semestre": 4 },
+      { "nombre": "Gestión por competencias", "semestre": 4 },
+      { "nombre": "Evaluación y Test Psicológicos", "semestre": 4 },
+      { "nombre": "Emprendimiento", "semestre": 5 },
+      { "nombre": "Decisiones basadas en datos e IA", "semestre": 5 },
+      { "nombre": "Dimensión estratégica del Talento Humano", "semestre": 5 },
+      { "nombre": "Arquitectura y Mapeo de cargos", "semestre": 5 },
+      { "nombre": "Atracción y Selección de Talento", "semestre": 5 },
+      {
+        "nombre": "Políticas y Tecnologias de innovación en la GTH",
+        "semestre": 6
+      },
+      { "nombre": "Neuromanagement en la GTH", "semestre": 6 },
+      { "nombre": "Capacitación & Knowledge Management", "semestre": 6 },
+      { "nombre": "Evaluación y control integral del talento", "semestre": 6 },
+      { "nombre": "People Analytics & KPI's", "semestre": 6 },
+      { "nombre": "Retribución en contextos globales", "semestre": 7 },
+      { "nombre": "Psicopatologia e integración laboral", "semestre": 7 },
+      { "nombre": "Gestión del cambio y desarrollo", "semestre": 7 },
+      {
+        "nombre": "Futuro del trabajo y Gestión del conocimiento",
+        "semestre": 7
+      },
+      { "nombre": "Negociación y resolución de conflictos", "semestre": 7 },
+      { "nombre": "Seguridad ocupacional", "semestre": 8 },
+      { "nombre": "Comunicación Empresarial Estratégica", "semestre": 8 },
+      { "nombre": "Employer Branding & Culture", "semestre": 8 },
+      { "nombre": "Global Leadership and Team Management", "semestre": 8 },
+      { "nombre": "Proyecto Integrador", "semestre": 8 }
+    ],
+    "totales": { "total_materias": 40 }
+  },
+  {
+    "universidad": "Universidad Tecnológica ECOTEC",
+    "carrera": "Logística y Transporte",
+    "career_url_ref": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-economicas-empresariales/malla-negocios-internacionales.pdf",
+    "pensum": "2020",
+    "materias": [
+      { "nombre": "Habilidades lingüisticas", "semestre": 1 },
+      {
+        "nombre": "Fudamentos de Administración para ingenieros",
+        "semestre": 1
+      },
+      { "nombre": "Introducción a la producción y operaciones", "semestre": 1 },
+      { "nombre": "Estadistica", "semestre": 1 },
+      { "nombre": "Cálculo diferencial", "semestre": 1 },
+      { "nombre": "Fisica del movimiento", "semestre": 1 },
+      { "nombre": "Ética", "semestre": 2 },
+      { "nombre": "Metodologia de la Investigación", "semestre": 2 },
+      { "nombre": "Tráfico y Transporte Terrestre", "semestre": 2 },
+      { "nombre": "Tráfico y Transporte maritimo y fluvial", "semestre": 2 },
+      { "nombre": "Cálculo integral y matricial", "semestre": 2 },
+      { "nombre": "Tecnologias de Apoyo a la Logistica", "semestre": 2 },
+      { "nombre": "Desarrollo Sostenible", "semestre": 3 },
+      { "nombre": "Quimica General", "semestre": 3 },
+      {
+        "nombre": "Prevención de los riesgos en los medios de transporte",
+        "semestre": 3
+      },
+      { "nombre": "Tráfico y Transporte aéreo", "semestre": 3 },
+      { "nombre": "Gestión de compras y negociación", "semestre": 3 },
+      { "nombre": "Legislación aplicada al transporte", "semestre": 3 },
+      {
+        "nombre": "Realidad Nacional y política en el mundo actual",
+        "semestre": 4
+      },
+      { "nombre": "Fundamentos de Marketing", "semestre": 4 },
+      { "nombre": "Sistemas deterministicos para operaciones", "semestre": 4 },
+      { "nombre": "Diseño y Evaluación de Proyectos", "semestre": 4 },
+      { "nombre": "Macroeconomia", "semestre": 4 },
+      { "nombre": "Emprendimiento", "semestre": 5 },
+      { "nombre": "Decisiones basadas en datos e IA", "semestre": 5 },
+      { "nombre": "Simuladores, logistica y transporte", "semestre": 5 },
+      { "nombre": "Pronóstico y Control de inventario", "semestre": 5 },
+      { "nombre": "Comercio Internacional", "semestre": 5 },
+      { "nombre": "Dirección de la cadena de abastecimiento", "semestre": 6 },
+      { "nombre": "Manejo y Seguridad de la Carga", "semestre": 6 },
+      { "nombre": "Investigación de Operaciones Aplicadas", "semestre": 6 },
+      { "nombre": "Dirección Financiera de la Logistica", "semestre": 6 },
+      { "nombre": "Logistica Internacional y Aduanas", "semestre": 6 },
+      { "nombre": "Gestión estratégica", "semestre": 7 },
+      { "nombre": "Logistica Sostenible", "semestre": 7 },
+      { "nombre": "Empaque, envase y Embalaje", "semestre": 7 },
+      { "nombre": "Gestión de Bodega", "semestre": 7 },
+      { "nombre": "Operaciones de Comercio Exterior", "semestre": 7 },
+      {
+        "nombre": "Sistema de Gestión de la Cadena de Abastecimiento",
+        "semestre": 8
+      },
+      { "nombre": "Gestión de Talento Humano", "semestre": 8 },
+      { "nombre": "Seguridad de la Cadena de Abastecimiento", "semestre": 8 },
+      { "nombre": "Optimización y Ruteo", "semestre": 8 },
+      { "nombre": "Proyecto Integrador", "semestre": 8 }
+    ],
+    "totales": { "total_materias": 43 }
+  },
+  {
+    "universidad": "Universidad Tecnológica ECOTEC",
+    "carrera": "Gestión de Talento Humano",
+    "career_url_ref": "https://ecotec.edu.ec/facultad/ciencias-economicas-empresariales/carrera/gestion-del-talento-humano/",
+    "pensum": "2017",
+    "materias": [
+      { "nombre": "Habilidades Linguisticas", "semestre": 1 },
+      { "nombre": "Derecho Empresarial", "semestre": 1 },
+      { "nombre": "Fundamentos de Administración", "semestre": 1 },
+      { "nombre": "Contabilidad", "semestre": 1 },
+      { "nombre": "Fundamentos de Marketing", "semestre": 1 },
+      { "nombre": "Ética", "semestre": 2 },
+      { "nombre": "Metodologia de la Investigación", "semestre": 2 },
+      { "nombre": "Matemáticas Financieras", "semestre": 2 },
+      { "nombre": "Psicologia General", "semestre": 2 },
+      { "nombre": "Análisis Estadístico", "semestre": 2 },
+      { "nombre": "Desarrollo sostenible", "semestre": 3 },
+      { "nombre": "Derecho laboral e internacional", "semestre": 3 },
+      { "nombre": "Gestión por procesos", "semestre": 3 },
+      {
+        "nombre": "Bases Teóricas de la Gestión del Talento humano",
+        "semestre": 3
+      },
+      { "nombre": "Psicologia de la Personalidad", "semestre": 3 },
+      {
+        "nombre": "Realidad Nacional y Politica en el mundo actual",
+        "semestre": 4
+      },
+      { "nombre": "Administración de Prespuestos", "semestre": 4 },
+      { "nombre": "Comportamiento Organizacional", "semestre": 4 },
+      { "nombre": "Gestión por competencias", "semestre": 4 },
+      { "nombre": "Evaluación y Test Psicológicos", "semestre": 4 },
+      { "nombre": "Emprendimiento", "semestre": 5 },
+      { "nombre": "Decisiones basadas en datos e IA", "semestre": 5 },
+      { "nombre": "Dimensión estratégica del Talento Humano", "semestre": 5 },
+      { "nombre": "Arquitectura y Mapeo de cargos", "semestre": 5 },
+      { "nombre": "Atracción y Selección de Talento", "semestre": 5 },
+      {
+        "nombre": "Políticas y Tecnologias de innovación en la GTH",
+        "semestre": 6
+      },
+      { "nombre": "Neuromanagement en la GTH", "semestre": 6 },
+      { "nombre": "Capacitación & Knowledge Management", "semestre": 6 },
+      { "nombre": "Evaluación y control integral del talento", "semestre": 6 },
+      { "nombre": "People Analytics & KPI's", "semestre": 6 },
+      { "nombre": "Retribución en contextos globales", "semestre": 7 },
+      { "nombre": "Psicopatologia e integración laboral", "semestre": 7 },
+      { "nombre": "Gestión del cambio y desarrollo", "semestre": 7 },
+      {
+        "nombre": "Futuro del trabajo y Gestión del conocimiento",
+        "semestre": 7
+      },
+      { "nombre": "Negociación y resolución de conflictos", "semestre": 7 },
+      { "nombre": "Seguridad ocupacional", "semestre": 8 },
+      { "nombre": "Comunicación Empresarial Estratégica", "semestre": 8 },
+      { "nombre": "Employer Branding & Culture", "semestre": 8 },
+      { "nombre": "Global Leadership and Team Management", "semestre": 8 },
+      { "nombre": "Proyecto Integrador", "semestre": 8 }
+    ],
+    "totales": {
+      "total_materias": 40
+    }
+  },
+  {
+    "universidad": "Universidad Tecnológica ECOTEC",
+    "carrera": "Logística y Transporte",
+    "career_url_ref": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-economicas-empresariales/malla-logistica-transporte.pdf",
+    "pensum": "2020",
+    "materias": [
+      { "nombre": "Habilidades lingüisticas", "semestre": 1 },
+      {
+        "nombre": "Fudamentos de Administración para ingenieros",
+        "semestre": 1
+      },
+      { "nombre": "Introducción a la producción y operaciones", "semestre": 1 },
+      { "nombre": "Estadistica", "semestre": 1 },
+      { "nombre": "Cálculo diferencial", "semestre": 1 },
+      { "nombre": "Fisica del movimiento", "semestre": 1 },
+      { "nombre": "Ética", "semestre": 2 },
+      { "nombre": "Metodologia de la Investigación", "semestre": 2 },
+      { "nombre": "Tráfico y Transporte Terrestre", "semestre": 2 },
+      { "nombre": "Tráfico y Transporte maritimo y fluvial", "semestre": 2 },
+      { "nombre": "Cálculo integral y matricial", "semestre": 2 },
+      { "nombre": "Tecnologias de Apoyo a la Logistico", "semestre": 2 },
+      { "nombre": "Desarrollo Sostenible", "semestre": 3 },
+      { "nombre": "Quimica General", "semestre": 3 },
+      {
+        "nombre": "Prevención de los riesgos en los medios de transporte",
+        "semestre": 3
+      },
+      { "nombre": "Tráfico y Transporte aéreo", "semestre": 3 },
+      { "nombre": "Gestión de compras y negociación", "semestre": 3 },
+      { "nombre": "Legislación aplicada al transporte", "semestre": 3 },
+      {
+        "nombre": "Realidad Nacional y política en el mundo actual",
+        "semestre": 4
+      },
+      { "nombre": "Fundamentos de Marketing", "semestre": 4 },
+      { "nombre": "Sistemas deterministicos para operaciones", "semestre": 4 },
+      { "nombre": "Diseño y Evaluación de Proyectos", "semestre": 4 },
+      { "nombre": "Macroeconomia", "semestre": 4 },
+      { "nombre": "Emprendimiento", "semestre": 5 },
+      { "nombre": "Decisiones basadas en datos e IA", "semestre": 5 },
+      { "nombre": "Simuladores, logistica y transporte", "semestre": 5 },
+      { "nombre": "Pronóstico y Control de inventario", "semestre": 5 },
+      { "nombre": "Comercio Internacional", "semestre": 5 },
+      { "nombre": "Dirección de la cadena de abastecimiento", "semestre": 6 },
+      { "nombre": "Manejo y Seguridad de la Carga", "semestre": 6 },
+      { "nombre": "Investigación de Operaciones Aplicadas", "semestre": 6 },
+      { "nombre": "Dirección Financiera de la Logistica", "semestre": 6 },
+      { "nombre": "Logistica Internacional y Aduanas", "semestre": 6 },
+      { "nombre": "Gestión estratégica", "semestre": 7 },
+      { "nombre": "Logistica Sostenible", "semestre": 7 },
+      { "nombre": "Empaque, envase y Embalaje", "semestre": 7 },
+      { "nombre": "Gestión de Bodega", "semestre": 7 },
+      { "nombre": "Operaciones de Comercio Exterior", "semestre": 7 },
+      {
+        "nombre": "Sistema de Gestión de la Cadena de Abastecimiento",
+        "semestre": 8
+      },
+      { "nombre": "Gestión de Talento Humano", "semestre": 8 },
+      { "nombre": "Seguridad de la Cadena de Abastecimiento", "semestre": 8 },
+      { "nombre": "Optimización y Ruteo", "semestre": 8 },
+      { "nombre": "Proyecto Integrador", "semestre": 8 }
+    ],
+    "totales": {
+      "total_materias": 43
+    }
+  },
+  {
+    "universidad": "Universidad Tecnológica ECOTEC",
+    "carrera": "Negocios Digitales",
+    "career_url_ref": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-economicas-empresariales/malla-negocios-digitales.pdf",
+    "pensum": "2020",
+    "materias": [
+      { "nombre": "Habilidades lingüísticas", "semestre": 1 },
+      { "nombre": "Análisis Estadístico", "semestre": 1 },
+      { "nombre": "Derecho Empresarial", "semestre": 1 },
+      { "nombre": "Fundamentos de Marketing", "semestre": 1 },
+      { "nombre": "Fundamentos de Administración", "semestre": 1 },
+      { "nombre": "Metodologia de la Investigación", "semestre": 2 },
+      { "nombre": "Ética", "semestre": 2 },
+      { "nombre": "Contabilidad", "semestre": 2 },
+      { "nombre": "Microeconomia", "semestre": 2 },
+      { "nombre": "Fundamentos de Administración Financiera", "semestre": 2 },
+      { "nombre": "Desarrollo Sostenible", "semestre": 3 },
+      { "nombre": "Matemáticas Financieras", "semestre": 3 },
+      { "nombre": "Contabilidad Administrativa", "semestre": 3 },
+      { "nombre": "Macroeconomia", "semestre": 3 },
+      { "nombre": "Economia Digital", "semestre": 3 },
+      {
+        "nombre": "Realidad nacional y politica en el mundo actual",
+        "semestre": 4
+      },
+      { "nombre": "Diseño y Evaluación de Proyectos", "semestre": 4 },
+      { "nombre": "Comercio Internacional", "semestre": 4 },
+      { "nombre": "Investigación digital de los Mercados", "semestre": 4 },
+      { "nombre": "Business Process Management", "semestre": 4 },
+      { "nombre": "Emprendimiento", "semestre": 5 },
+      { "nombre": "Decisiones basadas en datos e IA", "semestre": 5 },
+      { "nombre": "Marketing Internacional", "semestre": 5 },
+      { "nombre": "Marketing Digital y Social Media", "semestre": 5 },
+      { "nombre": "Ciencias de Datos aplicada a los negocios", "semestre": 5 },
+      { "nombre": "Transformación Digital", "semestre": 6 },
+      { "nombre": "Gestión de la Innovación", "semestre": 6 },
+      { "nombre": "Inteligencia de Negocios", "semestre": 6 },
+      { "nombre": "E-CRM", "semestre": 6 },
+      { "nombre": "Gestión de Procesos Digitales", "semestre": 6 },
+      { "nombre": "Tecnologias Emergentes", "semestre": 7 },
+      { "nombre": "Gestión Estratégica", "semestre": 7 },
+      { "nombre": "Design Thinking", "semestre": 7 },
+      { "nombre": "Experiencia de Usuario / UX-UI", "semestre": 7 },
+      { "nombre": "E-Commerce", "semestre": 7 },
+      { "nombre": "Ciberseguridad y Blockchain", "semestre": 8 },
+      { "nombre": "Tópicos Especiales en Negoc. Digitales", "semestre": 8 },
+      { "nombre": "Programación aplicada a los negocios", "semestre": 8 },
+      { "nombre": "Proyecto Integrador", "semestre": 8 },
+      { "nombre": "Diseños de Negocios Digitales", "semestre": 8 }
+    ],
+    "totales": {
+      "total_materias": 40
+    }
+  },
+  {
+    "universidad": "Universidad Tecnológica ECOTEC",
+    "carrera": "Criminalística",
+    "career_url_ref": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/derecho-gobernabilidad/malla-criminalistica.pdf",
+    "pensum": "2026",
+    "materias": [
+      { "nombre": "Habilidades Lingüísticas", "semestre": 1 },
+      { "nombre": "Introducción a la Criminalística", "semestre": 1 },
+      { "nombre": "Biología", "semestre": 1 },
+      { "nombre": "Física del Movimiento", "semestre": 1 },
+      { "nombre": "Química General", "semestre": 1 },
+      { "nombre": "Cálculo Diferencial", "semestre": 1 },
+      { "nombre": "Ética", "semestre": 2 },
+      { "nombre": "Metodología de la Investigación", "semestre": 2 },
+      { "nombre": "Fundamentos de la Criminología", "semestre": 2 },
+      { "nombre": "Física de la Energía", "semestre": 2 },
+      { "nombre": "Química Orgánica", "semestre": 2 },
+      { "nombre": "Estadística", "semestre": 2 },
+      { "nombre": "Desarrollo Sostenible", "semestre": 3 },
+      { "nombre": "Fundamentos del Derecho Penal", "semestre": 3 },
+      { "nombre": "Documentología I", "semestre": 3 },
+      { "nombre": "Balística I", "semestre": 3 },
+      { "nombre": "Morfofisiología", "semestre": 3 },
+      {
+        "nombre": "Realidad Nacional y Política del Mundo Actual",
+        "semestre": 4
+      },
+      { "nombre": "Documentología II", "semestre": 4 },
+      {
+        "nombre": "Responsabilidad Social y Seguridad Ciudadana",
+        "semestre": 4
+      },
+      { "nombre": "Balística II", "semestre": 4 },
+      { "nombre": "Papiloscopía e Identidad Humana", "semestre": 4 },
+      { "nombre": "Emprendimiento", "semestre": 5 },
+      { "nombre": "Decisiones Basadas en Datos e I.A.", "semestre": 5 },
+      {
+        "nombre": "Informática Forense y Tecnologías Emergentes",
+        "semestre": 5
+      },
+      { "nombre": "Accidentología Vial", "semestre": 5 },
+      { "nombre": "Toxicología Forense", "semestre": 5 },
+      { "nombre": "Psiquiatría Forense", "semestre": 6 },
+      { "nombre": "Audio, Video y Afines", "semestre": 6 },
+      { "nombre": "Inspección del Lugar de los Hechos I", "semestre": 6 },
+      {
+        "nombre": "Métodos y Técnicas de Investigación Criminal",
+        "semestre": 6
+      },
+      { "nombre": "Estadística Forense", "semestre": 6 },
+      { "nombre": "Ciberdelitos en el ámbito Criminalístico", "semestre": 7 },
+      { "nombre": "Medicina Legal", "semestre": 7 },
+      { "nombre": "Litigación Oral y Redacción Forense", "semestre": 7 },
+      { "nombre": "Procesos Penales y Criminalísticos", "semestre": 7 },
+      { "nombre": "Inspección del Lugar de los Hechos II", "semestre": 7 },
+      { "nombre": "Investigación de Incendios y Explosivos", "semestre": 8 },
+      { "nombre": "Odontología y Antropología Forense", "semestre": 8 },
+      { "nombre": "Taller de Práctica Criminalística", "semestre": 8 },
+      { "nombre": "Proyecto Integrador", "semestre": 8 }
+    ],
+    "totales": {
+      "total_materias": 41
+    }
+  },
+  {
+    "universidad": "Universidad Tecnológica ECOTEC",
+    "carrera": "Psicología Clínica",
+    "career_url_ref": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-de-la-salud/malla-psicologia.pdf",
+    "pensum": "2022",
+    "materias": [
+      { "nombre": "Habilidades lingüísticas", "semestre": 1 },
+      { "nombre": "Enfoques y fundamentos en Salud Pública", "semestre": 1 },
+      { "nombre": "Metodologia de la investigación", "semestre": 1 },
+      { "nombre": "Desarrollo sostenible", "semestre": 1 },
+      { "nombre": "Corrientes psicológicas", "semestre": 1 },
+      { "nombre": "Principios filosóficos de Psicología", "semestre": 2 },
+      {
+        "nombre": "Principios de Neuroanatomía y Neurofisiología",
+        "semestre": 2
+      },
+      { "nombre": "Ética", "semestre": 2 },
+      { "nombre": "Psicología del Desarrollo humano", "semestre": 2 },
+      { "nombre": "Historia de la Psicología", "semestre": 2 },
+      { "nombre": "Bioestadística", "semestre": 3 },
+      { "nombre": "Psicología de la sexualidad humana", "semestre": 3 },
+      { "nombre": "Neuropsicología", "semestre": 3 },
+      { "nombre": "Sistemas teóricos de la personalidad", "semestre": 3 },
+      { "nombre": "Psicología Social y de la salud", "semestre": 3 },
+      {
+        "nombre": "Realidad Nacional y política en el mundo actual",
+        "semestre": 4
+      },
+      { "nombre": "Técnicas Proyectivas", "semestre": 4 },
+      {
+        "nombre": "Evaluación y diagnóstico en Psicología Clínica",
+        "semestre": 4
+      },
+      { "nombre": "Técnicas psicométricas", "semestre": 4 },
+      { "nombre": "Psicopatología I", "semestre": 4 },
+      { "nombre": "Emprendimiento", "semestre": 5 },
+      { "nombre": "Decisiones basadas en datos e IA", "semestre": 5 },
+      { "nombre": "Psicología de las discapacidades", "semestre": 5 },
+      {
+        "nombre": "IA aplicada al Psicodiagnóstico y Psicoterapia",
+        "semestre": 5
+      },
+      { "nombre": "Psicopatología II", "semestre": 5 },
+      { "nombre": "Psicoterapia familiar y de pareja", "semestre": 6 },
+      {
+        "nombre": "Psicología de las toxicomanías y adicciones",
+        "semestre": 6
+      },
+      {
+        "nombre": "Estrategias de branding profesional en Psicología Clínica",
+        "semestre": 6
+      },
+      { "nombre": "Psicología forense y criminología", "semestre": 6 },
+      { "nombre": "Psicoanálisis", "semestre": 6 },
+      { "nombre": "Salud comunitaria", "semestre": 7 },
+      { "nombre": "Psicología Cognitiva Conductual", "semestre": 7 },
+      { "nombre": "Psicofarmacología", "semestre": 7 },
+      { "nombre": "Psicoterapia Psicodinámica", "semestre": 7 },
+      { "nombre": "Psicoterapia Cognitiva Conductual", "semestre": 7 },
+      { "nombre": "Psicoterapia infanto juvenil", "semestre": 8 },
+      { "nombre": "Psicoterapia grupal", "semestre": 8 },
+      { "nombre": "Psicoterapia Humanista", "semestre": 8 },
+      { "nombre": "Proyecto integrador", "semestre": 8 }
+    ],
+    "totales": {
+      "total_materias": 39
+    }
+  },
+  {
+    "universidad": "Universidad Tecnológica ECOTEC",
+    "carrera": "Fisioterapia",
+    "career_url_ref": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-de-la-salud/malla-fisioterapia.pdf",
+    "pensum": "2021",
+    "materias": [
+      { "nombre": "Habilidades lingüísticas", "semestre": 1 },
+      { "nombre": "Fundamentos de Fisioterapia", "semestre": 1 },
+      { "nombre": "Morfofisiología I", "semestre": 1 },
+      { "nombre": "Bases químico biológicas de la célula", "semestre": 1 },
+      { "nombre": "Salud emocional y Discapacidad", "semestre": 1 },
+      { "nombre": "Metodología de la Investigación", "semestre": 2 },
+      { "nombre": "Ética", "semestre": 2 },
+      {
+        "nombre": "Fundamentos de Neuroanatomía y Neurofisiología",
+        "semestre": 2
+      },
+      { "nombre": "Morfofisiología II", "semestre": 2 },
+      { "nombre": "Biomecánica", "semestre": 2 },
+      { "nombre": "Desarrollo Sostenible", "semestre": 3 },
+      { "nombre": "Fisiopatología", "semestre": 3 },
+      { "nombre": "Control motor y Movimiento Corporal Humano", "semestre": 3 },
+      { "nombre": "Bioestadística", "semestre": 3 },
+      { "nombre": "Epidemiología", "semestre": 3 },
+      {
+        "nombre": "Realidad Nacional y Política en el mundo actual",
+        "semestre": 4
+      },
+      {
+        "nombre": "Evaluación y Diagnóstico Fisioterapéutico I",
+        "semestre": 4
+      },
+      { "nombre": "Ergonomía y Kinefilaxia", "semestre": 4 },
+      { "nombre": "Fisiotecnología", "semestre": 4 },
+      { "nombre": "Salud Comunitaria", "semestre": 4 },
+      { "nombre": "Emprendimiento", "semestre": 5 },
+      { "nombre": "Decisiones basadas en datos IA", "semestre": 5 },
+      {
+        "nombre": "Evaluación y Diagnóstico Fisioterapéutico II",
+        "semestre": 5
+      },
+      { "nombre": "Fisiología y prescripción del ejercicio", "semestre": 5 },
+      { "nombre": "Imagenología", "semestre": 5 },
+      {
+        "nombre": "Evaluación y Diagnóstico Fisioterapéutico III",
+        "semestre": 6
+      },
+      { "nombre": "IA aplicada a Fisioterapia", "semestre": 6 },
+      { "nombre": "Traumatología y Ortopedia", "semestre": 6 },
+      { "nombre": "Terapia Manual Ortopédica", "semestre": 6 },
+      { "nombre": "Administración y Gestión en Salud", "semestre": 6 },
+      { "nombre": "Fisioterapia en Pediatría", "semestre": 7 },
+      { "nombre": "Kinesiología Deportiva", "semestre": 7 },
+      { "nombre": "Fisioterapia en Geriatría", "semestre": 7 },
+      { "nombre": "Salud Pública", "semestre": 7 },
+      { "nombre": "Bioética", "semestre": 7 },
+      {
+        "nombre": "Intervención Fisioterapéutica Neuromúsculo esquelética",
+        "semestre": 8
+      },
+      {
+        "nombre": "Intervención Fisioterapéutica Cardio-metabólica",
+        "semestre": 8
+      },
+      {
+        "nombre": "Intervención Fisioterapéutica Basada en la evidencia",
+        "semestre": 8
+      },
+      { "nombre": "Rehabilitación Integral en el Ciclo Vital", "semestre": 8 },
+      { "nombre": "Proyecto Integrador", "semestre": 8 }
+    ],
+    "totales": {
+      "total_materias": 40
+    }
+  },
+
+  {
+    "universidad": "Universidad Tecnológica ECOTEC",
+    "carrera": "Derecho",
+    "career_url_ref": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/derecho-gobernabilidad/malla-derecho.pdf",
+    "pensum": "2020",
+    "materias": [
+      { "nombre": "Habilidades Lingüísticas", "semestre": 1 },
+      { "nombre": "Instituciones del Derecho Romano", "semestre": 1 },
+      { "nombre": "Estado y Constitución", "semestre": 1 },
+      { "nombre": "Introducción del Derecho", "semestre": 1 },
+      { "nombre": "Ética", "semestre": 1 },
+      { "nombre": "Metodología de la Investigación", "semestre": 2 },
+      { "nombre": "Derecho Constitucional General", "semestre": 2 },
+      { "nombre": "Derecho Civil I", "semestre": 2 },
+      { "nombre": "Historia y Filosofía del Derecho", "semestre": 2 },
+      { "nombre": "Derecho Internacional", "semestre": 2 },
+      { "nombre": "Desarrollo Sostenible", "semestre": 3 },
+      { "nombre": "Derecho Administrativo", "semestre": 3 },
+      { "nombre": "Derecho Civil Bienes I", "semestre": 3 },
+      { "nombre": "Derecho Penal I", "semestre": 3 },
+      { "nombre": "Teoría General del Proceso", "semestre": 3 },
+      {
+        "nombre": "Realidad Nacional y Política del Mundo Actual",
+        "semestre": 4
+      },
+      { "nombre": "Derecho Procesal Constitucional", "semestre": 4 },
+      { "nombre": "Derecho Civil Bienes II", "semestre": 4 },
+      { "nombre": "Teoría General de los Actos Jurídicos", "semestre": 4 },
+      {
+        "nombre": "Investigación Jurídica y Transformación Social",
+        "semestre": 4
+      },
+      { "nombre": "Emprendimiento", "semestre": 5 },
+      { "nombre": "Decisiones Basadas en Casos & I.A.", "semestre": 5 },
+      { "nombre": "Derecho de las Obligaciones", "semestre": 5 },
+      { "nombre": "Procedimiento General I", "semestre": 5 },
+      { "nombre": "Derecho Penal II", "semestre": 5 },
+      { "nombre": "Derecho de Contratos I", "semestre": 6 },
+      { "nombre": "Procedimiento General II", "semestre": 6 },
+      { "nombre": "Derecho de Sucesiones", "semestre": 6 },
+      { "nombre": "Derecho Mercantil", "semestre": 6 },
+      { "nombre": "Procedimiento Penal", "semestre": 6 },
+      { "nombre": "Derecho de Contratos II", "semestre": 7 },
+      { "nombre": "Derecho Tributario", "semestre": 7 },
+      { "nombre": "Derecho del Trabajo", "semestre": 7 },
+      { "nombre": "Métodos Alternos de Solución de Conflictos", "semestre": 7 },
+      { "nombre": "Derecho Societario", "semestre": 7 },
+      { "nombre": "Práctica Jurídica", "semestre": 8 },
+      { "nombre": "Derecho Empresarial", "semestre": 8 },
+      { "nombre": "Derecho Digital y Legaltech", "semestre": 8 },
+      { "nombre": "Derecho de Familia", "semestre": 8 },
+      { "nombre": "Proyecto Integrador", "semestre": 8 }
+    ],
+    "totales": {
+      "total_materias": 40
+    }
+  },
+  {
+    "universidad": "Universidad Tecnológica ECOTEC",
+    "carrera": "Nutrición y Dietética",
+    "career_url_ref": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-de-la-salud/malla-nutricion.pdf",
+    "pensum": "2023",
+    "materias": [
+      { "nombre": "Habilidades Lingüísticas", "semestre": 1 },
+      { "nombre": "Morfofisiología", "semestre": 1 },
+      { "nombre": "Biología", "semestre": 1 },
+      { "nombre": "Bromatología I", "semestre": 1 },
+      { "nombre": "Bioquímica", "semestre": 1 },
+      { "nombre": "Antropología de la Nutrición", "semestre": 1 },
+      { "nombre": "Metodología de la Investigación", "semestre": 2 },
+      { "nombre": "Ética", "semestre": 2 },
+      { "nombre": "Metabolismo y Nutrición", "semestre": 2 },
+      { "nombre": "Bromatología II", "semestre": 2 },
+      { "nombre": "Microbiología de los Alimentos", "semestre": 2 },
+      { "nombre": "Principios de la Alimentación y Nutrición", "semestre": 2 },
+      { "nombre": "Desarrollo Sostenible", "semestre": 3 },
+      { "nombre": "Fisiopatología Aplicada a la Nutrición", "semestre": 3 },
+      { "nombre": "Nutrición según Ciclos de vida", "semestre": 3 },
+      { "nombre": "Técnicas Dietéticas", "semestre": 3 },
+      { "nombre": "Evaluación del Estado Nutricional I", "semestre": 3 },
+      { "nombre": "Bioética", "semestre": 3 },
+      {
+        "nombre": "Realidad Nacional y Política en el Mundo Actual",
+        "semestre": 4
+      },
+      { "nombre": "Farmacología Aplicada a la Nutrición", "semestre": 4 },
+      { "nombre": "Salud Comunitaria", "semestre": 4 },
+      { "nombre": "Nutrición Clínica I", "semestre": 4 },
+      { "nombre": "Dietoterapia", "semestre": 4 },
+      { "nombre": "Evaluación del Estado Nutricional II", "semestre": 4 },
+      { "nombre": "Emprendimiento", "semestre": 5 },
+      { "nombre": "Decisiones Basadas en Datos e IA", "semestre": 5 },
+      { "nombre": "Nutrición Clínica II", "semestre": 5 },
+      { "nombre": "Educación Nutricional", "semestre": 5 },
+      { "nombre": "Seguridad Alimentaria", "semestre": 5 },
+      { "nombre": "Bioestadística", "semestre": 5 },
+      { "nombre": "Nutrición Deportiva", "semestre": 6 },
+      { "nombre": "Inmunonutrición", "semestre": 6 },
+      { "nombre": "Nutrición Pediátrica", "semestre": 6 },
+      { "nombre": "Servicios de Alimentación", "semestre": 6 },
+      { "nombre": "Psicología Aplicada a la Nutrición", "semestre": 6 },
+      { "nombre": "Epidemiología", "semestre": 6 },
+      { "nombre": "Soporte Nutricional", "semestre": 7 },
+      { "nombre": "Nutracéuticos y Alimentos Funcionales", "semestre": 7 },
+      { "nombre": "Tecnología de los Alimentos", "semestre": 7 },
+      { "nombre": "Nutrigenética y Nutrigenómica", "semestre": 7 },
+      { "nombre": "Asesoría y Consultoría Nutricional", "semestre": 7 },
+      { "nombre": "Proyecto Integrador Nutricional", "semestre": 7 },
+      { "nombre": "ROTACIÓN NUTRICIÓN PEDIÁTRICA", "semestre": 8 },
+      { "nombre": "ROTACIÓN NUTRICIÓN COMUNITARIA", "semestre": 8 },
+      { "nombre": "ROTACIÓN NUTRICIÓN CLÍNICA QUIRÚRGICA", "semestre": 8 }
+    ],
+    "totales": {
+      "total_materias": 45
+    }
+  }
+]

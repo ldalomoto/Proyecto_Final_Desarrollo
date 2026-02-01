@@ -1,0 +1,488 @@
+[
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/comunicacion-humanidades-y-creatividad/carrera/comunicacion/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Comunicación",
+    "degree_title": "Licenciado/a en Comunicación",
+    "description": "Formar profesionales capaces de analizar procesos comunicacionales y proponer soluciones estratégicas que optimicen la gestión y recepción de información en medios tradicionales y digitales. La carrera impulsa una visión integral, creativa y ética orientada al desarrollo social, empresarial y ambiental.",
+    "locations": [
+      "Samborondón"
+    ],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/comunicacion-humanidades-creatividad/malla-comunicacion.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/comunicacion-humanidades-y-creatividad/carrera/marketing/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Marketing",
+    "degree_title": "Licenciado/a en Marketing",
+    "description": "Formar profesionales en Marketing capaces de planificar, diseñar y ejecutar estrategias, modelos y procesos innovadores que reconozcan la importancia de la diferenciación y el posicionamiento de productos y servicios. La carrera impulsa creatividad, innovación y pensamiento estratégico como base para alcanzar ventajas competitivas en entornos cambiantes, contribuyendo al desarrollo empresarial y del país.",
+    "locations": [
+      "Guayaquil",
+      "Samborondón"
+    ],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/comunicacion-humanidades-creatividad/malla-marketing.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/comunicacion-humanidades-y-creatividad/carrera/multimedia-y-produccion-audiovisual/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Multimedia y Producción Audiovisual",
+    "degree_title": "Licenciado/a en Multimedia y Producción Audiovisual",
+    "description": "Formar profesionales integrales con capacidad para analizar, planificar, desarrollar, dirigir y gestionar productos audiovisuales y multimedia en formatos físicos y virtuales. La carrera integra creatividad, estética, funcionalidad, innovación y tendencias tecnológicas para producir contenidos didácticos, eficientes y de alto impacto comunicacional.",
+    "locations": [
+      "Samborondón"
+    ],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/comunicacion-humanidades-creatividad/malla-multimedia.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/comunicacion-humanidades-y-creatividad/carrera/psicologia/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Psicología",
+    "degree_title": "Licenciado/a en Psicología",
+    "description": "Impulsar la formación integral del psicólogo, integrando ciencia y práctica para desarrollar intervenciones éticas, creativas e innovadoras en los contextos educativo, familiar, organizacional y comunitario. El programa fomenta una visión profesional orientada al desarrollo humano, la prevención y el fortalecimiento del bienestar psicológico.",
+    "locations": [
+      "Guayaquil",
+      "La Costa",
+      "Samborondón"
+    ],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/comunicacion-humanidades-creatividad/malla-psicologia.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/ingenierias-arquitectura-y-ciencias-de-la-naturaleza/carrera/ingenieria-en-mecatronica/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Ingeniería en Mecatrónica",
+    "degree_title": "Ingeniero/a en Mecatrónica",
+    "description": "Formar profesionales capaces de gestionar procesos mecatrónicos integrados en diseño, desarrollo, automatización y administración de proyectos industriales, aplicando mecánica, computación, electrónica y control. La carrera promueve el desarrollo personal, nacional y ambiental, con enfoque ético, responsable e innovador.",
+    "locations": [
+      "Samborondón"
+    ],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ingenierias-arquitectura-ciencias/malla-ingenieria-mecatronica.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/ingenierias-arquitectura-y-ciencias-de-la-naturaleza/carrera/ingenieria-civil/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Ingeniería Civil",
+    "degree_title": "Ingeniero/a Civil",
+    "description": "Formar profesionales íntegros con capacidad para diseñar, planificar, gestionar, ejecutar y controlar proyectos de obras civiles a pequeña, mediana y gran escala, con conciencia ambiental y la sostenibilidad en el ejercicio de la profesión.",
+    "locations": [
+      "Samborondón"
+    ],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ingenierias-arquitectura-ciencias/malla-ingenieria-civil.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/ingenierias-arquitectura-y-ciencias-de-la-naturaleza/carrera/arquitectura/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Arquitectura",
+    "degree_title": "Arquitecto",
+    "description": "Formar profesionales íntegros con capacidad de diseñar y construir espacios que mejoren la calidad de vida de las personas, respetando el entorno natural y social en el que se desarrollan, logrando una educación que enlace aspectos técnicos, creativos, éticos, sociales, y que promueva la conciencia ambiental y la sostenibilidad en el ejercicio de la profesión.",
+    "locations": [
+      "Guayaquil",
+      "Samborondón"
+    ],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ingenierias-arquitectura-ciencias/malla-arquitectura.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/ingenierias-arquitectura-y-ciencias-de-la-naturaleza/carrera/medicina-veterinaria/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Medicina Veterinaria",
+    "degree_title": "Médico Veterinario",
+    "description": "Formar profesionales íntegros en el campo de la veterinaria, capaces de generar soluciones que contribuyan a la conservación de la salud y bienestar de los animales y acordes a las normativas éticas científicas que demanda la salud pública y el mercado nacional e internacional.",
+    "locations": [
+      "La Costa"
+    ],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ingenierias-arquitectura-ciencias/malla-veterinaria.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/ingenierias-arquitectura-y-ciencias-de-la-naturaleza/carrera/ingenieria-agronoma/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Ingeniería Agrónoma",
+    "degree_title": "Ingeniero/a Agrónomo/a",
+    "description": "Impulsar la formación integral del psicólogo, integrando ciencia y práctica para desarrollar intervenciones éticas, creativas e innovadoras en los contextos educativo, familiar, organizacional y comunitario. El programa fomenta una visión profesional orientada al desarrollo humano, la prevención y el fortalecimiento del bienestar psicológico.",
+    "locations": [
+      "Samborondón"
+    ],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ingenierias-arquitectura-ciencias/malla-agronomia.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/ingenierias-arquitectura-y-ciencias-de-la-naturaleza/carrera/ingenieria-industrial/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Ingeniería Industrial",
+    "degree_title": "Ingeniero/a Industrial",
+    "description": "Formar profesionales integrales capaces de gestionar procesos productivos y operativos en el ámbito industrial, aplicando investigación y tecnología en planificación, seguridad, calidad y logística, con un fuerte compromiso ético, responsable y honesto.",
+    "locations": [
+      "Samborondón"
+    ],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ingenierias-arquitectura-ciencias/malla-ingenieria-industrial.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/ingenierias-arquitectura-y-ciencias-de-la-naturaleza/carrera/ingenieria-en-sistemas-inteligentes/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Ingeniería en Sistemas Inteligentes",
+    "degree_title": "Ingeniero/a en Sistemas Inteligentes",
+    "description": "Formar un profesional integral, con capacidad para la gestión de los procesos de desarrollo e implementación de sistemas inteligentes, a través de la enseñanza problémica y la investigación, para el diseño, implementación y administración de sistemas computacionales en las organizaciones.",
+    "locations": [
+      "Guayaquil",
+      "Samborondón"
+    ],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ingenierias-arquitectura-ciencias/malla-ingenieria-sistemas-inteligentes.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/ingenierias-arquitectura-y-ciencias-de-la-naturaleza/carrera/ingenieria-ambiental/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Ingeniería Ambiental",
+    "degree_title": "Ingeniero Ambiental",
+    "description": "Formar profesionales íntegros en el ámbito de la ingeniería ambiental, capaces de planificar, gestionar y supervisar proyectos ambientales, asegurando el cumplimiento de la normativa y regulaciones vigentes, con el fin de promover la sostenibilidad y fomentar la conciencia ambiental en su desempeño profesional.",
+    "locations": [
+      "Samborondón"
+    ],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ingenierias-arquitectura-ciencias/malla-ambiental.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/ciencias-economicas-empresariales/carrera/contabilidad-y-auditoria/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Contabilidad y Auditoría",
+    "degree_title": "Licenciado/a en Contabilidad y Auditoría",
+    "description": "Formar profesionales éticos en el área de contabilidad y auditoría, capaces de diseñar procesos contables con transparencia y eficiencia para la empresa público y/o privada acorde a la normativa vigente y con responsabilidad social.",
+    "locations": [
+      "Guayaquil",
+      "Samborondón"
+    ],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-economicas-empresariales/malla-contabilidad-auditoria.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/ciencias-economicas-empresariales/carrera/administracion-de-empresas/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Administración de Empresas",
+    "degree_title": "Licenciado/a en Administración de Empresas",
+    "description": "Formar profesionales capaces de gestionar organizaciones con visión integral en sectores públicos, privados y de economía solidaria. El programa impulsa el emprendimiento, la transformación productiva y el desarrollo sostenible, promoviendo decisiones estratégicas éticas, responsables y orientadas a la innovación.",
+    "locations": [
+      "Guayaquil",
+      "La Costa",
+      "Samborondón"
+    ],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-economicas-empresariales/malla-administracion-de-empresas.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/ciencias-economicas-empresariales/carrera/economia/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Economía",
+    "degree_title": "Licenciado/a en Economía",
+    "description": "Formar profesionales competitivos, con sólidos conocimientos en economía y principios éticos, capaces de gestionar producción, comercialización, finanzas y talento humano. La carrera enfatiza el uso de investigación, herramientas estadísticas, software especializado y un idioma extranjero para resolver problemas económicos a nivel nacional e internacional con responsabilidad social y visión global.",
+    "locations": [
+      "Guayaquil",
+      "Samborondón"
+    ],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-economicas-empresariales/malla-economia.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/derecho-y-gobernabilidad/carrera/derecho/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Derecho",
+    "degree_title": "Abogado/a",
+    "description": "Formar profesionales del Derecho capaces de identificar y analizar situaciones jurídicas, investigar mediante herramientas tecnológicas y diseñar modelos de solución y desarrollo social basados en principios éticos y de justicia. El programa prepara a futuros abogados para asesorar, representar y administrar justicia en contextos nacionales e internacionales.",
+    "locations": [
+      "Guayaquil",
+      "La Costa",
+      "Samborondón"
+    ],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/derecho-gobernabilidad/malla-derecho.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/ciencias-de-la-salud-y-desarrollo-humano/carrera/nutricion-y-dietetica/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Nutrición y Dietética",
+    "degree_title": "Licenciado/a en Nutrición y Dietética",
+    "description": "Formar profesionales en Nutrición y Dietética con sólidos fundamentos científicos y principios éticos, capaces de diseñar e implementar programas y estrategias alimentarias que promuevan hábitos saludables, prevengan enfermedades y contribuyan al bienestar integral de individuos y comunidades.",
+    "locations": [
+      "Samborondón"
+    ],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-de-la-salud/malla-nutricion.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/ciencias-de-la-salud-y-desarrollo-humano/carrera/enfermeria/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Enfermería",
+    "degree_title": "Licenciado/a en Enfermería",
+    "description": "Formar profesionales integrales en el cuidado asistencial y del ciclo vital humano, basados en los fundamentos epistemológicos de la enfermería y en los procesos administrativos, educativos e investigativos. La carrera prepara enfermeros capaces de responder a las necesidades y problemas de salud de la población en entornos hospitalarios y comunitarios.",
+    "locations": [
+      "Guayaquil",
+      "Samborondón"
+    ],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-de-la-salud/malla-enfermeria.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/ciencias-de-la-salud-y-desarrollo-humano/carrera/medicina/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Medicina",
+    "degree_title": "Médico / Médica – Título de Grado",
+    "description": "Formar profesionales de la salud con sólida base científica, pensamiento crítico y ética, capaces de gestionar procesos médicos, aplicar métodos clínicos, epidemiológicos y de investigación, y promover la salud y el bienestar en diversos contextos. La carrera prepara a futuros médicos con visión humanista, responsabilidad social y vocación de servicio.",
+    "locations": [
+      "Samborondón"
+    ],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-de-la-salud/malla-medicina.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/ciencias-de-la-salud-y-desarrollo-humano/carrera/fisioterapia/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Fisioterapia",
+    "degree_title": "Licenciado/a en Fisioterapia",
+    "description": "Formar profesionales integrales en Fisioterapia, capaces de gestionar procesos físicos, psicológicos, sociales, ambientales y de rehabilitación con dominio técnico, pensamiento crítico y uso de tecnología e investigación. El programa promueve el desempeño ético, responsable y humanista en contextos nacionales e internacionales.",
+    "locations": [
+      "Guayaquil"
+    ],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-de-la-salud/malla-fisioterapia.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/ciencias-de-la-salud-y-desarrollo-humano/carrera/psicologia-clinica/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Psicología Clínica",
+    "degree_title": "Licenciado/a en Psicología Clínica",
+    "description": "Formar un profesional integral capaz de gestionar los desafíos de su profesión en el contexto nacional e internacional, abordando los procesos de: promoción, prevención, evaluación, diagnóstico, intervención y rehabilitación de la salud mental. Con un sólido dominio teórico y práctico, una visión humanista y responsabilidad social, que le permita fomentar la salud y bienestar individual, familiar y comunitario.",
+    "locations": [
+      "Guayaquil",
+      "Samborondón"
+    ],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-de-la-salud/malla-psicologia.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/derecho-y-gobernabilidad/carrera/criminalistica/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Criminalística",
+    "degree_title": "Licenciado/a en Criminalística",
+    "description": "Formar profesionales integrales capaces de investigar, analizar y verificar hechos delictivos mediante métodos científicos y técnicos. La carrera prepara expertos en criminalística con dominio de herramientas de investigación, uso de tecnologías informáticas, manejo adecuado de indicios y fortalecimiento ético, profesional y responsable en contextos nacionales e internacionales.",
+    "locations": [
+      "La Costa",
+      "Samborondón"
+    ],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/derecho-gobernabilidad/malla-criminalistica.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/carreras-de-grado/facultad/carrera/negocios-digitales/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Negocios Digitales",
+    "degree_title": "Licenciado/a en Negocios Digitales",
+    "description": "Formar un profesional integral, con capacidad para la gestión de los procesos digitales en el entorno empresarial, con dominio de los fundamentos epistemológicos de los procesos de negocios digitales acorde con las necesidades de cambio y modernización, con el uso de la enseñanza problémica, los métodos de investigación y el uso de la informática, que le permita solucionar problemas profesionales, en el contexto nacional e internacional fomentando la responsabilidad, la honestidad, la profesionalidad y la ética profesional.",
+    "locations": [
+      "Guayaquil",
+      "Samborondón"
+    ],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-economicas-empresariales/malla-negocios-digitales.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/ciencias-economicas-empresariales/carrera/logistica-y-transporte/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Logística y Transporte",
+    "degree_title": "Licenciado/a en Logística y Transporte",
+    "description": "Formar profesionales capaces de gestionar abastecimiento, transporte, producción y distribución mediante herramientas digitales y métodos de investigación para optimizar procesos logísticos nacionales e internacionales. La carrera impulsa un perfil ético, emprendedor y comprometido con la responsabilidad social y el desarrollo sostenible del país.",
+    "locations": [
+      "Guayaquil",
+      "Samborondón"
+    ],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-economicas-empresariales/malla-logistica-transporte.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/ciencias-economicas-empresariales/carrera/gestion-del-talento-humano/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Gestión del Talento Humano",
+    "degree_title": "Licenciado/a en Gestión de Talento Humano",
+    "description": "Gestionar el talento humano impulsando procesos de cambio que promuevan el desarrollo organizacional e individual, orientado al beneficio mutuo y sustentado en principios éticos, humanísticos, sociales, interculturales y ecológicos. La carrera forma profesionales comprometidos con la responsabilidad social, el emprendimiento y el desarrollo sostenible del país.",
+    "locations": [
+      "Samborondón"
+    ],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-economicas-empresariales/malla-gestion-talento-humano.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/ciencias-economicas-empresariales/carrera/negocios-internacionales/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Negocios Internacionales",
+    "degree_title": "Licenciado/a en Negocios Internacionales",
+    "description": "Formar profesionales capaces de gestionar procesos operativos, administrativos y financieros vinculados a la negociación, comercialización e internacionalización de bienes y servicios. El programa promueve una visión emprendedora e innovadora, orientada a la planificación y al desarrollo estratégico en entornos globales.",
+    "locations": [
+      "Guayaquil",
+      "La Costa",
+      "Samborondón"
+    ],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-economicas-empresariales/malla-negocios-internacionales.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro"
+  }
+]

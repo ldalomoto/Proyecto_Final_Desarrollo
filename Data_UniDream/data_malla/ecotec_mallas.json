@@ -1,0 +1,5929 @@
+[
+  {
+    "universidad": "UNIVERSIDAD TECNOLÓGICA ECOTEC",
+    "carrera": "Comunicación",
+    "career_url_ref": "https://ecotec.edu.ec/facultad/comunicacion-humanidades-y-creatividad/carrera/comunicacion/",
+    "pensum": "RPC-SO-25-No.488-2017",
+    "materias": [
+      {
+        "codigo": null,
+        "nombre": "Habilidades linguisticas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Comunicación y Liderazgo",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Diseño Gráfico I",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Composición Visual",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Teorías de la Comunicación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Metodología de la Investigación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Ética",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Diseño Gráfico ll",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Fotografía e Iluminación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Comunicación Corporativa",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Desarrollo Sostenible",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Fundamentos de Marketing",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Semiótica",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Produccion y Edicion Audiovisual",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Relaciones Públicas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Realidad Nacional y Política en el mundo actual",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Consumer Insights",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Publicidad",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "App & Web Design y Nuevas Tecnologías",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Estrategia Social de la Comunicación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Emprendimiento",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Decisiones basadas en datos e IA",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Análisis de Audiencias y Medios",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Creatividad Publicitaria",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Reputación e Imagen Corporativa",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Branded Content",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "IA Generativa aplicada a la Comunicación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Comunicación Digital",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Narrativas Digitales Y Storytelling",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Responsabilidad Social Empresarial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Generación de Contenidos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Media Products",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Gestión de Proyectos de Comunicación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Campañas Publicitarias, Pitch & Reel",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Crisis Management",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Social Media Marketing",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Campañas 360",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Communication Metrics",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Comunicación Política y Lobbying",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Proyecto Integrador",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      }
+    ]
+  },
+  {
+    "universidad": "UNIVERSIDAD TECNOLÓGICA ECOTEC",
+    "carrera": "Marketing",
+    "career_url_ref": "https://ecotec.edu.ec/facultad/comunicacion-humanidades-y-creatividad/carrera/marketing/",
+    "pensum": "RPC-SO-15-No.309-2020",
+    "materias": [
+      {
+        "codigo": null,
+        "nombre": "Habilidades lingüísticas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Fundamentos de Administración",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Fundamentos de Marketing",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Análisis Matemático",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Diseño Gráfico I",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Metodología de la Investigación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Ética",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Consumer Insights",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Análisis Estadístico",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Diseño Gráfico II",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Desarrollo Sostenible",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Informática para el Marketing",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Neuromarketing",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "App & Web Design y Nuevas Tecnologías",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Publicidad",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Realidad Nacional y Política en el mundo actual",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Estrategia Social de la Comunicación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Consumer Analytics",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Digital Marketing",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Creatividad Publicitaria",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Emprendimiento",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Decisiones basadas en datos e IA",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Inteligencia de Negocios",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Social Media Marketing",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Comunicaciones Integradas al Marketing",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Marketing Automation",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Canales de Distribución",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Gerencia de Productos y Marcas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Marketing de Servicios",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Branded Content",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Retailing y Merchandising",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Trade Marketing",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Marketing Estratégico",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Pricing y Presupuesto de Marketing",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "CRM y Experiencia del Cliente",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Marketing Projects",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Dirección Comercial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Dirección de Marketing",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Marketing Internacional",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Finanzas para el Marketing",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      }
+    ]
+  },
+  {
+    "universidad": "UNIVERSIDAD TECNOLÓGICA ECOTEC",
+    "carrera": "Multimedia y Producción Audiovisual",
+    "career_url_ref": "https://ecotec.edu.ec/facultad/comunicacion-humanidades-y-creatividad/carrera/multimedia-y-produccion-audiovisual/",
+    "pensum": "RPC-SO-35-N°. 617-2019",
+    "materias": [
+      {
+        "codigo": null,
+        "nombre": "Habilidades Lingüísticas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Composición Visual",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Diseño Gráfico I",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Historia del Cine & Documental",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Creatividad y Dibujo Artístico",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Metodología de la Investigación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Fotografía e Iluminación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Diseño Gráfico II",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Ética",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Concept Art y Diseño de personajes",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Desarrollo Sostenible",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Dirección de Foto, Edición & Color Grading",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Transmedia Narratives & Storytelling",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Diseño de Sonido",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Animación 2D",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Realidad Nacional y Política en el Mundo Actual",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Producción Audiovisual & Programas de entretenimiento",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "App & Web Design y nuevas tecnologías",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Game Design & Advergame",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Modelado 3D & 3D Print",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Emprendimiento",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Decisiones Basadas en Datos e IA",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Interfaz, UX y Usability Testing",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Level Design",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Animación 3D & CGI",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Análisis de Industria y Financiamiento",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Campañas Publicitarias, Pitch & Reel",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Branded Content",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Storyboards, Comics & Manga",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Visual Effects & Compositing",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Dirección Estratégica y Presupuestos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Generación de Contenidos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Motores de Videojuegos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Dirección de Arte, Maquillaje y Vestuario",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Dirección y Realización Audiovisual",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Proyecto integrador",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Social Media Marketing",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Diseño de Experiencias Inmersivas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Virtual Games",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Distribución y Festivales",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      }
+    ]
+  },
+  {
+    "universidad": "UNIVERSIDAD TECNOLÓGICA ECOTEC",
+    "carrera": "Psicología",
+    "career_url_ref": "https://ecotec.edu.ec/facultad/comunicacion-humanidades-y-creatividad/carrera/psicologia/",
+    "pensum": "RPC-SO-15-No.309-2020",
+    "materias": [
+      {
+        "codigo": null,
+        "nombre": "Habilidades Lingüísticas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Psicología de las Emociones",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Psicología General",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Fundamentos de la Neurociencia",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Psicología de los Procesos Cognitivos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Metodología de la Investigación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Ética",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Psicología de la Personalidad",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Fundamentos del Aprendizaje y la Conducta",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Análisis Estadístico",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Desarrollo Sostenible",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Psicología Social y Comunitaria",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Inteligencia Humana e Inteligencia Artificial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Psicología Infanto Juvenil",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Psicometría Aplicada I",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Realidad Nacional y Política en el Mundo Actual",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Inclusión y Atención a la Discapacidad y la Diversidad",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Psicopatología I",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Psicología del Adulto y del Adulto Mayor",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Psicometría Aplicada II",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Emprendimiento",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Decisiones Basadas en Datos e IA",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Psicopatología II",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Psicología Familiar",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Evaluación Psicológica y Diagnóstico",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Asignatura I de Itinerario",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Negociación y Mediación en Psicología",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Evaluación de Riesgos Psicosociales",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Psicofarmacología",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Evaluación Neuropsicológica",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Asignatura II de Itinerario",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Métodos, Diseños y Técnicas de Investigación en Psicología",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Salud Ocupacional y Gestión de Equipos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Psicología de la Sexualidad",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Rehabilitación Neuropsicológica",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Asignatura III de Itinerario",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Proyecto integrador",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Psicoterapia Individual",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Psicoterapia de Equipos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Tendencias Actuales de Psicología",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      }
+    ]
+  },
+  {
+    "universidad": "UNIVERSIDAD TECNOLÓGICA ECOTEC",
+    "carrera": "Ingeniería en Mecatrónica",
+    "career_url_ref": "https://ecotec.edu.ec/facultad/ingenierias-arquitectura-y-ciencias-de-la-naturaleza/carrera/ingenieria-en-mecatronica/",
+    "pensum": "RPC-SO-06-No.177-2021",
+    "materias": [
+      {
+        "codigo": null,
+        "nombre": "Habilidades Linguísticas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Estadística",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Física del Movimiento",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Introducción a la Mecatrónica",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Matemáticas Discretas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Cálculo Diferencial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Metodología de la Investigación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Ética",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Física de la Energía",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Dibujo Técnico e Industrial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Fundamentos de Programación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Cálculo Integral y Matricial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Desarrollo Sostenible",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Programación I",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Vibraciones y electromagnetismo",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Mecánica Vectorial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Circuitos Eléctricos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Ecuaciones Diferenciales",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Realidad Nacional y Política en el mundo actual",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Responsabilidad Social y Empresarial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Máquinas Eléctricas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Resistencia de Materiales",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Electrónica",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Emprendimiento",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Decisiones basadas en datos e IA",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Diseño Mecatrónico",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Sistemas Embebidos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Señales y Sistemas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Instrumentación Industrial y Sensores",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Ingeniería de Control I",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "PLC",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Formulación y Evaluación de proyectos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Procesos de Manufactura",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Protocólos de comunicación Industrial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Ingeniería de Control II",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Investigación de Operaciones Aplicada",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Planificación y Control de la Producción",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Sistemas De CAM, CAD y CAE",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "IOT",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Autómata y Expertos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Proyecto Integrador",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Sistemas actuadores Avanzados",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Automatización Industrial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      }
+    ]
+  },
+  {
+    "universidad": "UNIVERSIDAD TECNOLÓGICA ECOTEC",
+    "carrera": "Ingeniería Civil",
+    "career_url_ref": "https://ecotec.edu.ec/facultad/ingenierias-arquitectura-y-ciencias-de-la-naturaleza/carrera/ingenieria-civil/",
+    "pensum": "RCP-SO-04-No.064-2024",
+    "materias": [
+      {
+        "codigo": null,
+        "nombre": "Habilidades Lingüísticas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Introducción a la Ingeniería Civil",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Dibujo de Planos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Cálculo Diferencial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Trigonometría y Geometria",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Física del Movimiento",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Metodologia de la Investigación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "TECNOLOGÍAS DE LA INFORMACIÓN",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Topografía y Fotogrametría",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Cálculo Integral y Matricial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Estática",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Estadística",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Desarrollo Sostenible",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Química General",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Geotecnia",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Ecuaciones Diferenciales",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Resistencia de Materiales",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Mecánica de Fluidos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Realidad Nacional y Política en el Mundo Actual",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Ética",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Estructuras",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Cimentación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Mecánica y Laboratorio De Suelos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Responsabilidad Social y Empresarial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Emprendimiento",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Decisiones Basadas en Datos e Ia",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Hormigón Armado",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Instalaciones Hidrosanitarias",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Estudios Ambientales",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Diseño de Obras Hidráulicas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Diseño Estructural",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Hormigón Preforzado y Posttensado",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Estructuras Metálicas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Instalaciones Complementarias",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Agua Potable y Alcantarillado Urbano",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Gestión de Obra",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Presupuesto",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Diseño de Puentes",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Tratamiento De Agua Potable y Residuales",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Diseño De Carreteras y Pavimentos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Gerencia de Construcción Civil",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Ordenamiento Territorial Sostenible",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Planificación y Diseño de Movilidad Urbana",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Legislación y Seguridad en la Construcción",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Proyecto Integrador",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      }
+    ]
+  },
+  {
+    "universidad": "UNIVERSIDAD TECNOLÓGICA ECOTEC",
+    "carrera": "Arquitectura",
+    "career_url_ref": "https://ecotec.edu.ec/facultad/ingenierias-arquitectura-y-ciencias-de-la-naturaleza/carrera/arquitectura/",
+    "pensum": "RPC-SO-50-No.837-2023",
+    "materias": [
+      {
+        "codigo": null,
+        "nombre": "Habilidades Lingüísticas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Fundamentos de Tecnologías de la Información",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Teoría e Historia de la Arquitectura",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Representación y Dibujo Arquitectónico",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Trigonometría y Geometría",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Metodología de la Investigación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Ética",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Arquitectura Crítica de la Arquitectura",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Diseño de la Arquitectura",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Perspectiva y Sombra",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Topografía y Fotogrametría",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Cálculo Diferencial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Desarrollo Sostenible",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Sistemas Constructivos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Arquitectura Nacional y Patrimonial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Diseño Arquitectónico Habitacional",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Dibujo Digital 2D",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Cálculo y Predimensionamiento Estructural",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Realidad Nacional y Política en el Mundo Actual",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Acabados Arquitectónicos de la Construcción",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Responsabilidad Social y Empresarial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Diseño Arquitectónico Comunitario",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Dibujo Digital 3D",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Emprendimiento",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Decisiones Basadas en Datos e Ia",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Instalaciones Básica de la Edificación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Diseño Arquitectónico Equipamientos y Tercerarios",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Presupuesto y Programación de Obra",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Arquitectura Sostenible e Inclusiva",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Sistemas Especiales y Automatizados",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Diseño Arquitectónico - Salud",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Diseño Territorial Sostenible",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Mecánica de Suelos y Cimientaciones",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Marco Legal y Procesos de Contratación Pública",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Modelado de Información de la Construcción - BIM",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Diseño Integrado - Arquitectura y Urbanismo",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Diseño Urbano Sostenible",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Dimensionamiento de Elementos Estructurales",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Gerencia y Administración de Proyectos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Avalúos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Gestión de Proyectos Arquitectónicos y Urbanos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Planificación Estratégica de Ciudades",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Proyecto Integrador",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      }
+    ]
+  },
+  {
+    "universidad": "UNIVERSIDAD TECNOLÓGICA ECOTEC",
+    "carrera": "Medicina Veterinaria",
+    "career_url_ref": "https://ecotec.edu.ec/facultad/ingenierias-arquitectura-y-ciencias-de-la-naturaleza/carrera/medicina-veterinaria/",
+    "pensum": "RCP-SO-07-No.110-2024",
+    "materias": [
+      {
+        "codigo": null,
+        "nombre": "Biología Animal y Celular",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Ofimática y Bioestadística Veterinaria",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Morfología Veterinaria I",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Habilidades Lingüísticas",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Bioestadística Veterinaria",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Metodologia de la Investigación",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Ética",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Etología y Bienestar Animal",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Fisiología y Endocrinología",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Morfología Veterinaria Ii",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Desarrollo Sostenible",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Biología Molecular",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Virología e Inmunología",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Bacteriología y Micología",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Realidad Nacional y Política en el Mundo Actual",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Parasitología",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Anatomía Patológica I",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Embriología e Histología",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Bases de la Producción Animal",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Nutrición y Alimentación",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Emprendimiento",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Anatomía Patológica II",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Conservación y Manejo de la Fauna",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Farmacología y Toxicología",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Decisiones Basadas en Datos e Ia",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Medicina Interna I",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Legislación y Enfermedades de Importancia Legal",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Laboratorio Clínico",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Ginecología y Obstetricia",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Epidemiología y Salud Pública (Zoonosis)",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Calidad y Procesamiento de Alimentos de Origen Animal",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Imagenología Diagnóstica",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Medicina Interna Ii",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Oncología Veterinaria",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Neonatología",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Anestesiología y Cirugía I",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Patología Forense",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Medicina y Cirugía De Rumiantes",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Cliníca de Animales Exóticos y Silvestres",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Medicina de la Producción Acuícola",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Rotación Clínica de Animales de Compañía",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Rotación Anestesiología y Cirugía II",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Rotación Clínica de Animales de Granja",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Rotación Medicina y Cirugía de Equinos",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      },
+      {
+        "codigo": null,
+        "nombre": "Proyecto Integrador",
+        "creditos": null,
+        "horas": null,
+        "semestre": null
+      }
+    ]
+  },
+  {
+    "universidad": "UNIVERSIDAD TECNOLÓGICA ECOTEC",
+    "carrera": "Ingeniería Agrónoma",
+    "career_url_ref": "https://ecotec.edu.ec/facultad/ingenierias-arquitectura-y-ciencias-de-la-naturaleza/carrera/ingenieria-agronoma/",
+    "pensum": "RPC-SO-41-No.673-2018",
+    "materias": [
+      {
+        "codigo": null,
+        "nombre": "Habilidades Lingüísticas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Agricultura General",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Biología",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Fisica del Movimiento",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Química General",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Cálculo Diferencial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Metodología de la Investigación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Ética",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Física de la Energía",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Botánica General",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Química Orgánica",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Cálculo Integral y Matricial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Desarrollo Sostenible",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Estadística",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Climatología Agrícola",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Botánica Sistemática",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Microbiología Agrícola",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Edafología y Manejo de Suelos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Realidad Nacional y Política en el Mundo Actual",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Agroecología y Desarrollo Comunitario",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Responsabilidad Social y Empresarial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Fisiología y Bioquímica Vegetal",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Semillas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Emprendimiento",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Decisiones Basadas en Datos e Ia",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Fitopatología Aplicada",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Topografía Digital Agrícola",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Gestión Ambiental Y Normativa Agraria",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Cultivos Tropicales I",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Entomología Aplicada y Manejo Integrado de Plagas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Informática Agrícola",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Diseño Estadístico Agrícola",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Economía Agrária",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Cultivos Tropicales II",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Gestión y Evaluación de Proyectos Agrícolas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Diseño Y Manejo de Sistema de Riego y Drenaje",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Genética Agrícola",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Tecnología y Maquinarias Agrícola",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Gestión de Producción Vegetal y Ornamentales Urbanos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Marketing y Gestión de Agronegocios",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Sistemas Agroforestales",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Biotecnología",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Proyecto Integrador",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      }
+    ]
+  },
+  {
+    "universidad": "UNIVERSIDAD TECNOLÓGICA ECOTEC",
+    "carrera": "Ingeniería Industrial",
+    "career_url_ref": "https://ecotec.edu.ec/facultad/ingenierias-arquitectura-y-ciencias-de-la-naturaleza/carrera/ingenieria-industrial/",
+    "pensum": "RPC-SO-15-No.309-2020",
+    "materias": [
+      {
+        "codigo": null,
+        "nombre": "Habilidades Lingüísticas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Estadística",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Física del Movimiento",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Introducción a la Ingeniería Industrial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Química General",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Cálculo Diferencial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Ética",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Metodología de la Investigación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Física de la Energía",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Dibujo Técnico e Industrial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Fundamentos de Programación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Cálculo Integral y Matricial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Desarrollo Sostenible",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Fundamentos de Administración para Ingenieros",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Vibraciones y Electromagnetismo",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Mecánica Vectorial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Ingeniería De Materiales",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Ecuaciones Diferenciales",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Realidad Nacional Y Política en el Mundo Actual",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Responsabilidad Social Y Empresarial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Electrotecnia",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Resistencia de Materiales",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Pronóstico y Control de Inventario",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Emprendimiento",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Decisiones Basadas en Datos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Diseño de Sistemas Productivos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Logística Industrial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Sistemas Determinísticos para Operaciones",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Planificación y Control de la Producción",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Formulación y Evaluación de Proyectos Industriales",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Microcontroladores",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Investigación de Operaciones Aplicada",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Procesos de Manufactura",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Diseño de Planta Industrial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Seguridad y Salud Ocupacional",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Automatización Industrial y Robótica",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Dirección de la Cadena de Abastecimiento",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Sistemas de Cam, Cad y Cae",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Mejoramiento Contínuo y Control de Calidad",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Proyecto Integrador",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": "MMAATT335511",
+        "nombre": "Simulación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Mantenimiento Industrial y Eficiencia Energética",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Diseño y Desarrollo de Productos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      }
+    ]
+  },
+  {
+    "universidad": "UNIVERSIDAD TECNOLÓGICA ECOTEC",
+    "carrera": "Ingeniería en Sistemas Inteligentes",
+    "career_url_ref": "https://ecotec.edu.ec/facultad/ingenierias-arquitectura-y-ciencias-de-la-naturaleza/carrera/ingenieria-en-sistemas-inteligentes/",
+    "pensum": "RPC-SO-10-No.283-2021",
+    "materias": [
+      {
+        "codigo": null,
+        "nombre": "Habilidades Lingüísticas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Metodologia de la Investigación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Desarrollo Sostenible",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Realidad Nacional y Política en el Mundo Actual",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Emprendimiento",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Fundamentos de Tecnologías de la Información",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Ética",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Bases de Datos 1",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Ingeniería de Software 2",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Decisiones Basadas en Datos e Ia",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Microcontroladores",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Inteligencia de Negocios",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Gerencia Estratégica de Ti",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Física del Movimiento",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Algebra Lineal",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Programación 1",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Ingeniería de Software 2",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Programación 3",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Aplicaciones de la Inteligencia Artificial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Gestión de Proyectos de Ti",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Auditoría de Ti",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Estadística",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Matemáticas Discretas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Arquitectura del Computador",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Redes",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Programación 2",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Bases de Datos 2",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Programación 4",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Diseño y Gestión de Entornos Virtuales y Metaversos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Ciberseguridad",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Cálculo Integral y Matricial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Ingeniería de Software 1",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Responsabilidad Social y Empresarial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Programación 3",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Bases de Datos 3",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Sistemas de Hardware de Alta Disponibilidad",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Administración de Centros de Cómputo",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Cálculo Diferencial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Fundamentos de Programación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Sistemas Operativos 1",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Electrotecnia",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Sistemas Operativos 2",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Computación Distribuida (Iot)",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Data Mining, Machine Learning",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Proyecto Integrador",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      }
+    ]
+  },
+  {
+    "universidad": "UNIVERSIDAD TECNOLÓGICA ECOTEC",
+    "carrera": "Ingeniería Ambiental",
+    "career_url_ref": "https://ecotec.edu.ec/facultad/ingenierias-arquitectura-y-ciencias-de-la-naturaleza/carrera/ingenieria-ambiental/",
+    "pensum": "RPC-SO-09-No.133-2025",
+    "materias": [
+      {
+        "codigo": null,
+        "nombre": "Habilidades Lingüisticas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Geología Y Edafología",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Física del Movimiento",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Cálculo Diferencial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Química General",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Biología",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Metodología de La Investigación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Ética",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Física de la Energía",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Cálculo Integral Y Matricial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Química Orgánica",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Microbiología",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Desarrollo Sostenible",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Ecuaciones Diferenciales",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Química Ambiental",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Estadística",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Fenómenos Fisicoquímicos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Ecología Y Gestión Integral de Ecosistemas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Realidad Nacional Y Política en el Mundo Actual",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Responsabilidad Social Y Empresarial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Transferencia De Calor Y Masa",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Mecánica De Fluídos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Diseño Estadístico Experimental",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Emprendimiento",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Decisiones Basadas en Datos e IA",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Principios de Ecotoxicología y Análisis Ambiental",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Geomática",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Hidrología y Gestión de Recursos Hídricos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Meteorologia y Cambio Climatico",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Tratamiento de Aguas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Tecnologias de Monitoreo Ambiental",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Tratamiento de Suelos Contaminados",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Gestion Sostenible de Residuos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Calidad Del Aire, Control de Emisiones",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Economía Ambiental",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Tecnología Avanzada de Modelos de Dispersión de Contaminantes",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Estrategia de Conservacion Ambiental",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Evaluacion de Impacto Ambiental Y Auditoria",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Planificación y Ordenamiento Territorial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": "MMAATT335511",
+        "nombre": "Sistemas de Gestion Ambiental",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Salud y Seguridad Ocupacional",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Mantenimiento Industrial y Eficiencia Energética",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Tecnologías Sostenibles Y Energías Alternativas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Proyecto Integrador",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      }
+    ]
+  },
+  {
+    "universidad": "UNIVERSIDAD TECNOLÓGICA ECOTEC",
+    "carrera": "Contabilidad y Auditoría",
+    "career_url_ref": "https://ecotec.edu.ec/facultad/ciencias-economicas-empresariales/carrera/contabilidad-y-auditoria/",
+    "pensum": "RPC-SO-15-No.309-2020",
+    "materias": [
+      {
+        "codigo": null,
+        "nombre": "Habilidades lingüísticas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Fundamentos de Marketing",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Fundamentos de Administración",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Derecho Empresarial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Contabilidad",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Metodología de la Investigación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Ética",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Microeconomía",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Análisis Estadístico",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Contabilidad Administrativa",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Desarrollo Sostenible",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Gestión por procesos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Macroeconomía",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Fundamentos de Tributación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Matemáticas Financieras",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Realidad Nacional y Política en el mundo actual",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Control interno",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Evaluación de Proyectos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Auditoría Financiera I",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Contabilidad Financiera Intermedia",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Emprendimiento",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Decisiones basadas en datos e IA",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Gestión de Costos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Auditoría Financiera II",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Contabilidad Financiera Avanzada",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Gestión de la Calidad",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Contabilidad de Instituciones Financieras",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Contabilidad Gubernamental y Presupuestaria",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Laboratorio de Auditoría Financiera",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Informes Financieros",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Auditoría de Gestión",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Finanzas Internacionales",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Planificación y Gestión Tributaria",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Auditoría Forense",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Análisis de los Estados Financieros",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Laboratorio de Sistemas de Información Contable",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Proyecto Integrador",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Laboratorio Tributario",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Auditoría Informática",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Contabilidad Social y Ambiental",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      }
+    ]
+  },
+  {
+    "universidad": "UNIVERSIDAD TECNOLÓGICA ECOTEC",
+    "carrera": "Administración de Empresas",
+    "career_url_ref": "https://ecotec.edu.ec/facultad/ciencias-economicas-empresariales/carrera/administracion-de-empresas/",
+    "pensum": "RPC-SO-15-No.309-2020",
+    "materias": [
+      {
+        "codigo": null,
+        "nombre": "Habilidades Linguísticas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Fundamentos de Administración",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Contabilidad",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Matemáticas Financieras",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Fundamentos de Marketing",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Ética",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Metodología de la Investigación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Contabilidad Administrativa",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Comportamiento Organizacional",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Análisis Estadístico",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Desarrollo Sostenible",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Microeconomía",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Administración de Presupuestos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Gestión del Talento Humano",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Investigación de Mercados",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Realidad Nacional y Política en el mundo actual",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Macroeconomía",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Diseño y Evaluación de Proyectos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Derecho Empresarial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Comercio Internacional",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Emprendimiento",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Decisiones Basadas en Datos e IA",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Gestión por Procesos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Administración de Negocios Internacionales",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Marketing Internacional",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Gestión Estratégica",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Finanzas Corporativas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Gestión de la Producción",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Administración de Operaciones",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "E-Commerce",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Economía Ambiental",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Mercado de Capitales",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Gestión de la Calidad",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Proyectos de Innovación Empresarial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Finanzas Internacionales",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Tópicos Especiales de Administración",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Administración y Control de Riesgos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Consultoría Empresarial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Sistemas de Información Gerencial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Proyecto Integrador",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      }
+    ]
+  },
+  {
+    "universidad": "UNIVERSIDAD TECNOLÓGICA ECOTEC",
+    "carrera": "Economía",
+    "career_url_ref": "https://ecotec.edu.ec/facultad/ciencias-economicas-empresariales/carrera/economia/",
+    "pensum": "RPC-SO-15-No.309-2020",
+    "materias": [
+      {
+        "codigo": null,
+        "nombre": "Habilidades lingüísticas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Análisis Estadístico",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Análisis Matemático",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Fundamentos de Administración",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Introducción a la Ciencia Económica",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Ética",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Metodología de la Investigación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Contabilidad",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Fundamentos del Marketing",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Microeconomía",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Desarrollo Sostenible",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Derecho Empresarial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Matemáticas Financiera",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Estadística Aplicada",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Macroeconomía",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Realidad Nacional y Política en el Mundo Actual",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Diseño y Evaluación de Proyectos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Cuentas Nacionales",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Métodos Matemáticos para economistas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Macroeconomía II",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Emprendimiento",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Decisiones basadas en datos e IA",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Estructura Económica ecuatoriana",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Microeconomía II",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Econometría I",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Tópicos Especiales de Economía",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Historia Económica Mundial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Teoría del Desarrollo Económico",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Teoría de Juegos y Optimización",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Econometría II",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Política Económica y Monetaria",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Economía Territorial",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Economía Internacional",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Planificación económica y métodos prospectivo",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Economía Ambiental",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Economía del Desarrollo",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Política Fiscal",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Administración de Presupuestos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Administración y Control de Riesgos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Proyecto Integrador",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      }
+    ]
+  },
+  {
+    "universidad": "UNIVERSIDAD TECNOLÓGICA ECOTEC",
+    "carrera": "Nutrición y Dietética",
+    "career_url_ref": "https://ecotec.edu.ec/facultad/ciencias-de-la-salud-y-desarrollo-humano/carrera/nutricion-y-dietetica/",
+    "pensum": "RPC-SO-42-No.719-2023",
+    "materias": [
+      {
+        "codigo": null,
+        "nombre": "Habilidades Lingüísticas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Morfofisiología",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Biología",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Bromatología I",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Bioquímica",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Antropología de la Nutrición",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Metodología de la Investigación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Ética",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Metabolismo y Nutrición",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Bromatología II",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Microbiología de los Alimentos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Principios de la Alimentación y Nutrición",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Desarrollo Sostenible",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Fisiopatología Aplicada a la Nutrición",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Nutrición según Ciclos de vida",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Técnicas Dietéticas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Evaluación del Estado Nutricional I",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Bioética",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Realidad Nacional y Política en el Mundo Actual",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Farmacología Aplicada a la Nutrición",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Salud Comunitaria",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Nutrición Clínica I",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Dietoterapia",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Evaluación del Estado Nutricional II",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Emprendimiento",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Decisiones Basadas en Datos e IA",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Nutrición Clínica II",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Educación Nutricional",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Seguridad Alimentaria",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Bioestadística",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Nutrición Deportiva",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Inmunonutrición",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Nutrición Pediátrica",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Servicios de Alimentación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Psicología Aplicada a la Nutrición",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Epidemiología",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Soporte Nutricional",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Nutraceuticos y Alimentos Funcionales",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Tecnología de los Alimentos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Nutrigenética y Nutrigenómica",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Asesoría y Consultoría Nutricional",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Proyecto Integrador Nutricional",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "ROTACIÓN NUTRICIÓN PEDIÁTRICA",
+        "creditos": null,
+        "horas": 690,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "ROTACIÓN NUTRICIÓN COMUNITARIA",
+        "creditos": null,
+        "horas": 700,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "ROTACIÓN NUTRICIÓN CLINICA QUIRÚRGICA",
+        "creditos": null,
+        "horas": 690,
+        "semestre": 8
+      }
+    ]
+  },
+  {
+    "universidad": "UNIVERSIDAD TECNOLÓGICA ECOTEC",
+    "carrera": "Medicina",
+    "career_url_ref": "https://ecotec.edu.ec/facultad/ciencias-de-la-salud-y-desarrollo-humano/carrera/medicina/",
+    "pensum": "RPC-SO-02-No.034-2022",
+    "materias": [
+      {
+        "codigo": null,
+        "nombre": "Habilidades Linguisticas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Anatomía",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Embriología e Histología Humana",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Biología Celular",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Historia de la Medicina",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Inglés Médico",
+        "creditos": null,
+        "horas": null,
+        "semestre": 1
+      },
+      {
+        "codigo": null,
+        "nombre": "Metodología de la Investigación",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Ética",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Neuroanatomía",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Biología Molecular",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Bioquímica",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Bioestadística",
+        "creditos": null,
+        "horas": null,
+        "semestre": 2
+      },
+      {
+        "codigo": null,
+        "nombre": "Desarrollo Sostenible",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Fisiología",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Microbiología 1",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Bioética",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Epidemiología",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Investigación en Ciencias de la Salud",
+        "creditos": null,
+        "horas": null,
+        "semestre": 3
+      },
+      {
+        "codigo": null,
+        "nombre": "Realidad Nacional y Política actual",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Fisiopatología",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Microbiología 2",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Salud Pública",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Neurociencias",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Medicina Familiar y Comunitaria (PV)",
+        "creditos": null,
+        "horas": null,
+        "semestre": 4
+      },
+      {
+        "codigo": null,
+        "nombre": "Emprendimiento",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Decisiones basadas en datos e IA",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Seguridad y Salud en el Trabajo",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Farmacología Básica",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Salud Mental",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Gerencia en Servicios de la Salud",
+        "creditos": null,
+        "horas": null,
+        "semestre": 5
+      },
+      {
+        "codigo": null,
+        "nombre": "Semiología Médica",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Farmacología Clínica",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Diagnóstico por Imágenes",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Dermatología",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "infectología",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Inmunología Aplicada y Perspectivas Biomédicas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 6
+      },
+      {
+        "codigo": null,
+        "nombre": "Medicina Interna 1",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Terapéutica",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Geriatría",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Cirugía",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Anestesiología",
+        "creditos": null,
+        "horas": null,
+        "semestre": 7
+      },
+      {
+        "codigo": null,
+        "nombre": "Medicina Interna 2",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Traumatología y Ortopedia",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Medicina Legal y Forense",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Unidad de Especialidades Quirurgicas Renovables",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Unidad Cardio - Renal",
+        "creditos": null,
+        "horas": null,
+        "semestre": 8
+      },
+      {
+        "codigo": null,
+        "nombre": "Unidad Metabólica",
+        "creditos": null,
+        "horas": null,
+        "semestre": 9
+      },
+      {
+        "codigo": null,
+        "nombre": "Medicina de Urgencias y Trauma",
+        "creditos": null,
+        "horas": null,
+        "semestre": 9
+      },
+      {
+        "codigo": null,
+        "nombre": "Neurología",
+        "creditos": null,
+        "horas": null,
+        "semestre": 9
+      },
+      {
+        "codigo": null,
+        "nombre": "Neumología",
+        "creditos": null,
+        "horas": null,
+        "semestre": 9
+      },
+      {
+        "codigo": null,
+        "nombre": "Unidad Gastroenterológica",
+        "creditos": null,
+        "horas": null,
+        "semestre": 9
+      },
+      {
+        "codigo": null,
+        "nombre": "Gineco Obstetricia",
+        "creditos": null,
+        "horas": null,
+        "semestre": 10
+      },
+      {
+        "codigo": null,
+        "nombre": "Pediatría",
+        "creditos": null,
+        "horas": null,
+        "semestre": 10
+      },
+      {
+        "codigo": null,
+        "nombre": "Unidad Cabeza y Cuello",
+        "creditos": null,
+        "horas": null,
+        "semestre": 10
+      },
+      {
+        "codigo": null,
+        "nombre": "Unidad Hemato - Oncológica y Cuidados Paliativos",
+        "creditos": null,
+        "horas": null,
+        "semestre": 10
+      },
+      {
+        "codigo": null,
+        "nombre": "Proyecto Integrador Ciencias Médicas",
+        "creditos": null,
+        "horas": null,
+        "semestre": 10
+      },
+      {
+        "codigo": null,
+        "nombre": "INTERNADO Medicina Interna",
+        "creditos": null,
+        "horas": 840,
+        "semestre": 11
+      },
+      {
+        "codigo": null,
+        "nombre": "INTERNADO Cirugía",
+        "creditos": null,
+        "horas": 840,
+        "semestre": 11
+      },
+      {
+        "codigo": null,
+        "nombre": "INTERNADO Ginecología y Obstetricia",
+        "creditos": null,
+        "horas": 840,
+        "semestre": 11
+      },
+      {
+        "codigo": null,
+        "nombre": "INTERNADO Pediatría",
+        "creditos": null,
+        "horas": 840,
+        "semestre": 11
+      },
+      {
+        "codigo": null,
+        "nombre": "INTERNADO Medicina Comunitaria",
+        "creditos": null,
+        "horas": 800,
+        "semestre": 11
+      }
+    ]
+  },
+  {
+    "universidad": "Universidad Tecnológica ECOTEC",
+    "carrera": "Gestión de Talento Humano",
+    "career_url_ref": null,
+    "pensum": "2017",
+    "materias": [
+      { "nombre": "Habilidades Linguisticas", "semestre": 1 },
+      { "nombre": "Derecho Empresarial", "semestre": 1 },
+      { "nombre": "Fundamentos de Administración", "semestre": 1 },
+      { "nombre": "Contabilidad", "semestre": 1 },
+      { "nombre": "Fundamentos de Marketing", "semestre": 1 },
+      { "nombre": "Ética", "semestre": 2 },
+      { "nombre": "Metodologia de la Investigación", "semestre": 2 },
+      { "nombre": "Matemáticas Financieras", "semestre": 2 },
+      { "nombre": "Psicologia General", "semestre": 2 },
+      { "nombre": "Análisis Estadístico", "semestre": 2 },
+      { "nombre": "Desarrollo sostenible", "semestre": 3 },
+      { "nombre": "Derecho laboral e internacional", "semestre": 3 },
+      { "nombre": "Gestión por procesos", "semestre": 3 },
+      {
+        "nombre": "Bases Teóricas de la Gestión del Talento humano",
+        "semestre": 3
+      },
+      { "nombre": "Psicologia de la Personalidad", "semestre": 3 },
+      {
+        "nombre": "Realidad Nacional y Politica en el mundo actual",
+        "semestre": 4
+      },
+      { "nombre": "Administración de Prespuestos", "semestre": 4 },
+      { "nombre": "Comportamiento Organizacional", "semestre": 4 },
+      { "nombre": "Gestión por competencias", "semestre": 4 },
+      { "nombre": "Evaluación y Test Psicológicos", "semestre": 4 },
+      { "nombre": "Emprendimiento", "semestre": 5 },
+      { "nombre": "Decisiones basadas en datos e IA", "semestre": 5 },
+      { "nombre": "Dimensión estratégica del Talento Humano", "semestre": 5 },
+      { "nombre": "Arquitectura y Mapeo de cargos", "semestre": 5 },
+      { "nombre": "Atracción y Selección de Talento", "semestre": 5 },
+      {
+        "nombre": "Políticas y Tecnologias de innovación en la GTH",
+        "semestre": 6
+      },
+      { "nombre": "Neuromanagement en la GTH", "semestre": 6 },
+      { "nombre": "Capacitación & Knowledge Management", "semestre": 6 },
+      { "nombre": "Evaluación y control integral del talento", "semestre": 6 },
+      { "nombre": "People Analytics & KPI's", "semestre": 6 },
+      { "nombre": "Retribución en contextos globales", "semestre": 7 },
+      { "nombre": "Psicopatologia e integración laboral", "semestre": 7 },
+      { "nombre": "Gestión del cambio y desarrollo", "semestre": 7 },
+      {
+        "nombre": "Futuro del trabajo y Gestión del conocimiento",
+        "semestre": 7
+      },
+      { "nombre": "Negociación y resolución de conflictos", "semestre": 7 },
+      { "nombre": "Seguridad ocupacional", "semestre": 8 },
+      { "nombre": "Comunicación Empresarial Estratégica", "semestre": 8 },
+      { "nombre": "Employer Branding & Culture", "semestre": 8 },
+      { "nombre": "Global Leadership and Team Management", "semestre": 8 },
+      { "nombre": "Proyecto Integrador", "semestre": 8 }
+    ],
+    "totales": { "total_materias": 40 }
+  },
+  {
+    "universidad": "Universidad Tecnológica ECOTEC",
+    "carrera": "Logística y Transporte",
+    "career_url_ref": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-economicas-empresariales/malla-negocios-internacionales.pdf",
+    "pensum": "2020",
+    "materias": [
+      { "nombre": "Habilidades lingüisticas", "semestre": 1 },
+      {
+        "nombre": "Fudamentos de Administración para ingenieros",
+        "semestre": 1
+      },
+      { "nombre": "Introducción a la producción y operaciones", "semestre": 1 },
+      { "nombre": "Estadistica", "semestre": 1 },
+      { "nombre": "Cálculo diferencial", "semestre": 1 },
+      { "nombre": "Fisica del movimiento", "semestre": 1 },
+      { "nombre": "Ética", "semestre": 2 },
+      { "nombre": "Metodologia de la Investigación", "semestre": 2 },
+      { "nombre": "Tráfico y Transporte Terrestre", "semestre": 2 },
+      { "nombre": "Tráfico y Transporte maritimo y fluvial", "semestre": 2 },
+      { "nombre": "Cálculo integral y matricial", "semestre": 2 },
+      { "nombre": "Tecnologias de Apoyo a la Logistica", "semestre": 2 },
+      { "nombre": "Desarrollo Sostenible", "semestre": 3 },
+      { "nombre": "Quimica General", "semestre": 3 },
+      {
+        "nombre": "Prevención de los riesgos en los medios de transporte",
+        "semestre": 3
+      },
+      { "nombre": "Tráfico y Transporte aéreo", "semestre": 3 },
+      { "nombre": "Gestión de compras y negociación", "semestre": 3 },
+      { "nombre": "Legislación aplicada al transporte", "semestre": 3 },
+      {
+        "nombre": "Realidad Nacional y política en el mundo actual",
+        "semestre": 4
+      },
+      { "nombre": "Fundamentos de Marketing", "semestre": 4 },
+      { "nombre": "Sistemas deterministicos para operaciones", "semestre": 4 },
+      { "nombre": "Diseño y Evaluación de Proyectos", "semestre": 4 },
+      { "nombre": "Macroeconomia", "semestre": 4 },
+      { "nombre": "Emprendimiento", "semestre": 5 },
+      { "nombre": "Decisiones basadas en datos e IA", "semestre": 5 },
+      { "nombre": "Simuladores, logistica y transporte", "semestre": 5 },
+      { "nombre": "Pronóstico y Control de inventario", "semestre": 5 },
+      { "nombre": "Comercio Internacional", "semestre": 5 },
+      { "nombre": "Dirección de la cadena de abastecimiento", "semestre": 6 },
+      { "nombre": "Manejo y Seguridad de la Carga", "semestre": 6 },
+      { "nombre": "Investigación de Operaciones Aplicadas", "semestre": 6 },
+      { "nombre": "Dirección Financiera de la Logistica", "semestre": 6 },
+      { "nombre": "Logistica Internacional y Aduanas", "semestre": 6 },
+      { "nombre": "Gestión estratégica", "semestre": 7 },
+      { "nombre": "Logistica Sostenible", "semestre": 7 },
+      { "nombre": "Empaque, envase y Embalaje", "semestre": 7 },
+      { "nombre": "Gestión de Bodega", "semestre": 7 },
+      { "nombre": "Operaciones de Comercio Exterior", "semestre": 7 },
+      {
+        "nombre": "Sistema de Gestión de la Cadena de Abastecimiento",
+        "semestre": 8
+      },
+      { "nombre": "Gestión de Talento Humano", "semestre": 8 },
+      { "nombre": "Seguridad de la Cadena de Abastecimiento", "semestre": 8 },
+      { "nombre": "Optimización y Ruteo", "semestre": 8 },
+      { "nombre": "Proyecto Integrador", "semestre": 8 }
+    ],
+    "totales": { "total_materias": 43 }
+  },
+  {
+    "universidad": "Universidad Tecnológica ECOTEC",
+    "carrera": "Gestión de Talento Humano",
+    "career_url_ref": "https://ecotec.edu.ec/facultad/ciencias-economicas-empresariales/carrera/gestion-del-talento-humano/",
+    "pensum": "2017",
+    "materias": [
+      { "nombre": "Habilidades Linguisticas", "semestre": 1 },
+      { "nombre": "Derecho Empresarial", "semestre": 1 },
+      { "nombre": "Fundamentos de Administración", "semestre": 1 },
+      { "nombre": "Contabilidad", "semestre": 1 },
+      { "nombre": "Fundamentos de Marketing", "semestre": 1 },
+      { "nombre": "Ética", "semestre": 2 },
+      { "nombre": "Metodologia de la Investigación", "semestre": 2 },
+      { "nombre": "Matemáticas Financieras", "semestre": 2 },
+      { "nombre": "Psicologia General", "semestre": 2 },
+      { "nombre": "Análisis Estadístico", "semestre": 2 },
+      { "nombre": "Desarrollo sostenible", "semestre": 3 },
+      { "nombre": "Derecho laboral e internacional", "semestre": 3 },
+      { "nombre": "Gestión por procesos", "semestre": 3 },
+      {
+        "nombre": "Bases Teóricas de la Gestión del Talento humano",
+        "semestre": 3
+      },
+      { "nombre": "Psicologia de la Personalidad", "semestre": 3 },
+      {
+        "nombre": "Realidad Nacional y Politica en el mundo actual",
+        "semestre": 4
+      },
+      { "nombre": "Administración de Prespuestos", "semestre": 4 },
+      { "nombre": "Comportamiento Organizacional", "semestre": 4 },
+      { "nombre": "Gestión por competencias", "semestre": 4 },
+      { "nombre": "Evaluación y Test Psicológicos", "semestre": 4 },
+      { "nombre": "Emprendimiento", "semestre": 5 },
+      { "nombre": "Decisiones basadas en datos e IA", "semestre": 5 },
+      { "nombre": "Dimensión estratégica del Talento Humano", "semestre": 5 },
+      { "nombre": "Arquitectura y Mapeo de cargos", "semestre": 5 },
+      { "nombre": "Atracción y Selección de Talento", "semestre": 5 },
+      {
+        "nombre": "Políticas y Tecnologias de innovación en la GTH",
+        "semestre": 6
+      },
+      { "nombre": "Neuromanagement en la GTH", "semestre": 6 },
+      { "nombre": "Capacitación & Knowledge Management", "semestre": 6 },
+      { "nombre": "Evaluación y control integral del talento", "semestre": 6 },
+      { "nombre": "People Analytics & KPI's", "semestre": 6 },
+      { "nombre": "Retribución en contextos globales", "semestre": 7 },
+      { "nombre": "Psicopatologia e integración laboral", "semestre": 7 },
+      { "nombre": "Gestión del cambio y desarrollo", "semestre": 7 },
+      {
+        "nombre": "Futuro del trabajo y Gestión del conocimiento",
+        "semestre": 7
+      },
+      { "nombre": "Negociación y resolución de conflictos", "semestre": 7 },
+      { "nombre": "Seguridad ocupacional", "semestre": 8 },
+      { "nombre": "Comunicación Empresarial Estratégica", "semestre": 8 },
+      { "nombre": "Employer Branding & Culture", "semestre": 8 },
+      { "nombre": "Global Leadership and Team Management", "semestre": 8 },
+      { "nombre": "Proyecto Integrador", "semestre": 8 }
+    ],
+    "totales": {
+      "total_materias": 40
+    }
+  },
+  {
+    "universidad": "Universidad Tecnológica ECOTEC",
+    "carrera": "Logística y Transporte",
+    "career_url_ref": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-economicas-empresariales/malla-logistica-transporte.pdf",
+    "pensum": "2020",
+    "materias": [
+      { "nombre": "Habilidades lingüisticas", "semestre": 1 },
+      {
+        "nombre": "Fudamentos de Administración para ingenieros",
+        "semestre": 1
+      },
+      { "nombre": "Introducción a la producción y operaciones", "semestre": 1 },
+      { "nombre": "Estadistica", "semestre": 1 },
+      { "nombre": "Cálculo diferencial", "semestre": 1 },
+      { "nombre": "Fisica del movimiento", "semestre": 1 },
+      { "nombre": "Ética", "semestre": 2 },
+      { "nombre": "Metodologia de la Investigación", "semestre": 2 },
+      { "nombre": "Tráfico y Transporte Terrestre", "semestre": 2 },
+      { "nombre": "Tráfico y Transporte maritimo y fluvial", "semestre": 2 },
+      { "nombre": "Cálculo integral y matricial", "semestre": 2 },
+      { "nombre": "Tecnologias de Apoyo a la Logistico", "semestre": 2 },
+      { "nombre": "Desarrollo Sostenible", "semestre": 3 },
+      { "nombre": "Quimica General", "semestre": 3 },
+      {
+        "nombre": "Prevención de los riesgos en los medios de transporte",
+        "semestre": 3
+      },
+      { "nombre": "Tráfico y Transporte aéreo", "semestre": 3 },
+      { "nombre": "Gestión de compras y negociación", "semestre": 3 },
+      { "nombre": "Legislación aplicada al transporte", "semestre": 3 },
+      {
+        "nombre": "Realidad Nacional y política en el mundo actual",
+        "semestre": 4
+      },
+      { "nombre": "Fundamentos de Marketing", "semestre": 4 },
+      { "nombre": "Sistemas deterministicos para operaciones", "semestre": 4 },
+      { "nombre": "Diseño y Evaluación de Proyectos", "semestre": 4 },
+      { "nombre": "Macroeconomia", "semestre": 4 },
+      { "nombre": "Emprendimiento", "semestre": 5 },
+      { "nombre": "Decisiones basadas en datos e IA", "semestre": 5 },
+      { "nombre": "Simuladores, logistica y transporte", "semestre": 5 },
+      { "nombre": "Pronóstico y Control de inventario", "semestre": 5 },
+      { "nombre": "Comercio Internacional", "semestre": 5 },
+      { "nombre": "Dirección de la cadena de abastecimiento", "semestre": 6 },
+      { "nombre": "Manejo y Seguridad de la Carga", "semestre": 6 },
+      { "nombre": "Investigación de Operaciones Aplicadas", "semestre": 6 },
+      { "nombre": "Dirección Financiera de la Logistica", "semestre": 6 },
+      { "nombre": "Logistica Internacional y Aduanas", "semestre": 6 },
+      { "nombre": "Gestión estratégica", "semestre": 7 },
+      { "nombre": "Logistica Sostenible", "semestre": 7 },
+      { "nombre": "Empaque, envase y Embalaje", "semestre": 7 },
+      { "nombre": "Gestión de Bodega", "semestre": 7 },
+      { "nombre": "Operaciones de Comercio Exterior", "semestre": 7 },
+      {
+        "nombre": "Sistema de Gestión de la Cadena de Abastecimiento",
+        "semestre": 8
+      },
+      { "nombre": "Gestión de Talento Humano", "semestre": 8 },
+      { "nombre": "Seguridad de la Cadena de Abastecimiento", "semestre": 8 },
+      { "nombre": "Optimización y Ruteo", "semestre": 8 },
+      { "nombre": "Proyecto Integrador", "semestre": 8 }
+    ],
+    "totales": {
+      "total_materias": 43
+    }
+  },
+  {
+    "universidad": "Universidad Tecnológica ECOTEC",
+    "carrera": "Negocios Digitales",
+    "career_url_ref": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-economicas-empresariales/malla-negocios-digitales.pdf",
+    "pensum": "2020",
+    "materias": [
+      { "nombre": "Habilidades lingüísticas", "semestre": 1 },
+      { "nombre": "Análisis Estadístico", "semestre": 1 },
+      { "nombre": "Derecho Empresarial", "semestre": 1 },
+      { "nombre": "Fundamentos de Marketing", "semestre": 1 },
+      { "nombre": "Fundamentos de Administración", "semestre": 1 },
+      { "nombre": "Metodologia de la Investigación", "semestre": 2 },
+      { "nombre": "Ética", "semestre": 2 },
+      { "nombre": "Contabilidad", "semestre": 2 },
+      { "nombre": "Microeconomia", "semestre": 2 },
+      { "nombre": "Fundamentos de Administración Financiera", "semestre": 2 },
+      { "nombre": "Desarrollo Sostenible", "semestre": 3 },
+      { "nombre": "Matemáticas Financieras", "semestre": 3 },
+      { "nombre": "Contabilidad Administrativa", "semestre": 3 },
+      { "nombre": "Macroeconomia", "semestre": 3 },
+      { "nombre": "Economia Digital", "semestre": 3 },
+      {
+        "nombre": "Realidad nacional y politica en el mundo actual",
+        "semestre": 4
+      },
+      { "nombre": "Diseño y Evaluación de Proyectos", "semestre": 4 },
+      { "nombre": "Comercio Internacional", "semestre": 4 },
+      { "nombre": "Investigación digital de los Mercados", "semestre": 4 },
+      { "nombre": "Business Process Management", "semestre": 4 },
+      { "nombre": "Emprendimiento", "semestre": 5 },
+      { "nombre": "Decisiones basadas en datos e IA", "semestre": 5 },
+      { "nombre": "Marketing Internacional", "semestre": 5 },
+      { "nombre": "Marketing Digital y Social Media", "semestre": 5 },
+      { "nombre": "Ciencias de Datos aplicada a los negocios", "semestre": 5 },
+      { "nombre": "Transformación Digital", "semestre": 6 },
+      { "nombre": "Gestión de la Innovación", "semestre": 6 },
+      { "nombre": "Inteligencia de Negocios", "semestre": 6 },
+      { "nombre": "E-CRM", "semestre": 6 },
+      { "nombre": "Gestión de Procesos Digitales", "semestre": 6 },
+      { "nombre": "Tecnologias Emergentes", "semestre": 7 },
+      { "nombre": "Gestión Estratégica", "semestre": 7 },
+      { "nombre": "Design Thinking", "semestre": 7 },
+      { "nombre": "Experiencia de Usuario / UX-UI", "semestre": 7 },
+      { "nombre": "E-Commerce", "semestre": 7 },
+      { "nombre": "Ciberseguridad y Blockchain", "semestre": 8 },
+      { "nombre": "Tópicos Especiales en Negoc. Digitales", "semestre": 8 },
+      { "nombre": "Programación aplicada a los negocios", "semestre": 8 },
+      { "nombre": "Proyecto Integrador", "semestre": 8 },
+      { "nombre": "Diseños de Negocios Digitales", "semestre": 8 }
+    ],
+    "totales": {
+      "total_materias": 40
+    }
+  },
+  {
+    "universidad": "Universidad Tecnológica ECOTEC",
+    "carrera": "Criminalística",
+    "career_url_ref": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/derecho-gobernabilidad/malla-criminalistica.pdf",
+    "pensum": "2026",
+    "materias": [
+      { "nombre": "Habilidades Lingüísticas", "semestre": 1 },
+      { "nombre": "Introducción a la Criminalística", "semestre": 1 },
+      { "nombre": "Biología", "semestre": 1 },
+      { "nombre": "Física del Movimiento", "semestre": 1 },
+      { "nombre": "Química General", "semestre": 1 },
+      { "nombre": "Cálculo Diferencial", "semestre": 1 },
+      { "nombre": "Ética", "semestre": 2 },
+      { "nombre": "Metodología de la Investigación", "semestre": 2 },
+      { "nombre": "Fundamentos de la Criminología", "semestre": 2 },
+      { "nombre": "Física de la Energía", "semestre": 2 },
+      { "nombre": "Química Orgánica", "semestre": 2 },
+      { "nombre": "Estadística", "semestre": 2 },
+      { "nombre": "Desarrollo Sostenible", "semestre": 3 },
+      { "nombre": "Fundamentos del Derecho Penal", "semestre": 3 },
+      { "nombre": "Documentología I", "semestre": 3 },
+      { "nombre": "Balística I", "semestre": 3 },
+      { "nombre": "Morfofisiología", "semestre": 3 },
+      {
+        "nombre": "Realidad Nacional y Política del Mundo Actual",
+        "semestre": 4
+      },
+      { "nombre": "Documentología II", "semestre": 4 },
+      {
+        "nombre": "Responsabilidad Social y Seguridad Ciudadana",
+        "semestre": 4
+      },
+      { "nombre": "Balística II", "semestre": 4 },
+      { "nombre": "Papiloscopía e Identidad Humana", "semestre": 4 },
+      { "nombre": "Emprendimiento", "semestre": 5 },
+      { "nombre": "Decisiones Basadas en Datos e I.A.", "semestre": 5 },
+      {
+        "nombre": "Informática Forense y Tecnologías Emergentes",
+        "semestre": 5
+      },
+      { "nombre": "Accidentología Vial", "semestre": 5 },
+      { "nombre": "Toxicología Forense", "semestre": 5 },
+      { "nombre": "Psiquiatría Forense", "semestre": 6 },
+      { "nombre": "Audio, Video y Afines", "semestre": 6 },
+      { "nombre": "Inspección del Lugar de los Hechos I", "semestre": 6 },
+      {
+        "nombre": "Métodos y Técnicas de Investigación Criminal",
+        "semestre": 6
+      },
+      { "nombre": "Estadística Forense", "semestre": 6 },
+      { "nombre": "Ciberdelitos en el ámbito Criminalístico", "semestre": 7 },
+      { "nombre": "Medicina Legal", "semestre": 7 },
+      { "nombre": "Litigación Oral y Redacción Forense", "semestre": 7 },
+      { "nombre": "Procesos Penales y Criminalísticos", "semestre": 7 },
+      { "nombre": "Inspección del Lugar de los Hechos II", "semestre": 7 },
+      { "nombre": "Investigación de Incendios y Explosivos", "semestre": 8 },
+      { "nombre": "Odontología y Antropología Forense", "semestre": 8 },
+      { "nombre": "Taller de Práctica Criminalística", "semestre": 8 },
+      { "nombre": "Proyecto Integrador", "semestre": 8 }
+    ],
+    "totales": {
+      "total_materias": 41
+    }
+  },
+  {
+    "universidad": "Universidad Tecnológica ECOTEC",
+    "carrera": "Psicología Clínica",
+    "career_url_ref": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-de-la-salud/malla-psicologia.pdf",
+    "pensum": "2022",
+    "materias": [
+      { "nombre": "Habilidades lingüísticas", "semestre": 1 },
+      { "nombre": "Enfoques y fundamentos en Salud Pública", "semestre": 1 },
+      { "nombre": "Metodologia de la investigación", "semestre": 1 },
+      { "nombre": "Desarrollo sostenible", "semestre": 1 },
+      { "nombre": "Corrientes psicológicas", "semestre": 1 },
+      { "nombre": "Principios filosóficos de Psicología", "semestre": 2 },
+      {
+        "nombre": "Principios de Neuroanatomía y Neurofisiología",
+        "semestre": 2
+      },
+      { "nombre": "Ética", "semestre": 2 },
+      { "nombre": "Psicología del Desarrollo humano", "semestre": 2 },
+      { "nombre": "Historia de la Psicología", "semestre": 2 },
+      { "nombre": "Bioestadística", "semestre": 3 },
+      { "nombre": "Psicología de la sexualidad humana", "semestre": 3 },
+      { "nombre": "Neuropsicología", "semestre": 3 },
+      { "nombre": "Sistemas teóricos de la personalidad", "semestre": 3 },
+      { "nombre": "Psicología Social y de la salud", "semestre": 3 },
+      {
+        "nombre": "Realidad Nacional y política en el mundo actual",
+        "semestre": 4
+      },
+      { "nombre": "Técnicas Proyectivas", "semestre": 4 },
+      {
+        "nombre": "Evaluación y diagnóstico en Psicología Clínica",
+        "semestre": 4
+      },
+      { "nombre": "Técnicas psicométricas", "semestre": 4 },
+      { "nombre": "Psicopatología I", "semestre": 4 },
+      { "nombre": "Emprendimiento", "semestre": 5 },
+      { "nombre": "Decisiones basadas en datos e IA", "semestre": 5 },
+      { "nombre": "Psicología de las discapacidades", "semestre": 5 },
+      {
+        "nombre": "IA aplicada al Psicodiagnóstico y Psicoterapia",
+        "semestre": 5
+      },
+      { "nombre": "Psicopatología II", "semestre": 5 },
+      { "nombre": "Psicoterapia familiar y de pareja", "semestre": 6 },
+      {
+        "nombre": "Psicología de las toxicomanías y adicciones",
+        "semestre": 6
+      },
+      {
+        "nombre": "Estrategias de branding profesional en Psicología Clínica",
+        "semestre": 6
+      },
+      { "nombre": "Psicología forense y criminología", "semestre": 6 },
+      { "nombre": "Psicoanálisis", "semestre": 6 },
+      { "nombre": "Salud comunitaria", "semestre": 7 },
+      { "nombre": "Psicología Cognitiva Conductual", "semestre": 7 },
+      { "nombre": "Psicofarmacología", "semestre": 7 },
+      { "nombre": "Psicoterapia Psicodinámica", "semestre": 7 },
+      { "nombre": "Psicoterapia Cognitiva Conductual", "semestre": 7 },
+      { "nombre": "Psicoterapia infanto juvenil", "semestre": 8 },
+      { "nombre": "Psicoterapia grupal", "semestre": 8 },
+      { "nombre": "Psicoterapia Humanista", "semestre": 8 },
+      { "nombre": "Proyecto integrador", "semestre": 8 }
+    ],
+    "totales": {
+      "total_materias": 39
+    }
+  },
+  {
+    "universidad": "Universidad Tecnológica ECOTEC",
+    "carrera": "Fisioterapia",
+    "career_url_ref": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-de-la-salud/malla-fisioterapia.pdf",
+    "pensum": "2021",
+    "materias": [
+      { "nombre": "Habilidades lingüísticas", "semestre": 1 },
+      { "nombre": "Fundamentos de Fisioterapia", "semestre": 1 },
+      { "nombre": "Morfofisiología I", "semestre": 1 },
+      { "nombre": "Bases químico biológicas de la célula", "semestre": 1 },
+      { "nombre": "Salud emocional y Discapacidad", "semestre": 1 },
+      { "nombre": "Metodología de la Investigación", "semestre": 2 },
+      { "nombre": "Ética", "semestre": 2 },
+      {
+        "nombre": "Fundamentos de Neuroanatomía y Neurofisiología",
+        "semestre": 2
+      },
+      { "nombre": "Morfofisiología II", "semestre": 2 },
+      { "nombre": "Biomecánica", "semestre": 2 },
+      { "nombre": "Desarrollo Sostenible", "semestre": 3 },
+      { "nombre": "Fisiopatología", "semestre": 3 },
+      { "nombre": "Control motor y Movimiento Corporal Humano", "semestre": 3 },
+      { "nombre": "Bioestadística", "semestre": 3 },
+      { "nombre": "Epidemiología", "semestre": 3 },
+      {
+        "nombre": "Realidad Nacional y Política en el mundo actual",
+        "semestre": 4
+      },
+      {
+        "nombre": "Evaluación y Diagnóstico Fisioterapéutico I",
+        "semestre": 4
+      },
+      { "nombre": "Ergonomía y Kinefilaxia", "semestre": 4 },
+      { "nombre": "Fisiotecnología", "semestre": 4 },
+      { "nombre": "Salud Comunitaria", "semestre": 4 },
+      { "nombre": "Emprendimiento", "semestre": 5 },
+      { "nombre": "Decisiones basadas en datos IA", "semestre": 5 },
+      {
+        "nombre": "Evaluación y Diagnóstico Fisioterapéutico II",
+        "semestre": 5
+      },
+      { "nombre": "Fisiología y prescripción del ejercicio", "semestre": 5 },
+      { "nombre": "Imagenología", "semestre": 5 },
+      {
+        "nombre": "Evaluación y Diagnóstico Fisioterapéutico III",
+        "semestre": 6
+      },
+      { "nombre": "IA aplicada a Fisioterapia", "semestre": 6 },
+      { "nombre": "Traumatología y Ortopedia", "semestre": 6 },
+      { "nombre": "Terapia Manual Ortopédica", "semestre": 6 },
+      { "nombre": "Administración y Gestión en Salud", "semestre": 6 },
+      { "nombre": "Fisioterapia en Pediatría", "semestre": 7 },
+      { "nombre": "Kinesiología Deportiva", "semestre": 7 },
+      { "nombre": "Fisioterapia en Geriatría", "semestre": 7 },
+      { "nombre": "Salud Pública", "semestre": 7 },
+      { "nombre": "Bioética", "semestre": 7 },
+      {
+        "nombre": "Intervención Fisioterapéutica Neuromúsculo esquelética",
+        "semestre": 8
+      },
+      {
+        "nombre": "Intervención Fisioterapéutica Cardio-metabólica",
+        "semestre": 8
+      },
+      {
+        "nombre": "Intervención Fisioterapéutica Basada en la evidencia",
+        "semestre": 8
+      },
+      { "nombre": "Rehabilitación Integral en el Ciclo Vital", "semestre": 8 },
+      { "nombre": "Proyecto Integrador", "semestre": 8 }
+    ],
+    "totales": {
+      "total_materias": 40
+    }
+  },
+
+  {
+    "universidad": "Universidad Tecnológica ECOTEC",
+    "carrera": "Derecho",
+    "career_url_ref": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/derecho-gobernabilidad/malla-derecho.pdf",
+    "pensum": "2020",
+    "materias": [
+      { "nombre": "Habilidades Lingüísticas", "semestre": 1 },
+      { "nombre": "Instituciones del Derecho Romano", "semestre": 1 },
+      { "nombre": "Estado y Constitución", "semestre": 1 },
+      { "nombre": "Introducción del Derecho", "semestre": 1 },
+      { "nombre": "Ética", "semestre": 1 },
+      { "nombre": "Metodología de la Investigación", "semestre": 2 },
+      { "nombre": "Derecho Constitucional General", "semestre": 2 },
+      { "nombre": "Derecho Civil I", "semestre": 2 },
+      { "nombre": "Historia y Filosofía del Derecho", "semestre": 2 },
+      { "nombre": "Derecho Internacional", "semestre": 2 },
+      { "nombre": "Desarrollo Sostenible", "semestre": 3 },
+      { "nombre": "Derecho Administrativo", "semestre": 3 },
+      { "nombre": "Derecho Civil Bienes I", "semestre": 3 },
+      { "nombre": "Derecho Penal I", "semestre": 3 },
+      { "nombre": "Teoría General del Proceso", "semestre": 3 },
+      {
+        "nombre": "Realidad Nacional y Política del Mundo Actual",
+        "semestre": 4
+      },
+      { "nombre": "Derecho Procesal Constitucional", "semestre": 4 },
+      { "nombre": "Derecho Civil Bienes II", "semestre": 4 },
+      { "nombre": "Teoría General de los Actos Jurídicos", "semestre": 4 },
+      {
+        "nombre": "Investigación Jurídica y Transformación Social",
+        "semestre": 4
+      },
+      { "nombre": "Emprendimiento", "semestre": 5 },
+      { "nombre": "Decisiones Basadas en Casos & I.A.", "semestre": 5 },
+      { "nombre": "Derecho de las Obligaciones", "semestre": 5 },
+      { "nombre": "Procedimiento General I", "semestre": 5 },
+      { "nombre": "Derecho Penal II", "semestre": 5 },
+      { "nombre": "Derecho de Contratos I", "semestre": 6 },
+      { "nombre": "Procedimiento General II", "semestre": 6 },
+      { "nombre": "Derecho de Sucesiones", "semestre": 6 },
+      { "nombre": "Derecho Mercantil", "semestre": 6 },
+      { "nombre": "Procedimiento Penal", "semestre": 6 },
+      { "nombre": "Derecho de Contratos II", "semestre": 7 },
+      { "nombre": "Derecho Tributario", "semestre": 7 },
+      { "nombre": "Derecho del Trabajo", "semestre": 7 },
+      { "nombre": "Métodos Alternos de Solución de Conflictos", "semestre": 7 },
+      { "nombre": "Derecho Societario", "semestre": 7 },
+      { "nombre": "Práctica Jurídica", "semestre": 8 },
+      { "nombre": "Derecho Empresarial", "semestre": 8 },
+      { "nombre": "Derecho Digital y Legaltech", "semestre": 8 },
+      { "nombre": "Derecho de Familia", "semestre": 8 },
+      { "nombre": "Proyecto Integrador", "semestre": 8 }
+    ],
+    "totales": {
+      "total_materias": 40
+    }
+  },
+  {
+    "universidad": "Universidad Tecnológica ECOTEC",
+    "carrera": "Nutrición y Dietética",
+    "career_url_ref": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-de-la-salud/malla-nutricion.pdf",
+    "pensum": "2023",
+    "materias": [
+      { "nombre": "Habilidades Lingüísticas", "semestre": 1 },
+      { "nombre": "Morfofisiología", "semestre": 1 },
+      { "nombre": "Biología", "semestre": 1 },
+      { "nombre": "Bromatología I", "semestre": 1 },
+      { "nombre": "Bioquímica", "semestre": 1 },
+      { "nombre": "Antropología de la Nutrición", "semestre": 1 },
+      { "nombre": "Metodología de la Investigación", "semestre": 2 },
+      { "nombre": "Ética", "semestre": 2 },
+      { "nombre": "Metabolismo y Nutrición", "semestre": 2 },
+      { "nombre": "Bromatología II", "semestre": 2 },
+      { "nombre": "Microbiología de los Alimentos", "semestre": 2 },
+      { "nombre": "Principios de la Alimentación y Nutrición", "semestre": 2 },
+      { "nombre": "Desarrollo Sostenible", "semestre": 3 },
+      { "nombre": "Fisiopatología Aplicada a la Nutrición", "semestre": 3 },
+      { "nombre": "Nutrición según Ciclos de vida", "semestre": 3 },
+      { "nombre": "Técnicas Dietéticas", "semestre": 3 },
+      { "nombre": "Evaluación del Estado Nutricional I", "semestre": 3 },
+      { "nombre": "Bioética", "semestre": 3 },
+      {
+        "nombre": "Realidad Nacional y Política en el Mundo Actual",
+        "semestre": 4
+      },
+      { "nombre": "Farmacología Aplicada a la Nutrición", "semestre": 4 },
+      { "nombre": "Salud Comunitaria", "semestre": 4 },
+      { "nombre": "Nutrición Clínica I", "semestre": 4 },
+      { "nombre": "Dietoterapia", "semestre": 4 },
+      { "nombre": "Evaluación del Estado Nutricional II", "semestre": 4 },
+      { "nombre": "Emprendimiento", "semestre": 5 },
+      { "nombre": "Decisiones Basadas en Datos e IA", "semestre": 5 },
+      { "nombre": "Nutrición Clínica II", "semestre": 5 },
+      { "nombre": "Educación Nutricional", "semestre": 5 },
+      { "nombre": "Seguridad Alimentaria", "semestre": 5 },
+      { "nombre": "Bioestadística", "semestre": 5 },
+      { "nombre": "Nutrición Deportiva", "semestre": 6 },
+      { "nombre": "Inmunonutrición", "semestre": 6 },
+      { "nombre": "Nutrición Pediátrica", "semestre": 6 },
+      { "nombre": "Servicios de Alimentación", "semestre": 6 },
+      { "nombre": "Psicología Aplicada a la Nutrición", "semestre": 6 },
+      { "nombre": "Epidemiología", "semestre": 6 },
+      { "nombre": "Soporte Nutricional", "semestre": 7 },
+      { "nombre": "Nutracéuticos y Alimentos Funcionales", "semestre": 7 },
+      { "nombre": "Tecnología de los Alimentos", "semestre": 7 },
+      { "nombre": "Nutrigenética y Nutrigenómica", "semestre": 7 },
+      { "nombre": "Asesoría y Consultoría Nutricional", "semestre": 7 },
+      { "nombre": "Proyecto Integrador Nutricional", "semestre": 7 },
+      { "nombre": "ROTACIÓN NUTRICIÓN PEDIÁTRICA", "semestre": 8 },
+      { "nombre": "ROTACIÓN NUTRICIÓN COMUNITARIA", "semestre": 8 },
+      { "nombre": "ROTACIÓN NUTRICIÓN CLÍNICA QUIRÚRGICA", "semestre": 8 }
+    ],
+    "totales": {
+      "total_materias": 45
+    }
+  }
+]

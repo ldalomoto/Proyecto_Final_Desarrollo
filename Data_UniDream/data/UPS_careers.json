@@ -1,0 +1,569 @@
+[
+    {
+        "nombre_carrera": "Ingeniería Automotriz",
+        "nombre_facultad": "Oferta Académica UPS",
+        "nombre_universidad": "Universidad Politécnica Salesiana",
+        "nombre_titulo": "Ingeniero/a Automotriz",
+        "numero_semestres": "8-10 semestres (Consultar Malla)",
+        "malla_url": "https://www.ups.edu.ec/oferta-academica",
+        "descripcion_carrera": "La carrera de Ingeniería Automotriz forma profesionales con excelencia académica y valores humanos. Disponible en modalidad presencial/híbrida en las sedes: Cuenca, Guayaquil, Quito.",
+        "ubicacion_sedes": [
+            "Cuenca",
+            "Guayaquil",
+            "Quito"
+        ],
+        "tipo_universidad": "Privada (Cofinanciada)",
+        "costo": "Pagada (Pensión diferenciada según nivel socioeconómico)",
+        "modalidad": "Presencial / Híbrida / En Línea",
+        "enlace_carrera": "https://www.ups.edu.ec/oferta-academica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admisiones@ups.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería Mecatrónica",
+        "nombre_facultad": "Oferta Académica UPS",
+        "nombre_universidad": "Universidad Politécnica Salesiana",
+        "nombre_titulo": "Ingeniero/a en Mecatrónica",
+        "numero_semestres": "8-10 semestres (Consultar Malla)",
+        "malla_url": "https://www.ups.edu.ec/oferta-academica",
+        "descripcion_carrera": "La carrera de Ingeniería Mecatrónica forma profesionales con excelencia académica y valores humanos. Disponible en modalidad presencial/híbrida en las sedes: Cuenca, Quito, Guayaquil.",
+        "ubicacion_sedes": [
+            "Cuenca",
+            "Quito",
+            "Guayaquil"
+        ],
+        "tipo_universidad": "Privada (Cofinanciada)",
+        "costo": "Pagada (Pensión diferenciada según nivel socioeconómico)",
+        "modalidad": "Presencial / Híbrida / En Línea",
+        "enlace_carrera": "https://www.ups.edu.ec/oferta-academica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admisiones@ups.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería Civil",
+        "nombre_facultad": "Oferta Académica UPS",
+        "nombre_universidad": "Universidad Politécnica Salesiana",
+        "nombre_titulo": "Ingeniero/a Civil",
+        "numero_semestres": "8-10 semestres (Consultar Malla)",
+        "malla_url": "https://www.ups.edu.ec/oferta-academica",
+        "descripcion_carrera": "La carrera de Ingeniería Civil forma profesionales con excelencia académica y valores humanos. Disponible en modalidad presencial/híbrida en las sedes: Cuenca, Quito, Guayaquil.",
+        "ubicacion_sedes": [
+            "Cuenca",
+            "Quito",
+            "Guayaquil"
+        ],
+        "tipo_universidad": "Privada (Cofinanciada)",
+        "costo": "Pagada (Pensión diferenciada según nivel socioeconómico)",
+        "modalidad": "Presencial / Híbrida / En Línea",
+        "enlace_carrera": "https://www.ups.edu.ec/oferta-academica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admisiones@ups.edu.ec"
+    },
+    {
+        "nombre_carrera": "Computación",
+        "nombre_facultad": "Oferta Académica UPS",
+        "nombre_universidad": "Universidad Politécnica Salesiana",
+        "nombre_titulo": "Ingeniero/a en Ciencias de la Computación",
+        "numero_semestres": "8-10 semestres (Consultar Malla)",
+        "malla_url": "https://www.ups.edu.ec/oferta-academica",
+        "descripcion_carrera": "La carrera de Computación forma profesionales con excelencia académica y valores humanos. Disponible en modalidad presencial/híbrida en las sedes: Cuenca, Quito, Guayaquil.",
+        "ubicacion_sedes": [
+            "Cuenca",
+            "Quito",
+            "Guayaquil"
+        ],
+        "tipo_universidad": "Privada (Cofinanciada)",
+        "costo": "Pagada (Pensión diferenciada según nivel socioeconómico)",
+        "modalidad": "Presencial / Híbrida / En Línea",
+        "enlace_carrera": "https://www.ups.edu.ec/oferta-academica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admisiones@ups.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería Industrial",
+        "nombre_facultad": "Oferta Académica UPS",
+        "nombre_universidad": "Universidad Politécnica Salesiana",
+        "nombre_titulo": "Ingeniero/a Industrial",
+        "numero_semestres": "8-10 semestres (Consultar Malla)",
+        "malla_url": "https://www.ups.edu.ec/oferta-academica",
+        "descripcion_carrera": "La carrera de Ingeniería Industrial forma profesionales con excelencia académica y valores humanos. Disponible en modalidad presencial/híbrida en las sedes: Cuenca, Guayaquil.",
+        "ubicacion_sedes": [
+            "Cuenca",
+            "Guayaquil"
+        ],
+        "tipo_universidad": "Privada (Cofinanciada)",
+        "costo": "Pagada (Pensión diferenciada según nivel socioeconómico)",
+        "modalidad": "Presencial / Híbrida / En Línea",
+        "enlace_carrera": "https://www.ups.edu.ec/oferta-academica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admisiones@ups.edu.ec"
+    },
+    {
+        "nombre_carrera": "Electricidad",
+        "nombre_facultad": "Oferta Académica UPS",
+        "nombre_universidad": "Universidad Politécnica Salesiana",
+        "nombre_titulo": "Ingeniero/a Electricista",
+        "numero_semestres": "8-10 semestres (Consultar Malla)",
+        "malla_url": "https://www.ups.edu.ec/oferta-academica",
+        "descripcion_carrera": "La carrera de Electricidad forma profesionales con excelencia académica y valores humanos. Disponible en modalidad presencial/híbrida en las sedes: Cuenca, Quito, Guayaquil.",
+        "ubicacion_sedes": [
+            "Cuenca",
+            "Quito",
+            "Guayaquil"
+        ],
+        "tipo_universidad": "Privada (Cofinanciada)",
+        "costo": "Pagada (Pensión diferenciada según nivel socioeconómico)",
+        "modalidad": "Presencial / Híbrida / En Línea",
+        "enlace_carrera": "https://www.ups.edu.ec/oferta-academica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admisiones@ups.edu.ec"
+    },
+    {
+        "nombre_carrera": "Telecomunicaciones",
+        "nombre_facultad": "Oferta Académica UPS",
+        "nombre_universidad": "Universidad Politécnica Salesiana",
+        "nombre_titulo": "Ingeniero/a en Telecomunicaciones",
+        "numero_semestres": "8-10 semestres (Consultar Malla)",
+        "malla_url": "https://www.ups.edu.ec/oferta-academica",
+        "descripcion_carrera": "La carrera de Telecomunicaciones forma profesionales con excelencia académica y valores humanos. Disponible en modalidad presencial/híbrida en las sedes: Cuenca, Quito, Guayaquil.",
+        "ubicacion_sedes": [
+            "Cuenca",
+            "Quito",
+            "Guayaquil"
+        ],
+        "tipo_universidad": "Privada (Cofinanciada)",
+        "costo": "Pagada (Pensión diferenciada según nivel socioeconómico)",
+        "modalidad": "Presencial / Híbrida / En Línea",
+        "enlace_carrera": "https://www.ups.edu.ec/oferta-academica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admisiones@ups.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería Electrónica y Automatización",
+        "nombre_facultad": "Oferta Académica UPS",
+        "nombre_universidad": "Universidad Politécnica Salesiana",
+        "nombre_titulo": "Ingeniero/a en Electrónica",
+        "numero_semestres": "8-10 semestres (Consultar Malla)",
+        "malla_url": "https://www.ups.edu.ec/oferta-academica",
+        "descripcion_carrera": "La carrera de Ingeniería Electrónica y Automatización forma profesionales con excelencia académica y valores humanos. Disponible en modalidad presencial/híbrida en las sedes: Cuenca, Quito, Guayaquil.",
+        "ubicacion_sedes": [
+            "Cuenca",
+            "Quito",
+            "Guayaquil"
+        ],
+        "tipo_universidad": "Privada (Cofinanciada)",
+        "costo": "Pagada (Pensión diferenciada según nivel socioeconómico)",
+        "modalidad": "Presencial / Híbrida / En Línea",
+        "enlace_carrera": "https://www.ups.edu.ec/oferta-academica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admisiones@ups.edu.ec"
+    },
+    {
+        "nombre_carrera": "Biotecnología",
+        "nombre_facultad": "Oferta Académica UPS",
+        "nombre_universidad": "Universidad Politécnica Salesiana",
+        "nombre_titulo": "Ingeniero/a en Biotecnología",
+        "numero_semestres": "8-10 semestres (Consultar Malla)",
+        "malla_url": "https://www.ups.edu.ec/oferta-academica",
+        "descripcion_carrera": "La carrera de Biotecnología forma profesionales con excelencia académica y valores humanos. Disponible en modalidad presencial/híbrida en las sedes: Quito, Guayaquil.",
+        "ubicacion_sedes": [
+            "Quito",
+            "Guayaquil"
+        ],
+        "tipo_universidad": "Privada (Cofinanciada)",
+        "costo": "Pagada (Pensión diferenciada según nivel socioeconómico)",
+        "modalidad": "Presencial / Híbrida / En Línea",
+        "enlace_carrera": "https://www.ups.edu.ec/oferta-academica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admisiones@ups.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería Ambiental",
+        "nombre_facultad": "Oferta Académica UPS",
+        "nombre_universidad": "Universidad Politécnica Salesiana",
+        "nombre_titulo": "Ingeniero/a Ambiental",
+        "numero_semestres": "8-10 semestres (Consultar Malla)",
+        "malla_url": "https://www.ups.edu.ec/oferta-academica",
+        "descripcion_carrera": "La carrera de Ingeniería Ambiental forma profesionales con excelencia académica y valores humanos. Disponible en modalidad presencial/híbrida en las sedes: Cuenca, Quito, Guayaquil.",
+        "ubicacion_sedes": [
+            "Cuenca",
+            "Quito",
+            "Guayaquil"
+        ],
+        "tipo_universidad": "Privada (Cofinanciada)",
+        "costo": "Pagada (Pensión diferenciada según nivel socioeconómico)",
+        "modalidad": "Presencial / Híbrida / En Línea",
+        "enlace_carrera": "https://www.ups.edu.ec/oferta-academica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admisiones@ups.edu.ec"
+    },
+    {
+        "nombre_carrera": "Arquitectura",
+        "nombre_facultad": "Oferta Académica UPS",
+        "nombre_universidad": "Universidad Politécnica Salesiana",
+        "nombre_titulo": "Arquitecto/a",
+        "numero_semestres": "8-10 semestres (Consultar Malla)",
+        "malla_url": "https://www.ups.edu.ec/oferta-academica",
+        "descripcion_carrera": "La carrera de Arquitectura forma profesionales con excelencia académica y valores humanos. Disponible en modalidad presencial/híbrida en las sedes: Cuenca, Quito.",
+        "ubicacion_sedes": [
+            "Cuenca",
+            "Quito"
+        ],
+        "tipo_universidad": "Privada (Cofinanciada)",
+        "costo": "Pagada (Pensión diferenciada según nivel socioeconómico)",
+        "modalidad": "Presencial / Híbrida / En Línea",
+        "enlace_carrera": "https://www.ups.edu.ec/oferta-academica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admisiones@ups.edu.ec"
+    },
+    {
+        "nombre_carrera": "Administración de Empresas",
+        "nombre_facultad": "Oferta Académica UPS",
+        "nombre_universidad": "Universidad Politécnica Salesiana",
+        "nombre_titulo": "Licenciado/a en Administración",
+        "numero_semestres": "8-10 semestres (Consultar Malla)",
+        "malla_url": "https://www.ups.edu.ec/oferta-academica",
+        "descripcion_carrera": "La carrera de Administración de Empresas forma profesionales con excelencia académica y valores humanos. Disponible en modalidad presencial/híbrida en las sedes: Cuenca, Quito, Guayaquil, En Línea.",
+        "ubicacion_sedes": [
+            "Cuenca",
+            "Quito",
+            "Guayaquil",
+            "En Línea"
+        ],
+        "tipo_universidad": "Privada (Cofinanciada)",
+        "costo": "Pagada (Pensión diferenciada según nivel socioeconómico)",
+        "modalidad": "Presencial / Híbrida / En Línea",
+        "enlace_carrera": "https://www.ups.edu.ec/oferta-academica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admisiones@ups.edu.ec"
+    },
+    {
+        "nombre_carrera": "Contabilidad y Auditoría",
+        "nombre_facultad": "Oferta Académica UPS",
+        "nombre_universidad": "Universidad Politécnica Salesiana",
+        "nombre_titulo": "Licenciado/a en Contabilidad",
+        "numero_semestres": "8-10 semestres (Consultar Malla)",
+        "malla_url": "https://www.ups.edu.ec/oferta-academica",
+        "descripcion_carrera": "La carrera de Contabilidad y Auditoría forma profesionales con excelencia académica y valores humanos. Disponible en modalidad presencial/híbrida en las sedes: Cuenca, Quito, Guayaquil.",
+        "ubicacion_sedes": [
+            "Cuenca",
+            "Quito",
+            "Guayaquil"
+        ],
+        "tipo_universidad": "Privada (Cofinanciada)",
+        "costo": "Pagada (Pensión diferenciada según nivel socioeconómico)",
+        "modalidad": "Presencial / Híbrida / En Línea",
+        "enlace_carrera": "https://www.ups.edu.ec/oferta-academica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admisiones@ups.edu.ec"
+    },
+    {
+        "nombre_carrera": "Economía",
+        "nombre_facultad": "Oferta Académica UPS",
+        "nombre_universidad": "Universidad Politécnica Salesiana",
+        "nombre_titulo": "Economista",
+        "numero_semestres": "8-10 semestres (Consultar Malla)",
+        "malla_url": "https://www.ups.edu.ec/oferta-academica",
+        "descripcion_carrera": "La carrera de Economía forma profesionales con excelencia académica y valores humanos. Disponible en modalidad presencial/híbrida en las sedes: Cuenca, Quito, Guayaquil.",
+        "ubicacion_sedes": [
+            "Cuenca",
+            "Quito",
+            "Guayaquil"
+        ],
+        "tipo_universidad": "Privada (Cofinanciada)",
+        "costo": "Pagada (Pensión diferenciada según nivel socioeconómico)",
+        "modalidad": "Presencial / Híbrida / En Línea",
+        "enlace_carrera": "https://www.ups.edu.ec/oferta-academica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admisiones@ups.edu.ec"
+    },
+    {
+        "nombre_carrera": "Negocios Digitales",
+        "nombre_facultad": "Oferta Académica UPS",
+        "nombre_universidad": "Universidad Politécnica Salesiana",
+        "nombre_titulo": "Licenciado/a en Negocios Digitales",
+        "numero_semestres": "8-10 semestres (Consultar Malla)",
+        "malla_url": "https://www.ups.edu.ec/oferta-academica",
+        "descripcion_carrera": "La carrera de Negocios Digitales forma profesionales con excelencia académica y valores humanos. Disponible en modalidad presencial/híbrida en las sedes: Quito, Guayaquil.",
+        "ubicacion_sedes": [
+            "Quito",
+            "Guayaquil"
+        ],
+        "tipo_universidad": "Privada (Cofinanciada)",
+        "costo": "Pagada (Pensión diferenciada según nivel socioeconómico)",
+        "modalidad": "Presencial / Híbrida / En Línea",
+        "enlace_carrera": "https://www.ups.edu.ec/oferta-academica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admisiones@ups.edu.ec"
+    },
+    {
+        "nombre_carrera": "Comunicación",
+        "nombre_facultad": "Oferta Académica UPS",
+        "nombre_universidad": "Universidad Politécnica Salesiana",
+        "nombre_titulo": "Licenciado/a en Comunicación",
+        "numero_semestres": "8-10 semestres (Consultar Malla)",
+        "malla_url": "https://www.ups.edu.ec/oferta-academica",
+        "descripcion_carrera": "La carrera de Comunicación forma profesionales con excelencia académica y valores humanos. Disponible en modalidad presencial/híbrida en las sedes: Cuenca, Quito, Guayaquil.",
+        "ubicacion_sedes": [
+            "Cuenca",
+            "Quito",
+            "Guayaquil"
+        ],
+        "tipo_universidad": "Privada (Cofinanciada)",
+        "costo": "Pagada (Pensión diferenciada según nivel socioeconómico)",
+        "modalidad": "Presencial / Híbrida / En Línea",
+        "enlace_carrera": "https://www.ups.edu.ec/oferta-academica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admisiones@ups.edu.ec"
+    },
+    {
+        "nombre_carrera": "Diseño Multimedia",
+        "nombre_facultad": "Oferta Académica UPS",
+        "nombre_universidad": "Universidad Politécnica Salesiana",
+        "nombre_titulo": "Licenciado/a en Diseño Multimedia",
+        "numero_semestres": "8-10 semestres (Consultar Malla)",
+        "malla_url": "https://www.ups.edu.ec/oferta-academica",
+        "descripcion_carrera": "La carrera de Diseño Multimedia forma profesionales con excelencia académica y valores humanos. Disponible en modalidad presencial/híbrida en las sedes: Cuenca, Quito, Guayaquil.",
+        "ubicacion_sedes": [
+            "Cuenca",
+            "Quito",
+            "Guayaquil"
+        ],
+        "tipo_universidad": "Privada (Cofinanciada)",
+        "costo": "Pagada (Pensión diferenciada según nivel socioeconómico)",
+        "modalidad": "Presencial / Híbrida / En Línea",
+        "enlace_carrera": "https://www.ups.edu.ec/oferta-academica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admisiones@ups.edu.ec"
+    },
+    {
+        "nombre_carrera": "Psicología",
+        "nombre_facultad": "Oferta Académica UPS",
+        "nombre_universidad": "Universidad Politécnica Salesiana",
+        "nombre_titulo": "Licenciado/a en Psicología",
+        "numero_semestres": "8-10 semestres (Consultar Malla)",
+        "malla_url": "https://www.ups.edu.ec/oferta-academica",
+        "descripcion_carrera": "La carrera de Psicología forma profesionales con excelencia académica y valores humanos. Disponible en modalidad presencial/híbrida en las sedes: Cuenca, Quito, Guayaquil.",
+        "ubicacion_sedes": [
+            "Cuenca",
+            "Quito",
+            "Guayaquil"
+        ],
+        "tipo_universidad": "Privada (Cofinanciada)",
+        "costo": "Pagada (Pensión diferenciada según nivel socioeconómico)",
+        "modalidad": "Presencial / Híbrida / En Línea",
+        "enlace_carrera": "https://www.ups.edu.ec/oferta-academica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admisiones@ups.edu.ec"
+    },
+    {
+        "nombre_carrera": "Educación Básica",
+        "nombre_facultad": "Oferta Académica UPS",
+        "nombre_universidad": "Universidad Politécnica Salesiana",
+        "nombre_titulo": "Licenciado/a en Educación Básica",
+        "numero_semestres": "8-10 semestres (Consultar Malla)",
+        "malla_url": "https://www.ups.edu.ec/oferta-academica",
+        "descripcion_carrera": "La carrera de Educación Básica forma profesionales con excelencia académica y valores humanos. Disponible en modalidad presencial/híbrida en las sedes: Quito, Guayaquil, En Línea.",
+        "ubicacion_sedes": [
+            "Quito",
+            "Guayaquil",
+            "En Línea"
+        ],
+        "tipo_universidad": "Privada (Cofinanciada)",
+        "costo": "Pagada (Pensión diferenciada según nivel socioeconómico)",
+        "modalidad": "Presencial / Híbrida / En Línea",
+        "enlace_carrera": "https://www.ups.edu.ec/oferta-academica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admisiones@ups.edu.ec"
+    },
+    {
+        "nombre_carrera": "Educación Inicial",
+        "nombre_facultad": "Oferta Académica UPS",
+        "nombre_universidad": "Universidad Politécnica Salesiana",
+        "nombre_titulo": "Licenciado/a en Educación Inicial",
+        "numero_semestres": "8-10 semestres (Consultar Malla)",
+        "malla_url": "https://www.ups.edu.ec/oferta-academica",
+        "descripcion_carrera": "La carrera de Educación Inicial forma profesionales con excelencia académica y valores humanos. Disponible en modalidad presencial/híbrida en las sedes: Quito, Guayaquil, En Línea.",
+        "ubicacion_sedes": [
+            "Quito",
+            "Guayaquil",
+            "En Línea"
+        ],
+        "tipo_universidad": "Privada (Cofinanciada)",
+        "costo": "Pagada (Pensión diferenciada según nivel socioeconómico)",
+        "modalidad": "Presencial / Híbrida / En Línea",
+        "enlace_carrera": "https://www.ups.edu.ec/oferta-academica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admisiones@ups.edu.ec"
+    },
+    {
+        "nombre_carrera": "Derecho",
+        "nombre_facultad": "Oferta Académica UPS",
+        "nombre_universidad": "Universidad Politécnica Salesiana",
+        "nombre_titulo": "Abogado/a",
+        "numero_semestres": "8-10 semestres (Consultar Malla)",
+        "malla_url": "https://www.ups.edu.ec/oferta-academica",
+        "descripcion_carrera": "La carrera de Derecho forma profesionales con excelencia académica y valores humanos. Disponible en modalidad presencial/híbrida en las sedes: Cuenca, Quito, Guayaquil.",
+        "ubicacion_sedes": [
+            "Cuenca",
+            "Quito",
+            "Guayaquil"
+        ],
+        "tipo_universidad": "Privada (Cofinanciada)",
+        "costo": "Pagada (Pensión diferenciada según nivel socioeconómico)",
+        "modalidad": "Presencial / Híbrida / En Línea",
+        "enlace_carrera": "https://www.ups.edu.ec/oferta-academica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admisiones@ups.edu.ec"
+    },
+    {
+        "nombre_carrera": "Medicina Veterinaria",
+        "nombre_facultad": "Oferta Académica UPS",
+        "nombre_universidad": "Universidad Politécnica Salesiana",
+        "nombre_titulo": "Médico/a Veterinario/a",
+        "numero_semestres": "8-10 semestres (Consultar Malla)",
+        "malla_url": "https://www.ups.edu.ec/oferta-academica",
+        "descripcion_carrera": "La carrera de Medicina Veterinaria forma profesionales con excelencia académica y valores humanos. Disponible en modalidad presencial/híbrida en las sedes: Cuenca, Quito.",
+        "ubicacion_sedes": [
+            "Cuenca",
+            "Quito"
+        ],
+        "tipo_universidad": "Privada (Cofinanciada)",
+        "costo": "Pagada (Pensión diferenciada según nivel socioeconómico)",
+        "modalidad": "Presencial / Híbrida / En Línea",
+        "enlace_carrera": "https://www.ups.edu.ec/oferta-academica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admisiones@ups.edu.ec"
+    },
+    {
+        "nombre_carrera": "Agropecuaria",
+        "nombre_facultad": "Oferta Académica UPS",
+        "nombre_universidad": "Universidad Politécnica Salesiana",
+        "nombre_titulo": "Ingeniero/a Agropecuario",
+        "numero_semestres": "8-10 semestres (Consultar Malla)",
+        "malla_url": "https://www.ups.edu.ec/oferta-academica",
+        "descripcion_carrera": "La carrera de Agropecuaria forma profesionales con excelencia académica y valores humanos. Disponible en modalidad presencial/híbrida en las sedes: Cuenca, Quito (Cayambe).",
+        "ubicacion_sedes": [
+            "Cuenca",
+            "Quito (Cayambe)"
+        ],
+        "tipo_universidad": "Privada (Cofinanciada)",
+        "costo": "Pagada (Pensión diferenciada según nivel socioeconómico)",
+        "modalidad": "Presencial / Híbrida / En Línea",
+        "enlace_carrera": "https://www.ups.edu.ec/oferta-academica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admisiones@ups.edu.ec"
+    },
+    {
+        "nombre_carrera": "Biomedicina",
+        "nombre_facultad": "Oferta Académica UPS",
+        "nombre_universidad": "Universidad Politécnica Salesiana",
+        "nombre_titulo": "Ingeniero/a Biomédico",
+        "numero_semestres": "8-10 semestres (Consultar Malla)",
+        "malla_url": "https://www.ups.edu.ec/oferta-academica",
+        "descripcion_carrera": "La carrera de Biomedicina forma profesionales con excelencia académica y valores humanos. Disponible en modalidad presencial/híbrida en las sedes: Cuenca, Guayaquil.",
+        "ubicacion_sedes": [
+            "Cuenca",
+            "Guayaquil"
+        ],
+        "tipo_universidad": "Privada (Cofinanciada)",
+        "costo": "Pagada (Pensión diferenciada según nivel socioeconómico)",
+        "modalidad": "Presencial / Híbrida / En Línea",
+        "enlace_carrera": "https://www.ups.edu.ec/oferta-academica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admisiones@ups.edu.ec"
+    },
+    {
+        "nombre_carrera": "Gerencia y Liderazgo",
+        "nombre_facultad": "Oferta Académica UPS",
+        "nombre_universidad": "Universidad Politécnica Salesiana",
+        "nombre_titulo": "Licenciado/a en Gerencia",
+        "numero_semestres": "8-10 semestres (Consultar Malla)",
+        "malla_url": "https://www.ups.edu.ec/oferta-academica",
+        "descripcion_carrera": "La carrera de Gerencia y Liderazgo forma profesionales con excelencia académica y valores humanos. Disponible en modalidad presencial/híbrida en las sedes: Quito, Guayaquil.",
+        "ubicacion_sedes": [
+            "Quito",
+            "Guayaquil"
+        ],
+        "tipo_universidad": "Privada (Cofinanciada)",
+        "costo": "Pagada (Pensión diferenciada según nivel socioeconómico)",
+        "modalidad": "Presencial / Híbrida / En Línea",
+        "enlace_carrera": "https://www.ups.edu.ec/oferta-academica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admisiones@ups.edu.ec"
+    },
+    {
+        "nombre_carrera": "Teología",
+        "nombre_facultad": "Oferta Académica UPS",
+        "nombre_universidad": "Universidad Politécnica Salesiana",
+        "nombre_titulo": "Licenciado/a en Teología",
+        "numero_semestres": "8-10 semestres (Consultar Malla)",
+        "malla_url": "https://www.ups.edu.ec/oferta-academica",
+        "descripcion_carrera": "La carrera de Teología forma profesionales con excelencia académica y valores humanos. Disponible en modalidad presencial/híbrida en las sedes: Quito, En Línea.",
+        "ubicacion_sedes": [
+            "Quito",
+            "En Línea"
+        ],
+        "tipo_universidad": "Privada (Cofinanciada)",
+        "costo": "Pagada (Pensión diferenciada según nivel socioeconómico)",
+        "modalidad": "Presencial / Híbrida / En Línea",
+        "enlace_carrera": "https://www.ups.edu.ec/oferta-academica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admisiones@ups.edu.ec"
+    },
+    {
+        "nombre_carrera": "Filosofía",
+        "nombre_facultad": "Oferta Académica UPS",
+        "nombre_universidad": "Universidad Politécnica Salesiana",
+        "nombre_titulo": "Licenciado/a en Filosofía",
+        "numero_semestres": "8-10 semestres (Consultar Malla)",
+        "malla_url": "https://www.ups.edu.ec/oferta-academica",
+        "descripcion_carrera": "La carrera de Filosofía forma profesionales con excelencia académica y valores humanos. Disponible en modalidad presencial/híbrida en las sedes: Quito.",
+        "ubicacion_sedes": [
+            "Quito"
+        ],
+        "tipo_universidad": "Privada (Cofinanciada)",
+        "costo": "Pagada (Pensión diferenciada según nivel socioeconómico)",
+        "modalidad": "Presencial / Híbrida / En Línea",
+        "enlace_carrera": "https://www.ups.edu.ec/oferta-academica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admisiones@ups.edu.ec"
+    },
+    {
+        "nombre_carrera": "Antropología",
+        "nombre_facultad": "Oferta Académica UPS",
+        "nombre_universidad": "Universidad Politécnica Salesiana",
+        "nombre_titulo": "Licenciado/a en Antropología",
+        "numero_semestres": "8-10 semestres (Consultar Malla)",
+        "malla_url": "https://www.ups.edu.ec/oferta-academica",
+        "descripcion_carrera": "La carrera de Antropología forma profesionales con excelencia académica y valores humanos. Disponible en modalidad presencial/híbrida en las sedes: Quito, En Línea.",
+        "ubicacion_sedes": [
+            "Quito",
+            "En Línea"
+        ],
+        "tipo_universidad": "Privada (Cofinanciada)",
+        "costo": "Pagada (Pensión diferenciada según nivel socioeconómico)",
+        "modalidad": "Presencial / Híbrida / En Línea",
+        "enlace_carrera": "https://www.ups.edu.ec/oferta-academica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admisiones@ups.edu.ec"
+    },
+    {
+        "nombre_carrera": "Desarrollo Local",
+        "nombre_facultad": "Oferta Académica UPS",
+        "nombre_universidad": "Universidad Politécnica Salesiana",
+        "nombre_titulo": "Licenciado/a en Desarrollo Local",
+        "numero_semestres": "8-10 semestres (Consultar Malla)",
+        "malla_url": "https://www.ups.edu.ec/oferta-academica",
+        "descripcion_carrera": "La carrera de Desarrollo Local forma profesionales con excelencia académica y valores humanos. Disponible en modalidad presencial/híbrida en las sedes: En Línea.",
+        "ubicacion_sedes": [
+            "En Línea"
+        ],
+        "tipo_universidad": "Privada (Cofinanciada)",
+        "costo": "Pagada (Pensión diferenciada según nivel socioeconómico)",
+        "modalidad": "Presencial / Híbrida / En Línea",
+        "enlace_carrera": "https://www.ups.edu.ec/oferta-academica",
+        "fecha_recoleccion": "2026-01-25",
+        "contacto_universidad": "admisiones@ups.edu.ec"
+    }
+]
