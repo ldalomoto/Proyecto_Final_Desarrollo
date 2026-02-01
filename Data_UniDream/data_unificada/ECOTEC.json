@@ -1,0 +1,3068 @@
+[
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/comunicacion-humanidades-y-creatividad/carrera/comunicacion/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Comunicación",
+    "degree_title": "Licenciado/a en Comunicación",
+    "description": "Formar profesionales capaces de analizar procesos comunicacionales y proponer soluciones estratégicas que optimicen la gestión y recepción de información en medios tradicionales y digitales. La carrera impulsa una visión integral, creativa y ética orientada al desarrollo social, empresarial y ambiental.",
+    "locations": ["Samborondón"],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/comunicacion-humanidades-creatividad/malla-comunicacion.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro",
+    "study_plan_name": "Malla Curricular Comunicación",
+    "subjects": [
+      {
+        "code": null,
+        "name": "Habilidades linguisticas",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Comunicación y Liderazgo",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Diseño Gráfico I",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Composición Visual",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Teorías de la Comunicación",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Metodología de la Investigación",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Ética",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Diseño Gráfico ll",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Fotografía e Iluminación",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Comunicación Corporativa",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Desarrollo Sostenible",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Fundamentos de Marketing",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Semiótica",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Produccion y Edicion Audiovisual",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Relaciones Públicas",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Realidad Nacional y Política en el mundo actual",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Consumer Insights",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Publicidad",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "App & Web Design y Nuevas Tecnologías",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Estrategia Social de la Comunicación",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Emprendimiento",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Decisiones basadas en datos e IA",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Análisis de Audiencias y Medios",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Creatividad Publicitaria",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Reputación e Imagen Corporativa",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Branded Content",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "IA Generativa aplicada a la Comunicación",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Comunicación Digital",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Narrativas Digitales Y Storytelling",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Responsabilidad Social Empresarial",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Generación de Contenidos",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Media Products",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Gestión de Proyectos de Comunicación",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Campañas Publicitarias, Pitch & Reel",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Crisis Management",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Social Media Marketing",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Campañas 360",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Communication Metrics",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Comunicación Política y Lobbying",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Proyecto Integrador",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      }
+    ],
+    "match_score": 1.0,
+    "data_unified_date": "2026-02-01"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/comunicacion-humanidades-y-creatividad/carrera/marketing/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Marketing",
+    "degree_title": "Licenciado/a en Marketing",
+    "description": "Formar profesionales en Marketing capaces de planificar, diseñar y ejecutar estrategias, modelos y procesos innovadores que reconozcan la importancia de la diferenciación y el posicionamiento de productos y servicios. La carrera impulsa creatividad, innovación y pensamiento estratégico como base para alcanzar ventajas competitivas en entornos cambiantes, contribuyendo al desarrollo empresarial y del país.",
+    "locations": ["Guayaquil", "Samborondón"],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/comunicacion-humanidades-creatividad/malla-marketing.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro",
+    "study_plan_name": "Malla Curricular Marketing",
+    "subjects": [
+      {
+        "code": null,
+        "name": "Habilidades linguisticas",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Fundamentos de Administración",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Fundamentos de Marketing",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Análisis Matemático",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Diseño Grafico I",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Metodología de la Investigación",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Ética",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Consumer Insights",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Análisis Estadístico",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Diseño Gráfico II",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Desarrollo Sostenible",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Informática para el Marketing",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Neuromarketing",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "App & Web Design y Nuevas Tecnologías",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Publicidad",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Realidad Nacional y Política en el mundo actual",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Estrategia Social de la Comunicación",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Consumer Analytics",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Digital Marketing",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Creatividad Publicitaria",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Emprendimiento",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Decisiones basadas en datos e IA",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Inteligencia de Negocios",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Social Media Marketing",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Comunicaciones Integradas al Marketing",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Marketing Automation",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Canales de Distribución",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Gerencia de Productos y Marcas",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Marketing de Servicios",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Branded Content",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Retailing y Merchadising",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Trade Marketing",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Marketing Estratégico",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Pricing y Presupuesto de Marketing",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "CRM y Experiencia del Cliente",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Marketing Projects",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Dirección Comercial",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Dirección de Marketing",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Marketing Internacional",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Finanzas para el Marketing",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      }
+    ],
+    "match_score": 1.0,
+    "data_unified_date": "2026-02-01"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/derecho-y-gobernabilidad/carrera/derecho/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Derecho",
+    "degree_title": "Abogado/a",
+    "description": "Formar profesionales del Derecho capaces de identificar y analizar situaciones jurídicas, investigar mediante herramientas tecnológicas y diseñar modelos de solución y desarrollo social basados en principios éticos y de justicia. El programa prepara a futuros abogados para asesorar, representar y administrar justicia en contextos nacionales e internacionales.",
+    "locations": ["Guayaquil", "La Costa", "Samborondón"],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/derecho-gobernabilidad/malla-derecho.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro",
+    "study_plan_name": "Malla Curricular Derecho",
+    "subjects": [
+      {
+        "code": null,
+        "name": "Habilidades Lingüísticas",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Instituciones del Derecho Romano",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Estado y Constitución",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Introducción del Derecho",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Ética",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Metodología de la Investigación",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Derecho Constitucional General",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Derecho Civil I",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Historia y Filosofía del Derecho",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Derecho Internacional",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Desarrollo Sostenible",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Derecho Administrativo",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Derecho Civil Bienes I",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Derecho Penal I",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Teoría General del Proceso",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Realidad Nacional y Política del Mundo Actual",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Derecho Procesal Constitucional",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Derecho Civil Bienes II",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Teoría General de los Actos Jurídicos",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Investigación Jurídica y Transformación Social",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Emprendimiento",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Decisiones Basadas en Casos & I.A.",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Derecho de las Obligaciones",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Procedimiento General I",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Derecho Penal II",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Derecho de Contratos I",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Procedimiento General II",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Derecho de Sucesiones",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Derecho Mercantil",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Procedimiento Penal",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Derecho de Contratos II",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Derecho Tributario",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Derecho del Trabajo",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Métodos Alternos de Solución de Conflictos",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Derecho Societario",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Práctica Jurídica",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Derecho Empresarial",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Derecho Digital y Legaltech",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Derecho de Familia",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Proyecto Integrador",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      }
+    ],
+    "match_score": 1.0,
+    "data_unified_date": "2026-02-01"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/ciencias-de-la-salud-y-desarrollo-humano/carrera/nutricion-y-dietetica/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Nutrición y Dietética",
+    "degree_title": "Licenciado/a en Nutrición y Dietética",
+    "description": "Formar profesionales en Nutrición y Dietética con sólidos fundamentos científicos y principios éticos, capaces de diseñar e implementar programas y estrategias alimentarias que promuevan hábitos saludables, prevengan enfermedades y contribuyan al bienestar integral de individuos y comunidades.",
+    "locations": ["Samborondón"],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-de-la-salud/malla-nutricion.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro",
+    "study_plan_name": "Malla Curricular Nutrición y Dietética",
+    "subjects": [
+      {
+        "code": null,
+        "name": "Habilidades Lingüísticas",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Morfofisiología",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Biología",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Bromatología I",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Bioquímica",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Antropología de la Nutrición",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Metodología de la Investigación",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Ética",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Metabolismo y Nutrición",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Bromatología II",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Microbiología de los Alimentos",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Principios de la Alimentación y Nutrición",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Desarrollo Sostenible",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Fisiopatología Aplicada a la Nutrición",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Nutrición según Ciclos de vida",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Técnicas Dietéticas",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Evaluación del Estado Nutricional I",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Bioética",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Realidad Nacional y Política en el Mundo Actual",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Farmacología Aplicada a la Nutrición",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Salud Comunitaria",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Nutrición Clínica I",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Dietoterapia",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Evaluación del Estado Nutricional II",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Emprendimiento",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Decisiones Basadas en Datos e IA",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Nutrición Clínica II",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Educación Nutricional",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Seguridad Alimentaria",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Bioestadística",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Nutrición Deportiva",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Inmunonutrición",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Nutrición Pediátrica",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Servicios de Alimentación",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Psicología Aplicada a la Nutrición",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Epidemiología",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Soporte Nutricional",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Nutracéuticos y Alimentos Funcionales",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Tecnología de los Alimentos",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Nutrigenética y Nutrigenómica",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Asesoría y Consultoría Nutricional",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Proyecto Integrador Nutricional",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "ROTACIÓN NUTRICIÓN PEDIÁTRICA",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "ROTACIÓN NUTRICIÓN COMUNITARIA",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "ROTACIÓN NUTRICIÓN CLÍNICA QUIRÚRGICA",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      }
+    ],
+    "match_score": 1.0,
+    "data_unified_date": "2026-02-01"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/ciencias-de-la-salud-y-desarrollo-humano/carrera/fisioterapia/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Fisioterapia",
+    "degree_title": "Licenciado/a en Fisioterapia",
+    "description": "Formar profesionales integrales en Fisioterapia, capaces de gestionar procesos físicos, psicológicos, sociales, ambientales y de rehabilitación con dominio técnico, pensamiento crítico y uso de tecnología e investigación. El programa promueve el desempeño ético, responsable y humanista en contextos nacionales e internacionales.",
+    "locations": ["Guayaquil"],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-de-la-salud/malla-fisioterapia.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro",
+    "study_plan_name": "Malla Curricular Fisioterapia",
+    "subjects": [
+      {
+        "code": null,
+        "name": "Habilidades lingüísticas",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Fundamentos de Fisioterapia",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Morfofisiología I",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Bases químico biológicas de la célula",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Salud emocional y Discapacidad",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Metodología de la Investigación",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Ética",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Fundamentos de Neuroanatomía y Neurofisiología",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Morfofisiología II",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Biomecánica",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Desarrollo Sostenible",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Fisiopatología",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Control motor y Movimiento Corporal Humano",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Bioestadística",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Epidemiología",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Realidad Nacional y Política en el mundo actual",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Evaluación y Diagnóstico Fisioterapéutico I",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Ergonomía y Kinefilaxia",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Fisiotecnología",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Salud Comunitaria",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Emprendimiento",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Decisiones basadas en datos IA",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Evaluación y Diagnóstico Fisioterapéutico II",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Fisiología y prescripción del ejercicio",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Imagenología",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Evaluación y Diagnóstico Fisioterapéutico III",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "IA aplicada a Fisioterapia",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Traumatología y Ortopedia",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Terapia Manual Ortopédica",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Administración y Gestión en Salud",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Fisioterapia en Pediatría",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Kinesiología Deportiva",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Fisioterapia en Geriatría",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Salud Pública",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Bioética",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Intervención Fisioterapéutica Neuromúsculo esquelética",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Intervención Fisioterapéutica Cardio-metabólica",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Intervención Fisioterapéutica Basada en la evidencia",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Rehabilitación Integral en el Ciclo Vital",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Proyecto Integrador",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      }
+    ],
+    "match_score": 1.0,
+    "data_unified_date": "2026-02-01"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/ciencias-de-la-salud-y-desarrollo-humano/carrera/psicologia-clinica/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Psicología Clínica",
+    "degree_title": "Licenciado/a en Psicología Clínica",
+    "description": "Formar un profesional integral capaz de gestionar los desafíos de su profesión en el contexto nacional e internacional, abordando los procesos de: promoción, prevención, evaluación, diagnóstico, intervención y rehabilitación de la salud mental. Con un sólido dominio teórico y práctico, una visión humanista y responsabilidad social, que le permita fomentar la salud y bienestar individual, familiar y comunitario.",
+    "locations": ["Guayaquil", "Samborondón"],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-de-la-salud/malla-psicologia.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro",
+    "study_plan_name": "Malla Curricular Psicología Clínica",
+    "subjects": [
+      {
+        "code": null,
+        "name": "Habilidades lingüísticas",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Enfoques y fundamentos en Salud Pública",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Metodologia de la investigación",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Desarrollo sostenible",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Corrientes psicológicas",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Principios filosóficos de Psicología",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Principios de Neuroanatomía y Neurofisiología",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Ética",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Psicología del Desarrollo humano",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Historia de la Psicología",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Bioestadística",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Psicología de la sexualidad humana",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Neuropsicología",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Sistemas teóricos de la personalidad",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Psicología Social y de la salud",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Realidad Nacional y política en el mundo actual",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Técnicas Proyectivas",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Evaluación y diagnóstico en Psicología Clínica",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Técnicas psicométricas",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Psicopatología I",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Emprendimiento",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Decisiones basadas en datos e IA",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Psicología de las discapacidades",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "IA aplicada al Psicodiagnóstico y Psicoterapia",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Psicopatología II",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Psicoterapia familiar y de pareja",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Psicología de las toxicomanías y adicciones",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Estrategias de branding profesional en Psicología Clínica",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Psicología forense y criminología",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Psicoanálisis",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Salud comunitaria",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Psicología Cognitiva Conductual",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Psicofarmacología",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Psicoterapia Psicodinámica",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Psicoterapia Cognitiva Conductual",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Psicoterapia infanto juvenil",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Psicoterapia grupal",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Psicoterapia Humanista",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Proyecto integrador",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      }
+    ],
+    "match_score": 1.0,
+    "data_unified_date": "2026-02-01"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/derecho-y-gobernabilidad/carrera/criminalistica/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Criminalística",
+    "degree_title": "Licenciado/a en Criminalística",
+    "description": "Formar profesionales integrales capaces de investigar, analizar y verificar hechos delictivos mediante métodos científicos y técnicos. La carrera prepara expertos en criminalística con dominio de herramientas de investigación, uso de tecnologías informáticas, manejo adecuado de indicios y fortalecimiento ético, profesional y responsable en contextos nacionales e internacionales.",
+    "locations": ["La Costa", "Samborondón"],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/derecho-gobernabilidad/malla-criminalistica.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro",
+    "study_plan_name": "Malla Curricular Criminalística",
+    "subjects": [
+      {
+        "code": null,
+        "name": "Habilidades Lingüísticas",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Introducción a la Criminalística",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Biología",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Física del Movimiento",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Química General",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Cálculo Diferencial",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Ética",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Metodología de la Investigación",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Fundamentos de la Criminología",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Física de la Energía",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Química Orgánica",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Estadística",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Desarrollo Sostenible",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Fundamentos del Derecho Penal",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Documentología I",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Balística I",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Morfofisiología",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Realidad Nacional y Política del Mundo Actual",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Documentología II",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Responsabilidad Social y Seguridad Ciudadana",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Balística II",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Papiloscopía e Identidad Humana",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Emprendimiento",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Decisiones Basadas en Datos e I.A.",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Informática Forense y Tecnologías Emergentes",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Accidentología Vial",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Toxicología Forense",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Psiquiatría Forense",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Audio, Video y Afines",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Inspección del Lugar de los Hechos I",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Métodos y Técnicas de Investigación Criminal",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Estadística Forense",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Ciberdelitos en el ámbito Criminalístico",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Medicina Legal",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Litigación Oral y Redacción Forense",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Procesos Penales y Criminalísticos",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Inspección del Lugar de los Hechos II",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Investigación de Incendios y Explosivos",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Odontología y Antropología Forense",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Taller de Práctica Criminalística",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Proyecto Integrador",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      }
+    ],
+    "match_score": 1.0,
+    "data_unified_date": "2026-02-01"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/carreras-de-grado/facultad/carrera/negocios-digitales/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Negocios Digitales",
+    "degree_title": "Licenciado/a en Negocios Digitales",
+    "description": "Formar un profesional integral, con capacidad para la gestión de los procesos digitales en el entorno empresarial, con dominio de los fundamentos epistemológicos de los procesos de negocios digitales acorde con las necesidades de cambio y modernización, con el uso de la enseñanza problémica, los métodos de investigación y el uso de la informática, que le permita solucionar problemas profesionales, en el contexto nacional e internacional fomentando la responsabilidad, la honestidad, la profesionalidad y la ética profesional.",
+    "locations": ["Guayaquil", "Samborondón"],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-economicas-empresariales/malla-negocios-digitales.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro",
+    "study_plan_name": "Malla Curricular Negocios Digitales",
+    "subjects": [
+      {
+        "code": null,
+        "name": "Habilidades lingüísticas",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Análisis Estadístico",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Derecho Empresarial",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Fundamentos de Marketing",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Fundamentos de Administración",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Metodologia de la Investigación",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Ética",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Contabilidad",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Microeconomia",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Fundamentos de Administración Financiera",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Desarrollo Sostenible",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Matemáticas Financieras",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Contabilidad Administrativa",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Macroeconomia",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Economia Digital",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Realidad nacional y politica en el mundo actual",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Diseño y Evaluación de Proyectos",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Comercio Internacional",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Investigación digital de los Mercados",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Business Process Management",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Emprendimiento",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Decisiones basadas en datos e IA",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Marketing Internacional",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Marketing Digital y Social Media",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Ciencias de Datos aplicada a los negocios",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Transformación Digital",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Gestión de la Innovación",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Inteligencia de Negocios",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "E-CRM",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Gestión de Procesos Digitales",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Tecnologias Emergentes",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Gestión Estratégica",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Design Thinking",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Experiencia de Usuario / UX-UI",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "E-Commerce",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Ciberseguridad y Blockchain",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Tópicos Especiales en Negoc. Digitales",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Programación aplicada a los negocios",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Proyecto Integrador",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Diseños de Negocios Digitales",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      }
+    ],
+    "match_score": 1.0,
+    "data_unified_date": "2026-02-01"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/ciencias-economicas-empresariales/carrera/logistica-y-transporte/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Logística y Transporte",
+    "degree_title": "Licenciado/a en Logística y Transporte",
+    "description": "Formar profesionales capaces de gestionar abastecimiento, transporte, producción y distribución mediante herramientas digitales y métodos de investigación para optimizar procesos logísticos nacionales e internacionales. La carrera impulsa un perfil ético, emprendedor y comprometido con la responsabilidad social y el desarrollo sostenible del país.",
+    "locations": ["Guayaquil", "Samborondón"],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-economicas-empresariales/malla-logistica-transporte.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro",
+    "study_plan_name": "Malla Curricular Logística y Transporte",
+    "subjects": [
+      {
+        "code": null,
+        "name": "Habilidades lingüisticas",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Fudamentos de Administración para ingenieros",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Introducción a la producción y operaciones",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Estadistica",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Cálculo diferencial",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Fisica del movimiento",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Ética",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Metodologia de la Investigación",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Tráfico y Transporte Terrestre",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Tráfico y Transporte maritimo y fluvial",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Cálculo integral y matricial",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Tecnologias de Apoyo a la Logistico",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Desarrollo Sostenible",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Quimica General",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Prevención de los riesgos en los medios de transporte",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Tráfico y Transporte aéreo",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Gestión de compras y negociación",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Legislación aplicada al transporte",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Realidad Nacional y política en el mundo actual",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Fundamentos de Marketing",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Sistemas deterministicos para operaciones",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Diseño y Evaluación de Proyectos",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Macroeconomia",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Emprendimiento",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Decisiones basadas en datos e IA",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Simuladores, logistica y transporte",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Pronóstico y Control de inventario",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Comercio Internacional",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Dirección de la cadena de abastecimiento",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Manejo y Seguridad de la Carga",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Investigación de Operaciones Aplicadas",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Dirección Financiera de la Logistica",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Logistica Internacional y Aduanas",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Gestión estratégica",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Logistica Sostenible",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Empaque, envase y Embalaje",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Gestión de Bodega",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Operaciones de Comercio Exterior",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Sistema de Gestión de la Cadena de Abastecimiento",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Gestión de Talento Humano",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Seguridad de la Cadena de Abastecimiento",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Optimización y Ruteo",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Proyecto Integrador",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      }
+    ],
+    "match_score": 1.0,
+    "data_unified_date": "2026-02-01"
+  },
+  {
+    "university_name": "Universidad Tecnológica Ecotec",
+    "career_url": "https://ecotec.edu.ec/facultad/ciencias-economicas-empresariales/carrera/gestion-del-talento-humano/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Privada",
+    "university_contact": "https://ecotec.edu.ec/contactenos/",
+    "career_name": "Gestión del Talento Humano",
+    "degree_title": "Licenciado/a en Gestión de Talento Humano",
+    "description": "Gestionar el talento humano impulsando procesos de cambio que promuevan el desarrollo organizacional e individual, orientado al beneficio mutuo y sustentado en principios éticos, humanísticos, sociales, interculturales y ecológicos. La carrera forma profesionales comprometidos con la responsabilidad social, el emprendimiento y el desarrollo sostenible del país.",
+    "locations": ["Samborondón"],
+    "cost": "Consultar universidad",
+    "semesters": "4 años",
+    "modality": "Presencial",
+    "study_plan_pdf": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-economicas-empresariales/malla-gestion-talento-humano.pdf",
+    "faculty_name": "Conoce la experiencia en nuestro",
+    "study_plan_name": "Malla Curricular Gestión del Talento Humano",
+    "subjects": [
+      {
+        "code": null,
+        "name": "Habilidades Linguisticas",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Derecho Empresarial",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Fundamentos de Administración",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Contabilidad",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Fundamentos de Marketing",
+        "semester": 1,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Ética",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Metodologia de la Investigación",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Matemáticas Financieras",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Psicologia General",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Análisis Estadístico",
+        "semester": 2,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Desarrollo sostenible",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Derecho laboral e internacional",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Gestión por procesos",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Bases Teóricas de la Gestión del Talento humano",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Psicologia de la Personalidad",
+        "semester": 3,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Realidad Nacional y Politica en el mundo actual",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Administración de Prespuestos",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Comportamiento Organizacional",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Gestión por competencias",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Evaluación y Test Psicológicos",
+        "semester": 4,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Emprendimiento",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Decisiones basadas en datos e IA",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Dimensión estratégica del Talento Humano",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Arquitectura y Mapeo de cargos",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Atracción y Selección de Talento",
+        "semester": 5,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Políticas y Tecnologias de innovación en la GTH",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Neuromanagement en la GTH",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Capacitación & Knowledge Management",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Evaluación y control integral del talento",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "People Analytics & KPI's",
+        "semester": 6,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Retribución en contextos globales",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Psicopatologia e integración laboral",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Gestión del cambio y desarrollo",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Futuro del trabajo y Gestión del conocimiento",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Negociación y resolución de conflictos",
+        "semester": 7,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Seguridad ocupacional",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Comunicación Empresarial Estratégica",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Employer Branding & Culture",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Global Leadership and Team Management",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      },
+      {
+        "code": null,
+        "name": "Proyecto Integrador",
+        "semester": 8,
+        "credits": null,
+        "hours": null
+      }
+    ],
+    "match_score": 0.98,
+    "data_unified_date": "2026-02-01"
+  }
+]

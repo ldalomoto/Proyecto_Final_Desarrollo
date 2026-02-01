@@ -21,7 +21,7 @@ RUN pip install -r requirements.txt
 
 # Copiamos el código
 COPY ai_backeng ./ai_backeng
-#COMETNAMOS POR PARA CI CD
+# COMETNAMOS POR PARA CI CD
 # COPY .env .env
 
 # Exponemos el puerto

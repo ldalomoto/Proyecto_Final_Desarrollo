@@ -10,8 +10,8 @@ import torch
 
 MODEL_NAME = "google/flan-t5-large"
 
-INPUT_DIR = Path("../data_unificada")
-OUTPUT_DIR = Path("../data_skills_final")
+INPUT_DIR = Path("data_Unidream/data_unificada")
+OUTPUT_DIR = Path("data_Unidream/data_skills_final")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 COUNTRY = "Ecuador"

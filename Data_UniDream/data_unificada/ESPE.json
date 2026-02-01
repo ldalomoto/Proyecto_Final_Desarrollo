@@ -1,0 +1,3111 @@
+[
+  {
+    "career_id": "ESPE_PRESENCIAL_INGENIERIA_EN_SOFTWARE",
+    "university_name": "Universidad de las Fuerzas Armadas ESPE",
+    "career_url": "https://www.espe.edu.ec/ingenieria-software/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Pública",
+    "university_contact": "admision@espe.edu.ec",
+    "career_name": "Ingeniería en software",
+    "faculty_name": "Departamento de ciencias de la computación",
+    "degree_title": "Ingeniero de software",
+    "description": "Formar académicos y profesionales de excelencia; en el área de Ingeniería de Software; generar, aplicar y difundir el conocimiento y, proponer e implementar alternativas de solución a problemas de interés público en sus zonas de influencia.",
+    "locations": ["Sangolquí", "Quito"],
+    "cost": "Gratuita (Pública)",
+    "duration": "8 Semestres",
+    "modality": "Presencial",
+    "study_plan_name": "Malla Curricular",
+    "study_plan_pdf": "https://www.espe.edu.ec/wp-content/uploads/2025/09/malla_ingenierIa_de_software.pdf",
+    "subjects": [
+      {
+        "code": "SOFT101",
+        "name": "Fundamentos de Programación",
+        "semester": 1
+      },
+      {
+        "code": "MAT101",
+        "name": "Cálculo Diferencial e Integral",
+        "semester": 1
+      },
+      {
+        "code": "MAT102",
+        "name": "Álgebra Lineal",
+        "semester": 1
+      },
+      {
+        "code": "QUI101",
+        "name": "Química I",
+        "semester": 1
+      },
+      {
+        "code": "HUM101",
+        "name": "Comunicación Oral y Escrita",
+        "semester": 1
+      },
+      {
+        "code": "SOFT102",
+        "name": "Fundamentos de Ingeniería de Software",
+        "semester": 1
+      },
+      {
+        "code": "SOFT201",
+        "name": "Programación Orientada a Objetos",
+        "semester": 2
+      },
+      {
+        "code": "MAT201",
+        "name": "Cálculo Vectorial",
+        "semester": 2
+      },
+      {
+        "code": "FIS201",
+        "name": "Física I",
+        "semester": 2
+      },
+      {
+        "code": "MAT202",
+        "name": "Matemática Discreta",
+        "semester": 2
+      },
+      {
+        "code": "INV201",
+        "name": "Epistemología y Metodología de la Investigación",
+        "semester": 2
+      },
+      {
+        "code": "SOFT301",
+        "name": "Estructura de Datos",
+        "semester": 3
+      },
+      {
+        "code": "MAT301",
+        "name": "Ecuaciones Diferenciales Ordinarias",
+        "semester": 3
+      },
+      {
+        "code": "FIS301",
+        "name": "Física II",
+        "semester": 3
+      },
+      {
+        "code": "MAT302",
+        "name": "Probabilidad y Estadística",
+        "semester": 3
+      },
+      {
+        "code": "HUM301",
+        "name": "Liderazgo",
+        "semester": 3
+      },
+      {
+        "code": "SOFT401",
+        "name": "Sistemas de Bases de Datos",
+        "semester": 4
+      },
+      {
+        "code": "MAT401",
+        "name": "Métodos Numéricos",
+        "semester": 4
+      },
+      {
+        "code": "SOFT402",
+        "name": "Sistemas Operativos",
+        "semester": 4
+      },
+      {
+        "code": "HARD401",
+        "name": "Arquitectura de Computadores",
+        "semester": 4
+      },
+      {
+        "code": "SOFT403",
+        "name": "Ingeniería de Requisitos",
+        "semester": 4
+      },
+      {
+        "code": "SOFT501",
+        "name": "Ingeniería de Software",
+        "semester": 5
+      },
+      {
+        "code": "NET501",
+        "name": "Redes de Computadoras",
+        "semester": 5
+      },
+      {
+        "code": "SOFT502",
+        "name": "Programación Web",
+        "semester": 5
+      },
+      {
+        "code": "SOFT503",
+        "name": "Diseño de Interfaces de Usuario",
+        "semester": 5
+      },
+      {
+        "code": "HUM501",
+        "name": "Realidad Nacional y Geopolítica",
+        "semester": 5
+      },
+      {
+        "code": "SOFT601",
+        "name": "Aseguramiento de la Calidad de Software",
+        "semester": 6
+      },
+      {
+        "code": "NET601",
+        "name": "Sistemas Distribuidos",
+        "semester": 6
+      },
+      {
+        "code": "SOFT602",
+        "name": "Computación Gráfica",
+        "semester": 6
+      },
+      {
+        "code": "SOFT603",
+        "name": "Desarrollo de Aplicaciones Móviles",
+        "semester": 6
+      },
+      {
+        "code": "ECO601",
+        "name": "Ingeniería Económica",
+        "semester": 6
+      },
+      {
+        "code": "SOFT701",
+        "name": "Gestión de Proyectos de Software",
+        "semester": 7
+      },
+      {
+        "code": "SEG701",
+        "name": "Seguridad de la Información",
+        "semester": 7
+      },
+      {
+        "code": "SOFT702",
+        "name": "Inteligencia Artificial",
+        "semester": 7
+      },
+      {
+        "code": "ADM701",
+        "name": "Emprendimiento e Innovación",
+        "semester": 7
+      },
+      {
+        "code": "SOFT801",
+        "name": "Auditoría Informática",
+        "semester": 8
+      },
+      {
+        "code": "SOFT802",
+        "name": "Tópicos Avanzados de Ingeniería de Software",
+        "semester": 8
+      },
+      {
+        "code": "TIT801",
+        "name": "Unidad de Integración Curricular I",
+        "semester": 8
+      },
+      {
+        "code": "TIT901",
+        "name": "Unidad de Integración Curricular II",
+        "semester": 9
+      },
+      {
+        "code": "PRAC901",
+        "name": "Prácticas Laborales",
+        "semester": 9
+      }
+    ]
+  },
+  {
+    "career_id": "ESPE_PRESENCIAL_INGENIERIA_EN_TECNOLOGIAS_DE_LA_INFORMACION",
+    "university_name": "Universidad de las Fuerzas Armadas ESPE",
+    "career_url": "https://www.espe.edu.ec/ingenieria-en-tecnologias-de-la-informacion/",
+    "data_collection_date": "2026-01-31",
+    "university_type": "Pública",
+    "university_contact": "admision@espe.edu.ec",
+    "career_name": "Ingeniería en Tecnologías de la Información",
+    "faculty_name": "Departamento de Ciencias de la Computación",
+    "degree_title": "Ingeniero/a en Tecnologías de la Información",
+    "description": "La carrera forma profesionales capaces de seleccionar, diseñar, implantar, integrar, evaluar, explotar y mantener tecnologías de hardware, software y redes. Los graduados poseen competencias para administrar infraestructuras tecnológicas, garantizar la seguridad de la información, desarrollar aplicaciones web y móviles, y gestionar proyectos de TI dentro de parámetros de calidad y costo adecuados.",
+    "locations": [
+      "Sangolquí",
+      "Quito"
+    ],
+    "cost": "Gratuita (Pública)",
+    "duration": "8 Semestres",
+    "modality": "Presencial",
+    "study_plan_name": "Malla Curricular Tecnologías de la Información",
+    "study_plan_pdf": "https://www.espe.edu.ec/wp-content/uploads/2025/09/06_malla_tecnologias_de_la_informacion.pdf",
+    "subjects": [
+      {
+        "code": "MAT101",
+        "name": "Cálculo Diferencial e Integral",
+        "semester": 1
+      },
+    {
+      "code": "MAT102",
+      "name": "Álgebra Lineal",
+      "semester": 1
+    },
+    {
+      "code": "ITIN101",
+      "name": "Fundamentos de Programación",
+      "semester": 1
+    },
+    {
+      "code": "QUI101",
+      "name": "Química I",
+      "semester": 1
+    },
+    {
+      "code": "HUM101",
+      "name": "Metodología de la Investigación Científica",
+      "semester": 1
+    },
+    {
+      "code": "AMB101",
+      "name": "Cultura Ambiental",
+      "semester": 1
+    },
+    {
+      "code": "MAT201",
+      "name": "Cálculo Vectorial",
+      "semester": 2
+    },
+    {
+      "code": "MAT202",
+      "name": "Ecuaciones Diferenciales Ordinarias",
+      "semester": 2
+    },
+    {
+      "code": "ITIN201",
+      "name": "Programación Orientada a Objetos",
+      "semester": 2
+    },
+    {
+      "code": "ITIN202",
+      "name": "Computación Digital",
+      "semester": 2
+    },
+    {
+      "code": "FIS201",
+      "name": "Física I",
+      "semester": 2
+    },
+    {
+      "code": "ITIN301",
+      "name": "Estructura de Datos",
+      "semester": 3
+    },
+    {
+      "code": "MAT301",
+      "name": "Matemática Discreta",
+      "semester": 3
+    },
+    {
+      "code": "ITIN302",
+      "name": "Sistemas de Bases de Datos",
+      "semester": 3
+    },
+    {
+      "code": "FIS301",
+      "name": "Física II",
+      "semester": 3
+    },
+    {
+      "code": "HUM301",
+      "name": "Liderazgo",
+      "semester": 3
+    },
+    {
+      "code": "ITIN401",
+      "name": "Sistemas Operativos",
+      "semester": 4
+    },
+    {
+      "code": "MAT401",
+      "name": "Métodos Numéricos",
+      "semester": 4
+    },
+    {
+      "code": "ITIN402",
+      "name": "Fundamentos de Sistemas Web",
+      "semester": 4
+    },
+    {
+      "code": "ITIN403",
+      "name": "Interfaces y Multimedia",
+      "semester": 4
+    },
+    {
+      "code": "NET401",
+      "name": "Redes de Comunicaciones I",
+      "semester": 4
+    },
+    {
+      "code": "ITIN501",
+      "name": "Aplicación de Tecnologías Web",
+      "semester": 5
+    },
+    {
+      "code": "ITIN502",
+      "name": "Gestión de Bases de Datos",
+      "semester": 5
+    },
+    {
+      "code": "NET501",
+      "name": "Redes de Comunicaciones II",
+      "semester": 5
+    },
+    {
+      "code": "SOFT501",
+      "name": "Ingeniería de Software",
+      "semester": 5
+    },
+    {
+      "code": "HUM501",
+      "name": "Realidad Nacional y Geopolítica",
+      "semester": 5
+    },
+    {
+      "code": "ITIN601",
+      "name": "Programación Integrativa de Componentes Web",
+      "semester": 6
+    },
+    {
+      "code": "ITIN602",
+      "name": "Inteligencia Artificial",
+      "semester": 6
+    },
+    {
+      "code": "NET601",
+      "name": "Internetworking",
+      "semester": 6
+    },
+    {
+      "code": "MAT601",
+      "name": "Estadística",
+      "semester": 6
+    },
+    {
+      "code": "HUM601",
+      "name": "Lectura y Escritura de Textos Académicos",
+      "semester": 6
+    },
+    {
+      "code": "ITIN701",
+      "name": "Aplicaciones Distribuidas",
+      "semester": 7
+    },
+    {
+      "code": "SEG701",
+      "name": "Seguridad Informática",
+      "semester": 7
+    },
+    {
+      "code": "ITIN702",
+      "name": "Gestión de Proyectos TI",
+      "semester": 7
+    },
+    {
+      "code": "ADM701",
+      "name": "Emprendimiento",
+      "semester": 7
+    },
+    {
+      "code": "ITIN801",
+      "name": "Gestión de la Seguridad Informática",
+      "semester": 8
+    },
+    {
+      "code": "ITIN802",
+      "name": "Auditoría de Tecnologías de la Información",
+      "semester": 8
+    },
+    {
+      "code": "ITIN803",
+      "name": "Gobernanza de TI",
+      "semester": 8
+    },
+    {
+      "code": "TIT801",
+      "name": "Unidad de Integración Curricular I",
+      "semester": 8
+    },
+    {
+      "code": "ITIN901",
+      "name": "Tendencias Tecnológicas",
+      "semester": 9
+    },
+    {
+      "code": "TIT901",
+      "name": "Unidad de Integración Curricular II",
+      "semester": 9
+    },
+    {
+      "code": "PRAC901",
+      "name": "Prácticas Laborales",
+      "semester": 9
+    }
+  ]
+  },
+  {
+    "career_id": "ESPE_PRESENCIAL_INGENIERIA_MECANICA",
+  "university_name": "Universidad de las Fuerzas Armadas ESPE",
+  "career_url": "https://www.espe.edu.ec/ingenieria-mecanica/",
+  "data_collection_date": "2026-01-31",
+  "university_type": "Pública",
+  "university_contact": "admision@espe.edu.ec",
+  "career_name": "Ingeniería Mecánica",
+  "faculty_name": "Departamento de Energía y Mecánica",
+  "degree_title": "Ingeniero/a Mecánico/a",
+  "description": "La carrera de Ingeniería Mecánica forma profesionales competentes en el diseño, construcción, instalación, operación y mantenimiento de sistemas mecánicos y energéticos. Se enfoca en la aplicación de principios de la termodinámica, mecánica de fluidos, ciencia de materiales y análisis estructural para resolver problemas industriales, promoviendo la innovación tecnológica y el desarrollo sostenible.",
+  "locations": [
+    "Sangolquí"
+  ],
+  "cost": "Gratuita (Pública)",
+  "duration": "9 Semestres",
+  "modality": "Presencial",
+  "study_plan_name": "Malla Curricular Ingeniería Mecánica",
+  "study_plan_pdf": "https://www.espe.edu.ec/wp-content/uploads/2025/03/Malla-Mecanica.pdf",
+  "subjects": [
+    {
+      "code": "MAT101",
+      "name": "Álgebra Lineal",
+      "semester": 1
+    },
+    {
+      "code": "MAT102",
+      "name": "Cálculo Diferencial e Integral",
+      "semester": 1
+    },
+    {
+      "code": "QUI101",
+      "name": "Química I",
+      "semester": 1
+    },
+    {
+      "code": "BIO101",
+      "name": "Biología",
+      "semester": 1
+    },
+    {
+      "code": "PROG101",
+      "name": "Fundamentos de Programación",
+      "semester": 1
+    },
+    {
+      "code": "HUM101",
+      "name": "Metodología de la Investigación",
+      "semester": 1
+    },
+    {
+      "code": "MAT201",
+      "name": "Cálculo Vectorial",
+      "semester": 2
+    },
+    {
+      "code": "FIS201",
+      "name": "Física I",
+      "semester": 2
+    },
+    {
+      "code": "MAT202",
+      "name": "Ecuaciones Diferenciales Ordinarias",
+      "semester": 2
+    },
+    {
+      "code": "MEC201",
+      "name": "Ciencias de los Materiales",
+      "semester": 2
+    },
+    {
+      "code": "HUM201",
+      "name": "Realidad Nacional y Geopolítica",
+      "semester": 2
+    },
+    {
+      "code": "HUM202",
+      "name": "Liderazgo",
+      "semester": 2
+    },
+    {
+      "code": "MAT301",
+      "name": "Métodos Numéricos",
+      "semester": 3
+    },
+    {
+      "code": "MAT302",
+      "name": "Estadística",
+      "semester": 3
+    },
+    {
+      "code": "MEC301",
+      "name": "Soldadura",
+      "semester": 3
+    },
+    {
+      "code": "MEC302",
+      "name": "Dibujo Mecánico Asistido por Computador",
+      "semester": 3
+    },
+    {
+      "code": "MEC303",
+      "name": "Estática",
+      "semester": 3
+    },
+    {
+      "code": "MEC304",
+      "name": "Metrología",
+      "semester": 3
+    },
+    {
+      "code": "ELEC401",
+      "name": "Electrotecnia",
+      "semester": 4
+    },
+    {
+      "code": "MEC401",
+      "name": "Termodinámica",
+      "semester": 4
+    },
+    {
+      "code": "MEC402",
+      "name": "Ciencias de los Materiales Aplicada",
+      "semester": 4
+    },
+    {
+      "code": "MEC403",
+      "name": "Mecánica de Materiales",
+      "semester": 4
+    },
+    {
+      "code": "MEC404",
+      "name": "Dinámica",
+      "semester": 4
+    },
+    {
+      "code": "ELEC501",
+      "name": "Fundamentos de Máquinas Eléctricas",
+      "semester": 5
+    },
+    {
+      "code": "MEC501",
+      "name": "Procesos de Maquinado",
+      "semester": 5
+    },
+    {
+      "code": "MEC502",
+      "name": "Mecánica de Fluidos",
+      "semester": 5
+    },
+    {
+      "code": "MEC503",
+      "name": "Termodinámica Aplicada",
+      "semester": 5
+    },
+    {
+      "code": "MEC504",
+      "name": "Mecánica de Materiales Aplicada",
+      "semester": 5
+    },
+    {
+      "code": "MEC601",
+      "name": "Mecanismos y Vibraciones",
+      "semester": 6
+    },
+    {
+      "code": "MEC602",
+      "name": "Manufactura Asistida por Computador",
+      "semester": 6
+    },
+    {
+      "code": "MEC603",
+      "name": "Dinámica de Sistemas",
+      "semester": 6
+    },
+    {
+      "code": "MEC604",
+      "name": "Transferencia de Calor",
+      "semester": 6
+    },
+    {
+      "code": "MEC605",
+      "name": "Procesos de Conformado y Fundición",
+      "semester": 6
+    },
+    {
+      "code": "MEC606",
+      "name": "Diseño de Elementos de Máquinas",
+      "semester": 6
+    },
+    {
+      "code": "ADM701",
+      "name": "Gestión y Emprendimiento",
+      "semester": 7
+    },
+    {
+      "code": "MEC701",
+      "name": "Estructuras Metálicas",
+      "semester": 7
+    },
+    {
+      "code": "MEC702",
+      "name": "Instrumentación Industrial Mecánica",
+      "semester": 7
+    },
+    {
+      "code": "MEC703",
+      "name": "Sistemas Neumáticos e Hidráulicos",
+      "semester": 7
+    },
+    {
+      "code": "MEC704",
+      "name": "Simulación Numérica",
+      "semester": 7
+    },
+    {
+      "code": "MEC705",
+      "name": "Diseño Térmico",
+      "semester": 7
+    },
+    {
+      "code": "MEC801",
+      "name": "Diseño en Ingeniería Mecánica",
+      "semester": 8
+    },
+    {
+      "code": "MEC802",
+      "name": "Automatización Industrial Mecánica",
+      "semester": 8
+    },
+    {
+      "code": "MEC803",
+      "name": "Máquinas Térmicas",
+      "semester": 8
+    },
+    {
+      "code": "MEC804",
+      "name": "Energías Renovables",
+      "semester": 8
+    },
+    {
+      "code": "SEG801",
+      "name": "Seguridad Industrial",
+      "semester": 8
+    },
+    {
+      "code": "IND801",
+      "name": "Control de Calidad Industrial",
+      "semester": 8
+    },
+    {
+      "code": "MEC901",
+      "name": "Ingeniería de Mantenimiento",
+      "semester": 9
+    },
+    {
+      "code": "PRAC901",
+      "name": "Prácticas de Servicio Comunitario",
+      "semester": 9
+    },
+    {
+      "code": "PRAC902",
+      "name": "Prácticas Laborales",
+      "semester": 9
+    },
+    {
+      "code": "IND901",
+      "name": "Producción Industrial",
+      "semester": 9
+    },
+    {
+      "code": "ADM901",
+      "name": "Diseño y Evaluación de Proyectos",
+      "semester": 9
+    }
+  ]
+  },
+  {
+    "career_id": "ESPE_PRESENCIAL_INGENIERIA_MECATRONICA",
+  "university_name": "Universidad de las Fuerzas Armadas ESPE",
+  "career_url": "https://www.espe.edu.ec/ingenieria-mecatronica/",
+  "data_collection_date": "2026-01-31",
+  "university_type": "Pública",
+  "university_contact": "admision@espe.edu.ec",
+  "career_name": "Ingeniería Mecatrónica",
+  "faculty_name": "Departamento de Energía y Mecánica",
+  "degree_title": "Ingeniero/a Mecatrónico/a",
+  "description": "La Ingeniería Mecatrónica es una disciplina sinérgica que integra la ingeniería mecánica, electrónica, de control y de sistemas computacionales. La carrera forma profesionales capaces de diseñar, desarrollar, optimizar y automatizar equipos, procesos y productos inteligentes, contribuyendo al desarrollo tecnológico industrial con un enfoque en la eficiencia y la innovación.",
+  "locations": [
+    "Sangolquí",
+    "Latacunga"
+  ],
+  "cost": "Gratuita (Pública)",
+  "duration": "9 Semestres",
+  "modality": "Presencial",
+  "study_plan_name": "Malla Curricular Ingeniería Mecatrónica",
+  "study_plan_pdf": "https://www.espe.edu.ec/wp-content/uploads/2025/03/Malla-Mecatronica.pdf",
+  "subjects": [
+    {
+      "code": "MAT101",
+      "name": "Cálculo Diferencial e Integral",
+      "semester": 1
+    },
+    {
+      "code": "MAT102",
+      "name": "Álgebra Lineal",
+      "semester": 1
+    },
+    {
+      "code": "QUI101",
+      "name": "Química I",
+      "semester": 1
+    },
+    {
+      "code": "PROG101",
+      "name": "Fundamentos de Programación",
+      "semester": 1
+    },
+    {
+      "code": "HUM101",
+      "name": "Metodología de la Investigación",
+      "semester": 1
+    },
+    {
+      "code": "MECT101",
+      "name": "Introducción a la Mecatrónica",
+      "semester": 1
+    },
+    {
+      "code": "MAT201",
+      "name": "Cálculo Vectorial",
+      "semester": 2
+    },
+    {
+      "code": "FIS201",
+      "name": "Física I",
+      "semester": 2
+    },
+    {
+      "code": "MAT202",
+      "name": "Ecuaciones Diferenciales Ordinarias",
+      "semester": 2
+    },
+    {
+      "code": "MEC201",
+      "name": "Ciencia de Materiales",
+      "semester": 2
+    },
+    {
+      "code": "MEC202",
+      "name": "Dibujo Asistido por Computador",
+      "semester": 2
+    },
+    {
+      "code": "PROG201",
+      "name": "Programación Orientada a Objetos",
+      "semester": 2
+    },
+    {
+      "code": "MAT301",
+      "name": "Métodos Numéricos",
+      "semester": 3
+    },
+    {
+      "code": "FIS301",
+      "name": "Física II",
+      "semester": 3
+    },
+    {
+      "code": "MEC301",
+      "name": "Estática",
+      "semester": 3
+    },
+    {
+      "code": "ELCT301",
+      "name": "Circuitos Eléctricos I",
+      "semester": 3
+    },
+    {
+      "code": "ELCT302",
+      "name": "Electrónica I",
+      "semester": 3
+    },
+    {
+      "code": "MAT302",
+      "name": "Estadística",
+      "semester": 3
+    },
+    {
+      "code": "MEC401",
+      "name": "Dinámica",
+      "semester": 4
+    },
+    {
+      "code": "ELCT401",
+      "name": "Circuitos Eléctricos II",
+      "semester": 4
+    },
+    {
+      "code": "ELCT402",
+      "name": "Electrónica II",
+      "semester": 4
+    },
+    {
+      "code": "ELCT403",
+      "name": "Sistemas Digitales",
+      "semester": 4
+    },
+    {
+      "code": "MEC402",
+      "name": "Mecánica de Materiales",
+      "semester": 4
+    },
+    {
+      "code": "MEC403",
+      "name": "Termodinámica",
+      "semester": 4
+    },
+    {
+      "code": "MEC501",
+      "name": "Mecanismos",
+      "semester": 5
+    },
+    {
+      "code": "ELCT501",
+      "name": "Máquinas Eléctricas",
+      "semester": 5
+    },
+    {
+      "code": "ELCT502",
+      "name": "Microcontroladores",
+      "semester": 5
+    },
+    {
+      "code": "CONT501",
+      "name": "Teoría de Control I",
+      "semester": 5
+    },
+    {
+      "code": "MEC502",
+      "name": "Mecánica de Fluidos",
+      "semester": 5
+    },
+    {
+      "code": "HUM501",
+      "name": "Realidad Nacional y Geopolítica",
+      "semester": 5
+    },
+    {
+      "code": "MEC601",
+      "name": "Diseño de Elementos de Máquinas",
+      "semester": 6
+    },
+    {
+      "code": "ELCT601",
+      "name": "Electrónica de Potencia",
+      "semester": 6
+    },
+    {
+      "code": "CONT601",
+      "name": "Teoría de Control II",
+      "semester": 6
+    },
+    {
+      "code": "MECT601",
+      "name": "Instrumentación Industrial",
+      "semester": 6
+    },
+    {
+      "code": "MECT602",
+      "name": "Procesos de Manufactura",
+      "semester": 6
+    },
+    {
+      "code": "MECT701",
+      "name": "Diseño Mecatrónico",
+      "semester": 7
+    },
+    {
+      "code": "MECT702",
+      "name": "Automatización Industrial",
+      "semester": 7
+    },
+    {
+      "code": "MECT703",
+      "name": "Robótica Industrial",
+      "semester": 7
+    },
+    {
+      "code": "MECT704",
+      "name": "Sistemas Oleoneumáticos",
+      "semester": 7
+    },
+    {
+      "code": "MECT705",
+      "name": "Redes Industriales",
+      "semester": 7
+    },
+    {
+      "code": "ADM701",
+      "name": "Gestión Empresarial",
+      "semester": 7
+    },
+    {
+      "code": "MECT801",
+      "name": "Manufactura Flexible CIM",
+      "semester": 8
+    },
+    {
+      "code": "MECT802",
+      "name": "Inteligencia Artificial Aplicada",
+      "semester": 8
+    },
+    {
+      "code": "MECT803",
+      "name": "Visión Artificial",
+      "semester": 8
+    },
+    {
+      "code": "TIT801",
+      "name": "Unidad de Integración Curricular I",
+      "semester": 8
+    },
+    {
+      "code": "HUM801",
+      "name": "Ética Profesional",
+      "semester": 8
+    },
+    {
+      "code": "MECT901",
+      "name": "Mantenimiento Industrial",
+      "semester": 9
+    },
+    {
+      "code": "TIT901",
+      "name": "Unidad de Integración Curricular II",
+      "semester": 9
+    },
+    {
+      "code": "PRAC901",
+      "name": "Prácticas Laborales",
+      "semester": 9
+    },
+    {
+      "code": "PRAC902",
+      "name": "Vinculación con la Sociedad",
+      "semester": 9
+    }
+  ]
+  },
+  {
+    "career_id": "ESPE_LATACUNGA_INGENIERIA_AUTOMOTRIZ",
+  "university_name": "Universidad de las Fuerzas Armadas ESPE",
+  "career_url": "https://www.espe.edu.ec/ingenieria-automotriz-latacunga/",
+  "data_collection_date": "2026-01-31",
+  "university_type": "Pública",
+  "university_contact": "jsmena@espe.edu.ec",
+  "career_name": "Ingeniería Automotriz",
+  "faculty_name": "Departamento de Energía y Mecánica - Sede Latacunga",
+  "degree_title": "Ingeniero/a Automotriz",
+  "description": "La carrera de Ingeniería Automotriz estudia el análisis, diseño, construcción, mantenimiento, gestión e implementación de los sistemas automotrices de los medios de transporte, con un enfoque sistémico cuantificable que integra los componentes teóricos – prácticos. Forma profesionales capaces de innovar ciencia y tecnología automotriz, diseñar componentes para optimizar la aerodinámica, y gestionar la logística y mantenimiento vehicular.",
+  "locations": [
+    "Latacunga"
+  ],
+  "cost": "Gratuita (Pública)",
+  "duration": "8 Semestres",
+  "modality": "Presencial",
+  "study_plan_name": "Malla Curricular Ingeniería Automotriz Latacunga",
+  "study_plan_pdf": "https://automotriz-el.espe.edu.ec/wp-content/uploads/2020/11/2.-MALLA-CURRICULAR-AUTOMOTRIZ-202051-CODIFICADA-CORREGIDA.pdf",
+  "subjects": [
+    {
+      "code": "MAT101",
+      "name": "Álgebra Lineal",
+      "semester": 1
+    },
+    {
+      "code": "MAT102",
+      "name": "Cálculo Diferencial e Integral",
+      "semester": 1
+    },
+    {
+      "code": "QUI101",
+      "name": "Química I",
+      "semester": 1
+    },
+    {
+      "code": "PROG101",
+      "name": "Fundamentos de Programación",
+      "semester": 1
+    },
+    {
+      "code": "BIO101",
+      "name": "Biología",
+      "semester": 1
+    },
+    {
+      "code": "INV101",
+      "name": "Metodología de la Investigación Científica",
+      "semester": 1
+    },
+    {
+      "code": "MEC201",
+      "name": "Introducción a la Mecánica Automotriz",
+      "semester": 2
+    },
+    {
+      "code": "MEC202",
+      "name": "Dibujo Mecánico",
+      "semester": 2
+    },
+    {
+      "code": "MEC203",
+      "name": "Ciencia de los Materiales",
+      "semester": 2
+    },
+    {
+      "code": "FIS201",
+      "name": "Física I",
+      "semester": 2
+    },
+    {
+      "code": "MEC204",
+      "name": "Metrología Automotriz",
+      "semester": 2
+    },
+    {
+      "code": "MEC301",
+      "name": "Motores de Combustión Interna",
+      "semester": 3
+    },
+    {
+      "code": "MEC302",
+      "name": "Dibujo Asistido por Computador",
+      "semester": 3
+    },
+    {
+      "code": "MEC303",
+      "name": "Estática",
+      "semester": 3
+    },
+    {
+      "code": "ELCT301",
+      "name": "Electricidad Automotriz",
+      "semester": 3
+    },
+    {
+      "code": "MEC304",
+      "name": "Termodinámica",
+      "semester": 3
+    },
+    {
+      "code": "MEC401",
+      "name": "Sistemas de Inyección de Combustible",
+      "semester": 4
+    },
+    {
+      "code": "MEC402",
+      "name": "Resistencia de Materiales",
+      "semester": 4
+    },
+    {
+      "code": "MEC403",
+      "name": "Dinámica",
+      "semester": 4
+    },
+    {
+      "code": "ELCT401",
+      "name": "Electrónica Automotriz",
+      "semester": 4
+    },
+    {
+      "code": "MEC404",
+      "name": "Mecánica de Fluidos",
+      "semester": 4
+    },
+    {
+      "code": "MEC501",
+      "name": "Mantenimiento Mecánico I",
+      "semester": 5
+    },
+    {
+      "code": "MEC502",
+      "name": "Sistemas Automotrices I",
+      "semester": 5
+    },
+    {
+      "code": "MEC503",
+      "name": "Mecanismos",
+      "semester": 5
+    },
+    {
+      "code": "ELCT501",
+      "name": "Autotrónica",
+      "semester": 5
+    },
+    {
+      "code": "MEC504",
+      "name": "Transferencia de Calor",
+      "semester": 5
+    },
+    {
+      "code": "MEC601",
+      "name": "Sistemas Auxiliares del Vehículo",
+      "semester": 6
+    },
+    {
+      "code": "MEC602",
+      "name": "Transmisiones Automáticas",
+      "semester": 6
+    },
+    {
+      "code": "MEC603",
+      "name": "Diseño de Elementos de Máquinas",
+      "semester": 6
+    },
+    {
+      "code": "AMB601",
+      "name": "Impacto Ambiental",
+      "semester": 6
+    },
+    {
+      "code": "ADM601",
+      "name": "Gestión y Emprendimiento",
+      "semester": 6
+    },
+    {
+      "code": "ELCT701",
+      "name": "Máquinas Eléctricas Estáticas y Rotativas",
+      "semester": 7
+    },
+    {
+      "code": "ELCT702",
+      "name": "Sistemas de Encendido del Vehículo",
+      "semester": 7
+    },
+    {
+      "code": "MEC701",
+      "name": "Ingeniería en Mantenimiento Automotriz",
+      "semester": 7
+    },
+    {
+      "code": "MEC702",
+      "name": "Estructuras Automotrices",
+      "semester": 7
+    },
+    {
+      "code": "MEC703",
+      "name": "Sistemas CAD/CAM/CAE",
+      "semester": 7
+    },
+    {
+      "code": "MEC704",
+      "name": "Diagnóstico y Optimización de Motores",
+      "semester": 7
+    },
+    {
+      "code": "MEC801",
+      "name": "Vehículos Híbridos y Eléctricos",
+      "semester": 8
+    },
+    {
+      "code": "MEC802",
+      "name": "Maquinaria y Equipo Pesado",
+      "semester": 8
+    },
+    {
+      "code": "MEC803",
+      "name": "Diseño y Gestión de Proyectos Automotrices",
+      "semester": 8
+    },
+    {
+      "code": "TIT801",
+      "name": "Unidad de Integración Curricular",
+      "semester": 8
+    }
+  ]
+  },
+  {
+    "career_id": "ESPE_PRESENCIAL_INGENIERIA_PETROQUIMICA",
+  "university_name": "Universidad de las Fuerzas Armadas ESPE",
+  "career_url": "https://www.espe.edu.ec/ingenieria-petroquimica/",
+  "data_collection_date": "2026-01-31",
+  "university_type": "Pública",
+  "university_contact": "wmbonilla@espe.edu.ec",
+  "career_name": "Ingeniería Petroquímica",
+  "faculty_name": "Departamento de Ciencias de la Energía y Mecánica",
+  "degree_title": "Ingeniero/a Petroquímico/a",
+  "description": "La carrera de Ingeniería Petroquímica forma profesionales altamente calificados para intervenir en los procesos de transformación del petróleo y gas natural en productos químicos y petroquímicos básicos, intermedios y finales. Se enfoca en la caracterización de materia prima, el diseño de procesos, la ingeniería de reacciones y la gestión industrial, aplicando fundamentos científicos y tecnológicos con responsabilidad ambiental y social.",
+  "locations": [
+    "Latacunga"
+  ],
+  "cost": "Gratuita (Pública)",
+  "duration": "8 Semestres",
+  "modality": "Presencial",
+  "study_plan_name": "Malla Curricular Ingeniería Petroquímica",
+  "study_plan_pdf": "https://petroquimica-el.espe.edu.ec/wp-content/uploads/2025/09/Malla-curricular-Petroquimica-202450-OK.pdf",
+  "subjects": [
+    {
+      "code": "MAT101",
+      "name": "Álgebra Lineal",
+      "semester": 1
+    },
+    {
+      "code": "MAT102",
+      "name": "Cálculo Diferencial e Integral",
+      "semester": 1
+    },
+    {
+      "code": "QUI101",
+      "name": "Química I",
+      "semester": 1
+    },
+    {
+      "code": "BIO101",
+      "name": "Biología",
+      "semester": 1
+    },
+    {
+      "code": "PROG101",
+      "name": "Fundamentos de Programación",
+      "semester": 1
+    },
+    {
+      "code": "INV101",
+      "name": "Metodología de la Investigación",
+      "semester": 1
+    },
+    {
+      "code": "MAT201",
+      "name": "Cálculo Vectorial",
+      "semester": 2
+    },
+    {
+      "code": "MAT202",
+      "name": "Ecuaciones Diferenciales Ordinarias",
+      "semester": 2
+    },
+    {
+      "code": "QUI201",
+      "name": "Química Inorgánica",
+      "semester": 2
+    },
+    {
+      "code": "FIS201",
+      "name": "Física I",
+      "semester": 2
+    },
+    {
+      "code": "PET201",
+      "name": "Introducción a la Ingeniería Petroquímica",
+      "semester": 2
+    },
+    {
+      "code": "HUM201",
+      "name": "Liderazgo",
+      "semester": 2
+    },
+    {
+      "code": "PET601",
+      "name": "Ingeniería de Reacciones Químicas",
+      "semester": 6
+    },
+    {
+      "code": "PET602",
+      "name": "Refinería y Biorefinería",
+      "semester": 6
+    },
+    {
+      "code": "PET603",
+      "name": "Transferencia de Masa",
+      "semester": 6
+    },
+    {
+      "code": "AMB601",
+      "name": "Contaminación Industrial",
+      "semester": 6
+    },
+    {
+      "code": "ECO601",
+      "name": "Ingeniería Económica",
+      "semester": 6
+    },
+    {
+      "code": "ADM601",
+      "name": "Gestión y Emprendimiento",
+      "semester": 6
+    }
+  ]
+  },
+  {
+    "career_id": "ESPE_PRESENCIAL_INGENIERIA_EN_ELECTRONICA_Y_AUTOMATIZACION",
+  "university_name": "Universidad de las Fuerzas Armadas ESPE",
+  "career_url": "https://www.espe.edu.ec/ingenieria-en-electronica-y-automatizacion/",
+  "data_collection_date": "2026-01-31",
+  "university_type": "Pública",
+  "university_contact": "espe.matriz.iela@espe.edu.ec",
+  "career_name": "Ingeniería en Electrónica y Automatización",
+  "faculty_name": "Departamento de Eléctrica y Electrónica",
+  "degree_title": "Ingeniero/a en Electrónica y Automatización",
+  "description": "La carrera forma profesionales capaces de modelar, analizar, diseñar, simular e implementar sistemas automatizados, integrando tecnologías de electrónica, control y automatización. Se enfoca en resolver problemas de los sectores productivos mediante el desarrollo de soluciones tecnológicas eficientes, fomentando el liderazgo, la responsabilidad social y la independencia tecnológica.",
+  "locations": [
+    "Sangolquí",
+    "Latacunga"
+  ],
+  "cost": "Gratuita (Pública)",
+  "duration": "9 Semestres",
+  "modality": "Presencial",
+  "study_plan_name": "Malla Curricular Electrónica y Automatización",
+  "study_plan_pdf": "https://www.espe.edu.ec/wp-content/uploads/2025/03/Malla-Electronica-y-Automatizacion-1.pdf",
+  "subjects": [
+    {
+      "code": "MAT101",
+      "name": "Cálculo Diferencial e Integral",
+      "semester": 1
+    },
+    {
+      "code": "QUI101",
+      "name": "Química I",
+      "semester": 1
+    },
+    {
+      "code": "PROG101",
+      "name": "Fundamentos de Programación",
+      "semester": 1
+    },
+    {
+      "code": "MAT102",
+      "name": "Álgebra Lineal",
+      "semester": 1
+    },
+    {
+      "code": "BIO101",
+      "name": "Biología",
+      "semester": 1
+    },
+    {
+      "code": "MAT201",
+      "name": "Cálculo Vectorial",
+      "semester": 2
+    },
+    {
+      "code": "FIS201",
+      "name": "Física I",
+      "semester": 2
+    },
+    {
+      "code": "MAT202",
+      "name": "Ecuaciones Diferenciales Ordinarias",
+      "semester": 2
+    },
+    {
+      "code": "PROG201",
+      "name": "Programación Orientada a Objetos",
+      "semester": 2
+    },
+    {
+      "code": "MEC201",
+      "name": "Dibujo Asistido por Computador",
+      "semester": 2
+    },
+    {
+      "code": "ELCT301",
+      "name": "Electrónica Fundamental",
+      "semester": 3
+    },
+    {
+      "code": "FIS301",
+      "name": "Fundamentos de Electromagnetismo",
+      "semester": 3
+    },
+    {
+      "code": "MAT301",
+      "name": "Estadística",
+      "semester": 3
+    },
+    {
+      "code": "MAT302",
+      "name": "Métodos Numéricos",
+      "semester": 3
+    },
+    {
+      "code": "ELCT401",
+      "name": "Análisis de Circuitos Eléctricos",
+      "semester": 4
+    },
+    {
+      "code": "ELCT402",
+      "name": "Electrónica Aplicada",
+      "semester": 4
+    },
+    {
+      "code": "ELCT403",
+      "name": "Circuitos y Sistemas Digitales",
+      "semester": 4
+    },
+    {
+      "code": "INST401",
+      "name": "Instrumentación y Sensores",
+      "semester": 4
+    },
+    {
+      "code": "ELCT501",
+      "name": "Máquinas Eléctricas",
+      "semester": 5
+    },
+    {
+      "code": "ELCT502",
+      "name": "Electrónica de Potencia",
+      "semester": 5
+    },
+    {
+      "code": "ELCT503",
+      "name": "Sistemas Basados en Microcontrolador",
+      "semester": 5
+    },
+    {
+      "code": "CONT501",
+      "name": "Sistemas de Control",
+      "semester": 5
+    },
+    {
+      "code": "AUTO601",
+      "name": "Sistemas de Accionamientos Industrial",
+      "semester": 6
+    },
+    {
+      "code": "CONT601",
+      "name": "Control de Máquinas",
+      "semester": 6
+    },
+    {
+      "code": "AUTO602",
+      "name": "Automatización Industrial I",
+      "semester": 6
+    },
+    {
+      "code": "CONT602",
+      "name": "Control Digital",
+      "semester": 6
+    },
+    {
+      "code": "ELCT601",
+      "name": "Sistemas Embebidos",
+      "semester": 6
+    },
+    {
+      "code": "CONT701",
+      "name": "Control de Procesos",
+      "semester": 7
+    },
+    {
+      "code": "AUTO701",
+      "name": "Comunicaciones Industriales",
+      "semester": 7
+    },
+    {
+      "code": "INV701",
+      "name": "Investigación Aplicada a la Automática",
+      "semester": 7
+    },
+    {
+      "code": "AUTO702",
+      "name": "Automatización Industrial II",
+      "semester": 7
+    },
+    {
+      "code": "CONT801",
+      "name": "Control Inteligente",
+      "semester": 8
+    },
+    {
+      "code": "ROB801",
+      "name": "Robótica",
+      "semester": 8
+    },
+    {
+      "code": "ELCT801",
+      "name": "Electrónica Médica",
+      "semester": 8
+    },
+    {
+      "code": "AUTO801",
+      "name": "Proyectos de Automatización",
+      "semester": 8
+    },
+    {
+      "code": "AUTO802",
+      "name": "Domótica",
+      "semester": 8
+    },
+    {
+      "code": "TIT901",
+      "name": "Unidad de Integración Curricular",
+      "semester": 9
+    },
+    {
+      "code": "PRAC901",
+      "name": "Prácticas Preprofesionales",
+      "semester": 9
+    }
+  ]
+  },
+  {
+    "career_id": "ESPE_PRESENCIAL_INGENIERIA_EN_TELECOMUNICACIONES",
+  "university_name": "Universidad de las Fuerzas Armadas ESPE",
+  "career_url": "https://www.espe.edu.ec/ingenieria-en-telecomunicaciones/",
+  "data_collection_date": "2026-01-31",
+  "university_type": "Pública",
+  "university_contact": "admision@espe.edu.ec",
+  "career_name": "Ingeniería en Telecomunicaciones",
+  "faculty_name": "Departamento de Eléctrica y Electrónica",
+  "degree_title": "Ingeniero/a en Telecomunicaciones",
+  "description": "La carrera de Telecomunicaciones forma profesionales capaces de diseñar, implementar, gestionar y evaluar sistemas, redes y servicios de telecomunicaciones. Su formación integra conocimientos en electrónica, procesamiento de señales, telemática y radiocomunicaciones, permitiendo solucionar problemas tecnológicos con innovación, responsabilidad social y ambiental, contribuyendo al desarrollo de la matriz productiva y la sociedad de la información.",
+  "locations": [
+    "Sangolquí"
+  ],
+  "cost": "Gratuita (Pública)",
+  "duration": "9 Semestres",
+  "modality": "Presencial",
+  "study_plan_name": "Malla Curricular Telecomunicaciones",
+  "study_plan_pdf": "https://www.espe.edu.ec/wp-content/uploads/2025/03/07_Malla_Telecomunicaciones.pdf",
+  "subjects": [
+    {
+      "code": "MAT101",
+      "name": "Cálculo Diferencial e Integral",
+      "semester": 1
+    },
+    {
+      "code": "MAT102",
+      "name": "Álgebra Lineal",
+      "semester": 1
+    },
+    {
+      "code": "QUI101",
+      "name": "Química I",
+      "semester": 1
+    },
+    {
+      "code": "PROG101",
+      "name": "Fundamentos de Programación",
+      "semester": 1
+    },
+    {
+      "code": "BIO101",
+      "name": "Biología",
+      "semester": 1
+    },
+    {
+      "code": "INV101",
+      "name": "Metodología de la Investigación",
+      "semester": 1
+    },
+    {
+      "code": "MAT201",
+      "name": "Cálculo Vectorial",
+      "semester": 2
+    },
+    {
+      "code": "MAT202",
+      "name": "Ecuaciones Diferenciales Ordinarias",
+      "semester": 2
+    },
+    {
+      "code": "FIS201",
+      "name": "Física I",
+      "semester": 2
+    },
+    {
+      "code": "PROG201",
+      "name": "Programación Orientada a Objetos",
+      "semester": 2
+    },
+    {
+      "code": "ELCT201",
+      "name": "Fundamentos de Circuitos Eléctricos",
+      "semester": 2
+    },
+    {
+      "code": "HUM201",
+      "name": "Realidad Nacional y Geopolítica",
+      "semester": 2
+    },
+    {
+      "code": "MAT301",
+      "name": "Métodos Numéricos",
+      "semester": 3
+    },
+    {
+      "code": "FIS301",
+      "name": "Física II",
+      "semester": 3
+    },
+    {
+      "code": "ELCT301",
+      "name": "Dispositivos Electrónicos",
+      "semester": 3
+    },
+    {
+      "code": "ELCT302",
+      "name": "Sistemas Digitales",
+      "semester": 3
+    },
+    {
+      "code": "TEL301",
+      "name": "Teoría Electromagnética",
+      "semester": 3
+    },
+    {
+      "code": "MAT302",
+      "name": "Probabilidad y Estadística",
+      "semester": 3
+    },
+    {
+      "code": "ELCT401",
+      "name": "Circuitos Electrónicos",
+      "semester": 4
+    },
+    {
+      "code": "TEL401",
+      "name": "Señales y Sistemas",
+      "semester": 4
+    },
+    {
+      "code": "TEL402",
+      "name": "Propagación y Antenas",
+      "semester": 4
+    },
+    {
+      "code": "TEL403",
+      "name": "Fundamentos de Telemática",
+      "semester": 4
+    },
+    {
+      "code": "INST401",
+      "name": "Mediciones e Instrumentación",
+      "semester": 4
+    },
+    {
+      "code": "TEL501",
+      "name": "Procesamiento Digital de Señales",
+      "semester": 5
+    },
+    {
+      "code": "TEL502",
+      "name": "Sistemas de Transmisión",
+      "semester": 5
+    },
+    {
+      "code": "TEL503",
+      "name": "Redes de Datos",
+      "semester": 5
+    },
+    {
+      "code": "ELCT501",
+      "name": "Sistemas Embebidos",
+      "semester": 5
+    },
+    {
+      "code": "TEL601",
+      "name": "Comunicaciones Digitales",
+      "semester": 6
+    },
+    {
+      "code": "TEL602",
+      "name": "Redes Inalámbricas",
+      "semester": 6
+    },
+    {
+      "code": "TEL603",
+      "name": "Sistemas de Comunicaciones Ópticas",
+      "semester": 6
+    },
+    {
+      "code": "ADM601",
+      "name": "Gestión de Proyectos de Telecomunicaciones",
+      "semester": 6
+    },
+    {
+      "code": "TEL701",
+      "name": "Radiocomunicaciones",
+      "semester": 7
+    },
+    {
+      "code": "TEL702",
+      "name": "Telefonía y Conmutación",
+      "semester": 7
+    },
+    {
+      "code": "TEL703",
+      "name": "Seguridad en Redes",
+      "semester": 7
+    },
+    {
+      "code": "TEL801",
+      "name": "Comunicaciones Móviles",
+      "semester": 8
+    },
+    {
+      "code": "TEL802",
+      "name": "Regulación de Telecomunicaciones",
+      "semester": 8
+    },
+    {
+      "code": "TIT901",
+      "name": "Unidad de Integración Curricular",
+      "semester": 9
+    },
+    {
+      "code": "PRAC901",
+      "name": "Prácticas Preprofesionales",
+      "semester": 9
+    }
+  ]
+  },
+  {
+    "career_id": "ESPE_PRESENCIAL_INGENIERIA_CIVIL",
+  "university_name": "Universidad de las Fuerzas Armadas ESPE",
+  "career_url": "https://www.espe.edu.ec/ingenieria-civil/",
+  "data_collection_date": "2026-01-31",
+  "university_type": "Pública",
+  "university_contact": "admision@espe.edu.ec",
+  "career_name": "Ingeniería Civil",
+  "faculty_name": "Departamento de Ciencias de la Tierra y Construcción",
+  "degree_title": "Ingeniero/a Civil",
+  "description": "La carrera de Ingeniería Civil forma profesionales capaces de planificar, diseñar, construir, administrar y fiscalizar obras civiles como estructuras, vías, sistemas hidráulicos y sanitarios. Su formación integra conocimientos científicos y tecnológicos para el desarrollo de infraestructura sostenible, con responsabilidad social y ambiental, contribuyendo al desarrollo del país.",
+  "locations": [
+    "Sangolquí",
+    "Latacunga"
+  ],
+  "cost": "Gratuita (Pública)",
+  "duration": "9 Semestres",
+  "modality": "Presencial",
+  "study_plan_name": "Malla Ajuste Curricular No Sustantivo 2024",
+  "study_plan_pdf": "https://www.espe.edu.ec/wp-content/uploads/2024/12/10_malla_ajuste_no_sustantivo.pdf",
+  "subjects": [
+    {
+      "code": "MAT101",
+      "name": "Álgebra Lineal",
+      "semester": 1
+    },
+    {
+      "code": "MAT102",
+      "name": "Cálculo Diferencial e Integral",
+      "semester": 1
+    },
+    {
+      "code": "QUI101",
+      "name": "Química I",
+      "semester": 1
+    },
+    {
+      "code": "BIO101",
+      "name": "Biología",
+      "semester": 1
+    },
+    {
+      "code": "PROG101",
+      "name": "Fundamentos de Programación",
+      "semester": 1
+    },
+    {
+      "code": "INV101",
+      "name": "Metodología de la Investigación Científica",
+      "semester": 1
+    },
+    {
+      "code": "MAT201",
+      "name": "Cálculo Vectorial",
+      "semester": 2
+    },
+    {
+      "code": "FIS201",
+      "name": "Física Clásica",
+      "semester": 2
+    },
+    {
+      "code": "MAT202",
+      "name": "Ecuaciones Diferenciales Ordinarias",
+      "semester": 2
+    },
+    {
+      "code": "CIV201",
+      "name": "Dibujo Técnico y Planos",
+      "semester": 2
+    },
+    {
+      "code": "CIV202",
+      "name": "Geología Aplicada",
+      "semester": 2
+    },
+    {
+      "code": "HUM201",
+      "name": "Realidad Nacional y Geopolítica",
+      "semester": 2
+    },
+    {
+      "code": "MAT301",
+      "name": "Estadística",
+      "semester": 3
+    },
+    {
+      "code": "CIV301",
+      "name": "Topografía",
+      "semester": 3
+    },
+    {
+      "code": "CIV302",
+      "name": "Estática",
+      "semester": 3
+    },
+    {
+      "code": "CIV303",
+      "name": "Tecnología del Hormigón",
+      "semester": 3
+    },
+    {
+      "code": "CIV304",
+      "name": "Materiales de Construcción",
+      "semester": 3
+    },
+    {
+      "code": "HUM301",
+      "name": "Liderazgo",
+      "semester": 3
+    },
+    {
+      "code": "MAT401",
+      "name": "Métodos Numéricos",
+      "semester": 4
+    },
+    {
+      "code": "CIV401",
+      "name": "Dinámica",
+      "semester": 4
+    },
+    {
+      "code": "CIV402",
+      "name": "Resistencia de Materiales I",
+      "semester": 4
+    },
+    {
+      "code": "CIV403",
+      "name": "Mecánica de Fluidos",
+      "semester": 4
+    },
+    {
+      "code": "CIV404",
+      "name": "Mecánica de Suelos I",
+      "semester": 4
+    },
+    {
+      "code": "CIV501",
+      "name": "Análisis Estructural I",
+      "semester": 5
+    },
+    {
+      "code": "CIV502",
+      "name": "Hidráulica I",
+      "semester": 5
+    },
+    {
+      "code": "CIV503",
+      "name": "Mecánica de Suelos II",
+      "semester": 5
+    },
+    {
+      "code": "CIV504",
+      "name": "Ingeniería Vial I",
+      "semester": 5
+    },
+    {
+      "code": "CIV505",
+      "name": "Resistencia de Materiales II",
+      "semester": 5
+    },
+    {
+      "code": "CIV601",
+      "name": "Hormigón Armado I",
+      "semester": 6
+    },
+    {
+      "code": "CIV602",
+      "name": "Hidráulica II",
+      "semester": 6
+    },
+    {
+      "code": "CIV603",
+      "name": "Ingeniería Vial II",
+      "semester": 6
+    },
+    {
+      "code": "CIV604",
+      "name": "Hidrología",
+      "semester": 6
+    },
+    {
+      "code": "CIV605",
+      "name": "Instalaciones Hidrosanitarias",
+      "semester": 6
+    },
+    {
+      "code": "CIV701",
+      "name": "Estructuras de Acero",
+      "semester": 7
+    },
+    {
+      "code": "CIV702",
+      "name": "Hormigón Armado II",
+      "semester": 7
+    },
+    {
+      "code": "CIV703",
+      "name": "Abastecimiento de Agua Potable",
+      "semester": 7
+    },
+    {
+      "code": "CIV704",
+      "name": "Pavimentos",
+      "semester": 7
+    },
+    {
+      "code": "ADM701",
+      "name": "Gestión de Obras y Costos",
+      "semester": 7
+    },
+    {
+      "code": "CIV801",
+      "name": "Cimentaciones",
+      "semester": 8
+    },
+    {
+      "code": "CIV802",
+      "name": "Alcantarillado y Tratamiento de Aguas",
+      "semester": 8
+    },
+    {
+      "code": "CIV803",
+      "name": "Puentes",
+      "semester": 8
+    },
+    {
+      "code": "CIV804",
+      "name": "Evaluación de Impactos Ambientales",
+      "semester": 8
+    },
+    {
+      "code": "TIT801",
+      "name": "Unidad de Integración Curricular I",
+      "semester": 8
+    },
+    {
+      "code": "CIV901",
+      "name": "Obras Hidráulicas",
+      "semester": 9
+    },
+    {
+      "code": "TIT901",
+      "name": "Unidad de Integración Curricular II",
+      "semester": 9
+    },
+    {
+      "code": "PRAC901",
+      "name": "Prácticas Laborales",
+      "semester": 9
+    }
+  ]
+  },
+  {
+    "career_id": "ESPE_PRESENCIAL_INGENIERIA_EN_TECNOLOGIAS_GEOESPACIALES",
+  "university_name": "Universidad de las Fuerzas Armadas ESPE",
+  "career_url": "https://www.espe.edu.ec/ingenieria-en-tecnologias-geoespaciales/",
+  "data_collection_date": "2026-01-31",
+  "university_type": "Pública",
+  "university_contact": "admision@espe.edu.ec",
+  "career_name": "Ingeniería en Tecnologías Geoespaciales",
+  "faculty_name": "Departamento de Ciencias de la Tierra y Construcción",
+  "degree_title": "Ingeniero/a en Tecnologías Geoespaciales",
+  "description": "La carrera forma profesionales especializados en la captura, procesamiento, análisis y gestión de datos georreferenciados. Integra conocimientos de geodesia, fotogrametría, teledetección, sistemas de información geográfica (SIG) y programación para resolver problemas territoriales, ambientales y de planificación, contribuyendo a la toma de decisiones estratégicas basadas en la ubicación espacial.",
+  "locations": [
+    "Sangolquí"
+  ],
+  "cost": "Gratuita (Pública)",
+  "duration": "9 Semestres",
+  "modality": "Presencial",
+  "study_plan_name": "Malla Curricular Tecnologías Geoespaciales",
+  "study_plan_pdf": "https://www.espe.edu.ec/wp-content/uploads/2025/03/Malla-Tecnologias-Geoespaciales.pdf",
+  "subjects": [
+    {
+      "code": "MAT101",
+      "name": "Álgebra Lineal",
+      "semester": 1
+    },
+    {
+      "code": "MAT102",
+      "name": "Cálculo Diferencial e Integral",
+      "semester": 1
+    },
+    {
+      "code": "QUI101",
+      "name": "Química I",
+      "semester": 1
+    },
+    {
+      "code": "PROG101",
+      "name": "Fundamentos de Programación",
+      "semester": 1
+    },
+    {
+      "code": "GEO101",
+      "name": "Introducción a las Tecnologías Geoespaciales",
+      "semester": 1
+    },
+    {
+      "code": "MAT201",
+      "name": "Cálculo Vectorial",
+      "semester": 2
+    },
+    {
+      "code": "FIS201",
+      "name": "Física I",
+      "semester": 2
+    },
+    {
+      "code": "MAT202",
+      "name": "Ecuaciones Diferenciales Ordinarias",
+      "semester": 2
+    },
+    {
+      "code": "GEO201",
+      "name": "Cartografía Matemática",
+      "semester": 2
+    },
+    {
+      "code": "GEO202",
+      "name": "Topografía I",
+      "semester": 2
+    },
+    {
+      "code": "MAT301",
+      "name": "Estadística",
+      "semester": 3
+    },
+    {
+      "code": "MAT302",
+      "name": "Métodos Numéricos",
+      "semester": 3
+    },
+    {
+      "code": "FIS301",
+      "name": "Física II",
+      "semester": 3
+    },
+    {
+      "code": "GEO301",
+      "name": "Topografía II",
+      "semester": 3
+    },
+    {
+      "code": "GEO302",
+      "name": "Geografía Física y Geología",
+      "semester": 3
+    },
+    {
+      "code": "GEO401",
+      "name": "Geodesia Geométrica",
+      "semester": 4
+    },
+    {
+      "code": "GEO402",
+      "name": "Sistemas de Información Geográfica I",
+      "semester": 4
+    },
+    {
+      "code": "GEO403",
+      "name": "Fotogrametría Digital I",
+      "semester": 4
+    },
+    {
+      "code": "ITIN401",
+      "name": "Bases de Datos Espaciales",
+      "semester": 4
+    },
+    {
+      "code": "GEO501",
+      "name": "Geodesia Física",
+      "semester": 5
+    },
+    {
+      "code": "GEO502",
+      "name": "Sistemas de Información Geográfica II",
+      "semester": 5
+    },
+    {
+      "code": "GEO503",
+      "name": "Fotogrametría Digital II",
+      "semester": 5
+    },
+    {
+      "code": "GEO504",
+      "name": "Teledetección I",
+      "semester": 5
+    },
+    {
+      "code": "HUM501",
+      "name": "Realidad Nacional y Geopolítica",
+      "semester": 5
+    },
+    {
+      "code": "GEO601",
+      "name": "Sistemas GNSS (GPS)",
+      "semester": 6
+    },
+    {
+      "code": "GEO602",
+      "name": "Análisis Espacial",
+      "semester": 6
+    },
+    {
+      "code": "GEO603",
+      "name": "Teledetección II",
+      "semester": 6
+    },
+    {
+      "code": "GEO604",
+      "name": "Programación Geoespacial (Python/R)",
+      "semester": 6
+    },
+    {
+      "code": "ECO601",
+      "name": "Economía Ambiental",
+      "semester": 6
+    },
+    {
+      "code": "GEO701",
+      "name": "Infraestructura de Datos Espaciales (IDE)",
+      "semester": 7
+    },
+    {
+      "code": "GEO702",
+      "name": "Web Mapping y Geoportales",
+      "semester": 7
+    },
+    {
+      "code": "GEO703",
+      "name": "Catastro y Valuación",
+      "semester": 7
+    },
+    {
+      "code": "GEO704",
+      "name": "Procesamiento Digital de Imágenes",
+      "semester": 7
+    },
+    {
+      "code": "ADM701",
+      "name": "Gestión de Proyectos Geoespaciales",
+      "semester": 7
+    },
+    {
+      "code": "GEO801",
+      "name": "Ordenamiento Territorial",
+      "semester": 8
+    },
+    {
+      "code": "GEO802",
+      "name": "Geomática Aplicada",
+      "semester": 8
+    },
+    {
+      "code": "GEO803",
+      "name": "Big Data Geoespacial",
+      "semester": 8
+    },
+    {
+      "code": "TIT801",
+      "name": "Unidad de Integración Curricular I",
+      "semester": 8
+    },
+    {
+      "code": "TIT901",
+      "name": "Unidad de Integración Curricular II",
+      "semester": 9
+    },
+    {
+      "code": "PRAC901",
+      "name": "Prácticas Laborales",
+      "semester": 9
+    }
+  ]
+  },
+  {
+    "career_id": "ESPE_PRESENCIAL_INGENIERIA_EN_BIOTECNOLOGIA",
+  "university_name": "Universidad de las Fuerzas Armadas ESPE",
+  "career_url": "https://www.espe.edu.ec/ingenieria-en-biotecnologia/",
+  "data_collection_date": "2026-01-31",
+  "university_type": "Pública",
+  "university_contact": "admision@espe.edu.ec",
+  "career_name": "Ingeniería en Biotecnología",
+  "faculty_name": "Departamento de Ciencias de la Vida y la Agricultura",
+  "degree_title": "Ingeniero/a en Biotecnología",
+  "description": "La carrera de Ingeniería en Biotecnología forma profesionales capaces de utilizar organismos vivos o sus partes para la obtención de productos y servicios. Su formación integra conocimientos de biología, química, genética e ingeniería para desarrollar soluciones innovadoras en los sectores de salud (biomedicina), agricultura, industria y medio ambiente, con un enfoque ético y sostenible.",
+  "locations": [
+    "Sangolquí"
+  ],
+  "cost": "Gratuita (Pública)",
+  "duration": "9 Semestres",
+  "modality": "Presencial",
+  "study_plan_name": "Malla Curricular Biotecnología",
+  "study_plan_pdf": "https://www.espe.edu.ec/wp-content/uploads/2023/08/MALLA_REAJUSTE_CODIFICADA_19102020_BIOTECNOLOGIA_MATRIZ_RV.pdf",
+  "subjects": [
+    {
+      "code": "MAT101",
+      "name": "Cálculo Diferencial e Integral",
+      "semester": 1
+    },
+    {
+      "code": "QUI101",
+      "name": "Química General",
+      "semester": 1
+    },
+    {
+      "code": "BIO101",
+      "name": "Biología Celular",
+      "semester": 1
+    },
+    {
+      "code": "HUM101",
+      "name": "Comunicación Oral y Escrita",
+      "semester": 1
+    },
+    {
+      "code": "INV101",
+      "name": "Metodología de la Investigación",
+      "semester": 1
+    },
+    {
+      "code": "MAT201",
+      "name": "Cálculo Vectorial",
+      "semester": 2
+    },
+    {
+      "code": "FIS201",
+      "name": "Física I",
+      "semester": 2
+    },
+    {
+      "code": "QUI201",
+      "name": "Química Orgánica",
+      "semester": 2
+    },
+    {
+      "code": "BIO201",
+      "name": "Biología Molecular",
+      "semester": 2
+    },
+    {
+      "code": "MAT202",
+      "name": "Ecuaciones Diferenciales Ordinarias",
+      "semester": 2
+    },
+    {
+      "code": "MAT301",
+      "name": "Estadística",
+      "semester": 3
+    },
+    {
+      "code": "FIS301",
+      "name": "Física II",
+      "semester": 3
+    },
+    {
+      "code": "QUI301",
+      "name": "Fisicoquímica",
+      "semester": 3
+    },
+    {
+      "code": "BIO301",
+      "name": "Bioquímica I",
+      "semester": 3
+    },
+    {
+      "code": "BIO302",
+      "name": "Microbiología General",
+      "semester": 3
+    },
+    {
+      "code": "GEN301",
+      "name": "Genética General",
+      "semester": 3
+    },
+    {
+      "code": "BIO401",
+      "name": "Bioquímica II",
+      "semester": 4
+    },
+    {
+      "code": "BIT401",
+      "name": "Balance de Masa y Energía",
+      "semester": 4
+    },
+    {
+      "code": "QUI401",
+      "name": "Análisis Instrumental",
+      "semester": 4
+    },
+    {
+      "code": "BIT402",
+      "name": "Termodinámica",
+      "semester": 4
+    },
+    {
+      "code": "BIT501",
+      "name": "Operaciones Unitarias",
+      "semester": 5
+    },
+    {
+      "code": "BIT502",
+      "name": "Ingeniería Genética",
+      "semester": 5
+    },
+    {
+      "code": "BIT503",
+      "name": "Microbiología Industrial",
+      "semester": 5
+    },
+    {
+      "code": "BIT504",
+      "name": "Fenómenos de Transporte",
+      "semester": 5
+    },
+    {
+      "code": "HUM501",
+      "name": "Realidad Nacional y Geopolítica",
+      "semester": 5
+    },
+    {
+      "code": "BIT601",
+      "name": "Ingeniería de Bioreactores",
+      "semester": 6
+    },
+    {
+      "code": "BIT602",
+      "name": "Biotecnología Vegetal",
+      "semester": 6
+    },
+    {
+      "code": "BIT603",
+      "name": "Biotecnología Ambiental",
+      "semester": 6
+    },
+    {
+      "code": "BIT604",
+      "name": "Inmunología",
+      "semester": 6
+    },
+    {
+      "code": "BIT605",
+      "name": "Bioinformática",
+      "semester": 6
+    },
+    {
+      "code": "BIT701",
+      "name": "Biotecnología Animal",
+      "semester": 7
+    },
+    {
+      "code": "BIT702",
+      "name": "Tecnología de Enzimas",
+      "semester": 7
+    },
+    {
+      "code": "BIT703",
+      "name": "Control y Automatización de Bioprocesos",
+      "semester": 7
+    },
+    {
+      "code": "ADM701",
+      "name": "Gestión de Proyectos Biotecnológicos",
+      "semester": 7
+    },
+    {
+      "code": "HUM701",
+      "name": "Bioética y Legislación",
+      "semester": 7
+    },
+    {
+      "code": "BIT801",
+      "name": "Biotecnología Industrial",
+      "semester": 8
+    },
+    {
+      "code": "BIT802",
+      "name": "Diseño de Plantas Biotecnológicas",
+      "semester": 8
+    },
+    {
+      "code": "BIT803",
+      "name": "Control de Calidad",
+      "semester": 8
+    },
+    {
+      "code": "TIT801",
+      "name": "Unidad de Integración Curricular I",
+      "semester": 8
+    },
+    {
+      "code": "TIT901",
+      "name": "Unidad de Integración Curricular II",
+      "semester": 9
+    },
+    {
+      "code": "PRAC901",
+      "name": "Prácticas Laborales",
+      "semester": 9
+    }
+  ]
+},
+{
+  "career_id": "ESPE_PRESENCIAL_INGENIERIA_AGROPECUARIA",
+  "university_name": "Universidad de las Fuerzas Armadas ESPE",
+  "career_url": "https://www.espe.edu.ec/ingenieria-agropecuaria/",
+  "data_collection_date": "2026-01-31",
+  "university_type": "Pública",
+  "university_contact": "admision@espe.edu.ec",
+  "career_name": "Ingeniería Agropecuaria",
+  "faculty_name": "Departamento de Ciencias de la Vida y de la Agricultura",
+  "degree_title": "Ingeniero/a Agropecuario/a",
+  "description": "La carrera de Ingeniería Agropecuaria forma profesionales con valores y principios, capaces de diseñar, investigar y transferir tecnologías apropiadas para el desarrollo sostenible de los sistemas agroproductivos. Su formación integra la gestión de recursos (suelo, agua, biodiversidad) para garantizar la seguridad alimentaria y contribuir al Buen Vivir, respondiendo a los requerimientos de la agricultura familiar y comercial.",
+  "locations": [
+    "Sangolquí",
+    "Santo Domingo"
+  ],
+  "cost": "Gratuita (Pública)",
+  "duration": "8 Semestres",
+  "modality": "Presencial",
+  "study_plan_name": "Malla Curricular Ingeniería Agropecuaria (Reajuste)",
+  "study_plan_pdf": "https://www.espe.edu.ec/wp-content/uploads/2020/11/MallaIngenieriaAgropecuaria2020.pdf",
+  "subjects": [
+    {
+      "code": "EXCT101",
+      "name": "Álgebra Lineal",
+      "semester": 1
+    },
+    {
+      "code": "EXCT102",
+      "name": "Cálculo Diferencial e Integral",
+      "semester": 1
+    },
+    {
+      "code": "EXCT103",
+      "name": "Química I",
+      "semester": 1
+    },
+    {
+      "code": "CVDA101",
+      "name": "Biología Celular",
+      "semester": 1
+    },
+    {
+      "code": "CHUM101",
+      "name": "Comunicación Oral y Escrita",
+      "semester": 1
+    },
+    {
+      "code": "CVDA102",
+      "name": "Introducción a la Agropecuaria",
+      "semester": 1
+    },
+    {
+      "code": "EXCT201",
+      "name": "Física Clásica",
+      "semester": 2
+    },
+    {
+      "code": "EXCT202",
+      "name": "Química Orgánica",
+      "semester": 2
+    },
+    {
+      "code": "CVDA201",
+      "name": "Botánica",
+      "semester": 2
+    },
+    {
+      "code": "CVDA202",
+      "name": "Zoología",
+      "semester": 2
+    },
+    {
+      "code": "CHUM201",
+      "name": "Metodología de la Investigación",
+      "semester": 2
+    },
+    {
+      "code": "CVDA301",
+      "name": "Bioquímica",
+      "semester": 3
+    },
+    {
+      "code": "CVDA302",
+      "name": "Edafología",
+      "semester": 3
+    },
+    {
+      "code": "CVDA303",
+      "name": "Microbiología",
+      "semester": 3
+    },
+    {
+      "code": "EXCT301",
+      "name": "Estadística",
+      "semester": 3
+    },
+    {
+      "code": "CVDA304",
+      "name": "Agrometeorología",
+      "semester": 3
+    },
+    {
+      "code": "CVDA401",
+      "name": "Fisiología Vegetal",
+      "semester": 4
+    },
+    {
+      "code": "CVDA402",
+      "name": "Fisiología Animal",
+      "semester": 4
+    },
+    {
+      "code": "CVDA403",
+      "name": "Genética",
+      "semester": 4
+    },
+    {
+      "code": "CVDA404",
+      "name": "Topografía Agrícola",
+      "semester": 4
+    },
+    {
+      "code": "CVDA405",
+      "name": "Nutrición Vegetal",
+      "semester": 4
+    },
+    {
+      "code": "CVDA501",
+      "name": "Entomología",
+      "semester": 5
+    },
+    {
+      "code": "CVDA502",
+      "name": "Fitopatología",
+      "semester": 5
+    },
+    {
+      "code": "CVDA503",
+      "name": "Riegos y Drenajes",
+      "semester": 5
+    },
+    {
+      "code": "CVDA504",
+      "name": "Mecanización Agropecuaria",
+      "semester": 5
+    },
+    {
+      "code": "CVDA505",
+      "name": "Pastos y Forrajes",
+      "semester": 5
+    },
+    {
+      "code": "CVDA601",
+      "name": "Manejo Integrado de Plagas",
+      "semester": 6
+    },
+    {
+      "code": "CVDA602",
+      "name": "Bovinotecnia",
+      "semester": 6
+    },
+    {
+      "code": "CVDA603",
+      "name": "Cultivos de Ciclo Corto",
+      "semester": 6
+    },
+    {
+      "code": "CVDA604",
+      "name": "Diseño Experimental",
+      "semester": 6
+    },
+    {
+      "code": "CVDA701",
+      "name": "Cultivos Perennes",
+      "semester": 7
+    },
+    {
+      "code": "CVDA702",
+      "name": "Avicultura y Porcinotecnia",
+      "semester": 7
+    },
+    {
+      "code": "CVDA703",
+      "name": "Agroindustria",
+      "semester": 7
+    },
+    {
+      "code": "ADM701",
+      "name": "Administración de Agroempresas",
+      "semester": 7
+    },
+    {
+      "code": "CVDA801",
+      "name": "Formulación y Evaluación de Proyectos Agropecuarios",
+      "semester": 8
+    },
+    {
+      "code": "CVDA802",
+      "name": "Extensión Agropecuaria",
+      "semester": 8
+    },
+    {
+      "code": "CVDA803",
+      "name": "Manejo de Pos cosecha",
+      "semester": 8
+    },
+    {
+      "code": "TIT801",
+      "name": "Unidad de Integración Curricular",
+      "semester": 8
+    }
+  ]
+},
+{
+  "career_id": "ESPE_PRESENCIAL_LICENCIATURA_EN_ADMINISTRACION_DE_EMPRESAS",
+  "university_name": "Universidad de las Fuerzas Armadas ESPE",
+  "career_url": "https://www.espe.edu.ec/licenciatura-en-administracion-de-empresas/",
+  "data_collection_date": "2026-01-31",
+  "university_type": "Pública",
+  "university_contact": "admision@espe.edu.ec",
+  "career_name": "Licenciatura en Administración de Empresas",
+  "faculty_name": "Departamento de Ciencias Económicas, Administrativas y del Comercio",
+  "degree_title": "Licenciado/a en Administración de Empresas",
+  "description": "La carrera de Administración de Empresas forma profesionales líderes con visión estratégica, capaces de gestionar eficientemente organizaciones públicas y privadas. Su formación integra conocimientos de finanzas, marketing, talento humano y operaciones para la toma de decisiones, fomentando el emprendimiento, la innovación y la responsabilidad social en un entorno globalizado.",
+  "locations": [
+    "Sangolquí",
+    "Latacunga",
+    "Santo Domingo"
+  ],
+  "cost": "Gratuita (Pública)",
+  "duration": "8 Semestres",
+  "modality": "Presencial",
+  "study_plan_name": "Malla Curricular Administración de Empresas (Rediseño)",
+  "study_plan_pdf": "https://comercial.espe.edu.ec/wp-content/uploads/2022/04/Malla-Administracion-de-Empresas-8-niveles-pre-requisitos-17112020-Micrositio-1.pdf",
+  "subjects": [
+    {
+      "code": "CADM101",
+      "name": "Administración",
+      "semester": 1
+    },
+    {
+      "code": "CADM102",
+      "name": "Contabilidad I",
+      "semester": 1
+    },
+    {
+      "code": "MAT101",
+      "name": "Cálculo Diferencial e Integral",
+      "semester": 1
+    },
+    {
+      "code": "HUM101",
+      "name": "Comunicación Oral y Escrita",
+      "semester": 1
+    },
+    {
+      "code": "INV101",
+      "name": "Metodología de la Investigación Científica",
+      "semester": 1
+    },
+    {
+      "code": "HUM102",
+      "name": "Realidad Nacional y Geopolítica",
+      "semester": 1
+    },
+    {
+      "code": "CADM201",
+      "name": "Contabilidad de Costos",
+      "semester": 2
+    },
+    {
+      "code": "ECO201",
+      "name": "Microeconomía",
+      "semester": 2
+    },
+    {
+      "code": "MAT201",
+      "name": "Matemática Financiera",
+      "semester": 2
+    },
+    {
+      "code": "DER201",
+      "name": "Derecho Empresarial",
+      "semester": 2
+    },
+    {
+      "code": "CADM202",
+      "name": "Herramientas para Toma de Decisiones I",
+      "semester": 2
+    },
+    {
+      "code": "ECO301",
+      "name": "Macroeconomía",
+      "semester": 3
+    },
+    {
+      "code": "MAT301",
+      "name": "Probabilidad y Estadística",
+      "semester": 3
+    },
+    {
+      "code": "MKT301",
+      "name": "Mercadotecnia",
+      "semester": 3
+    },
+    {
+      "code": "FIN301",
+      "name": "Finanzas de Corto Plazo",
+      "semester": 3
+    },
+    {
+      "code": "CADM301",
+      "name": "Comportamiento Organizacional",
+      "semester": 3
+    },
+    {
+      "code": "FIN401",
+      "name": "Finanzas de Largo Plazo",
+      "semester": 4
+    },
+    {
+      "code": "MKT401",
+      "name": "Investigación de Mercados",
+      "semester": 4
+    },
+    {
+      "code": "TIC401",
+      "name": "Sistemas de Información para los Negocios",
+      "semester": 4
+    },
+    {
+      "code": "CADM401",
+      "name": "Gestión del Talento Humano",
+      "semester": 4
+    },
+    {
+      "code": "CADM402",
+      "name": "Teoría de la Organización",
+      "semester": 4
+    },
+    {
+      "code": "CADM501",
+      "name": "Administración de la Producción",
+      "semester": 5
+    },
+    {
+      "code": "CADM502",
+      "name": "Gestión por Procesos",
+      "semester": 5
+    },
+    {
+      "code": "CADM503",
+      "name": "Gestión de la Calidad y Productividad",
+      "semester": 5
+    },
+    {
+      "code": "FIN501",
+      "name": "Administración Presupuestaria",
+      "semester": 5
+    },
+    {
+      "code": "HUM501",
+      "name": "Liderazgo",
+      "semester": 5
+    },
+    {
+      "code": "CADM601",
+      "name": "Gestión Estratégica",
+      "semester": 6
+    },
+    {
+      "code": "CADM602",
+      "name": "Técnicas de Negociación",
+      "semester": 6
+    },
+    {
+      "code": "ADM601",
+      "name": "Gestión del Emprendimiento y la Innovación",
+      "semester": 6
+    },
+    {
+      "code": "CADM603",
+      "name": "Análisis y Administración de la Cadena de Valor",
+      "semester": 6
+    },
+    {
+      "code": "ADM701",
+      "name": "Formulación y Evaluación de Proyectos",
+      "semester": 7
+    },
+    {
+      "code": "CADM701",
+      "name": "Auditoría Administrativa y Financiera",
+      "semester": 7
+    },
+    {
+      "code": "CADM702",
+      "name": "Gestión de Servicios",
+      "semester": 7
+    },
+    {
+      "code": "CADM703",
+      "name": "Innovación de Modelos de Negocios",
+      "semester": 7
+    },
+    {
+      "code": "PRAC701",
+      "name": "Prácticas Preprofesionales",
+      "semester": 7
+    },
+    {
+      "code": "HUM801",
+      "name": "Ética Profesional",
+      "semester": 8
+    },
+    {
+      "code": "CADM801",
+      "name": "Gestión del Cambio Organizacional",
+      "semester": 8
+    },
+    {
+      "code": "TIT801",
+      "name": "Unidad de Integración Curricular",
+      "semester": 8
+    }
+  ]
+},
+{
+  "career_id": "ESPE_PRESENCIAL_LICENCIATURA_EN_CONTABILIDAD_Y_AUDITORIA",
+  "university_name": "Universidad de las Fuerzas Armadas ESPE",
+  "career_url": "https://www.espe.edu.ec/contabilidad-y-auditoria/",
+  "data_collection_date": "2026-01-31",
+  "university_type": "Pública",
+  "university_contact": "admision@espe.edu.ec",
+  "career_name": "Licenciatura en Contabilidad y Auditoría",
+  "faculty_name": "Departamento de Ciencias Económicas, Administrativas y del Comercio",
+  "degree_title": "Licenciado/a en Contabilidad y Auditoría",
+  "description": "La carrera forma profesionales competentes en el manejo de sistemas contables, financieros y de control, basados en normativas nacionales e internacionales (NIIF, NIA). Su formación integra el análisis de riesgos, la auditoría integral (financiera, tributaria, forense) y la ética profesional para garantizar la transparencia y eficiencia en la gestión de organizaciones públicas y privadas.",
+  "locations": [
+    "Sangolquí",
+    "Latacunga"
+  ],
+  "cost": "Gratuita (Pública)",
+  "duration": "8 Semestres",
+  "modality": "Presencial",
+  "study_plan_name": "Malla Curricular Ajustada Contabilidad y Auditoría (2024)",
+  "study_plan_pdf": "https://finanzas-el.espe.edu.ec/wp-content/uploads/2024/09/202450-Malla-ajustada-Contabilidad-y-Auditoria-202051_compressed-signed.pdf",
+  "subjects": [
+    {
+      "code": "CADM101",
+      "name": "Fundamentos Contables",
+      "semester": 1
+    },
+    {
+      "code": "ADM101",
+      "name": "Administración",
+      "semester": 1
+    },
+    {
+      "code": "EXCT101",
+      "name": "Cálculo Diferencial e Integral",
+      "semester": 1
+    },
+    {
+      "code": "CHUM101",
+      "name": "Comunicación Oral y Escrita",
+      "semester": 1
+    },
+    {
+      "code": "INV101",
+      "name": "Metodología de la Investigación",
+      "semester": 1
+    },
+    {
+      "code": "CADM201",
+      "name": "Contabilidad Financiera",
+      "semester": 2
+    },
+    {
+      "code": "EXCT201",
+      "name": "Matemática Financiera",
+      "semester": 2
+    },
+    {
+      "code": "ECO201",
+      "name": "Microeconomía",
+      "semester": 2
+    },
+    {
+      "code": "DER201",
+      "name": "Derecho Mercantil y Societario",
+      "semester": 2
+    },
+    {
+      "code": "CHUM201",
+      "name": "Realidad Nacional y Geopolítica",
+      "semester": 2
+    },
+    {
+      "code": "CADM301",
+      "name": "Contabilidad de Costos I",
+      "semester": 3
+    },
+    {
+      "code": "CADM302",
+      "name": "Contabilidad Intermedia",
+      "semester": 3
+    },
+    {
+      "code": "ECO301",
+      "name": "Macroeconomía",
+      "semester": 3
+    },
+    {
+      "code": "EXCT301",
+      "name": "Estadística",
+      "semester": 3
+    },
+    {
+      "code": "DER301",
+      "name": "Derecho Laboral",
+      "semester": 3
+    },
+    {
+      "code": "CADM401",
+      "name": "Contabilidad de Costos II",
+      "semester": 4
+    },
+    {
+      "code": "CADM402",
+      "name": "Contabilidad Gubernamental",
+      "semester": 4
+    },
+    {
+      "code": "FIN401",
+      "name": "Finanzas Corporativas",
+      "semester": 4
+    },
+    {
+      "code": "DER401",
+      "name": "Derecho Tributario",
+      "semester": 4
+    },
+    {
+      "code": "CADM403",
+      "name": "Sistemas de Información Contable",
+      "semester": 4
+    },
+    {
+      "code": "CADM501",
+      "name": "Auditoría Financiera I",
+      "semester": 5
+    },
+    {
+      "code": "FIN501",
+      "name": "Presupuestos",
+      "semester": 5
+    },
+    {
+      "code": "CADM502",
+      "name": "Contabilidad Especializada",
+      "semester": 5
+    },
+    {
+      "code": "CADM503",
+      "name": "Tributación I",
+      "semester": 5
+    },
+    {
+      "code": "CADM504",
+      "name": "Auditoría y Riesgo Empresarial",
+      "semester": 5
+    },
+    {
+      "code": "CADM601",
+      "name": "Auditoría Financiera II",
+      "semester": 6
+    },
+    {
+      "code": "CADM602",
+      "name": "Auditoría Interna",
+      "semester": 6
+    },
+    {
+      "code": "CADM603",
+      "name": "Contabilidad de Instituciones Financieras",
+      "semester": 6
+    },
+    {
+      "code": "CADM604",
+      "name": "Tributación II",
+      "semester": 6
+    },
+    {
+      "code": "CHUM601",
+      "name": "Liderazgo",
+      "semester": 6
+    },
+    {
+      "code": "CADM701",
+      "name": "Auditoría de Gestión",
+      "semester": 7
+    },
+    {
+      "code": "CADM702",
+      "name": "Auditoría Tributaria",
+      "semester": 7
+    },
+    {
+      "code": "ADM701",
+      "name": "Formulación y Evaluación de Proyectos",
+      "semester": 7
+    },
+    {
+      "code": "CADM703",
+      "name": "Contabilidad para la Toma de Decisiones",
+      "semester": 7
+    },
+    {
+      "code": "CADM801",
+      "name": "Auditoría Forense",
+      "semester": 8
+    },
+    {
+      "code": "CADM802",
+      "name": "Auditoría Gubernamental",
+      "semester": 8
+    },
+    {
+      "code": "CHUM801",
+      "name": "Ética Profesional",
+      "semester": 8
+    },
+    {
+      "code": "TIT801",
+      "name": "Unidad de Integración Curricular",
+      "semester": 8
+    }
+  ]
+}
+]
