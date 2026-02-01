@@ -229,18 +229,25 @@ async def chat_stream(input: ChatInput):
             user_memory.get("preferencias", {})
         )
 
-    # 8. Streaming response
     def generator():
-        for chunk in run_agent_stream(
-            input.message,
-            user_memory,
-            careers,
-            should_greet
-        ):
-            yield chunk
+        has_content = False
 
-        # Guardamos memoria al final
+        # 1️⃣ Iteramos los chunks del modelo
+        for chunk in run_agent_stream(input.message, user_memory, careers, should_greet):
+            for candidate in chunk.candidates:
+                for part in candidate.content.parts:
+                    if part.text.strip():   # ignoramos strings vacíos
+                        has_content = True
+                        yield part.text
+
+        # 2️⃣ Fallback si no hubo contenido
+        if not has_content:
+            yield "Lo siento, no pude generar una respuesta en este momento.\n"
+
+        # 3️⃣ Guardamos la memoria del usuario **al final del streaming**
         session_manager.save_profile(input.user_id, user_memory)
+
+        # 4️⃣ Marcamos fin de la transmisión
         yield "\n[END]\n"
 
     return StreamingResponse(

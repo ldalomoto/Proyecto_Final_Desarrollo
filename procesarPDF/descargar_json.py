@@ -129,15 +129,15 @@ def main():
 
         #"https://www.utc.edu.ec/Portals/0/2025/Extensión Pujilí/MALLA2  GRÁFICA PEDAGOGÍA DE LA MATEMÁTICA Y LA FÍSICA -  15-02-2022 ANEXO 5 - CORREGIDA 2025.pdf?ver=2025-10-16-163043-593",
 
-        url_valida = ["https://www.epn.edu.ec/wp-content/uploads/2025/01/malla_seguridad_redes_informacion.pdf",
-                      "https://www.epn.edu.ec/wp-content/uploads/2025/01/malla_software.pdf",
-                      "https://www.epn.edu.ec/wp-content/uploads/2025/01/malla_matematica_aplicada.pdf",
-                      "https://www.epn.edu.ec/wp-content/uploads/2024/08/malla_tecnologias_informacion.pdf",
-                      "https://www.epn.edu.ec/wp-content/uploads/2025/01/malla_procesamiento_madera.pdf",
-                      "https://www.epn.edu.ec/wp-content/uploads/2025/01/malla_tecnologias_informacion.pdf"]
-        
-        if url_pdf not in url_valida:
-            continue
+        #url_valida = ["https://www.epn.edu.ec/wp-content/uploads/2025/01/malla_seguridad_redes_informacion.pdf",
+        #              "https://www.epn.edu.ec/wp-content/uploads/2025/01/malla_software.pdf",
+        #              "https://www.epn.edu.ec/wp-content/uploads/2025/01/malla_matematica_aplicada.pdf",
+        #              "https://www.epn.edu.ec/wp-content/uploads/2024/08/malla_tecnologias_informacion.pdf",
+        #              "https://www.epn.edu.ec/wp-content/uploads/2025/01/malla_procesamiento_madera.pdf",
+        #              "https://www.epn.edu.ec/wp-content/uploads/2025/01/malla_tecnologias_informacion.pdf"]
+        #
+        #if url_pdf not in url_valida:
+        #    continue
 
         # Lógica de cambio de API cada 10 procesamientos exitosos o intentos
         if contador_api > 0 and contador_api % 5 == 0:
@@ -196,3 +196,4 @@ def main():
 # =========================
 if __name__ == "__main__":
     main()
+

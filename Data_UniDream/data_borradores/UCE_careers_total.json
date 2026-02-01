@@ -1,0 +1,30 @@
+[
+    {
+        "nombre_carrera": "posgrado",
+        "nombre_facultad": "FCA",
+        "nombre_universidad": "Universidad Central del Ecuador",
+        "nombre_titulo": "s de tercer nivel en grado de Administración",
+        "malla_url": "https://repositorio.uce.edu.ec/archivos/FCA/Maestrías/Maestrias_25_26/Malla_Curricula_Seguridad_Social.pdf",
+        "descripcion_carrera": "Bienvenidos a la Maestría en Seguridad Social, Seguros de Salud y Complementarios Previsionales Este programa de posgrado está diseñado para responder a la creciente demanda de profesionales especializados en el ámbito de la seguridad social, los seguros de salud y los fondos previsionales. En un contexto marcado por el envejecimiento poblacional, la baja natalidad y la necesidad de garantizar pensiones dignas y atención médica de calidad, esta maestría ofrece una formación integral y actualizada. A través de un enfoque académico riguroso, los estudiantes desarrollarán competencias para analiz",
+        "ubicacion_sedes": [
+            "Quito"
+        ],
+        "tipo_universidad": "Pública",
+        "enlace_carrera": "https://www.uce.edu.ec/web/fca/posgrado",
+        "fecha_recoleccion": "2026-01-26"
+    },
+    {
+        "nombre_carrera": "posgrado",
+        "nombre_facultad": "FIL",
+        "nombre_universidad": "Universidad Central del Ecuador",
+        "nombre_titulo": "de Tercer Nivel registrado en el SENESCYT en",
+        "malla_url": "https://repositorio.uce.edu.ec/archivos/wpcacoango/FILOSOFIA WEB/03-POSGRADO-FIL/01-MAESTRIAS-2025/TIC/Malla-TIC-PRESENCIAL.pdf",
+        "descripcion_carrera": "La Dirección de Tecnologías de Información y Telecomunicaciones ha iniciado un proceso de cambio de la infraestructura tecnológica del correo electrónico institucional, con el fin de mejorar los siguientes aspectos:",
+        "ubicacion_sedes": [
+            "Quito"
+        ],
+        "tipo_universidad": "Pública",
+        "enlace_carrera": "https://www.uce.edu.ec/web/fil/posgrado",
+        "fecha_recoleccion": "2026-01-26"
+    }
+]
