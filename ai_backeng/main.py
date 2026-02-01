@@ -16,6 +16,8 @@ from ai_backeng.agent import build_user_embedding_text
 from fastapi import FastAPI
 from ai_backeng.db.postgres import init_db
 from ai_backeng.routers import careers
+from fastapi import Depends
+from ai_backeng.db.postgres import get_pool
 
 def now():
     return datetime.now(timezone.utc)
@@ -279,3 +281,37 @@ async def chat_stream(input: ChatInput):
         generator(),
         media_type="text/plain"
     )
+
+# --- RUTA DE EMERGENCIA PARA UNIVERSIDADES ---
+@app.get("/universities")
+async def get_universities(
+    page: int = 1, 
+    limit: int = 20, 
+    pool = Depends(get_pool)
+):
+    offset = (page - 1) * limit
+
+    # 1. Consulta REAL a la Base de Datos
+    rows = await pool.fetch("""
+        SELECT * FROM universities 
+        ORDER BY id 
+        LIMIT $1 OFFSET $2
+    """, limit, offset)
+
+    results = []
+    for r in rows:
+        # Convertimos la fila a diccionario para evitar errores si faltan columnas
+        d = dict(r)
+
+        results.append({
+            "id": d.get("id"),
+            "nombre": d.get("name", "Sin Nombre"), # Ajusta 'name' si la columna se llama distinto
+            "tipo": d.get("type", "Institución"),
+            "ubicacion": d.get("location", "Ecuador"),
+            "imagen": d.get("image_url", None), # Si es null, el frontend pondrá el placeholder
+            "descripcion": d.get("description", "Sin descripción disponible."),
+            "matchIA": 0, # Calcularemos esto luego con la IA
+            "url": d.get("website", d.get("url", "#"))
+        })
+
+    return results
