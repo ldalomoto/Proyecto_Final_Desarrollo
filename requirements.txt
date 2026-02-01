@@ -27,3 +27,5 @@ google-generativeai
 asyncpg
 supabase
 redis
+
+voyageai

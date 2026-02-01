@@ -1,22 +1,30 @@
-from sentence_transformers import SentenceTransformer
 import os
+from dotenv import load_dotenv
+import voyageai
 
-PROVIDER = os.getenv("EMBEDDING_PROVIDER", "local-e5")
+# Cargar variables desde .env
+load_dotenv()
 
-model = None
-EMBEDDING_MODEL_NAME = None
+# Configuración
+PROVIDER = os.getenv("EMBEDDING_PROVIDER", "voyage")
 
-if PROVIDER == "local-e5":
-    model = SentenceTransformer("intfloat/multilingual-e5-large")
-    EMBEDDING_MODEL_NAME = "intfloat/multilingual-e5-large"
+VOYAGE_API_KEY = os.getenv("VOYAGE_API_KEY")
+if not VOYAGE_API_KEY:
+    raise RuntimeError("VOYAGE_API_KEY not set in .env")
+
+voyageai.api_key = VOYAGE_API_KEY
+
+EMBEDDING_MODEL_NAME = "voyage-4-lite"
+
+client = voyageai.Client()
 
 def get_embedding(text: str) -> list[float]:
-    if model is None:
-        raise RuntimeError("Embedding model not initialized")
+    if PROVIDER != "voyage":
+        raise RuntimeError("Embedding provider not supported")
 
-    text = f"passage: {text}"
-    embedding = model.encode(
-        text,
-        normalize_embeddings=True
+    response = client.embed(
+        texts=[text],
+        model=EMBEDDING_MODEL_NAME
     )
-    return embedding.tolist()
+
+    return response.embeddings[0]

@@ -18,6 +18,8 @@ from ai_backeng.db.postgres import init_db
 from ai_backeng.routers import careers
 from fastapi import Depends
 from ai_backeng.db.postgres import get_pool
+from ai_backeng.rerank.voyage_rerank import rerank_careers
+
 
 def now():
     return datetime.now(timezone.utc)
@@ -70,11 +72,6 @@ app.include_router(careers.router)
 async def reset_session(user_id: str):
     session_manager.delete(user_id)
     return {"status": "ok"}
-
-
-
-
-
 
 @app.post("/chat")
 async def chat(input: ChatInput):
@@ -151,13 +148,26 @@ async def chat(input: ChatInput):
         )
 
     # 7. Matching de carreras
+    # 7. Matching de carreras
     careers = []
     if user_memory.get("user_embedding"):
+
+        enriched_preferences = {
+            **user_memory.get("preferencias", {}),
+            "intereses": user_memory.get("intereses", []),
+            "habilidades_percibidas": user_memory.get("habilidades_percibidas", []),
+            "materias_fuertes": user_memory.get("materias_fuertes", [])
+        }
+
         careers = await get_best_careers(
             pool,
             user_memory["user_embedding"],
-            user_memory.get("preferencias", {})
+            enriched_preferences
         )
+    print("Rerank query context:", enriched_preferences)
+
+
+
 
     # 8. Respuesta del agente
     reply = run_agent(
