@@ -1,0 +1,2870 @@
+[
+    {
+        "universidad": "Universidad Internacional del Ecuador",
+        "carrera": "Finanzas y Negocios Digitales",
+        "career_url_ref": "https://www.uide.edu.ec/carrera-de-finanzas-y-negocios-digitales/",
+        "pensum": null,
+        "materias": [
+            {
+                "nombre": "Principios Contables para Organizaciones Globales",
+                "semestre": 1
+            },
+            {
+                "nombre": "Macroeconomía",
+                "semestre": 1
+            },
+            {
+                "nombre": "Global System Thinking",
+                "semestre": 1
+            },
+            {
+                "nombre": "Computación Aplicada y Tecnología de la Información",
+                "semestre": 1
+            },
+            {
+                "nombre": "Effective Communication",
+                "semestre": 1
+            },
+            {
+                "nombre": "Digital Literacy",
+                "semestre": 1
+            },
+            {
+                "nombre": "Fundamentos Contables para Organizaciones Industriales",
+                "semestre": 2
+            },
+            {
+                "nombre": "Microeconomía",
+                "semestre": 2
+            },
+            {
+                "nombre": "Critical and Elementos Estadísticos",
+                "semestre": 2
+            },
+            {
+                "nombre": "Principios de Marketing para Organizaciones Globales",
+                "semestre": 2
+            },
+            {
+                "nombre": "Cálculo y Operativo",
+                "semestre": 2
+            },
+            {
+                "nombre": "Innovation and Entrepreneurship",
+                "semestre": 2
+            },
+            {
+                "nombre": "Matemática para el Análisis de los Negocios",
+                "semestre": 3
+            },
+            {
+                "nombre": "Principios Financieros para Organizaciones Globales",
+                "semestre": 3
+            },
+            {
+                "nombre": "Inteligencia de Negocios Digitales",
+                "semestre": 3
+            },
+            {
+                "nombre": "Personal and Professional Development",
+                "semestre": 3
+            },
+            {
+                "nombre": "Diseño de Apps",
+                "semestre": 3
+            },
+            {
+                "nombre": "Entorno de los Negocios Regionales",
+                "semestre": 3
+            },
+            {
+                "nombre": "Principios de Gestión de Proyectos Digitales",
+                "semestre": 4
+            },
+            {
+                "nombre": "Gestión Operaciones y Suministros",
+                "semestre": 4
+            },
+            {
+                "nombre": "Gerencia de Procesos",
+                "semestre": 4
+            },
+            {
+                "nombre": "Derecho Comercial y Ética para Gerentes",
+                "semestre": 4
+            },
+            {
+                "nombre": "Marketing Estratégico y Operativo",
+                "semestre": 4
+            },
+            {
+                "nombre": "Creación de Valor y Emprendimiento",
+                "semestre": 4
+            },
+            {
+                "nombre": "Prácticas Servicio Comunitario I",
+                "semestre": 4
+            },
+            {
+                "nombre": "Finanzas Corporativas Internacionales",
+                "semestre": 5
+            },
+            {
+                "nombre": "Dirección Estratégica Organizaciones Globales",
+                "semestre": 5
+            },
+            {
+                "nombre": "Diseño de Soluciones Financieras Digitales",
+                "semestre": 5
+            },
+            {
+                "nombre": "Estrategia Digital E-Business Globales",
+                "semestre": 5
+            },
+            {
+                "nombre": "Regulación de servicios financieros",
+                "semestre": 5
+            },
+            {
+                "nombre": "Conformación de la Oportunidad",
+                "semestre": 5
+            },
+            {
+                "nombre": "Prácticas Laborales I",
+                "semestre": 5
+            },
+            {
+                "nombre": "Finanzas Fintech",
+                "semestre": 6
+            },
+            {
+                "nombre": "Liderazgo Global y Desarrollo Personal",
+                "semestre": 6
+            },
+            {
+                "nombre": "Customer Experience Digital Marketing",
+                "semestre": 6
+            },
+            {
+                "nombre": "Investigación de Mercados",
+                "semestre": 6
+            },
+            {
+                "nombre": "Blockchain Criptomonedas",
+                "semestre": 6
+            },
+            {
+                "nombre": "Seminario de Emprendimiento",
+                "semestre": 6
+            },
+            {
+                "nombre": "Prácticas Laborales II",
+                "semestre": 6
+            },
+            {
+                "nombre": "Ecosistemas Fintech",
+                "semestre": 7
+            },
+            {
+                "nombre": "Mercado de Capitales y Desarrollo",
+                "semestre": 7
+            },
+            {
+                "nombre": "Tecnologías Disruptivas",
+                "semestre": 7
+            },
+            {
+                "nombre": "Análisis de Datos y Transformación Digital",
+                "semestre": 7
+            },
+            {
+                "nombre": "Arquitectura para Plataformas Fintech",
+                "semestre": 7
+            },
+            {
+                "nombre": "Contabilidad Global",
+                "semestre": 7
+            },
+            {
+                "nombre": "Prácticas Laborales III",
+                "semestre": 7
+            },
+            {
+                "nombre": "Ciencias de Datos",
+                "semestre": 8
+            },
+            {
+                "nombre": "Evaluación de Riesgos Empresariales",
+                "semestre": 8
+            },
+            {
+                "nombre": "Inteligencia Empresarial",
+                "semestre": 8
+            },
+            {
+                "nombre": "Unidad de Integración Curricular",
+                "semestre": 8
+            }
+        ],
+        "totales": {
+            "total_creditos": null,
+            "total_horas": null
+        }
+    },
+    {
+        "universidad": "Arizona State University / ON Campus Quito",
+        "carrera": "Enfermería Nocturna",
+        "career_url_ref": "https://www.uide.edu.ec/enfermeria-nocturna/",
+        "pensum": null,
+        "materias": [
+            {
+                "nombre": "Introducción a los Cuidados de Enfermería",
+                "semestre": 1
+            },
+            {
+                "nombre": "Conceptos Médicos Básicos",
+                "semestre": 1
+            },
+            {
+                "nombre": "Prácticas en Enfermería I",
+                "semestre": 1
+            },
+            {
+                "nombre": "Cuidados de Enfermería I",
+                "semestre": 2
+            },
+            {
+                "nombre": "Conceptos Médicos y Legales",
+                "semestre": 2
+            },
+            {
+                "nombre": "Ciencias de Enfermería I",
+                "semestre": 2
+            },
+            {
+                "nombre": "Prácticas en Enfermería II",
+                "semestre": 2
+            },
+            {
+                "nombre": "Cuidados de Enfermería II",
+                "semestre": 3
+            },
+            {
+                "nombre": "Conceptos Básicos Médicos Especiales",
+                "semestre": 3
+            },
+            {
+                "nombre": "Ciencias de Enfermería II",
+                "semestre": 3
+            },
+            {
+                "nombre": "Prácticas en Enfermería III",
+                "semestre": 3
+            },
+            {
+                "nombre": "Cuidados de Enfermería III",
+                "semestre": 4
+            },
+            {
+                "nombre": "Salud Pública I",
+                "semestre": 4
+            },
+            {
+                "nombre": "Fundamentos Médicos Especiales",
+                "semestre": 4
+            },
+            {
+                "nombre": "Ciencias de Enfermería III",
+                "semestre": 4
+            },
+            {
+                "nombre": "Prácticas en Enfermería IV",
+                "semestre": 4
+            },
+            {
+                "nombre": "Salud Pública II",
+                "semestre": 5
+            },
+            {
+                "nombre": "Prácticas en Enfermería V",
+                "semestre": 5
+            },
+            {
+                "nombre": "Enfermería Especialista",
+                "semestre": 6
+            },
+            {
+                "nombre": "Gestión en Salud",
+                "semestre": 6
+            },
+            {
+                "nombre": "Prácticas en Enfermería VI",
+                "semestre": 6
+            },
+            {
+                "nombre": "Integración Curricular",
+                "semestre": 7
+            },
+            {
+                "nombre": "Internado Rotativo",
+                "semestre": 8
+            },
+            {
+                "nombre": "Effective Communication",
+                "semestre": "Power Skills"
+            },
+            {
+                "nombre": "System Thinking",
+                "semestre": "Power Skills"
+            },
+            {
+                "nombre": "Self-Development",
+                "semestre": "Power Skills"
+            },
+            {
+                "nombre": "Digital Literacy",
+                "semestre": "Power Skills"
+            },
+            {
+                "nombre": "Entrepreneurship",
+                "semestre": "Power Skills"
+            }
+        ],
+        "totales": {
+            "total_creditos": null,
+            "total_horas": null
+        }
+    },
+    {
+        "universidad": "Arizona State University / ON Campus Quito",
+        "carrera": "Enfermería",
+        "career_url_ref": "https://www.uide.edu.ec/carrera-de-enfermeria/",
+        "pensum": null,
+        "materias": [
+            {
+                "nombre": "Introducción a los Cuidados de Enfermería",
+                "semestre": "1"
+            },
+            {
+                "nombre": "Conceptos Médicos Básicos",
+                "semestre": "1"
+            },
+            {
+                "nombre": "Prácticas en Enfermería I",
+                "semestre": "1"
+            },
+            {
+                "nombre": "Cuidados de Enfermería I",
+                "semestre": "2"
+            },
+            {
+                "nombre": "Conceptos Médicos y Legales",
+                "semestre": "2"
+            },
+            {
+                "nombre": "Prácticas en Enfermería II",
+                "semestre": "2"
+            },
+            {
+                "nombre": "Ciencias de Enfermería I",
+                "semestre": "2"
+            },
+            {
+                "nombre": "Enfermería II",
+                "semestre": "3"
+            },
+            {
+                "nombre": "Conceptos Básicos Médicos Especiales",
+                "semestre": "3"
+            },
+            {
+                "nombre": "Ciencias de Enfermería II",
+                "semestre": "3"
+            },
+            {
+                "nombre": "Prácticas en Enfermería III",
+                "semestre": "3"
+            },
+            {
+                "nombre": "Salud Pública I",
+                "semestre": "4"
+            },
+            {
+                "nombre": "Fundamentos Médicos Especiales",
+                "semestre": "4"
+            },
+            {
+                "nombre": "Ciencias de Enfermería III",
+                "semestre": "4"
+            },
+            {
+                "nombre": "Prácticas en Enfermería IV",
+                "semestre": "4"
+            },
+            {
+                "nombre": "Salud Pública II",
+                "semestre": "5"
+            },
+            {
+                "nombre": "Prácticas en Enfermería V",
+                "semestre": "5"
+            },
+            {
+                "nombre": "Enfermería Especialista",
+                "semestre": "6"
+            },
+            {
+                "nombre": "Gestión en Salud",
+                "semestre": "6"
+            },
+            {
+                "nombre": "Prácticas en Enfermería VI",
+                "semestre": "6"
+            },
+            {
+                "nombre": "Enfermería Expertos",
+                "semestre": "7"
+            },
+            {
+                "nombre": "Integración Curricular",
+                "semestre": "7"
+            },
+            {
+                "nombre": "Año de Internado Rotativo",
+                "semestre": "8"
+            },
+            {
+                "nombre": "Effective Communication",
+                "semestre": "Power Skill"
+            },
+            {
+                "nombre": "System Thinking",
+                "semestre": "Power Skill"
+            },
+            {
+                "nombre": "Self-Development",
+                "semestre": "Power Skill"
+            },
+            {
+                "nombre": "Digital Literacy",
+                "semestre": "Power Skill"
+            },
+            {
+                "nombre": "Entrepreneurship",
+                "semestre": "Power Skill"
+            }
+        ],
+        "totales": {
+            "total_creditos": null,
+            "total_horas": null
+        }
+    },
+    {
+        "universidad": "Universidad Internacional del Ecuador (UIDE)",
+        "carrera": "Diseño Gráfico",
+        "career_url_ref": "https://www.uide.edu.ec/carrera-de-diseno-grafico/",
+        "pensum": null,
+        "materias": [
+            {
+                "nombre": "Vida Creativa",
+                "semestre": 1
+            },
+            {
+                "nombre": "Historia del Diseño Gráfico I",
+                "semestre": 1
+            },
+            {
+                "nombre": "Principios del Diseño Gráfico I",
+                "semestre": 1
+            },
+            {
+                "nombre": "Introducción a la Psicología",
+                "semestre": 1
+            },
+            {
+                "nombre": "Interpretación y Análisis del arte",
+                "semestre": 1
+            },
+            {
+                "nombre": "Digital I",
+                "semestre": 2
+            },
+            {
+                "nombre": "Historia del Diseño Gráfico II",
+                "semestre": 2
+            },
+            {
+                "nombre": "Principios del Diseño Gráfico II",
+                "semestre": 2
+            },
+            {
+                "nombre": "Dibujo para el Diseño",
+                "semestre": 2
+            },
+            {
+                "nombre": "Búsqueda del Bienestar",
+                "semestre": 2
+            },
+            {
+                "nombre": "Digital II",
+                "semestre": 3
+            },
+            {
+                "nombre": "Comunicación Visual I",
+                "semestre": 3
+            },
+            {
+                "nombre": "Tipografía",
+                "semestre": 3
+            },
+            {
+                "nombre": "Fotografía",
+                "semestre": 3
+            },
+            {
+                "nombre": "Cine Internacional",
+                "semestre": 3
+            },
+            {
+                "nombre": "Digital III",
+                "semestre": 4
+            },
+            {
+                "nombre": "Comunicación Visual II",
+                "semestre": 4
+            },
+            {
+                "nombre": "Taller Comunicación Visual I",
+                "semestre": 4
+            },
+            {
+                "nombre": "Semiótica aplicada al Diseño",
+                "semestre": 4
+            },
+            {
+                "nombre": "Vinculación con la Sociedad",
+                "semestre": 4
+            },
+            {
+                "nombre": "Digital IV",
+                "semestre": 5
+            },
+            {
+                "nombre": "Comunicación Visual III",
+                "semestre": 5
+            },
+            {
+                "nombre": "Taller Comunicación Visual II",
+                "semestre": 5
+            },
+            {
+                "nombre": "Desarrollo Creativo",
+                "semestre": 5
+            },
+            {
+                "nombre": "Práctica Profesional",
+                "semestre": 5
+            },
+            {
+                "nombre": "Digital V",
+                "semestre": 6
+            },
+            {
+                "nombre": "Comunicación Visual IV",
+                "semestre": 6
+            },
+            {
+                "nombre": "Taller Comunicación Visual III",
+                "semestre": 6
+            },
+            {
+                "nombre": "Diseño de Packaging",
+                "semestre": 6
+            },
+            {
+                "nombre": "Práctica Profesional",
+                "semestre": 6
+            },
+            {
+                "nombre": "Digital VI",
+                "semestre": 7
+            },
+            {
+                "nombre": "Comunicación Visual V",
+                "semestre": 7
+            },
+            {
+                "nombre": "Taller Comunicación Visual IV",
+                "semestre": 7
+            },
+            {
+                "nombre": "Guión y Narrativa",
+                "semestre": 7
+            },
+            {
+                "nombre": "Proyecto de Diseño",
+                "semestre": 7
+            },
+            {
+                "nombre": "Digital VII",
+                "semestre": 8
+            },
+            {
+                "nombre": "Comunicación Visual VI",
+                "semestre": 8
+            },
+            {
+                "nombre": "Taller Comunicación Visual V",
+                "semestre": 8
+            },
+            {
+                "nombre": "Exhibit Design",
+                "semestre": 8
+            },
+            {
+                "nombre": "Planificación Profesional y Portafolio",
+                "semestre": 8
+            }
+        ],
+        "totales": {
+            "total_creditos": null,
+            "total_horas": null
+        }
+    },
+    {
+        "universidad": "Universidad Internacional del Ecuador",
+        "carrera": "Derecho (En Línea)",
+        "career_url_ref": "https://www.uide.edu.ec/derecho-en-linea/",
+        "pensum": null,
+        "materias": [
+            {
+                "nombre": "Teoría General del Derecho",
+                "semestre": 1
+            },
+            {
+                "nombre": "Teoría Política y del Estado",
+                "semestre": 1
+            },
+            {
+                "nombre": "Sistemas Jurídicos Comparados",
+                "semestre": 1
+            },
+            {
+                "nombre": "Teoría Económica Aplicada al Derecho",
+                "semestre": 1
+            },
+            {
+                "nombre": "Filosofía del Derecho",
+                "semestre": 2
+            },
+            {
+                "nombre": "Acto y Negocios Jurídicos",
+                "semestre": 2
+            },
+            {
+                "nombre": "Derecho Constitucional",
+                "semestre": 2
+            },
+            {
+                "nombre": "Derecho Procesal General",
+                "semestre": 2
+            },
+            {
+                "nombre": "Teoría de los Derechos Humanos",
+                "semestre": 3
+            },
+            {
+                "nombre": "Derecho Civil: Bienes",
+                "semestre": 3
+            },
+            {
+                "nombre": "Derecho Internacional",
+                "semestre": 3
+            },
+            {
+                "nombre": "Teoría General Del Derecho Penal",
+                "semestre": 3
+            },
+            {
+                "nombre": "Derecho de Daños: Responsabilidad Extracontractual",
+                "semestre": 4
+            },
+            {
+                "nombre": "Derecho Civil: Obligaciones",
+                "semestre": 4
+            },
+            {
+                "nombre": "Derecho Mercantil",
+                "semestre": 4
+            },
+            {
+                "nombre": "Derecho Penal Especial",
+                "semestre": 4
+            },
+            {
+                "nombre": "Métodos Alternativos de Solución de Conflictos: Mediación y Arbitraje",
+                "semestre": 5
+            },
+            {
+                "nombre": "Derecho Civil: Derecho Sucesorio",
+                "semestre": 5
+            },
+            {
+                "nombre": "Derechos y Control Constitucional",
+                "semestre": 5
+            },
+            {
+                "nombre": "Derecho Societario",
+                "semestre": 5
+            },
+            {
+                "nombre": "Derecho del Trabajo",
+                "semestre": 5
+            },
+            {
+                "nombre": "Práctica Civil",
+                "semestre": 5
+            },
+            {
+                "nombre": "Análisis Crítico del Derecho y su Sociología",
+                "semestre": 6
+            },
+            {
+                "nombre": "Derecho Ambiental y Sectores Estratégicos",
+                "semestre": 6
+            },
+            {
+                "nombre": "Derecho Tributario",
+                "semestre": 6
+            },
+            {
+                "nombre": "Derecho Financiero y Mercado de Valores",
+                "semestre": 6
+            },
+            {
+                "nombre": "Derecho Procesal Penal",
+                "semestre": 6
+            },
+            {
+                "nombre": "Práctica Laboral",
+                "semestre": 6
+            },
+            {
+                "nombre": "Propiedad Intelectual y Derecho de Competencia",
+                "semestre": 7
+            },
+            {
+                "nombre": "Garantía de Fiscalización Y Control",
+                "semestre": 7
+            },
+            {
+                "nombre": "Interpretación e Investigación",
+                "semestre": 7
+            },
+            {
+                "nombre": "Teoría de la Prueba",
+                "semestre": 7
+            },
+            {
+                "nombre": "Práctica Procesal",
+                "semestre": 7
+            },
+            {
+                "nombre": "Unidad de Integración Curricular",
+                "semestre": 8
+            },
+            {
+                "nombre": "Derecho Administrativo: Instituciones del Derecho Administrativo",
+                "semestre": 8
+            },
+            {
+                "nombre": "Técnicas de Argumentación Jurídica",
+                "semestre": 8
+            },
+            {
+                "nombre": "Manejo de Información Aplicadas",
+                "semestre": 8
+            },
+            {
+                "nombre": "Vinculación con la Sociedad",
+                "semestre": 8
+            }
+        ],
+        "totales": {
+            "total_creditos": null,
+            "total_horas": null
+        }
+    },
+    {
+        "universidad": "Universidad Internacional del Ecuador",
+        "carrera": "Derecho",
+        "career_url_ref": "https://www.uide.edu.ec/carrera-de-derecho/",
+        "pensum": null,
+        "materias": [
+            {
+                "nombre": "Teoría General del Derecho",
+                "semestre": 1
+            },
+            {
+                "nombre": "Teoría Política y del Estado",
+                "semestre": 1
+            },
+            {
+                "nombre": "Sistemas Jurídicos Comparados",
+                "semestre": 1
+            },
+            {
+                "nombre": "Sociología, Interculturalidad e Inclusión",
+                "semestre": 1
+            },
+            {
+                "nombre": "Teoría Económica Aplicada al Derecho",
+                "semestre": 1
+            },
+            {
+                "nombre": "Filosofía del Derecho",
+                "semestre": 2
+            },
+            {
+                "nombre": "Acto y Negocios Jurídicos",
+                "semestre": 2
+            },
+            {
+                "nombre": "Derecho Constitucional",
+                "semestre": 2
+            },
+            {
+                "nombre": "Teoría de los Derechos Humanos",
+                "semestre": 2
+            },
+            {
+                "nombre": "Derecho del Trabajo",
+                "semestre": 2
+            },
+            {
+                "nombre": "Métodos Alternativos Conflictos: Mediación",
+                "semestre": 2
+            },
+            {
+                "nombre": "Derecho de Familia",
+                "semestre": 3
+            },
+            {
+                "nombre": "Derecho Internacional",
+                "semestre": 3
+            },
+            {
+                "nombre": "Derecho Constitucional II",
+                "semestre": 3
+            },
+            {
+                "nombre": "Derecho Procesal Orgánico",
+                "semestre": 3
+            },
+            {
+                "nombre": "Derecho Penal Especial",
+                "semestre": 3
+            },
+            {
+                "nombre": "Práctica",
+                "semestre": 3
+            },
+            {
+                "nombre": "Responsabilidad Extracontractual",
+                "semestre": 4
+            },
+            {
+                "nombre": "Derecho Civil: Obligaciones",
+                "semestre": 4
+            },
+            {
+                "nombre": "Derechos y Control Constitucional",
+                "semestre": 4
+            },
+            {
+                "nombre": "Derecho Procesal General",
+                "semestre": 4
+            },
+            {
+                "nombre": "Teoría de la Prueba",
+                "semestre": 4
+            },
+            {
+                "nombre": "Práctica Laboral",
+                "semestre": 4
+            },
+            {
+                "nombre": "Derecho de Daños: Análisis Crítico",
+                "semestre": 5
+            },
+            {
+                "nombre": "Derechos Patrimoniales",
+                "semestre": 5
+            },
+            {
+                "nombre": "Derecho Administrativo",
+                "semestre": 5
+            },
+            {
+                "nombre": "Derecho Societario",
+                "semestre": 5
+            },
+            {
+                "nombre": "Técnicas de Argumentación Jurídica",
+                "semestre": 5
+            },
+            {
+                "nombre": "Práctica",
+                "semestre": 5
+            },
+            {
+                "nombre": "Arbitraje",
+                "semestre": 6
+            },
+            {
+                "nombre": "Derechos Patrimoniales",
+                "semestre": 6
+            },
+            {
+                "nombre": "Fiscalización y Control",
+                "semestre": 6
+            },
+            {
+                "nombre": "Derecho Procesal Penal",
+                "semestre": 6
+            },
+            {
+                "nombre": "Investigación Jurídica",
+                "semestre": 6
+            },
+            {
+                "nombre": "Vinculación con la Sociedad",
+                "semestre": 6
+            },
+            {
+                "nombre": "Derecho y su Contexto",
+                "semestre": 7
+            },
+            {
+                "nombre": "Derecho Ambiental y Sectores Estratégicos",
+                "semestre": 7
+            },
+            {
+                "nombre": "Propiedad Intelectual",
+                "semestre": 7
+            },
+            {
+                "nombre": "Derecho Procesal Tributario",
+                "semestre": 7
+            },
+            {
+                "nombre": "Derecho",
+                "semestre": 7
+            },
+            {
+                "nombre": "Tecnologías de la Información Aplicadas",
+                "semestre": 7
+            },
+            {
+                "nombre": "Derecho Financiero y Mercado de Valores",
+                "semestre": 8
+            },
+            {
+                "nombre": "Unidad de Integración Curricular",
+                "semestre": 8
+            },
+            {
+                "nombre": "Derecho y Competencia",
+                "semestre": 8
+            }
+        ],
+        "totales": {
+            "total_creditos": null,
+            "total_horas": null
+        }
+    },
+    {
+        "universidad": "Universidad Internacional del Ecuador",
+        "carrera": "Contabilidad y Auditoría (En Línea)",
+        "career_url_ref": "https://www.uide.edu.ec/contabilidad-y-auditoria-en-linea/",
+        "pensum": null,
+        "materias": [
+            {
+                "nombre": "Fundamentos de Administración y Contabilidad",
+                "semestre": 1
+            },
+            {
+                "nombre": "Macroeconomía",
+                "semestre": 1
+            },
+            {
+                "nombre": "Principios de administración global",
+                "semestre": 1
+            },
+            {
+                "nombre": "Contratación Pública",
+                "semestre": 1
+            },
+            {
+                "nombre": "Elementos Estadísticos",
+                "semestre": 1
+            },
+            {
+                "nombre": "Gerencia y Tributación",
+                "semestre": 2
+            },
+            {
+                "nombre": "Microeconomía",
+                "semestre": 2
+            },
+            {
+                "nombre": "Fundamentos contables para organizaciones industriales",
+                "semestre": 2
+            },
+            {
+                "nombre": "Tributación II",
+                "semestre": 2
+            },
+            {
+                "nombre": "Marketing y estrategia digital",
+                "semestre": 2
+            },
+            {
+                "nombre": "Gerencia y análisis financiero",
+                "semestre": 3
+            },
+            {
+                "nombre": "Finanzas corporativas",
+                "semestre": 3
+            },
+            {
+                "nombre": "Gerencia de la contabilidad para organizaciones comerciales y de servicios",
+                "semestre": 3
+            },
+            {
+                "nombre": "Auditoría Informática",
+                "semestre": 3
+            },
+            {
+                "nombre": "Consultoría",
+                "semestre": 3
+            },
+            {
+                "nombre": "Contabilidad de instituciones financieras",
+                "semestre": 4
+            },
+            {
+                "nombre": "Auditoría Financiera I",
+                "semestre": 4
+            },
+            {
+                "nombre": "Auditoría interna",
+                "semestre": 4
+            },
+            {
+                "nombre": "Blockchain y criptomonedas",
+                "semestre": 4
+            },
+            {
+                "nombre": "Prácticas Laborales I",
+                "semestre": 4
+            },
+            {
+                "nombre": "Contabilidad de seguros",
+                "semestre": 5
+            },
+            {
+                "nombre": "Auditoría Financiera II",
+                "semestre": 5
+            },
+            {
+                "nombre": "Auditoría de gestión",
+                "semestre": 5
+            },
+            {
+                "nombre": "Servicio Comunitario",
+                "semestre": 5
+            },
+            {
+                "nombre": "Auditoría Forense",
+                "semestre": 6
+            },
+            {
+                "nombre": "Customer Experience & Digital Marketing",
+                "semestre": 6
+            },
+            {
+                "nombre": "Gerencia de la economía popular y solidaria",
+                "semestre": 6
+            },
+            {
+                "nombre": "Liderazgo global y desarrollo personal",
+                "semestre": 6
+            },
+            {
+                "nombre": "Prácticas Laborales II",
+                "semestre": 6
+            },
+            {
+                "nombre": "Auditoría Tributaria",
+                "semestre": 7
+            },
+            {
+                "nombre": "Due Diligence Organizacional",
+                "semestre": 7
+            },
+            {
+                "nombre": "Contabilidad y finanzas en el sector público",
+                "semestre": 7
+            },
+            {
+                "nombre": "Seminario de emprendimiento",
+                "semestre": 7
+            },
+            {
+                "nombre": "Análisis de datos",
+                "semestre": 7
+            },
+            {
+                "nombre": "Contabilidad global internacional",
+                "semestre": 8
+            },
+            {
+                "nombre": "Unidad de integración curricular",
+                "semestre": 8
+            }
+        ],
+        "totales": {
+            "total_creditos": null,
+            "total_horas": null
+        }
+    },
+    {
+        "universidad": "UIDE (Universidad Internacional del Ecuador) - Arizona State University",
+        "carrera": "Comunicación y Medios Digitales (En Línea)",
+        "career_url_ref": "https://www.uide.edu.ec/comunicacion-y-medios-digitales-en-linea/",
+        "pensum": null,
+        "materias": [
+            {
+                "nombre": "Fundamentos de la Comunicación",
+                "semestre": 1
+            },
+            {
+                "nombre": "Inteligencia Artificial y Diseño Express",
+                "semestre": 1
+            },
+            {
+                "nombre": "Psicología Social y Medios",
+                "semestre": 1
+            },
+            {
+                "nombre": "Comunicación Intercultural y Diversidad",
+                "semestre": 1
+            },
+            {
+                "nombre": "Effective Communication",
+                "semestre": 1
+            },
+            {
+                "nombre": "Cinematografía Digital",
+                "semestre": 2
+            },
+            {
+                "nombre": "Ilustración Publicitaria",
+                "semestre": 2
+            },
+            {
+                "nombre": "Fotografía Digital",
+                "semestre": 2
+            },
+            {
+                "nombre": "Copywriting",
+                "semestre": 2
+            },
+            {
+                "nombre": "Critical and System Thinking",
+                "semestre": 2
+            },
+            {
+                "nombre": "Relaciones Públicas Aplicadas a Entornos Digitales",
+                "semestre": 3
+            },
+            {
+                "nombre": "Creación de Negocios Digitales",
+                "semestre": 3
+            },
+            {
+                "nombre": "Globalización y Medios",
+                "semestre": 3
+            },
+            {
+                "nombre": "Experiencia del Usuario - UX",
+                "semestre": 3
+            },
+            {
+                "nombre": "Digital Literacy",
+                "semestre": 3
+            },
+            {
+                "nombre": "Vinculación con la Sociedad",
+                "semestre": 3
+            },
+            {
+                "nombre": "Investigación Aplicada en Comunicación y Medios Digitales",
+                "semestre": 4
+            },
+            {
+                "nombre": "Gestión Estratégica de Eventos",
+                "semestre": 4
+            },
+            {
+                "nombre": "Fundamentos de Programación",
+                "semestre": 4
+            },
+            {
+                "nombre": "Taller de Edición Digital",
+                "semestre": 4
+            },
+            {
+                "nombre": "Lenguaje Cuantitativo",
+                "semestre": 4
+            },
+            {
+                "nombre": "Cultura Digital II",
+                "semestre": 5
+            },
+            {
+                "nombre": "Posicionamiento Visual",
+                "semestre": 5
+            },
+            {
+                "nombre": "Media Planning",
+                "semestre": 5
+            },
+            {
+                "nombre": "Personal and Professional Development",
+                "semestre": 5
+            },
+            {
+                "nombre": "Marketing Deportivo",
+                "semestre": 5
+            },
+            {
+                "nombre": "Prácticas Preprofesionales",
+                "semestre": 5
+            },
+            {
+                "nombre": "Política Digital",
+                "semestre": 6
+            },
+            {
+                "nombre": "Campañas Digitales, Métricas y Data",
+                "semestre": 6
+            },
+            {
+                "nombre": "Marketing de contenidos",
+                "semestre": 6
+            },
+            {
+                "nombre": "Community Management",
+                "semestre": 6
+            },
+            {
+                "nombre": "Innovation and Entrepreneurship",
+                "semestre": 6
+            },
+            {
+                "nombre": "Prácticas Preprofesionales",
+                "semestre": 6
+            },
+            {
+                "nombre": "Investigación Aplicada",
+                "semestre": 7
+            },
+            {
+                "nombre": "Estrategia y Marketing Web",
+                "semestre": 7
+            },
+            {
+                "nombre": "Persuasión Publicitaria",
+                "semestre": 7
+            },
+            {
+                "nombre": "Producción 3D",
+                "semestre": 7
+            },
+            {
+                "nombre": "Proyecto Integrador",
+                "semestre": 8
+            },
+            {
+                "nombre": "Publicidad en Medios Digitales",
+                "semestre": 8
+            },
+            {
+                "nombre": "Industrias Creativas",
+                "semestre": 8
+            },
+            {
+                "nombre": "Segmentación Audiencias",
+                "semestre": 8
+            }
+        ],
+        "totales": {
+            "total_creditos": null,
+            "total_horas": null
+        }
+    },
+    {
+        "universidad": "UIDE (Universidad Internacional del Ecuador) en alianza con Arizona State University (ASU)",
+        "carrera": "Comunicación y Medios Digitales",
+        "career_url_ref": "https://www.uide.edu.ec/carrera-de-comunicacion-y-medios-digitales/",
+        "pensum": null,
+        "materias": [
+            {
+                "nombre": "Inteligencia Artificial y Diseño Express",
+                "semestre": 1
+            },
+            {
+                "nombre": "Tecnología y Sociedad de la Información",
+                "semestre": 1
+            },
+            {
+                "nombre": "Comunicación Intercultural y Diversidad",
+                "semestre": 1
+            },
+            {
+                "nombre": "Fundamentos de la Comunicación",
+                "semestre": 1
+            },
+            {
+                "nombre": "Lenguaje Cuantitativo",
+                "semestre": 2
+            },
+            {
+                "nombre": "Ilustración Publicitaria",
+                "semestre": 2
+            },
+            {
+                "nombre": "Fotografía Digital",
+                "semestre": 2
+            },
+            {
+                "nombre": "Copywriting",
+                "semestre": 2
+            },
+            {
+                "nombre": "Psicología Social y Medios",
+                "semestre": 3
+            },
+            {
+                "nombre": "Introducción a la Cultura Digital",
+                "semestre": 3
+            },
+            {
+                "nombre": "Creación de Negocios Digitales",
+                "semestre": 3
+            },
+            {
+                "nombre": "Oratoria Discurso",
+                "semestre": 3
+            },
+            {
+                "nombre": "Diseño de Experiencia del Usuario (UX)",
+                "semestre": 3
+            },
+            {
+                "nombre": "Laboratorio de Cinematografía",
+                "semestre": 4
+            },
+            {
+                "nombre": "Fundamentos de Programación en Logic",
+                "semestre": 4
+            },
+            {
+                "nombre": "Taller de Edición Digital",
+                "semestre": 4
+            },
+            {
+                "nombre": "Gestión Estratégica de Eventos",
+                "semestre": 4
+            },
+            {
+                "nombre": "Marketing Medios Digitales",
+                "semestre": 5
+            },
+            {
+                "nombre": "Diseño Media",
+                "semestre": 5
+            },
+            {
+                "nombre": "Gestión de Negocios Digitales",
+                "semestre": 5
+            },
+            {
+                "nombre": "Cultura Digital",
+                "semestre": 5
+            },
+            {
+                "nombre": "Vinculación con la Sociedad",
+                "semestre": 5
+            },
+            {
+                "nombre": "Producción 3D",
+                "semestre": 6
+            },
+            {
+                "nombre": "Storyboards",
+                "semestre": 6
+            },
+            {
+                "nombre": "Métricas y Data",
+                "semestre": 6
+            },
+            {
+                "nombre": "Narrativa Visual",
+                "semestre": 6
+            },
+            {
+                "nombre": "Community Management",
+                "semestre": 6
+            },
+            {
+                "nombre": "Publicidad en Medios",
+                "semestre": 7
+            },
+            {
+                "nombre": "Posicionamiento Web",
+                "semestre": 7
+            },
+            {
+                "nombre": "Gestión de Campañas Digitales",
+                "semestre": 7
+            },
+            {
+                "nombre": "Globalización",
+                "semestre": 7
+            },
+            {
+                "nombre": "Emprendimiento e Innovación Social",
+                "semestre": 7
+            },
+            {
+                "nombre": "Investigación o Industrias Creativas",
+                "semestre": 8
+            },
+            {
+                "nombre": "Comunicación Política",
+                "semestre": 8
+            },
+            {
+                "nombre": "Cultura Digital",
+                "semestre": 8
+            },
+            {
+                "nombre": "Persuación Segmentación y Publicitaria",
+                "semestre": 8
+            },
+            {
+                "nombre": "Marketing de Contenidos",
+                "semestre": 8
+            },
+            {
+                "nombre": "Taller de Integración",
+                "semestre": 8
+            }
+        ],
+        "totales": {
+            "total_creditos": null,
+            "total_horas": null
+        }
+    },
+    {
+        "universidad": "UIDE (Universidad Internacional del Ecuador)",
+        "carrera": "Comercio Exterior y Aduanas (En Línea)",
+        "career_url_ref": "https://www.uide.edu.ec/comercio-exterior-y-aduanas-en-linea/",
+        "pensum": null,
+        "materias": [
+            {
+                "nombre": "Principios de Marketing para Organizaciones Globales",
+                "semestre": 1
+            },
+            {
+                "nombre": "Principios Financieros para Organizaciones Globales",
+                "semestre": 1
+            },
+            {
+                "nombre": "Principios de Negocios Globales",
+                "semestre": 1
+            },
+            {
+                "nombre": "Writing and Communication",
+                "semestre": 1
+            },
+            {
+                "nombre": "Comportamiento Organizacional para Gerentes",
+                "semestre": 2
+            },
+            {
+                "nombre": "Principios Contables para Organizaciones Globales",
+                "semestre": 2
+            },
+            {
+                "nombre": "Entorno de los Negocios Regionales",
+                "semestre": 2
+            },
+            {
+                "nombre": "Critical thinking",
+                "semestre": 2
+            },
+            {
+                "nombre": "Legislación Aduanera",
+                "semestre": 3
+            },
+            {
+                "nombre": "Gestión de Procesos Aduaneros",
+                "semestre": 3
+            },
+            {
+                "nombre": "Negociación Internacional",
+                "semestre": 3
+            },
+            {
+                "nombre": "Digital literacy",
+                "semestre": 3
+            },
+            {
+                "nombre": "Valoración Aduanera",
+                "semestre": 4
+            },
+            {
+                "nombre": "Gestión de la Calidad y Seguros",
+                "semestre": 4
+            },
+            {
+                "nombre": "Nomenclatura Arancelaria",
+                "semestre": 4
+            },
+            {
+                "nombre": "Investigación de Mercados Internacionales",
+                "semestre": 4
+            },
+            {
+                "nombre": "Operaciones Cadena de Suministros para Organizaciones Globales",
+                "semestre": 5
+            },
+            {
+                "nombre": "Acuerdos Económicos Regionales de Comercio",
+                "semestre": 5
+            },
+            {
+                "nombre": "Personal and Professional Development",
+                "semestre": 5
+            },
+            {
+                "nombre": "Entrepreneurship",
+                "semestre": 5
+            },
+            {
+                "nombre": "Práctica de Servicio Comunitario",
+                "semestre": 5
+            },
+            {
+                "nombre": "Logística Internacional",
+                "semestre": 6
+            },
+            {
+                "nombre": "Integración Global",
+                "semestre": 6
+            },
+            {
+                "nombre": "Conformación de la Oportunidad",
+                "semestre": 6
+            },
+            {
+                "nombre": "Práctica Preprofesional I",
+                "semestre": 6
+            },
+            {
+                "nombre": "Plan de Negocios para Internacionalización",
+                "semestre": 7
+            },
+            {
+                "nombre": "Emprendimiento / Seminario",
+                "semestre": 7
+            },
+            {
+                "nombre": "Contabilidad Global",
+                "semestre": 7
+            },
+            {
+                "nombre": "Práctica Preprofesional II",
+                "semestre": 7
+            },
+            {
+                "nombre": "International Business Intelligence",
+                "semestre": 8
+            },
+            {
+                "nombre": "Creación de valor y Oportunidad de Emprendimiento",
+                "semestre": 8
+            },
+            {
+                "nombre": "Gestión Integral del null",
+                "semestre": 8
+            }
+        ],
+        "totales": {
+            "total_creditos": null,
+            "total_horas": null
+        }
+    },
+    {
+        "universidad": "Universidad Internacional del Ecuador (UIDE) / Arizona State University",
+        "carrera": "Comercio Exterior y Aduanas",
+        "career_url_ref": "https://www.uide.edu.ec/carrera-de-comercio-exterior-y-aduanas/",
+        "pensum": null,
+        "materias": [
+            {
+                "nombre": "Principios de Administración",
+                "semestre": 1
+            },
+            {
+                "nombre": "Computación Aplicada y Tecnología de la Información",
+                "semestre": 1
+            },
+            {
+                "nombre": "Nomenclatura Arancelaria",
+                "semestre": 1
+            },
+            {
+                "nombre": "Organizaciones Globales",
+                "semestre": 1
+            },
+            {
+                "nombre": "Macroeconomía",
+                "semestre": 1
+            },
+            {
+                "nombre": "Ética para Gerentes",
+                "semestre": 1
+            },
+            {
+                "nombre": "Principios de Marketing Global",
+                "semestre": 2
+            },
+            {
+                "nombre": "Cálculo",
+                "semestre": 2
+            },
+            {
+                "nombre": "Clasificación Aduanera",
+                "semestre": 2
+            },
+            {
+                "nombre": "Innovación en la Sociedad",
+                "semestre": 2
+            },
+            {
+                "nombre": "Microeconomía",
+                "semestre": 2
+            },
+            {
+                "nombre": "Derecho Comercial y Societario",
+                "semestre": 2
+            },
+            {
+                "nombre": "Matemática para los Negocios",
+                "semestre": 3
+            },
+            {
+                "nombre": "Análisis de Datos Estadísticos",
+                "semestre": 3
+            },
+            {
+                "nombre": "Técnicas de Investigación de Mercados Internacionales",
+                "semestre": 3
+            },
+            {
+                "nombre": "Negociación Internacional",
+                "semestre": 3
+            },
+            {
+                "nombre": "Trabajo en Equipo",
+                "semestre": 3
+            },
+            {
+                "nombre": "Creación de Valor y Emprendimiento/Seminario de Emprendimiento",
+                "semestre": 3
+            },
+            {
+                "nombre": "Liderazgo Global y Desarrollo Personal",
+                "semestre": 4
+            },
+            {
+                "nombre": "Entorno Aduanero",
+                "semestre": 4
+            },
+            {
+                "nombre": "Logística en la Cadena de Suministro",
+                "semestre": 4
+            },
+            {
+                "nombre": "E-commerce Internacional",
+                "semestre": 4
+            },
+            {
+                "nombre": "Valoración Aduanera",
+                "semestre": 4
+            },
+            {
+                "nombre": "Desarrollo Económico y Globalización",
+                "semestre": 4
+            },
+            {
+                "nombre": "Gestión de la Calidad",
+                "semestre": 5
+            },
+            {
+                "nombre": "Legislación Aduanera I",
+                "semestre": 5
+            },
+            {
+                "nombre": "Adquisiciones Estratégicas",
+                "semestre": 5
+            },
+            {
+                "nombre": "International Business Intelligence",
+                "semestre": 5
+            },
+            {
+                "nombre": "Importaciones",
+                "semestre": 5
+            },
+            {
+                "nombre": "Gestión de Proyectos",
+                "semestre": 5
+            },
+            {
+                "nombre": "Contabilidad Global",
+                "semestre": 6
+            },
+            {
+                "nombre": "Legislación Aduanera II",
+                "semestre": 6
+            },
+            {
+                "nombre": "Gestión de Procesos y Cadena de Suministro",
+                "semestre": 6
+            },
+            {
+                "nombre": "Plan de Negocios para la Internacionalización",
+                "semestre": 6
+            },
+            {
+                "nombre": "Exportaciones",
+                "semestre": 6
+            },
+            {
+                "nombre": "Comunitario",
+                "semestre": 6
+            },
+            {
+                "nombre": "Análisis y Cooperación Aduanera",
+                "semestre": 7
+            },
+            {
+                "nombre": "Aduanera/Fraudes y Control Aduanero",
+                "semestre": 7
+            },
+            {
+                "nombre": "Gestión Integral del Comercio Exterior",
+                "semestre": 7
+            },
+            {
+                "nombre": "Conformación de la Oportunidad",
+                "semestre": 7
+            },
+            {
+                "nombre": "Seminario de Unidad de Integración",
+                "semestre": 8
+            }
+        ],
+        "totales": {
+            "total_creditos": null,
+            "total_horas": null
+        }
+    },
+    {
+        "universidad": "Universidad Internacional del Ecuador (UIDE)",
+        "carrera": "Ciencias Políticas y Relaciones Internacionales",
+        "career_url_ref": "https://www.uide.edu.ec/carrera-de-ciencias-politicas-y-relaciones-internacionales/",
+        "pensum": "Segunda Titulación",
+        "materias": [
+            {
+                "nombre": "Pensamiento Político Global",
+                "semestre": 1
+            },
+            {
+                "nombre": "Matemática",
+                "semestre": 1
+            },
+            {
+                "nombre": "Introducción al Derecho",
+                "semestre": 1
+            },
+            {
+                "nombre": "Estrategias de Escritura Académica",
+                "semestre": 1
+            },
+            {
+                "nombre": "Introducción a la Ciencia Política",
+                "semestre": 1
+            },
+            {
+                "nombre": "Economía y Pensamiento Económico",
+                "semestre": 2
+            },
+            {
+                "nombre": "Filosofía de la Ciencia (Epistemología)",
+                "semestre": 2
+            },
+            {
+                "nombre": "Sociedad y Globalización",
+                "semestre": 2
+            },
+            {
+                "nombre": "Globalización y Medio Ambiente",
+                "semestre": 2
+            },
+            {
+                "nombre": "Oratoria",
+                "semestre": 2
+            },
+            {
+                "nombre": "Políticas Públicas",
+                "semestre": 3
+            },
+            {
+                "nombre": "Temas de Coyuntura Política Internacional",
+                "semestre": 3
+            },
+            {
+                "nombre": "Ideologías Políticas",
+                "semestre": 3
+            },
+            {
+                "nombre": "Tendencias Globales Contemporáneas",
+                "semestre": 3
+            },
+            {
+                "nombre": "Política Mundial",
+                "semestre": 3
+            },
+            {
+                "nombre": "Desarrollo Económico y Globalización",
+                "semestre": 4
+            },
+            {
+                "nombre": "Organizaciones Internacionales y Diplomacia",
+                "semestre": 4
+            },
+            {
+                "nombre": "Geopolítica y Política Internacional",
+                "semestre": 4
+            },
+            {
+                "nombre": "Derecho Internacional",
+                "semestre": 4
+            },
+            {
+                "nombre": "Política Comparada",
+                "semestre": 4
+            },
+            {
+                "nombre": "Integración Regional y Regionalismo",
+                "semestre": 5
+            },
+            {
+                "nombre": "Principios de Comercio y Gobernanza Global",
+                "semestre": 5
+            },
+            {
+                "nombre": "Cooperación Internacional",
+                "semestre": 5
+            },
+            {
+                "nombre": "Ética y Derechos Humanos",
+                "semestre": 5
+            },
+            {
+                "nombre": "Estadística",
+                "semestre": 5
+            },
+            {
+                "nombre": "Teoría de la Política Internacional",
+                "semestre": 6
+            },
+            {
+                "nombre": "Macroeconomía",
+                "semestre": 6
+            },
+            {
+                "nombre": "Política Pública",
+                "semestre": 6
+            },
+            {
+                "nombre": "Relaciones Internacionales de América Latina",
+                "semestre": 6
+            },
+            {
+                "nombre": "Vinculación con la Sociedad",
+                "semestre": 6
+            },
+            {
+                "nombre": "Violencia, Conflictos y Derechos Humanos",
+                "semestre": 7
+            },
+            {
+                "nombre": "Análisis de Datos en Tiempo Real",
+                "semestre": 7
+            },
+            {
+                "nombre": "Taller de Titulación",
+                "semestre": 7
+            },
+            {
+                "nombre": "Política y Democracia",
+                "semestre": 7
+            },
+            {
+                "nombre": "Práctica Preprofesional I",
+                "semestre": 7
+            },
+            {
+                "nombre": "Seguridad Internacional",
+                "semestre": 8
+            },
+            {
+                "nombre": "Metodología de la Investigación",
+                "semestre": 8
+            },
+            {
+                "nombre": "Problemas de la Democracia",
+                "semestre": 8
+            },
+            {
+                "nombre": "Práctica Preprofesional II",
+                "semestre": 8
+            }
+        ],
+        "totales": {
+            "total_creditos": null,
+            "total_horas": null
+        }
+    },
+    {
+        "universidad": "Universidad Internacional del Ecuador",
+        "carrera": "Ingeniería Civil",
+        "career_url_ref": "https://www.uide.edu.ec/carrera-de-ingenieria-civil/",
+        "pensum": null,
+        "materias": [
+            {
+                "nombre": "Introducción a la ingenieria",
+                "semestre": 1
+            },
+            {
+                "nombre": "Cálculo para ingenieros I",
+                "semestre": 1
+            },
+            {
+                "nombre": "Química general para ingenieros",
+                "semestre": 1
+            },
+            {
+                "nombre": "Física",
+                "semestre": 1
+            },
+            {
+                "nombre": "Ingeniería asistida por computadora",
+                "semestre": 1
+            },
+            {
+                "nombre": "Algebra lineal elemental",
+                "semestre": 2
+            },
+            {
+                "nombre": "Cálculo para ingenieros II",
+                "semestre": 2
+            },
+            {
+                "nombre": "Materiales y sostenibilidad",
+                "semestre": 2
+            },
+            {
+                "nombre": "Ingeniería Mecánica I: Estática",
+                "semestre": 2
+            },
+            {
+                "nombre": "Tecnología de los materiales",
+                "semestre": 2
+            },
+            {
+                "nombre": "Ecuaciones diferenciales modernas",
+                "semestre": 3
+            },
+            {
+                "nombre": "Cálculo para ingenieros III",
+                "semestre": 3
+            },
+            {
+                "nombre": "Estadística y probabilidad para ingenieros",
+                "semestre": 3
+            },
+            {
+                "nombre": "Ingeniería mecánica II: Dinámica",
+                "semestre": 3
+            },
+            {
+                "nombre": "Geología",
+                "semestre": 3
+            },
+            {
+                "nombre": "Métodos numéricos para Ingenieros",
+                "semestre": 4
+            },
+            {
+                "nombre": "Topografía y Geomática",
+                "semestre": 4
+            },
+            {
+                "nombre": "PRÁCTICA PREPROFESIONAL I",
+                "semestre": 4
+            },
+            {
+                "nombre": "Mecánica de fluidos",
+                "semestre": 4
+            },
+            {
+                "nombre": "Sólidos deformables",
+                "semestre": 4
+            },
+            {
+                "nombre": "Diseño estructural",
+                "semestre": 5
+            },
+            {
+                "nombre": "Análisis estructural",
+                "semestre": 5
+            },
+            {
+                "nombre": "Mecánica de suelos",
+                "semestre": 5
+            },
+            {
+                "nombre": "Análisis y diseño de pavimentos",
+                "semestre": 5
+            },
+            {
+                "nombre": "Hidrología",
+                "semestre": 5
+            },
+            {
+                "nombre": "Estructuras de hormigón",
+                "semestre": 6
+            },
+            {
+                "nombre": "Ingeniería sanitaria y ambiental",
+                "semestre": 6
+            },
+            {
+                "nombre": "Estructuras de acero",
+                "semestre": 6
+            },
+            {
+                "nombre": "Ingeniería hidráulica",
+                "semestre": 6
+            },
+            {
+                "nombre": "Proyecto de titulación",
+                "semestre": 6
+            },
+            {
+                "nombre": "Edificación e instalaciones",
+                "semestre": 7
+            },
+            {
+                "nombre": "PRÁCTICA PREPROFESIONAL II",
+                "semestre": 7
+            },
+            {
+                "nombre": "Ingeniería Geotécnica",
+                "semestre": 7
+            },
+            {
+                "nombre": "Administración de la ingeniería",
+                "semestre": 7
+            },
+            {
+                "nombre": "Ingeniería de transportes",
+                "semestre": 7
+            },
+            {
+                "nombre": "Diseño y trazado de vías y puentes",
+                "semestre": 7
+            },
+            {
+                "nombre": "Diseño integrado de Ingeniería Civil",
+                "semestre": 8
+            },
+            {
+                "nombre": "VINCULACIÓN CON LA SOCIEDAD",
+                "semestre": 8
+            },
+            {
+                "nombre": "Tecnología de la construcción",
+                "semestre": 8
+            },
+            {
+                "nombre": "Planificación, elaboración y cios de",
+                "semestre": 8
+            },
+            {
+                "nombre": "Presupuesto y programación de obra",
+                "semestre": 8
+            }
+        ],
+        "totales": {
+            "total_creditos": null,
+            "total_horas": null
+        }
+    },
+    {
+        "universidad": "Universidad Internacional del Ecuador",
+        "carrera": "Arquitectura",
+        "career_url_ref": "https://www.uide.edu.ec/carrera-de-arquitectura/",
+        "pensum": null,
+        "materias": [
+            {
+                "nombre": "Forma y Espacio",
+                "semestre": 1
+            },
+            {
+                "nombre": "Dibujo para el Diseño",
+                "semestre": 1
+            },
+            {
+                "nombre": "Dibujo Arquitectónico I",
+                "semestre": 1
+            },
+            {
+                "nombre": "Vida Creativa",
+                "semestre": 1
+            },
+            {
+                "nombre": "Epistemología e Investigación",
+                "semestre": 1
+            },
+            {
+                "nombre": "Diseño Arquitectónico I",
+                "semestre": 2
+            },
+            {
+                "nombre": "Descriptiva",
+                "semestre": 2
+            },
+            {
+                "nombre": "Medios de Representación Digital I",
+                "semestre": 2
+            },
+            {
+                "nombre": "Dibujo Arquitectónico II",
+                "semestre": 2
+            },
+            {
+                "nombre": "Introducción a la Arquitectura",
+                "semestre": 2
+            },
+            {
+                "nombre": "Proyecto Integrador",
+                "semestre": 2
+            },
+            {
+                "nombre": "Diseño Arquitectónico II",
+                "semestre": 3
+            },
+            {
+                "nombre": "Medios de Representación Digital II",
+                "semestre": 3
+            },
+            {
+                "nombre": "Percepción del Espacio Arquitectónico",
+                "semestre": 3
+            },
+            {
+                "nombre": "Historia de la Arquitectura I",
+                "semestre": 3
+            },
+            {
+                "nombre": "Historia del Urbanismo",
+                "semestre": 3
+            },
+            {
+                "nombre": "Diseño Arquitectónico III",
+                "semestre": 4
+            },
+            {
+                "nombre": "Medios de Representación Digital III",
+                "semestre": 4
+            },
+            {
+                "nombre": "Historia de la Arquitectura II",
+                "semestre": 4
+            },
+            {
+                "nombre": "Teorías Urbanas",
+                "semestre": 4
+            },
+            {
+                "nombre": "Diseño Arquitectónico IV",
+                "semestre": 5
+            },
+            {
+                "nombre": "Medios de Representación Digital IV",
+                "semestre": 5
+            },
+            {
+                "nombre": "Teoría y Crítica de la Arquitectura",
+                "semestre": 5
+            },
+            {
+                "nombre": "Urbanismo y Paisaje",
+                "semestre": 5
+            },
+            {
+                "nombre": "Diseño Urbano V",
+                "semestre": 6
+            },
+            {
+                "nombre": "Medios de Representación Digital V",
+                "semestre": 6
+            },
+            {
+                "nombre": "Presupuestos",
+                "semestre": 6
+            },
+            {
+                "nombre": "Rehabilitación Arquitectónica",
+                "semestre": 6
+            },
+            {
+                "nombre": "Planeamiento Urbano",
+                "semestre": 6
+            },
+            {
+                "nombre": "Diseño Urbano VI",
+                "semestre": 7
+            },
+            {
+                "nombre": "Gerencia de Proyectos Arquitectónicos",
+                "semestre": 7
+            },
+            {
+                "nombre": "Estilo y Narrativa Gráfica",
+                "semestre": 7
+            },
+            {
+                "nombre": "Territorial Multiescalar",
+                "semestre": 7
+            },
+            {
+                "nombre": "Prácticas Profesionales",
+                "semestre": 7
+            },
+            {
+                "nombre": "Taller Proyecto Integrador I",
+                "semestre": 8
+            },
+            {
+                "nombre": "Arquitectura Legal",
+                "semestre": 8
+            },
+            {
+                "nombre": "Documental",
+                "semestre": 8
+            },
+            {
+                "nombre": "Prácticas Profesionales",
+                "semestre": 8
+            },
+            {
+                "nombre": "Servicio Comunitario",
+                "semestre": 8
+            },
+            {
+                "nombre": "Taller Proyecto Integrador II",
+                "semestre": 9
+            },
+            {
+                "nombre": "Intervención",
+                "semestre": 9
+            },
+            {
+                "nombre": "Prácticas Profesionales",
+                "semestre": 9
+            }
+        ],
+        "totales": {
+            "total_creditos": null,
+            "total_horas": null
+        }
+    },
+    {
+        "universidad": "Arizona State University",
+        "carrera": "Administración Pública (En Línea)",
+        "career_url_ref": "https://www.uide.edu.ec/carrera-de-administracion-publica-en-linea/",
+        "pensum": null,
+        "materias": [
+            {
+                "nombre": "Principios de Gestión de la Administración Global",
+                "semestre": 1
+            },
+            {
+                "nombre": "Fundamentos de la Ciencia Política",
+                "semestre": 1
+            },
+            {
+                "nombre": "Effective Communication",
+                "semestre": 1
+            },
+            {
+                "nombre": "Macroeconomía",
+                "semestre": 1
+            },
+            {
+                "nombre": "Ética, Sostenibilidad y Desarrollo",
+                "semestre": 1
+            },
+            {
+                "nombre": "Elementos de la Administración Pública",
+                "semestre": 2
+            },
+            {
+                "nombre": "Contabilidad Gubernamental",
+                "semestre": 2
+            },
+            {
+                "nombre": "Dirección Estratégica del Sector Público",
+                "semestre": 2
+            },
+            {
+                "nombre": "Microeconomía para el Desarrollo",
+                "semestre": 2
+            },
+            {
+                "nombre": "Critical and Systems Thinking",
+                "semestre": 2
+            },
+            {
+                "nombre": "Vinculación con la Sociedad",
+                "semestre": 2
+            },
+            {
+                "nombre": "Elementos Estadísticos",
+                "semestre": 3
+            },
+            {
+                "nombre": "Análisis de Políticas Públicas",
+                "semestre": 3
+            },
+            {
+                "nombre": "Derecho Público",
+                "semestre": 3
+            },
+            {
+                "nombre": "Gestión de Procesos y Calidad en el Sector Público",
+                "semestre": 3
+            },
+            {
+                "nombre": "Digital literacy",
+                "semestre": 3
+            },
+            {
+                "nombre": "Práctica Laboral I",
+                "semestre": 3
+            },
+            {
+                "nombre": "Evaluación de Políticas Públicas",
+                "semestre": 4
+            },
+            {
+                "nombre": "Gestión del Talento Humano en la Administración Pública",
+                "semestre": 4
+            },
+            {
+                "nombre": "Economía para el Desarrollo",
+                "semestre": 4
+            },
+            {
+                "nombre": "Innovation and Entrepreneurship",
+                "semestre": 4
+            },
+            {
+                "nombre": "Sistemas de Gobierno",
+                "semestre": 4
+            },
+            {
+                "nombre": "Práctica Laboral II",
+                "semestre": 4
+            },
+            {
+                "nombre": "Proyectos de Inversión Pública",
+                "semestre": 5
+            },
+            {
+                "nombre": "Comunicación Estratégica",
+                "semestre": 5
+            },
+            {
+                "nombre": "Tecnologías de la Información",
+                "semestre": 5
+            },
+            {
+                "nombre": "Marketing y estrategia de servicios",
+                "semestre": 5
+            },
+            {
+                "nombre": "Personal Development",
+                "semestre": 5
+            },
+            {
+                "nombre": "Práctica Laboral III",
+                "semestre": 5
+            },
+            {
+                "nombre": "Conformación de la Oportunidad e Emprendimiento",
+                "semestre": 6
+            },
+            {
+                "nombre": "Cooperación y Organismos Internacionales",
+                "semestre": 6
+            },
+            {
+                "nombre": "Gobernanza, Riesgo, Cumplimiento y Controles Internos",
+                "semestre": 6
+            },
+            {
+                "nombre": "Régimen de Contratación Pública",
+                "semestre": 6
+            },
+            {
+                "nombre": "Customer Experience and Digital Marketing",
+                "semestre": 6
+            },
+            {
+                "nombre": "Liderazgo Global y Desarrollo Personal",
+                "semestre": 7
+            },
+            {
+                "nombre": "Análisis de Datos y Transformación Digital",
+                "semestre": 7
+            },
+            {
+                "nombre": "Derechos Humanos",
+                "semestre": 7
+            },
+            {
+                "nombre": "Gobierno y Políticas Comparadas",
+                "semestre": 7
+            },
+            {
+                "nombre": "Estado de Derecho y Democracia",
+                "semestre": 7
+            },
+            {
+                "nombre": "Negociación y Mediación de Conflictos",
+                "semestre": 8
+            },
+            {
+                "nombre": "Gobierno Electrónico",
+                "semestre": 8
+            },
+            {
+                "nombre": "Políticas e Instrumentos del Desarrollo Regional",
+                "semestre": 8
+            },
+            {
+                "nombre": "Unidad de Integración Curricular",
+                "semestre": 8
+            }
+        ],
+        "totales": {
+            "total_creditos": null,
+            "total_horas": null
+        }
+    },
+    {
+        "universidad": "Universidad Internacional del Ecuador",
+        "carrera": "Administración de Empresas (En Línea)",
+        "career_url_ref": "https://www.uide.edu.ec/administracion-de-empresas-online/",
+        "pensum": null,
+        "materias": [
+            {
+                "nombre": "Marketing Estratégico y Operativo",
+                "semestre": 1
+            },
+            {
+                "nombre": "Matemática para el Análisis de los Negocios",
+                "semestre": 1
+            },
+            {
+                "nombre": "Macroeconomía",
+                "semestre": 1
+            },
+            {
+                "nombre": "Principios de Administración Global",
+                "semestre": 1
+            },
+            {
+                "nombre": "Soluciones de Problemas de Análisis",
+                "semestre": 1
+            },
+            {
+                "nombre": "Investigación de Mercado",
+                "semestre": 2
+            },
+            {
+                "nombre": "Principios Contables para Organizaciones Globales",
+                "semestre": 2
+            },
+            {
+                "nombre": "Microeconomía",
+                "semestre": 2
+            },
+            {
+                "nombre": "Entorno de los Negocios Regionales",
+                "semestre": 2
+            },
+            {
+                "nombre": "Práctica Procesal",
+                "semestre": 2
+            },
+            {
+                "nombre": "Dirección de Marketing",
+                "semestre": 3
+            },
+            {
+                "nombre": "Principios Financieros para Organizaciones Globales",
+                "semestre": 3
+            },
+            {
+                "nombre": "Elementos Estadísticos",
+                "semestre": 3
+            },
+            {
+                "nombre": "Dirección Estratégica",
+                "semestre": 3
+            },
+            {
+                "nombre": "Contabilidad Global",
+                "semestre": 3
+            },
+            {
+                "nombre": "Gestión de Talento Humano",
+                "semestre": 4
+            },
+            {
+                "nombre": "Derecho Comercial",
+                "semestre": 4
+            },
+            {
+                "nombre": "Gerencia de Procesos",
+                "semestre": 4
+            },
+            {
+                "nombre": "Comercio y Negocios Globales",
+                "semestre": 4
+            },
+            {
+                "nombre": "Evaluación de Riesgos Empresariales",
+                "semestre": 4
+            },
+            {
+                "nombre": "Sostenibilidad y Responsabilidad Social",
+                "semestre": 5
+            },
+            {
+                "nombre": "Ética para Gerentes",
+                "semestre": 5
+            },
+            {
+                "nombre": "Comportamiento Dinámico Organizacional",
+                "semestre": 5
+            },
+            {
+                "nombre": "Estrategia Comercial y de Ventas",
+                "semestre": 5
+            },
+            {
+                "nombre": "Vinculación con la Sociedad",
+                "semestre": 5
+            },
+            {
+                "nombre": "Customer Experience",
+                "semestre": 6
+            },
+            {
+                "nombre": "Estrategia Digital y Business",
+                "semestre": 6
+            },
+            {
+                "nombre": "Minería de Datos Empresariales",
+                "semestre": 6
+            },
+            {
+                "nombre": "Conformación de la Oportunidad",
+                "semestre": 6
+            },
+            {
+                "nombre": "Práctica Laboral I",
+                "semestre": 6
+            },
+            {
+                "nombre": "Digital Marketing",
+                "semestre": 7
+            },
+            {
+                "nombre": "Blockchain y Criptomonedas",
+                "semestre": 7
+            },
+            {
+                "nombre": "Análisis de Datos y Transformación Digital",
+                "semestre": 7
+            },
+            {
+                "nombre": "Creación de Valor y Emprendimiento",
+                "semestre": 7
+            },
+            {
+                "nombre": "Práctica Laboral II",
+                "semestre": 7
+            },
+            {
+                "nombre": "Unidad de Integración Curricular",
+                "semestre": 8
+            },
+            {
+                "nombre": "Dirección de Proyectos",
+                "semestre": 8
+            },
+            {
+                "nombre": "Business Simulator",
+                "semestre": 8
+            },
+            {
+                "nombre": "Growth hacking / Python for Data Analytics",
+                "semestre": 8
+            }
+        ],
+        "totales": {
+            "total_creditos": null,
+            "total_horas": null
+        }
+    },
+    {
+        "universidad": "Universidad Internacional del Ecuador",
+        "carrera": "Administración de Empresas",
+        "career_url_ref": "https://www.uide.edu.ec/carrera-de-administracion-de-empresas/",
+        "pensum": null,
+        "materias": [
+            {
+                "nombre": "Principios de Administración Global",
+                "semestre": 1
+            },
+            {
+                "nombre": "Principios Contables para Organizaciones Globales",
+                "semestre": 1
+            },
+            {
+                "nombre": "Effective Communication",
+                "semestre": 1
+            },
+            {
+                "nombre": "Computación Aplicada y Tecnología de la Información",
+                "semestre": 1
+            },
+            {
+                "nombre": "Macroeconomía",
+                "semestre": 1
+            },
+            {
+                "nombre": "Critical and Digital Literacy System Thinking",
+                "semestre": 1
+            },
+            {
+                "nombre": "Cálculo para Organizaciones Globales",
+                "semestre": 2
+            },
+            {
+                "nombre": "Principios de Marketing para Organizaciones Globales",
+                "semestre": 2
+            },
+            {
+                "nombre": "Innovation and Entrepreneurship",
+                "semestre": 2
+            },
+            {
+                "nombre": "Innovación de la Sociedad",
+                "semestre": 2
+            },
+            {
+                "nombre": "Microeconomía",
+                "semestre": 2
+            },
+            {
+                "nombre": "Derecho Comercial y Ética para Gerentes",
+                "semestre": 2
+            },
+            {
+                "nombre": "Principios Financieros",
+                "semestre": 3
+            },
+            {
+                "nombre": "Modelos y Métodos Estadísticos",
+                "semestre": 3
+            },
+            {
+                "nombre": "Matemática para el Análisis de los Negocios",
+                "semestre": 3
+            },
+            {
+                "nombre": "Personal and Professional Development",
+                "semestre": 3
+            },
+            {
+                "nombre": "Marketing Estratégico y Operativo",
+                "semestre": 3
+            },
+            {
+                "nombre": "Creación De Valor y Emprendimiento",
+                "semestre": 3
+            },
+            {
+                "nombre": "Soluciones de Problemas Globales",
+                "semestre": 4
+            },
+            {
+                "nombre": "Marketing y Estrategia",
+                "semestre": 4
+            },
+            {
+                "nombre": "Estrategia Comercial y de Ventas",
+                "semestre": 4
+            },
+            {
+                "nombre": "Comportamiento Dinámico Organizacional",
+                "semestre": 4
+            },
+            {
+                "nombre": "Entorno de los Negocios Regionales",
+                "semestre": 4
+            },
+            {
+                "nombre": "Seminario de Emprendimiento",
+                "semestre": 4
+            },
+            {
+                "nombre": "Dirección Estratégica",
+                "semestre": 5
+            },
+            {
+                "nombre": "Análisis Empresarial",
+                "semestre": 5
+            },
+            {
+                "nombre": "Estrategia Digital y E-Bussiness",
+                "semestre": 5
+            },
+            {
+                "nombre": "Gestión de Talento Humano",
+                "semestre": 5
+            },
+            {
+                "nombre": "Gerencia de Procesos",
+                "semestre": 5
+            },
+            {
+                "nombre": "Conformación de la Oportunidad",
+                "semestre": 5
+            },
+            {
+                "nombre": "Evaluación de Riesgos Empresariales",
+                "semestre": 6
+            },
+            {
+                "nombre": "Business Simulator",
+                "semestre": 6
+            },
+            {
+                "nombre": "Investigación de Mercado",
+                "semestre": 6
+            },
+            {
+                "nombre": "Operaciones",
+                "semestre": 6
+            },
+            {
+                "nombre": "Análisis Contable y Financiero",
+                "semestre": 6
+            },
+            {
+                "nombre": "Contabilidad Global",
+                "semestre": 6
+            },
+            {
+                "nombre": "Análisis de Problemas Globales",
+                "semestre": 7
+            },
+            {
+                "nombre": "Análisis de Datos y Transformación Digital",
+                "semestre": 7
+            },
+            {
+                "nombre": "Cadena de Suministros",
+                "semestre": 7
+            },
+            {
+                "nombre": "Operaciones Comerciales y Planificación",
+                "semestre": 7
+            },
+            {
+                "nombre": "Prácticas de Integración Curricular",
+                "semestre": 7
+            },
+            {
+                "nombre": "Marketing Global",
+                "semestre": 8
+            },
+            {
+                "nombre": "Liderazgo Global y Desarrollo Personal",
+                "semestre": 8
+            },
+            {
+                "nombre": "Customer Experience & Digital Growth Hacking",
+                "semestre": 8
+            },
+            {
+                "nombre": "Gerencia de Marketing",
+                "semestre": 8
+            },
+            {
+                "nombre": "Titulación Empresarial",
+                "semestre": 8
+            }
+        ],
+        "totales": {
+            "total_creditos": null,
+            "total_horas": null
+        }
+    }
+]

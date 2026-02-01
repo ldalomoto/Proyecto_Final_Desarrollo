@@ -16,7 +16,8 @@ def generate_global_id(uni_name, modality, career_name):
         "Universidad de las Artes": "UARTES",
         "Universidad de Las Américas": "UDLA",
         "Escuela Politécnica Nacional": "EPN",
-        "Universidad Técnica de Cotopaxi": "UTC"
+        "Universidad Técnica de Cotopaxi": "UTC",
+        "Universidad Técnológica ECOTEC": "ECOTEC"
     }
     sigla = siglas_map.get(uni_name, re.sub(r'\W+', '', uni_name[:6]).upper())
     
@@ -27,7 +28,7 @@ def generate_global_id(uni_name, modality, career_name):
     return f"{sigla}_{mod}_{name}"
 
 def merge_and_save(careers_data, subjects_data):
-    output_folder = "../data_unificada"
+    output_folder = "Data_UniDream/data_unificada"
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
 
@@ -102,14 +103,14 @@ def merge_and_save(careers_data, subjects_data):
 
 # --- Ejecución ---
 files_to_process = [
-    ('epn_careers.json', 'epn_mallas.json')
+    ('ecotec_careers.json', 'ecotec_mallas.json')
 ]
 
 for career_file, malla_file in files_to_process:
     try:
         # Ajusta las rutas según tu estructura de carpetas
-        path_c = os.path.join('../data', career_file)
-        path_m = os.path.join('../data_malla', malla_file)
+        path_c = os.path.join('Data_UniDream/data', career_file)
+        path_m = os.path.join('Data_UniDream/data_malla', malla_file)
         
         if not os.path.exists(path_c):
             print(f"❌ No existe: {path_c}")

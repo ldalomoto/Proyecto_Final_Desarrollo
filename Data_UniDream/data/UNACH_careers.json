@@ -1,0 +1,470 @@
+[
+    {
+        "nombre_carrera": "Medicina",
+        "nombre_facultad": "Ciencias de la Salud",
+        "nombre_universidad": "Universidad Nacional de Chimborazo",
+        "nombre_titulo": "Médico",
+        "numero_semestres": "10 semestres",
+        "malla_url": "https://www.unach.edu.ec/wp-content/Facultades/Ciencias_Salud/medicina/plan_de_accion/2023/PLAN%20DE%20ACCION.pdf",
+        "descripcion_carrera": "La Carrera de Medicina de la Universidad Nacional de Chimborazo enfrenta continuos retos en el mejoramiento de la Calidad en sinergia con las exigencias crecientes del entorno laboral así como de las profundas transformaciones sociales en los ámbito internacional, regional y local, desde esta perspectiva la carrera se proyecta al desarrollo e innovación constante de procesos mediante la aplicación de herramientas de planificación estratégicas que permitan planificar, organizar, coordinar y controlar el desarrollo adecuado del entorno educativo en todos sus ejes sustantivos: academia, investigación y vinculación.",
+        "ubicacion_sedes": [
+            "Riobamba"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "En línea",
+        "enlace_carrera": "https://www.unach.edu.ec/medicina-ele/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "rectorado@unach.edu.ec"
+    },
+    {
+        "nombre_carrera": "Odontología",
+        "nombre_facultad": "Ciencias de la Salud",
+        "nombre_universidad": "Universidad Nacional de Chimborazo",
+        "nombre_titulo": "Odontólogo",
+        "numero_semestres": "10 semestres",
+        "malla_url": "https://www.unach.edu.ec/wp-content/Facultades/Ciencias_Salud/odontologia/2025/14._malla_curricular_ajuste_modelo_educativo_-_2024.pdf",
+        "descripcion_carrera": "La carrera de Odontología se crea adscrita a la Facultad de Ciencias de la Salud en el año 2012, mediante Resolución N° 0240-HCU-18-07-2012; desde entonces forma profesionales con calidad académica y científica en salud oral, basando sus fortalezas formativas en la investigación, en la actualización científica, la práctica de valores y la vinculación con la comunidad, desarrollando proyectos y actividades de interés para el cuidado de la salud bucal; trabaja junto con todas las instituciones de salud, para cumplir con los objetivos del plan nacional de salud bucal, integrando a docentes, estudiantes, personal administrativo y de servicio, para garantizar que la población tenga acceso a los de servicios de odontología.",
+        "ubicacion_sedes": [
+            "Riobamba"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.unach.edu.ec/odontologia-ele/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "rectorado@unach.edu.ec"
+    },
+    {
+        "nombre_carrera": "Enfermería",
+        "nombre_facultad": "Ciencias de la Salud",
+        "nombre_universidad": "Universidad Nacional de Chimborazo",
+        "nombre_titulo": "Licenciado",
+        "numero_semestres": "9 semestres",
+        "malla_url": "No encontrada",
+        "descripcion_carrera": "La carrera de Enfermería de la Universidad Nacional de Chimborazo forma profesionales competitivos en su desempeño asistencial, docente, investigativo y administrativo, con conocimientos científicos, técnicos y axiológicos, capaces de ejercer su profesión en los diferentes niveles de complejidad, contribuyendo a la solución de los principales problemas de salud de la población en todo el ciclo de la vida.",
+        "ubicacion_sedes": [
+            "Riobamba"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.unach.edu.ec/enfermeria-ele/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "rectorado@unach.edu.ec"
+    },
+    {
+        "nombre_carrera": "Fisioterapia",
+        "nombre_facultad": "Ciencias de la Salud",
+        "nombre_universidad": "Universidad Nacional de Chimborazo",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "No especificado",
+        "malla_url": "No encontrada",
+        "descripcion_carrera": "Desconocido",
+        "ubicacion_sedes": [
+            "Riobamba"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.unach.edu.ec/fisioterapia/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "rectorado@unach.edu.ec"
+    },
+    {
+        "nombre_carrera": "Laboratorio Clínico",
+        "nombre_facultad": "Ciencias de la Salud",
+        "nombre_universidad": "Universidad Nacional de Chimborazo",
+        "nombre_titulo": "Licenciado en Laboratorio Clínico Carrera de",
+        "numero_semestres": "9 semestres",
+        "malla_url": "No encontrada",
+        "descripcion_carrera": "La carrera tiene la misión de formar profesionales con valores éticos, líderes, emprendedores, en la aplicación de métodos y procedimientos para el análisis de muestras biológicas, aplicando normas de control de calidad y bioseguridad, para la ayuda al diagnóstico médico y el mejoramiento de la salud, respetando la interculturalidad, el ambiente y saberes ancestrales.",
+        "ubicacion_sedes": [
+            "Riobamba"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.unach.edu.ec/laboratorio-clinico-ele/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "rectorado@unach.edu.ec"
+    },
+    {
+        "nombre_carrera": "Arquitectura",
+        "nombre_facultad": "Ingeniería",
+        "nombre_universidad": "Universidad Nacional de Chimborazo",
+        "nombre_titulo": "Arquitecto",
+        "numero_semestres": "9 semestres",
+        "malla_url": "No encontrada",
+        "descripcion_carrera": "Formamos profesionales cultos, críticos y comprometidos con la sociedad y su desarrollo sostenible, altamente calificados en los diversos campos profesionales para responder con soluciones correctas e innovadoras a las necesidades sociales enmarcadas en la transformación del hábitat.",
+        "ubicacion_sedes": [
+            "Riobamba"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.unach.edu.ec/arquitectura-ele/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "rectorado@unach.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería Ambiental",
+        "nombre_facultad": "Ingeniería",
+        "nombre_universidad": "Universidad Nacional de Chimborazo",
+        "nombre_titulo": "Ingeniero",
+        "numero_semestres": "8 semestres",
+        "malla_url": "No encontrada",
+        "descripcion_carrera": "La carrera de Ingeniería Ambiental de la Universidad Nacional de Chimborazo forma profesionales que aplican los principios de la ciencia y la ingeniería, para planificar y diseñar soluciones técnicas para la prevención, control, evaluación, tratamiento y mediación de problemas ambientales relacionados con el cambio climático, los recursos naturales, la sostenibilidad ambiental, los residuos sólidos y líquidos, la contaminación del aire, los recursos hídricos, y la gestión ambiental.",
+        "ubicacion_sedes": [
+            "Riobamba"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.unach.edu.ec/ingenieria-ambiental-ele/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "rectorado@unach.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería Civil",
+        "nombre_facultad": "Ingeniería",
+        "nombre_universidad": "Universidad Nacional de Chimborazo",
+        "nombre_titulo": "Ingeniero",
+        "numero_semestres": "9 semestres",
+        "malla_url": "https://www.unach.edu.ec/wp-content/Facultades/Ingenier%C3%ADa/mallas_academicas_2025/malla%20civil%202024-2s%20al%202025%201s.pdf",
+        "descripcion_carrera": "Formamos Ingenieros Civiles con sólidos conocimientos técnicos, tecnológicos y humanísticos, con compromisos éticos, ambientales y de calidad en la planificación, diseño y construcción de obras civiles, que permitan proponer alternativas que contribuyan al bienestar y desarrollo de la comunidad.",
+        "ubicacion_sedes": [
+            "Riobamba"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.unach.edu.ec/ingenieria-civil-ele/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "rectorado@unach.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería Industrial",
+        "nombre_facultad": "Ingeniería",
+        "nombre_universidad": "Universidad Nacional de Chimborazo",
+        "nombre_titulo": "Ingeniero",
+        "numero_semestres": "8 semestres",
+        "malla_url": "No encontrada",
+        "descripcion_carrera": "Forma profesionales que planifican, organizan, dirigen y controlan sistemas productivos, implementan normas de gestión integral. Usan el mejoramiento continuo, incrementa la productividad de las organizaciones, tanto en el campo administrativo como dentro de la manufactura.",
+        "ubicacion_sedes": [
+            "Riobamba"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.unach.edu.ec/ingenieria-industrial-ele/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "rectorado@unach.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería En Tecnologías De La Información",
+        "nombre_facultad": "Ingeniería",
+        "nombre_universidad": "Universidad Nacional de Chimborazo",
+        "nombre_titulo": "Ingeniero",
+        "numero_semestres": "8 semestres",
+        "malla_url": "No encontrada",
+        "descripcion_carrera": "El programa de Ingeniería en Tecnologías de la Información está diseñado para formar ingenieros competentes, éticos, emprendedores e innovadores, con una sólida base teórica y práctica en el diseño, implementación y evaluación de soluciones tecnológicas. Los estudiantes desarrollarán habilidades en áreas clave como analítica de datos, inteligencia artificial, redes e infraestructura TI, y ciberseguridad, con un enfoque sistémico, holístico y socio-crítico.",
+        "ubicacion_sedes": [
+            "Riobamba"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.unach.edu.ec/ingenieria-en-tecnologias-de-la-informacion22/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "rectorado@unach.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería En Telecomunicaciones",
+        "nombre_facultad": "Ingeniería",
+        "nombre_universidad": "Universidad Nacional de Chimborazo",
+        "nombre_titulo": "Ingeniero",
+        "numero_semestres": "8 semestres",
+        "malla_url": "No encontrada",
+        "descripcion_carrera": "Formamos profesionales para dar respuesta a la creciente exigencia de solución de problemas relacionados con la tecnología electrónica en sus ramas básicas: dispositivos electrónicos, sistemas digitales, instrumentos de control, a través de una fuerte formación teórica y práctica profesional.",
+        "ubicacion_sedes": [
+            "Riobamba"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "En línea",
+        "enlace_carrera": "https://www.unach.edu.ec/ingenieria-en-telecomunicaciones-ele/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "rectorado@unach.edu.ec"
+    },
+    {
+        "nombre_carrera": "Cronograma Prueba De Ubicación Carreras Presenciales – Competencias Lingüísticas – Periodo 2026 – 1S",
+        "nombre_facultad": "Ingeniería",
+        "nombre_universidad": "Universidad Nacional de Chimborazo",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "No especificado",
+        "malla_url": "No encontrada",
+        "descripcion_carrera": "Cronograma prueba de ubicación carreras presenciales - Competencias Lingüísticas - Periodo 2026 - 1S » Universidad Nacional de Chimborazo Skip to content Academia Comunicados Noticias by Administrador Enero 16, 2026 No comment(s) Cronograma prueba de ubicación carreras presenciales – Competencias Lingüísticas – Periodo 2026 – 1S PÚBLICO OBJETIVO DIRIGIDO A LOS ESTUDIANTES DE NIVELACIÓN Y A AQUELLOS QUE NO CUENTEN CON NINGUNA MATRICULA EN EL IDIOMA INGLÉS. PERÍODO 2026 – 1S NOTA: LLEVAR AUDÍFONOS CON CABLE, PRESENTAR LA CÉDULA DE IDENTIDAD O PASAPORTE. CRONOGRAMAS: HORARIOS FRANCÉS ↓ HORARIOS I",
+        "ubicacion_sedes": [
+            "Riobamba"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.unach.edu.ec/cronograma-prueba-de-ubicacion-carreras-presenciales-competencias-linguisticas-periodo-2026-1s/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "rectorado@unach.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ver Todas Las Carreras",
+        "nombre_facultad": "Ciencias de la Salud",
+        "nombre_universidad": "Universidad Nacional de Chimborazo",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "No especificado",
+        "malla_url": "No encontrada",
+        "descripcion_carrera": "Facultad de Ciencias de la Salud » Universidad Nacional de Chimborazo Skip to content [tm_pb_section admin_label=”Modulo de carreras” fullwidth=”off” specialty=”off” transparent_background=”on” allow_player_pause=”off” inner_shadow=”on” parallax=”on” parallax_method=”off” padding_mobile=”off” make_fullwidth=”off” use_custom_width=”off” width_unit=”on” make_equal=”off” use_custom_gutter=”off” custom_css_main_element=”min-height: 28em;” custom_padding=”20px|0px|0px|0px”][tm_pb_row admin_label=”Row” make_fullwidth=”off” use_custom_width=”off” use_grid_padding=”on” width_unit=”on” padding_mobile=”",
+        "ubicacion_sedes": [
+            "Riobamba"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.unach.edu.ec/facultad-de-ciencias-de-la-salud/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "rectorado@unach.edu.ec"
+    },
+    {
+        "nombre_carrera": "Fisioterapia",
+        "nombre_facultad": "Ingeniería",
+        "nombre_universidad": "Universidad Nacional de Chimborazo",
+        "nombre_titulo": "Licenciado",
+        "numero_semestres": "9 semestres",
+        "malla_url": "No encontrada",
+        "descripcion_carrera": "La carrera de Fisioterapia forma profesionales capacitados para prevenir, diagnosticar y tratar disfunciones del movimiento humano. Además, promueve la rehabilitación integral mediante el uso adecuado de técnicas terapéuticas, investigación y compromiso ético. Su enfoque interdisciplinario contribuye a mejorar la calidad de vida de las personas en diversos contextos clínicos, sociales y comunitarios.",
+        "ubicacion_sedes": [
+            "Riobamba"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.unach.edu.ec/fisioterapia-ele/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "rectorado@unach.edu.ec"
+    },
+    {
+        "nombre_carrera": "Economía Investiga Xv: La Unach Desarrolló Un Encu…",
+        "nombre_facultad": "Ingeniería",
+        "nombre_universidad": "Universidad Nacional de Chimborazo",
+        "nombre_titulo": "No especificado",
+        "numero_semestres": "No especificado",
+        "malla_url": "No encontrada",
+        "descripcion_carrera": "La Universidad Nacional de Chimborazo (Unach), junto con la Carrera de Economía, desarrolló la XV edición del Congreso Internacional “Economía Investiga”, un espacio académico que consolidó el intercambio y la difusión de proyectos de investigación en el campo económico.El evento se realizó los días 18 y 19 de noviembre, en el marco de la conmemoración del aniversario institucional.",
+        "ubicacion_sedes": [
+            "Riobamba"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.unach.edu.ec/economia-investiga-xv-la-unach-desarrollo-un-encuentro-academico-internacional-y-entrego-los-premios-impulso-2025/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "rectorado@unach.edu.ec"
+    },
+    {
+        "nombre_carrera": "Economía",
+        "nombre_facultad": "Ciencias Políticas y Administrativas",
+        "nombre_universidad": "Universidad Nacional de Chimborazo",
+        "nombre_titulo": "Economista Carrera de",
+        "numero_semestres": "8 semestres",
+        "malla_url": "No encontrada",
+        "descripcion_carrera": "Forma profesionales capaces de vincular teorías, métodos e instrumentos de la ciencia económica, para analizar y proponer soluciones sostenibles y sustentables a los problemas de la economía, en sus niveles macro y micro, con altos valores éticos y en armonía con el medio ambiente.",
+        "ubicacion_sedes": [
+            "Riobamba"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.unach.edu.ec/economia-ele/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "rectorado@unach.edu.ec"
+    },
+    {
+        "nombre_carrera": "Derecho",
+        "nombre_facultad": "Ciencias Políticas y Administrativas",
+        "nombre_universidad": "Universidad Nacional de Chimborazo",
+        "nombre_titulo": "Abogado",
+        "numero_semestres": "9 semestres",
+        "malla_url": "No encontrada",
+        "descripcion_carrera": "Forma abogados con altos conocimientos técnicos y científicos, capaces de aportar respuestas jurídicas, innovadoras, eficaces y oportunas, aplicando las leyes, normas y reglas jurídicas, con una perspectiva ética moral, humanística y justicia social, con actitud científica y metodología jurídica.",
+        "ubicacion_sedes": [
+            "Riobamba"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.unach.edu.ec/derecho-ele/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "rectorado@unach.edu.ec"
+    },
+    {
+        "nombre_carrera": "Psicopedagogía",
+        "nombre_facultad": "Ciencias de la Educación",
+        "nombre_universidad": "Universidad Nacional de Chimborazo",
+        "nombre_titulo": "Licenciado",
+        "numero_semestres": "8 semestres",
+        "malla_url": "No encontrada",
+        "descripcion_carrera": "Formar profesionales con alto nivel de competencias científicas, axiológicas ytecnológicas que integren el pensamiento crítico, creativo y práctico; promoviendoliderazgo y trabajo participativo, sustentados en metodologías activas, colaborativas y cooperativas, contribuyendo al mejoramiento profesional, en respuesta a la demanda del contexto laboral yeducativo del país.",
+        "ubicacion_sedes": [
+            "Riobamba"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.unach.edu.ec/psicopedagogia-ele/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "rectorado@unach.edu.ec"
+    },
+    {
+        "nombre_carrera": "Pedagogía De La Actividad Física Y El Deporte",
+        "nombre_facultad": "Ciencias de la Educación",
+        "nombre_universidad": "Universidad Nacional de Chimborazo",
+        "nombre_titulo": "Licenciado",
+        "numero_semestres": "8 semestres",
+        "malla_url": "https://www.unach.edu.ec/wp-content/Mallas%20acad%C3%A9micas/F.C.Humanas_Tec/actividad_fisica/Malla%20Curricular%202016.pdf",
+        "descripcion_carrera": "Forma profesionales pedagogos capaces de identificar, diseñar y aplicar programas de actividad física y deporte con la finalidad de responder a situaciones y problemas relacionadas con alto rendimiento, educación física y gestión deportiva en el ámbito deportivo local, nacional e internacional.",
+        "ubicacion_sedes": [
+            "Riobamba"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.unach.edu.ec/pedagogia-de-la-actividad-fisica-y-el-deporte-2/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "rectorado@unach.edu.ec"
+    },
+    {
+        "nombre_carrera": "Pedagogía De Los Idiomas Nacionales Y Extranjeros",
+        "nombre_facultad": "Ciencias de la Educación",
+        "nombre_universidad": "Universidad Nacional de Chimborazo",
+        "nombre_titulo": "Licenciado",
+        "numero_semestres": "8 semestres",
+        "malla_url": "No encontrada",
+        "descripcion_carrera": "Formamos profesionales con conocimientos en una lengua extranjera (Inglés) con sólidos fundamentos lingüísticos, pedagógicos, didácticos, tecnológicos y humanísticos que le permite desempeñarse eficientemente a nivel de educación básica, media, en institutos de idiomas y educación superior con el uso de nuevas tecnologías.",
+        "ubicacion_sedes": [
+            "Riobamba"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "En línea",
+        "enlace_carrera": "https://www.unach.edu.ec/pedagogia-de-los-idiomas-nacionales-y-extranjeros-ele/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "rectorado@unach.edu.ec"
+    },
+    {
+        "nombre_carrera": "Pedagogía De La Lengua Y La Literatura",
+        "nombre_facultad": "Ciencias de la Educación",
+        "nombre_universidad": "Universidad Nacional de Chimborazo",
+        "nombre_titulo": "Licenciado",
+        "numero_semestres": "8 semestres",
+        "malla_url": "No encontrada",
+        "descripcion_carrera": "Profesional con conocimientos y capacidad de reflexión crítica sobre los fenómenos del lenguaje en sus variadas manifestaciones, capacitado para ejercer un rol activo en ella, desarrollando sus competencias con un compromiso con la excelencia académica disciplinaria, las artes y la cultura.",
+        "ubicacion_sedes": [
+            "Riobamba"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.unach.edu.ec/pedagogia-de-la-lengua-y-la-literatura-ele/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "rectorado@unach.edu.ec"
+    },
+    {
+        "nombre_carrera": "Pedagogía De Las Artes Y Humanidades",
+        "nombre_facultad": "Ciencias de la Educación",
+        "nombre_universidad": "Universidad Nacional de Chimborazo",
+        "nombre_titulo": "Licenciado",
+        "numero_semestres": "8 semestres",
+        "malla_url": "No encontrada",
+        "descripcion_carrera": "Forma licenciados en Pedagogía de las Artes y las Humanidades que dominan los saberes de las artes y la cultura, con formación teórica-práctica para la gestión del conocimiento ejerciendo la profesión con responsabilidad social, respetando la interculturalidad, género e inclusión.",
+        "ubicacion_sedes": [
+            "Riobamba"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.unach.edu.ec/pedagogia-de-las-artes-y-humanidades-ele/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "rectorado@unach.edu.ec"
+    },
+    {
+        "nombre_carrera": "Pedagogía De La Historia Y Las Ciencias Sociales",
+        "nombre_facultad": "Ciencias de la Educación",
+        "nombre_universidad": "Universidad Nacional de Chimborazo",
+        "nombre_titulo": "Licenciado",
+        "numero_semestres": "8 semestres",
+        "malla_url": "No encontrada",
+        "descripcion_carrera": "Forma profesionales con capacidades y actitudes para consolidar sus valores referentes a la pertinencia, métodos y lenguajes de integración del conocimiento, modelos, procesos y procedimientos profesionales e investigativos en proyectos educativos para el análisis de los fenómenos sociales.",
+        "ubicacion_sedes": [
+            "Riobamba"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "En línea",
+        "enlace_carrera": "https://www.unach.edu.ec/pedagogia-de-la-historia-y-las-ciencias-sociales-ele/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "rectorado@unach.edu.ec"
+    },
+    {
+        "nombre_carrera": "Pedagogía De La Informática",
+        "nombre_facultad": "Ciencias de la Educación",
+        "nombre_universidad": "Universidad Nacional de Chimborazo",
+        "nombre_titulo": "ndo el título de Licenciado en Ciencias de la Educación",
+        "numero_semestres": "8 semestres",
+        "malla_url": "https://www.unach.edu.ec/wp-content/Mallas%20acad%C3%A9micas/F.C.Humanas_Tec/pedago_informatica/Malla%20Carrera%20no%20Vigente.pdf",
+        "descripcion_carrera": "La carrera de Pedagogía de las Ciencias Experimentales: Informática mediante Resolución CES Aprobados RPC,SO-01-1019-650114ª03-N°008-2017 aprobada el 11 de Enero de 2017, constituye el rediseño de la carrera de Informática Aplicada a la Educación, la cual tuvo sus inicios en el año 1998, como parte de un proyecto de creación, que contemplaba la formación de Licenciados en Informática Aplicada a la Educación, otorgando el título de Licenciado en Ciencias de la Educación, Profesor de Informática Aplicada a la Educación, respondiendo a las necesidades locales, regionales y nacionales.",
+        "ubicacion_sedes": [
+            "Riobamba"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "En línea",
+        "enlace_carrera": "https://www.unach.edu.ec/licenciatura-en-pedagogia-de-la-informatica-ele/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "rectorado@unach.edu.ec"
+    },
+    {
+        "nombre_carrera": "Pedagogía De La Química Y Biología",
+        "nombre_facultad": "Ciencias de la Educación",
+        "nombre_universidad": "Universidad Nacional de Chimborazo",
+        "nombre_titulo": "Licenciado",
+        "numero_semestres": "8 semestres",
+        "malla_url": "No encontrada",
+        "descripcion_carrera": "La extensión Riobamba de la Facultad de Filosofía, Letras y Ciencias de la Educación se crea el 7 de octubre de 1969, inicia sus actividades académicas con tres escuelas: Escuela de Pedagogía con las especializaciones de Filosofía, Cívica y Cooperativismo; Historia y Geografía; Castellano y Literatura; Idiomas; Biología y Química; Comercio y Contabilidad; Opciones Prácticas; Matemática y Física. El 9 de septiembre de 2002 el HCU- UNACH cambia la denominación de Facultad de Filosofía, Letras y Ciencias de la Educación a Facultad de Ciencias de la Educación Humanas y Tecnologías para brindar más oportunidades de profesionalización a los bachilleres del país. La carrera de Biología, Química y Laboratorio forma parte de la Carrera de Ciencias Exactas perteneciente a la E",
+        "ubicacion_sedes": [
+            "Riobamba"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.unach.edu.ec/licenciatura-en-pedagogia-de-la-quimica-y-la-biologia-ele/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "rectorado@unach.edu.ec"
+    },
+    {
+        "nombre_carrera": "Pedagogía De Las Matemáticas Y La Física",
+        "nombre_facultad": "Ciencias de la Educación",
+        "nombre_universidad": "Universidad Nacional de Chimborazo",
+        "nombre_titulo": "que otorga",
+        "numero_semestres": "8 semestres",
+        "malla_url": "No encontrada",
+        "descripcion_carrera": "La extensión Riobamba de la Universidad Central del Ecuador, Facultad de Filosofía, Letras y Ciencias de la Educación dese creada el 7 de octubre de 1969, inicia sus actividades académicas con tres escuelas: Escuela de Pedagogía con las especializaciones de Filosofía, Cívica y Cooperativismo; Historia y Geografía; Castellano y Literatura; Idiomas; Biología y Química; Comercio y Contabilidad; Opciones Prácticas; Matemática y Física. Escuela de Psicología y Escuela de Educación Física, pero el 9 de septiembre de 2002 el Honorable Consejo Universitario de la en ese entonces Universidad Nacional de Chimborazo (Unach) cambia la denominación de Facultad de Filosofía, Letras y Ciencias de la Educación a Facultad de Ciencias de la Educación Humanas y Tecnologías con el objeto de ofrecer diversific",
+        "ubicacion_sedes": [
+            "Riobamba"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.unach.edu.ec/licenciatura-en-pedagogia-de-las-matematicas-y-la-fisica-ele/",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "rectorado@unach.edu.ec"
+    }
+]

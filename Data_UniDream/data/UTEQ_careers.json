@@ -1,0 +1,632 @@
+[
+    {
+        "nombre_carrera": "Acuicultura Título académico Ingeniero",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Ingeniero/a Acuícola",
+        "numero_semestres": "9 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/img-uteq-malla-000005.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/acuicultura",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Administración de Empresas Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Licenciado/a en Administración de Empresas",
+        "numero_semestres": "8 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/img-uteq-malla-000018.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/administracion-de-empresas",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Administración Pública Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Licenciado/a en Administración Pública",
+        "numero_semestres": "8 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/img-uteq-malla-000028.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/administracion-publica",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Agroecología Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Ingeniero/a en Agroecología",
+        "numero_semestres": "9 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/img-uteq-malla-000007.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/agroecologia",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Agroindustria Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Ingeniero/a Agroindustrial",
+        "numero_semestres": "8 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/img-uteq-malla-000024.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/agroindustria",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Agronomía Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Ingeniero/a Agrónomo/a",
+        "numero_semestres": "10 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/img-uteq-malla-000004.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/agronomia",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Agropecuaria Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Ingeniero/a Agropecuario/a",
+        "numero_semestres": "10 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/img-uteq-malla-000002.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/agropecuaria",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Alimentos Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Ingeniero/a en Alimentos",
+        "numero_semestres": "8 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/img-uteq-malla-000023.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/alimentos",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Arquitectura Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Arquitecto/a",
+        "numero_semestres": "9 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/img-uteq-malla-000013.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/arquitectura",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Biología Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Biólogo/a",
+        "numero_semestres": "9 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/img-uteq-malla-000008.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/biologia",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Contabilidad y Auditoría Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Licenciado/a en Contabilidad y Auditoría",
+        "numero_semestres": "8 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/img-uteq-malla-000019.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/contabilidad-y-auditoria",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Economía Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Economista",
+        "numero_semestres": "8 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/img-uteq-malla-000026.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/economia",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Educación Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Licenciado/a en Ciencias de la Educación",
+        "numero_semestres": "8 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/img-uteq-malla-educacion-linea.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "En línea",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/educacion-linea",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Educación Básica Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Licenciado/a en Ciencias de la Educación Básica",
+        "numero_semestres": "8 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/img-uteq-malla-000015.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/educacion-basica",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Educación Inicial Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Licenciado/a en Ciencias de la Educación Inicial",
+        "numero_semestres": "8 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/malla-carrera-educacion-inicial-uteq.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/educacion-inicial",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería en Electricidad Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Ingeniero/a Eléctrico/a",
+        "numero_semestres": "10 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/img-uteq-malla-000010.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/electricidad",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Enfermería Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Licenciado/a en Enfermería",
+        "numero_semestres": "9 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/img-uteq-malla-000014.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/enfermeria",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Finanzas Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Licenciado/a en Finanzas",
+        "numero_semestres": "8 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/img-uteq-malla-000027.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/finanzas",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Gestión del Talento Humano Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Licenciado/a en Gestión del Talento Humano",
+        "numero_semestres": "8 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/img-uteq-malla-000021.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/gestion-del-talento-humano",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería Agrícola Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Ingeniero/a Agrícola",
+        "numero_semestres": "10 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/img-uteq-malla-000006.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/ingenieria-agricola",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería Ambiental Aprobación CES Cambio sustantivo ACU",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Ingeniero/a Ambiental",
+        "numero_semestres": "8 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/img-uteq-malla-000009.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Híbrida",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/ingenieria-ambiental",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería Civil Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Ingeniero/a Civil",
+        "numero_semestres": "10 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/malla-carrera-ingenieria-civil-uteq.jpg",
+        "descripcion_carrera": "del Ingeniero Civil: Analizar y diseñar proyectos de infraestructura, edificaciones y sistemas de construcción que cumplan con las necesidades y requerimientos específicos de la comunidad y del mercado. Planificar y coordinar el proceso constructivo, considerando aspectos técnicos, económicos, sociales y ambientales. Realizar estudios y análisis de factibilidad y viabilidad técnica y financiera de proyectos de infraestructura y edificaciones. Gestionar y administrar recursos técnicos, financieros y humanos en proyectos de construcción y mantenimiento de infraestructuras y edificaciones. Aplicar técnicas de evaluación y control de calidad en el proceso constructivo y en la ejecución de proyectos de infraestructura y edificaciones. Asesorar a instituciones, empresas y comunidades en materia ",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/ingenieria-civil",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería Forestal Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Ingeniero/a Forestal",
+        "numero_semestres": "10 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/img-uteq-malla-000001.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/ingenieria-forestal",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería Industrial Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Ingeniero/a Industrial",
+        "numero_semestres": "10 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/img-uteq-malla-000025.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/ingenieria-industrial",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Ingeniería Mecánica Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Ingeniero/a Mecánico/a",
+        "numero_semestres": "10 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/img-uteq-malla-000011.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/mecanica",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Mercadotecnia Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Licenciado/a en Mercadotecnia",
+        "numero_semestres": "8 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/img-uteq-malla-000020.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/mercadotecnia",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Pedagogía de los Idiomas Nacionales y Extranjeros Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Licenciado/a en Pedagogía del Idioma Inglés",
+        "numero_semestres": "8 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/img-uteq-malla-000017.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/pedagogia-de-los-idiomas-nacionales-y-extranjeros",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Psicopedagogía Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Licenciado/a en Psicopedagogía",
+        "numero_semestres": "8 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/img-uteq-malla-000016.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/psicopedagogia",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Seguridad Industrial Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Ingeniero/a en Seguridad Industrial",
+        "numero_semestres": "9 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/img-uteq-malla-000022.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "En línea",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/seguridad-industrial",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Sistemas de Información Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Ingeniero/a en Sistemas de Información",
+        "numero_semestres": "9 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/malla-academica-sistemas-de-informacion-uteq.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "En línea",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/sistemas-de-informacion",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Software Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Ingeniero/a de Software",
+        "numero_semestres": "10 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/img-uteq-malla-000030.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/software",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Tecnologías de la Información Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Ingeniero/a en Tecnologías de la Información",
+        "numero_semestres": "9 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/malla-carrera-tecnologias-de-la-informacion.webp",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "En línea",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/tecnologias-de-la-informacion",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Telemática Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Ingeniero/a en Telemática",
+        "numero_semestres": "10 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/img-uteq-malla-000029.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/telematica",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Turismo Título académico Licenciado",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Licenciado/a en Turismo",
+        "numero_semestres": "8 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/malla-carrera-turismo.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/turismo",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    },
+    {
+        "nombre_carrera": "Zootecnia Aprobación CES",
+        "nombre_facultad": "No especificada",
+        "nombre_universidad": "Universidad Técnica de Quevedo",
+        "nombre_titulo": "académico Ingeniero/a Zootecnista",
+        "numero_semestres": "10 semestres",
+        "malla_url": "https://www.uteq.edu.ec/assets/images/careers/degrees/academic/img-uteq-malla-000003.jpg",
+        "descripcion_carrera": "",
+        "ubicacion_sedes": [
+            "Quevedo"
+        ],
+        "tipo_universidad": "Pública",
+        "costo": "Gratuita (sujeta a Ley de Gratuidad)",
+        "modalidad": "Presencial",
+        "enlace_carrera": "https://www.uteq.edu.ec/es/grado/carrera/zootecnia",
+        "fecha_recoleccion": "2026-01-24",
+        "contacto_universidad": "info@uteq.edu.ec"
+    }
+]
