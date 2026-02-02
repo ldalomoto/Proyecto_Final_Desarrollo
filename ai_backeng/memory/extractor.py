@@ -1,25 +1,35 @@
-import requests
+import google.generativeai as genai
 import json
-import re
 import os
+import os
+from dotenv import load_dotenv
+import google.generativeai as genai
 
+# Carga las variables del archivo .env al entorno de Python
+load_dotenv()
 
-# =========================
-# Ollama config (Docker-safe)
-# =========================
-OLLAMA_BASE_URL = os.getenv("OLLAMA_BASE_URL", "http://ollama:11434")
-OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "qwen2.5:1.5b")
-OLLAMA_URL = f"{OLLAMA_BASE_URL}/api/generate"
+# Extrae la API Key y configúrala
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
+if not GEMINI_API_KEY:
+    raise ValueError("❌ No se encontró la GEMINI_API_KEY en el archivo .env")
+
+genai.configure(api_key=GEMINI_API_KEY)
+
+# Ahora puedes instanciar el modelo usando tus preferencias
+model = genai.GenerativeModel(
+    model_name="gemini-2.5-pro", # El modelo que elegimos para mucho texto
+    generation_config={
+        "temperature": 0.3,
+        "max_output_tokens": 8192,
+        "response_mime_type": "application/json"
+    }
+)
 
 # =========================
 # Utils
 # =========================
 def set_nested(data: dict, path: str, value):
-    """
-    Setea valores en dicts anidados usando path tipo:
-    preferencias.ciudad
-    """
     keys = path.split(".")
     for k in keys[:-1]:
         if k not in data or not isinstance(data[k], dict):
@@ -27,89 +37,48 @@ def set_nested(data: dict, path: str, value):
         data = data[k]
     data[keys[-1]] = value
 
-
 # =========================
-# Extractor principal
+# Extractor principal (Versión Gemini)
 # =========================
 def extract_profile_updates(user_message: str, current_profile: dict):
+    # En Gemini no necesitas "limpieza defensiva" de triple backticks si usas JSON mode
     prompt = f"""
-Actúa como un extractor de entidades para un sistema de orientación vocacional.
+    Eres un experto en extracción de entidades. Tu objetivo es actualizar el perfil vocacional del usuario.
+    
+    MENSAJE DEL USUARIO:
+    "{user_message}"
+    
+    PERFIL ACTUAL (Como referencia):
+    {json.dumps(current_profile)}
 
-MENSAJE DEL USUARIO:
-\"\"\"{user_message}\"\"\"
-
-Extrae SOLO información nueva explícita en JSON.
-
-CAMPOS POSIBLES:
-- nombre (str)
-- ciudad (str)
-- modalidad (str)
-- universidad_publica (bool true/false)
-- habilidades (list)
-- intereses (list)
-- materias_fuertes (list)
-- materias_debiles (list)
-- has_career_intent (bool)
-
-REGLAS:
-1. Si no hay info, NO incluyas el campo.
-2. Responde SOLO con JSON válido.
-3. No agregues texto fuera del JSON.
-"""
+    INSTRUCCIÓN:
+    Extrae información nueva. Si el usuario contradice algo anterior, prevalece la información NUEVA.
+    Responde estrictamente con un objeto JSON que contenga los campos:
+    nombre, ciudad, modalidad, universidad_publica, habilidades, intereses, materias_fuertes, materias_debiles, has_career_intent.
+    """
 
     try:
-        response = requests.post(
-            OLLAMA_URL,
-            json={
-                "model": OLLAMA_MODEL,
-                "prompt": prompt,
-                "stream": False,
-                "options": {
-                    "temperature": 0,
-                    "num_predict": 500
-                }
-            },
-            timeout=300
-        )
-        response.raise_for_status()
+        # Generar contenido
+        response = model.generate_content(prompt)
+        
+        # Con response_mime_type: "application/json", response.text ya es un JSON puro
+        updates = json.loads(response.text)
 
-        raw_text = response.json().get("response", "").strip()
-
-        print("====== OLLAMA RAW RESPONSE ======")
-        print(raw_text)
-        print("=================================")
-
-        # Limpieza defensiva
-        raw_text = re.sub(r"```json|```", "", raw_text).strip()
-        raw_text = re.sub(r"\bTrue\b", "true", raw_text)
-        raw_text = re.sub(r"\bFalse\b", "false", raw_text)
-
-        updates = json.loads(raw_text)
+        print("====== GEMINI JSON RESPONSE ======")
+        print(json.dumps(updates, indent=2))
+        print("==================================")
 
         # =========================
-        # MERGE + NORMALIZACIÓN
+        # MERGE + NORMALIZACIÓN (Tu lógica original se mantiene igual)
         # =========================
-        updated_profile = json.loads(json.dumps(current_profile))  # deep copy segura
+        updated_profile = json.loads(json.dumps(current_profile))
 
-        # 🔹 Campos simples
-        if "nombre" in updates:
-            updated_profile["nombre"] = updates["nombre"]
+        if "nombre" in updates: updated_profile["nombre"] = updates["nombre"]
+        if "ciudad" in updates: set_nested(updated_profile, "preferencias.ciudad", updates["ciudad"])
+        if "modalidad" in updates: set_nested(updated_profile, "preferencias.modalidad", updates["modalidad"])
+        if "universidad_publica" in updates: 
+            set_nested(updated_profile, "preferencias.universidad_publica", updates["universidad_publica"])
 
-        # 🔹 Preferencias
-        if "ciudad" in updates:
-            set_nested(updated_profile, "preferencias.ciudad", updates["ciudad"])
-
-        if "modalidad" in updates:
-            set_nested(updated_profile, "preferencias.modalidad", updates["modalidad"])
-
-        if "universidad_publica" in updates:
-            set_nested(
-                updated_profile,
-                "preferencias.universidad_publica",
-                updates["universidad_publica"]
-            )
-
-        # 🔹 Listas (merge sin duplicados)
         LIST_MAP = {
             "intereses": "intereses",
             "habilidades": "habilidades_percibidas",
@@ -121,7 +90,6 @@ REGLAS:
             if src in updates and isinstance(updates[src], list):
                 updated_profile.setdefault(dst, [])
                 current_set = set(updated_profile[dst])
-
                 for item in updates[src]:
                     item = str(item).lower().strip()
                     if item and item not in current_set:
@@ -133,9 +101,5 @@ REGLAS:
         }
 
     except Exception as e:
-        print(f"❌ Error en extractor Ollama: {e}")
-        return {
-            "profile_data": current_profile,
-            "has_career_intent": False
-        }
-
+        print(f"❌ Error en extractor Gemini: {e}")
+        return {"profile_data": current_profile, "has_career_intent": False}

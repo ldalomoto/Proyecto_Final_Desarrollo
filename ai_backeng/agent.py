@@ -15,11 +15,12 @@ if not API_KEY:
 
 genai.configure(api_key=API_KEY)
 
-MODEL_NAME = "gemini-3-flash-preview"
+MODEL_NAME = "gemini-2.5-pro" # Excelente elección para estabilidad
 
 GENERATION_CONFIG = {
-    "temperature": 0.4,
-    "max_output_tokens": 1500
+    "temperature": 0.3,        # Un poco más baja para máxima fidelidad al texto
+    "top_p": 0.95,             # Ayuda a que la selección de palabras sea coherente
+    "max_output_tokens": 8192  # El máximo permitido para no cortar respuestas largas
 }
 
 model = genai.GenerativeModel(
