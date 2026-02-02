@@ -1,8 +1,5 @@
-FROM python:3.11-slim
-
-# Evita prompts interactivos
-ENV PYTHONDONTWRITEBYTECODE=1
-ENV PYTHONUNBUFFERED=1
+# Cambiamos node:18 por node:22 que es la más actual y compatible
+FROM node:22-alpine AS build
 
 WORKDIR /app
 

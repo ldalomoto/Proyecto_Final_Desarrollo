@@ -1206,5 +1206,118 @@
     "totales": {
       "total_materias": 45
     }
-  }
+  },
+  {
+    "universidad": "Universidad Tecnológica ECOTEC",
+    "carrera": "Contabilidad y Auditoría",
+    "career_url_ref": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-economicas-empresariales/malla-contabilidad-auditoria.pdf",
+    "pensum": "2020",
+    "materias": [
+      { "nombre": "Habilidades lingüísticas", "semestre": 1 },
+      { "nombre": "Fundamentos de Marketing", "semestre": 1 },
+      { "nombre": "Fundamentos de Administración", "semestre": 1 },
+      { "nombre": "Derecho Empresarial", "semestre": 1 },
+      { "nombre": "Contabilidad", "semestre": 1 },
+      { "nombre": "Metodología de la Investigación", "semestre": 2 },
+      { "nombre": "Ética", "semestre": 2 },
+      { "nombre": "Microeconomía", "semestre": 2 },
+      { "nombre": "Análisis Estadístico", "semestre": 2 },
+      { "nombre": "Contabilidad Administrativa", "semestre": 2 },
+      { "nombre": "Desarrollo Sostenible", "semestre": 3 },
+      { "nombre": "Gestión por procesos", "semestre": 3 },
+      { "nombre": "Macroeconomía", "semestre": 3 },
+      { "nombre": "Fundamentos de Tributación", "semestre": 3 },
+      { "nombre": "Matemáticas Financieras", "semestre": 3 },
+      {
+        "nombre": "Realidad Nacional y Política en el mundo actual",
+        "semestre": 4
+      },
+      { "nombre": "Control interno", "semestre": 4 },
+      { "nombre": "Diseño y Evaluación de Proyectos", "semestre": 4 },
+      { "nombre": "Auditoría Financiera I", "semestre": 4 },
+      { "nombre": "Contabilidad Financiera Intermedia", "semestre": 4 },
+      { "nombre": "Emprendimiento", "semestre": 5 },
+      { "nombre": "Decisiones basadas en datos e IA", "semestre": 5 },
+      { "nombre": "Gestión de Costos", "semestre": 5 },
+      { "nombre": "Auditoría Financiera II", "semestre": 5 },
+      { "nombre": "Contabilidad Financiera Avanzada", "semestre": 5 },
+      { "nombre": "Gestión de la Calidad", "semestre": 6 },
+      { "nombre": "Contabilidad de Instituciones Financieras", "semestre": 6 },
+      {
+        "nombre": "Contabilidad Gubernamental y Presupuestaria",
+        "semestre": 6
+      },
+      { "nombre": "Laboratorio de Auditoría Financiera", "semestre": 6 },
+      { "nombre": "Informes Financieros", "semestre": 6 },
+      { "nombre": "Auditoría de Gestión", "semestre": 7 },
+      { "nombre": "Finanzas Internacionales", "semestre": 7 },
+      { "nombre": "Planificación y Gestión Tributaria", "semestre": 7 },
+      { "nombre": "Auditoría Forense", "semestre": 7 },
+      { "nombre": "Análisis de los Estados Financieros", "semestre": 7 },
+      {
+        "nombre": "Laboratorio de Sistemas de Información Contable",
+        "semestre": 8
+      },
+      { "nombre": "Proyecto Integrador", "semestre": 8 },
+      { "nombre": "Laboratorio Tributario", "semestre": 8 },
+      { "nombre": "Auditoría Informática", "semestre": 8 },
+      { "nombre": "Contabilidad Social y Ambiental", "semestre": 8 }
+    ],
+    "totales": {
+      "total_materias": 40
+    }
+  },
+  {
+        "universidad": "Universidad Tecnológica ECOTEC",
+        "carrera": "Administración de Empresas",
+        "career_url_ref": "https://media.ecotec.edu.ec/docs/grado/mallas/2026/ciencias-economicas-empresariales/malla-administracion-de-empresas.pdf",
+        "pensum": "2020",
+        "materias": [
+            { "nombre": "Habilidades Lingüísticas", "semestre": 1 },
+            { "nombre": "Fundamentos de Administración", "semestre": 1 },
+            { "nombre": "Contabilidad", "semestre": 1 },
+            { "nombre": "Matemáticas Financieras", "semestre": 1 },
+            { "nombre": "Fundamentos de Marketing", "semestre": 1 },
+            { "nombre": "Ética", "semestre": 2 },
+            { "nombre": "Metodología de la Investigación", "semestre": 2 },
+            { "nombre": "Contabilidad Administrativa", "semestre": 2 },
+            { "nombre": "Comportamiento Organizacional", "semestre": 2 },
+            { "nombre": "Análisis Estadístico", "semestre": 2 },
+            { "nombre": "Desarrollo Sostenible", "semestre": 3 },
+            { "nombre": "Microeconomía", "semestre": 3 },
+            { "nombre": "Administración de Presupuestos", "semestre": 3 },
+            { "nombre": "Gestión del Talento Humano", "semestre": 3 },
+            { "nombre": "Investigación de Mercados", "semestre": 3 },
+            { "nombre": "Realidad Nacional y Política en el mundo actual", "semestre": 4 },
+            { "nombre": "Macroeconomía", "semestre": 4 },
+            { "nombre": "Diseño y Evaluación de Proyectos", "semestre": 4 },
+            { "nombre": "Derecho Empresarial", "semestre": 4 },
+            { "nombre": "Comercio Internacional", "semestre": 4 },
+            { "nombre": "Emprendimiento", "semestre": 5 },
+            { "nombre": "Decisiones Basadas en Datos e IA", "semestre": 5 },
+            { "nombre": "Gestión por Procesos", "semestre": 5 },
+            { "nombre": "Administración de Negocios Internacionales", "semestre": 5 },
+            { "nombre": "Marketing Internacional", "semestre": 5 },
+            { "nombre": "Gestión Estratégica", "semestre": 6 },
+            { "nombre": "Finanzas Corporativas", "semestre": 6 },
+            { "nombre": "Gestión de la Producción", "semestre": 6 },
+            { "nombre": "Administración de Operaciones", "semestre": 6 },
+            { "nombre": "E-Commerce", "semestre": 6 },
+            { "nombre": "Economía Ambiental", "semestre": 7 },
+            { "nombre": "Mercado de Capitales", "semestre": 7 },
+            { "nombre": "Gestión de la Calidad", "semestre": 7 },
+            { "nombre": "Proyectos de Innovación Empresarial", "semestre": 7 },
+            { "nombre": "Finanzas Internacionales", "semestre": 7 },
+            { "nombre": "Tópicos Especiales de Administración", "semestre": 8 },
+            { "nombre": "Administración y Control de Riesgos", "semestre": 8 },
+            { "nombre": "Consultoría Empresarial", "semestre": 8 },
+            { "nombre": "Sistemas de Información Gerencial", "semestre": 8 },
+            { "nombre": "Proyecto Integrador", "semestre": 8 }
+        ],
+        "totales": {
+            "total_materias": 40
+        }
+    },
+    
+
 ]
