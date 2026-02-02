@@ -367,7 +367,7 @@ async def get_universities(
             "nombre": d.get("name", "Sin Nombre"), # Ajusta 'name' si la columna se llama distinto
             "tipo": d.get("type", "Institución"),
             "ubicacion": d.get("location", "Ecuador"),
-            "imagen": d.get("image_url", None), # Si es null, el frontend pondrá el placeholder
+            "imagen": d.get("url_logo", None), # Si es null, el frontend pondrá el placeholder
             "descripcion": d.get("description", "Sin descripción disponible."),
             "matchIA": 0, # Calcularemos esto luego con la IA
             "url": d.get("website", d.get("url", "#"))
