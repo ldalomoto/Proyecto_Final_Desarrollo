@@ -80,6 +80,56 @@ async def reset_session(user_id: str):
     session_manager.delete(user_id)
     return {"status": "ok"}
 
+@app.get("/users/{user_id}/recommendations")
+def get_user_recommendations(user_id: str):
+    user_memory = session_manager.get_profile(user_id)
+
+    recommendations = user_memory.get("recomendaciones", [])
+
+    return {
+        "user_id": user_id,
+        "recommendations": recommendations
+    }
+
+@app.get("/users/{user_id}/recommendations/full")
+async def get_user_recommendations_full(user_id: str):
+    pool = await get_pool()
+    user_memory = session_manager.get_profile(user_id)
+    recs = user_memory.get("recomendaciones", [])
+
+    if not recs:
+        return {"recommendations": []}
+
+    career_ids = [r["career_id"] for r in recs if r.get("career_id")]
+
+    async with pool.acquire() as conn:
+        rows = await conn.fetch("""
+            SELECT
+                c.id AS career_id,
+                c.career_name,
+                c.description,
+                c.modality,
+                c.duration,
+                u.name AS university_name
+            FROM careers c
+            JOIN universities u ON u.id = c.university_id
+            WHERE c.id = ANY($1::uuid[])
+        """, career_ids)
+
+    career_map = {str(r["career_id"]): dict(r) for r in rows}
+
+    enriched = []
+    for r in recs:
+        base = career_map.get(str(r["career_id"]), {})
+        enriched.append({
+            **base,
+            "score": r["score"],
+            "timestamp": r["timestamp"]
+        })
+
+    return {"recommendations": enriched}
+
+
 @app.post("/chat")
 async def chat(input: ChatInput):
     pool = await get_pool()
