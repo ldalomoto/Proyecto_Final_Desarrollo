@@ -19,5 +19,6 @@ def empty_profile():
             "last_seen_at": datetime.now(timezone.utc).isoformat(),
             "last_greeted_at": None,
             "message_count": 0
-        }
+        },
+        "recomendaciones": []
     }

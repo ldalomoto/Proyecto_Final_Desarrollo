@@ -69,6 +69,7 @@ class SessionManager:
                 "last_seen_at": now,
                 "last_greeted_at": None,
                 "message_count": 0
-            }
+            },
+            "recomendaciones": [],
         }
 

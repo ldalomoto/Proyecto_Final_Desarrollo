@@ -1,28 +1,26 @@
-from fastapi import FastAPI, Header
-from fastapi.middleware.cors import CORSMiddleware  # <--- IMPORTANTE
+from fastapi import FastAPI, Depends
+from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import StreamingResponse
 from pydantic import BaseModel
+from datetime import datetime, timezone
+
 from ai_backeng.db.postgres import init_db, get_pool
 from ai_backeng.embeddings.embedding_provider import get_embedding
 from ai_backeng.embeddings.blend import blend_embeddings
 from ai_backeng.matching.get_best_careers import get_best_careers
-from ai_backeng.agent import run_agent
+from ai_backeng.agent import run_agent, run_agent_stream, build_user_embedding_text
 from ai_backeng.memory.redis_manager import SessionManager
 from ai_backeng.memory.extractor import extract_profile_updates
-from datetime import datetime, timezone
 from ai_backeng.memory.tiempo import should_greet_user
-from fastapi.responses import StreamingResponse
-from ai_backeng.agent import run_agent_stream
-from ai_backeng.agent import build_user_embedding_text
-from fastapi import FastAPI
-from ai_backeng.db.postgres import init_db
 from ai_backeng.routers import careers
-from fastapi import Depends
-from ai_backeng.db.postgres import get_pool
-from ai_backeng.rerank.voyage_rerank import rerank_careers
+
 
 
 def now():
     return datetime.now(timezone.utc)
+
+def now_iso():
+    return datetime.now(timezone.utc).isoformat()
 
 app = FastAPI()
 
@@ -150,8 +148,8 @@ async def chat(input: ChatInput):
     # 7. Matching de carreras
     # 7. Matching de carreras
     careers = []
-    if user_memory.get("user_embedding"):
 
+    if user_memory.get("user_embedding"):
         enriched_preferences = {
             **user_memory.get("preferencias", {}),
             "intereses": user_memory.get("intereses", []),
@@ -164,6 +162,28 @@ async def chat(input: ChatInput):
             user_memory["user_embedding"],
             enriched_preferences
         )
+
+        # 7.1 Guardar recomendaciones en Redis
+        if careers:
+            user_memory.setdefault("recomendaciones", [])
+
+            for c in careers:
+                rec = {
+                    "career_name": c.get("career_name"),
+                    "university": c.get("university_name"),
+                    "timestamp": now_iso(),
+                    "context": input.message,
+                    "score": c.get("score")
+                }
+
+                if not any(
+                    r["career_name"] == rec["career_name"]
+                    for r in user_memory["recomendaciones"]
+                ):
+                    user_memory["recomendaciones"].append(rec)
+
+
+
     print("Rerank query context:", enriched_preferences)
 
 
@@ -258,12 +278,41 @@ async def chat_stream(input: ChatInput):
 
     # 7. Matching de carreras
     careers = []
+
     if user_memory.get("user_embedding"):
+        enriched_preferences = {
+            **user_memory.get("preferencias", {}),
+            "intereses": user_memory.get("intereses", []),
+            "habilidades_percibidas": user_memory.get("habilidades_percibidas", []),
+            "materias_fuertes": user_memory.get("materias_fuertes", [])
+        }
+
         careers = await get_best_careers(
             pool,
             user_memory["user_embedding"],
-            user_memory.get("preferencias", {})
+            enriched_preferences
         )
+
+        # 7.1 Guardar recomendaciones en Redis
+        if careers:
+            user_memory.setdefault("recomendaciones", [])
+
+            for c in careers:
+                rec = {
+                    "career_name": c.get("career_name"),
+                    "university": c.get("university_name"),
+                    "timestamp": now_iso(),
+                    "context": input.message,
+                    "score": c.get("score")
+                }
+
+                if not any(
+                    r["career_name"] == rec["career_name"]
+                    for r in user_memory["recomendaciones"]
+                ):
+                    user_memory["recomendaciones"].append(rec)
+
+
 
     def generator():
         has_content = False
