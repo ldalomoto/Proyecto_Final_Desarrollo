@@ -11,7 +11,10 @@ RUN apt-get update && apt-get install -y \
     build-essential \
     git \
     curl \
+<<<<<<< HEAD
+=======
     libpq-dev \
+>>>>>>> f1218efe1a87e65ff4ee58ccff100f53ea1ff1e0
     && rm -rf /var/lib/apt/lists/*
 
 # Copiamos requirements
@@ -22,11 +25,20 @@ RUN pip install -r requirements.txt
 
 # Copiamos el código
 COPY ai_backeng ./ai_backeng
+<<<<<<< HEAD
+# COMETNAMOS POR PARA CI CD
+# COPY .env .env
+=======
 
 COPY .env .env
+>>>>>>> f1218efe1a87e65ff4ee58ccff100f53ea1ff1e0
 
 # Exponemos el puerto
 EXPOSE 8000
 
 # Comando de arranque
+<<<<<<< HEAD
+CMD ["uvicorn", "ai_backend.main:app", "--host", "0.0.0.0", "--port", "8000"]
+=======
 CMD ["uvicorn", "ai_backeng.main:app", "--host", "0.0.0.0", "--port", "8000"]
+>>>>>>> f1218efe1a87e65ff4ee58ccff100f53ea1ff1e0
