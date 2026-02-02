@@ -1,15 +1,31 @@
-# Cambiamos node:18 por node:22 que es la más actual y compatible
-FROM node:22-alpine AS build
+FROM python:3.11-slim
+
+# Evita prompts interactivos
+ENV PYTHONDONTWRITEBYTECODE=1
+ENV PYTHONUNBUFFERED=1
 
 WORKDIR /app
-COPY package*.json ./
-RUN npm install
-COPY . .
-RUN npm run build
 
-# Lo demás se queda exactamente igual
-FROM nginx:stable-alpine
-COPY --from=build /app/dist /usr/share/nginx/html
-RUN echo 'server { listen 80; location / { root /usr/share/nginx/html; index index.html; try_files $uri $uri/ /index.html; } }' > /etc/nginx/conf.d/default.conf
-EXPOSE 80
-CMD ["nginx", "-g", "daemon off;"]
+# Dependencias del sistema (importante para sentence-transformers)
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    git \
+    curl \
+    && rm -rf /var/lib/apt/lists/*
+
+# Copiamos requirements
+COPY requirements.txt .
+
+RUN pip install --upgrade pip
+RUN pip install -r requirements.txt
+
+# Copiamos el código
+COPY ai_backeng ./ai_backeng
+# COMETNAMOS POR PARA CI CD
+# COPY .env .env
+
+# Exponemos el puerto
+EXPOSE 8000
+
+# Comando de arranque
+CMD ["uvicorn", "ai_backend.main:app", "--host", "0.0.0.0", "--port", "8000"]
