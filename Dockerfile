@@ -11,6 +11,7 @@ RUN apt-get update && apt-get install -y \
     build-essential \
     git \
     curl \
+    libpq-dev \
     && rm -rf /var/lib/apt/lists/*
 
 # Copiamos requirements

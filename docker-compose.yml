@@ -41,6 +41,8 @@ services:
       - "80:8000"
     volumes:
       - ./ai_backeng:/app/ai_backeng
+      - ./base_datos:/app/base_datos
+      - ./Data_UniDream:/app/Data_UniDream 
     command: uvicorn ai_backeng.main:app --host 0.0.0.0 --port 8000 --reload
 
 volumes:
