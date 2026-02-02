@@ -26,7 +26,7 @@ async def get_careers(
             c.modality,
             c.cost,
             c.career_url,
-            NULL AS imagen,
+            u.url_logo,
             u.name AS university_name
         FROM careers c
         LEFT JOIN universities u ON c.university_id = u.id
@@ -44,7 +44,7 @@ async def get_careers(
                 "id": r["id"],
                 "nombre": r["career_name"],
                 "area": r["faculty_name"],
-                "imagen": r["imagen"],
+                "imagen": r["url_logo"],
                 "descripcion": r["description"],
                 "duracion": r["duration"],
                 "modalidad": r["modality"],
